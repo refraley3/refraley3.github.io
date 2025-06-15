@@ -1,0 +1,82 @@
+/* Dark theme base styles */
+body {
+  background-color: #121212;
+  color: #f0f0f0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Optional link styles */
+a {
+  color: #90caf9;
+}
+a:hover {
+  color: #ffcc80;
+}
+
+/* Navbar (already styled by Bootstrap’s bg-dark + navbar-dark) */
+.navbar-brand {
+  font-weight: bold;
+  color: #ffffff !important;
+}
+
+/* Image styling */
+.gallery-img {
+  cursor: pointer;
+  transition: transform 0.3s, box-shadow 0.3s;
+  border-radius: 4px;
+  box-shadow: 0 0 6px rgba(255, 255, 255, 0.05);
+}
+.gallery-img:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+}
+
+/* Modal content (override to prevent black crush) */
+.modal-content {
+  background-color: #1e1e1e;
+  border: none;
+}
+
+/* Image inside modal */
+.modal-body img {
+  max-height: 90vh;
+  object-fit: contain;
+  display: block;
+  margin: auto;
+  background-color: #000;
+}
+
+#prevBtn, #nextBtn {
+  width: 3rem;
+  height: 3rem;
+  font-size: 1.5rem;
+  border-radius: 50%;
+  opacity: 0.6;
+  transition: opacity 0.2s ease;
+}
+
+#prevBtn:hover, #nextBtn:hover {
+  opacity: 1;
+}
+
+#modalCaption {
+  border-top: 1px solid #bbb;
+}
+
+#modalTitle {
+  font-size: 1.25rem;
+}
+
+#modalText {
+  font-size: 0.9rem;
+  color: #bbb;
+}
+
+#lightboxImage {
+  opacity: 1;
+  transition: opacity 0.4s ease;
+}
+
+.fade-out {
+  opacity: 0;
+}
