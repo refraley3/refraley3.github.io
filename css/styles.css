@@ -19,6 +19,34 @@ a:hover {
   color: #ffffff !important;
 }
 
+.navbar {
+  background-color: #333;
+  overflow: hidden;
+}
+
+.nav-menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.nav-menu li {
+  flex: 1;
+}
+
+.nav-menu a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+.nav-menu a:hover {
+  background-color: #575757;
+}
+
 /* Image styling */
 .gallery-img {
   cursor: pointer;
@@ -80,3 +108,12 @@ a:hover {
 .fade-out {
   opacity: 0;
 }
+
+h1 {
+      text-align: center;
+}
+    
+h2 {
+      text-align: center;
+}
+
