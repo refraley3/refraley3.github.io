@@ -183,11 +183,12 @@ a:hover {
   .carousel-caption h2 {
     text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
   }
+
+.hero-slide {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
-@media (max-width: 768px) {
-  .hero-slide {
-    height: 400px;
-  }
 
   .carousel-caption h1 {
     font-size: 1.8rem;
@@ -199,6 +200,7 @@ a:hover {
     bottom: 20%;
   }
 }
+
 .display-1 {
   font-size: 6rem;
   font-weight: 300;
