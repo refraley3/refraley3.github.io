@@ -184,7 +184,21 @@ a:hover {
     text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
   }
 }
+@media (max-width: 768px) {
+  .hero-slide {
+    height: 400px;
+  }
 
+  .carousel-caption h1 {
+    font-size: 1.8rem;
+    top: 20%;
+  }
+
+  .slide-caption {
+    font-size: 1.2rem;
+    bottom: 20%;
+  }
+}
 .display-1 {
   font-size: 6rem;
   font-weight: 300;
