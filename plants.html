@@ -9,19 +9,81 @@
   <script src="https://cdn.jsdelivr.net/npm/exif-js"></script>
 </head>
 <body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
 
-  <nav class="navbar">
-    <ul class="nav-menu">
-      <li><a href="index.html">Home</a></li>
-      <li><a href="plants.html">Plants</a></li>
-      <li><a href="birds.html">Birds</a></li>
-      <li><a href="insects.html">Insects</a></li>
-      <li><a href="places.html">Places</a></li>
-    </ul>
+      <!-- (Optional) brand -->
+      <a class="navbar-brand" href="gallery.html"><img src="/Documents/FraleyDesignLogo.png" alt="Fraley Design" width="100"></a>
+
+      <!-- Mobile toggler -->
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+        data-bs-target="#mainNav" aria-controls="mainNav"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <!-- Collapsible content -->
+      <div class="collapse navbar-collapse" id="mainNav">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+          <li class="nav-item"><a class="nav-link" href="gallery.html">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="plants.html">Plants</a></li>
+
+            <!-- Birds dropdown -->
+          <li class="nav-item dropdown">
+            <!-- IMPORTANT: href="#" so it toggles instead of navigating -->
+            <a class="nav-link dropdown-toggle" href="#" id="birdsDropdown"
+              role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Birds
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="birdsDropdown">
+              <!-- Put the section page here -->
+              <li><a class="dropdown-item" href="birds.html">All Birds</a></li>
+              <li><hr class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="americanGoldfinch.html">American Goldfinch</a></li>
+              <!-- 
+              <li><a class="dropdown-item" href="black-cappedChickadee.html">Black-capped Chickadee</a></li>
+              <li><a class="dropdown-item" href="blueJay.html">Blue Jay</a></li>
+              <li><a class="dropdown-item" href="cedarWaxwing.html">Cedar Waxwing</a></li>
+              <li><a class="dropdown-item" href="fieldSparrow.html">Field Sparrow</a></li>
+              <li><a class="dropdown-item" href="houseWren.html">House Wren</a></li>
+              <li><a class="dropdown-item" href="indigoBunting.html">Indigo Bunting</a></li>
+            -->
+              <li><a class="dropdown-item" href="nashvilleWarbler.html">Nashville Warbler</a></li>
+              <!--
+              <li><a class="dropdown-item" href="northerCardinal.html">Cardinal</a></li>
+              <li><a class="dropdown-item" href="red-wingedBlackbird.html">Red-winged Blackbird</a></li>
+              <li><a class="dropdown-item" href="sedgeWren.html">Sedge Wren</a></li>
+              -->
+              <li><a class="dropdown-item" href="songSparrow.html">Song Sparrow</a></li>
+              <!--
+              <li><a class="dropdown-item" href="yellowthroat.html">Yellowthroat</a></li>
+            -->
+            </ul>
+          </li>
+
+            <!-- insects dropdown -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="insectsDropdown"
+              role="button" data-bs-toggle="dropdown" area-expanded="false">
+              Insects
+            </a>
+            <ul class="dropdown-menu" area-labelledby="insectsDropdown">
+              <!-- Put the section page here -->
+               <li><a class="dropdown-item" href="insects.html">All Insects</a></li>
+               <li><hr class="dropdown-divider"></li>
+               <li><a class="dropdown-item" href="damselfly.html">Damselflies</a></li>
+               <li><a class="dropdown-item" href="dragonfly.html">Dragonflies</a></li>
+            </ul>
+          </li>
+
+          <li class="nav-item"><a class="nav-link" href="places.html">Places</a></li>
+        </ul>
+      </div>
+    </div>
   </nav>
-
   <div class="container py-4">
-    <h1>Ray Fraley's Photo Gallery</h1>
+    <h1>Ray's Photo Gallery</h1>
     <h2>Plants</h2>
     <div class="row g-3">
       <div class="col-sm-6 col-md-4 col-lg-3">
@@ -284,7 +346,7 @@
     </div>
     <hr>
     <div class="row g-3">
-      <div class="col-sm-6 col-md-4 col-lg-3">
+      <div class="col-sm-6 col-md-4 col-lg-4">
         <div class="card bg-dark text-light border-secondary">
           <img src="images/E21A1554.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A1554.jpg" alt="Blue Violet">
           <div class="card-body p-2">
@@ -294,7 +356,7 @@
           </div>
         </div>
       </div>
-      <div class="col-sm-6 col-md-4 col-lg-3">
+      <div class="col-sm-6 col-md-4 col-lg-4">
         <div class="card bg-dark text-light border-secondary">
           <img src="images/E21A1539.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A1539.jpg" alt="Violet">
           <div class="card-body p-2">
@@ -304,7 +366,7 @@
           </div>
         </div>
       </div>
-      <div class="col-sm-6 col-md-4 col-lg-3">
+      <div class="col-sm-6 col-md-4 col-lg-4">
         <div class="card bg-dark text-light border-secondary">
           <img src="images/D79A5159.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/D79A5159.jpg" alt="Shasta Daisy">
           <div class="card-body p-2">
@@ -314,6 +376,7 @@
           </div>
         </div>
       </div>
+    </div><div class="row g-3">
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card bg-dark text-light border-secondary">
           <img src="images/D79A5358.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/D79A5358.jpg" alt="New england aster">
@@ -321,6 +384,92 @@
             <h5 class="card-title mb-1">New england aster</h5>
             <p class="card-text mb-1 small">Photo ID: D79A5358</p>
             <p class="card-text small">6720x4480</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A1804.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A1804-1.jpg" alt="Spider web in Bergamot">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1">Spider web in Bergamot</h5>
+            <p class="card-text mb-1 small">Photo ID: _21A1804</p>
+            <p class="card-text small">3624x2428</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A5207.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A5207-1.jpg" alt="Virginia Creeper">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Virginia Creeper</h5>
+            <h6 class="mb-1 text-center"><em>(Parthenocissus quinquefolia (L.) Planch.)</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr><td>_21A5207</td><td>6080x4053</td></tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A5207EXIF" role="button" aria-expanded="false" aria-controls="E21A5207EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A5207Ref" role="button" aria-expanded="false" aria-controls="E21A5207Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A5207EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF100mm f/2.8L Macro IS USM</td></tr>
+                  <tr><td>ISO</td><td>10000</td></tr>
+                  <tr><td>Aperture</td><td>f/13.0</td></tr>
+                  <tr><td>Shutter</td><td>1/60</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A5422.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A5422-1.jpg" alt="Mycena Mushrooms">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Mycena Mushrooms</h5>
+            <h6 class="mb-1 text-center">(infected with <em>Spinelis fusiger</em> fungus)</h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr><td>_21A5422</td><td>5015x3343</td></tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A5422EXIF" role="button" aria-expanded="false" aria-controls="E21A5422EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A5422Ref" role="button" aria-expanded="false" aria-controls="E21A5422Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A5207EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF100mm f/2.8L Macro IS USM</td></tr>
+                  <tr><td>ISO</td><td>200</td></tr>
+                  <tr><td>Aperture</td><td>f/22.0</td></tr>
+                  <tr><td>Shutter</td><td>4.0 seconds</td></tr>
+                </tbody>
+              </table>
+            </div>
           </div>
         </div>
       </div>
