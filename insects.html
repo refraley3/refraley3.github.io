@@ -1,23 +1,87 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Insects | Ray Fraley Photography</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
-  <link href="css/styles.css" rel="stylesheet" />
-  <script src="https://cdn.jsdelivr.net/npm/exif-js"></script>
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Insects</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/styles.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/exif-js"></script>
+  </head>
+  <body>
 
-  <nav class="navbar">
-    <ul class="nav-menu">
-      <li><a href="index.html">Home</a></li>
-      <li><a href="plants.html">Plants</a></li>
-      <li><a href="birds.html">Birds</a></li>
-      <li><a href="insects.html">Insects</a></li>
-      <li><a href="places.html">Places</a></li>
-    </ul>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+
+      <!-- (Optional) brand -->
+      <a class="navbar-brand" href="gallery.html"><img src="/Documents/FraleyDesignLogo.png" alt="Fraley Design" width="100"></a>
+
+      <!-- Mobile toggler -->
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+        data-bs-target="#mainNav" aria-controls="mainNav"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <!-- Collapsible content -->
+      <div class="collapse navbar-collapse" id="mainNav">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+          <li class="nav-item"><a class="nav-link" href="gallery.html">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="plants.html">Plants</a></li>
+
+            <!-- Birds dropdown -->
+          <li class="nav-item dropdown">
+            <!-- IMPORTANT: href="#" so it toggles instead of navigating -->
+            <a class="nav-link dropdown-toggle" href="#" id="birdsDropdown"
+              role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Birds
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="birdsDropdown">
+              <!-- Put the section page here -->
+              <li><a class="dropdown-item" href="birds.html">All Birds</a></li>
+              <li><hr class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="americanGoldfinch.html">American Goldfinch</a></li>
+              <!-- 
+              <li><a class="dropdown-item" href="black-cappedChickadee.html">Black-capped Chickadee</a></li>
+              <li><a class="dropdown-item" href="blueJay.html">Blue Jay</a></li>
+              <li><a class="dropdown-item" href="cedarWaxwing.html">Cedar Waxwing</a></li>
+              <li><a class="dropdown-item" href="fieldSparrow.html">Field Sparrow</a></li>
+              <li><a class="dropdown-item" href="houseWren.html">House Wren</a></li>
+              <li><a class="dropdown-item" href="indigoBunting.html">Indigo Bunting</a></li>
+            -->
+              <li><a class="dropdown-item" href="nashvilleWarbler.html">Nashville Warbler</a></li>
+              <li><a class="dropdown-item" href="northerCardinal.html">Cardinal</a></li>
+              <!--
+              <li><a class="dropdown-item" href="red-wingedBlackbird.html">Red-winged Blackbird</a></li>
+              <li><a class="dropdown-item" href="sedgeWren.html">Sedge Wren</a></li>
+              -->
+              <li><a class="dropdown-item" href="songSparrow.html">Song Sparrow</a></li>
+              <!--
+              <li><a class="dropdown-item" href="yellowthroat.html">Yellowthroat</a></li>
+            -->
+            </ul>
+          </li>
+
+            <!-- insects dropdown -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="insectsDropdown"
+              role="button" data-bs-toggle="dropdown" area-expanded="false">
+              Insects
+            </a>
+            <ul class="dropdown-menu" area-labelledby="insectsDropdown">
+              <!-- Put the section page here -->
+               <li><a class="dropdown-item" href="insects.html">All Insects</a></li>
+               <li><hr class="dropdown-divider"></li>
+               <li><a class="dropdown-item" href="damselfly.html">Damselflies</a></li>
+               <li><a class="dropdown-item" href="dragonfly.html">Dragonflies</a></li>
+            </ul>
+          </li>
+
+          <li class="nav-item"><a class="nav-link" href="places.html">Places</a></li>
+        </ul>
+      </div>
+    </div>
   </nav>
   
   <div class="container py-4">
@@ -127,42 +191,120 @@
     </div>
   </div>
   <div class="container py-4">
-    <div class="row g-3">
-      <a href="dragonfly.html"><h3>Dragonflies</h3></a>
+            <h3>Dragonflies</h3>
+            <hr>
+            <!-- Green Darner -->
+            <div class="row g-3">
+                <div class="col-sm-6 col-md-6 col-lg-6">
+                    <div class="card bg-dark text-light border-secondary">
+                        <div class="card-body p-2">
+                            <h5 class="card-title mb-1 text-center">Common Green Darner</h5>
+                            <h6 class="mb-1 text-center"><em>(Anax junius)</em></h6>
+                            <img src="images/insects/GreenDarner/E21A5028.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/insects/GreenDarner/E21A5028-1.jpg" alt="Common Green Darner">
+                            <table class="table table-sm table-dark text-light text-center border-light">
+                                <tbody>
+                                    <tr><td>_21A5028</td><td>6720x4480</td></tr>
+                                    <tr>
+                                        <td><a class="text-warning" data-bs-toggle="collapse" href="#E21A5028EXIF" role="button" aria-expanded="false" aria-controls="E21A5028EXIF">Image Details</a></td>
+                                        <td><a class="text-warning" data-bs-toggle="collapse" href="#E21A5028Ref" role="button" aria-expanded="false" aria-controls="E21A5028Ref">Field Reference Details</a></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <!-- EXIF Data -->
+                             <div class="collapse" id="E21A5028EXIF">
+                                <table class="table table-sm table-dark text-light text-center border-light">
+                                    <tbody>
+                                        <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                                        <tr><td>Lens</td><td>EF100mm f/2.8 Macro USM</td></tr>
+                                        <tr><td>ISO</td><td>400</td></tr>
+                                        <tr><td>Aperture</td><td>f/6.3</td></tr>
+                                        <tr><td>Shutter</td><td>1/1250</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="collapse" id="E21A5028Ref">
+                                 <table class="table table-sm table-dark text-light text-center border-light">
+                                    <tbody>
+                                        <tr><td>Wings</td><td>Transparent, strong venation, held forward when perched</td></tr>
+                                        <tr><td>Thorax</td><td>Bright green, often with bluish shoulder stripes</td></tr>
+                                        <tr><td>Abdomen</td><td>Slender, bluish to purplish with tapering tail</td></tr>
+                                        <tr><td>Eyes</td><td>Wraparound green, covering most of the head</td></tr>
+                                        <tr><td>Range</td><td>Throughout North America</td></tr>
+                                        <tr><td>Habitat</td><td>Ponds, marshes, fields, large water bodies</td></tr>
+                                        <tr><td>Flight Style</td><td>Strong, steady, capable of long-distance migration</td></tr>
+                                        <tr><td>Behavior</td><td>Frequently airborne, rarely seen perching for long</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-6 col-lg-6">
+                    <div class="card bg-dark text-light border-secondary">
+                        <div class="card-body p-2">
+                            <h5 class="card-title mb-1 text-center">Common Green Darner</h5>
+                            <h6 class="mb-1 text-center"><em>(Anax junius)</em></h6>
+                            <img src="images/insects/GreenDarner/E21A5010.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/insects/GreenDarner/E21A5010-1.jpg" alt="Common Green Darner">
+                            <table class="table table-sm table-dark text-light text-center border-light">
+                                <tbody>
+                                    <tr><td>_21A5010</td><td>3751x2501</td></tr>
+                                    <tr>
+                                        <td><a class="text-warning" data-bs-toggle="collapse" href="#E21A5010EXIF" role="button" aria-expanded="false" aria-controls="E21A5010EXIF">Image Details</a></td>
+                                        <td><a class="text-warning" data-bs-toggle="collapse" href="#E21A5010Ref" role="button" aria-expanded="false" aria-controls="E21A5010Ref">Field Reference Details</a></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <!-- EXIF Data -->
+                            <div class="collapse" id="E21A5010EXIF">
+                                <table class="table table-sm table-dark text-light text-center border-light">
+                                    <tbody>
+                                        <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                                        <tr><td>Lens</td><td>EF100mm f/2.8 Macro USM</td></tr>
+                                        <tr><td>ISO</td><td>5000</td></tr>
+                                        <tr><td>Aperture</td><td>f/13.0</td></tr>
+                                        <tr><td>Shutter</td><td>1/1250</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="collapse" id="E21A5028Ref">
+                                 <table class="table table-sm table-dark text-light text-center border-light">
+                                    <tbody>
+                                        <tr><td>Wings</td><td>Transparent, strong venation, held forward when perched</td></tr>
+                                        <tr><td>Thorax</td><td>Bright green, often with bluish shoulder stripes</td></tr>
+                                        <tr><td>Abdomen</td><td>Slender, bluish to purplish with tapering tail</td></tr>
+                                        <tr><td>Eyes</td><td>Wraparound green, covering most of the head</td></tr>
+                                        <tr><td>Range</td><td>Throughout North America</td></tr>
+                                        <tr><td>Habitat</td><td>Ponds, marshes, fields, large water bodies</td></tr>
+                                        <tr><td>Flight Style</td><td>Strong, steady, capable of long-distance migration</td></tr>
+                                        <tr><td>Behavior</td><td>Frequently airborne, rarely seen perching for long</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-3">
       <!-- Twelve-spotted Skimmer -->
       <div id="twelve-spottedSkimmer-card" class="col-sm-6 col-md-4 col-lg-3">
         <div class="card bg-dark text-light border-secondary">
-          <img src="images/D79A3834.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/D79A3834.jpg" alt="Twelve-spotted Skimmer">
-          <div class="card-body p-2">
             <h5 class="card-title mb-1 text-center">Twelve-spotted Skimmer</h5>
             <h6 class="mb-1 text-center"><em>(Libellula pulchella)</em></h6>
-            <table class="table table-sm table-dark text-light text-center border-light">
-              <tbody>
-                <tr>
-                  <td>D79A3834</td>
-                  <td>1742x2613</td>
-                </tr>
-                <tr>
-                  <td>
-                    <a class="text-warning" data-bs-toggle="collapse" href="#D79A3834EXIF" role="button" aria-expanded="false" aria-controls="D79A3834EXIF">
-                      Image Details
-                    </a>
-                  </td>
-                  <td>
-                    <a class="text-warning" data-bs-toggle="collapse" href="#D79A3834Ref" role="button" aria-expanded="false" aria-controls="D79A3834Ref">
-                      Field Reference Details
-                    </a>
-                  </td>
-                </tr>
+            <img src="images/D79A3834.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/D79A3834.jpg" alt="Twelve-spotted Skimmer">
+            <div class="card-body p-2">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>D79A3834</td><td>1742x2613</td></tr>
+                  <tr>
+                    <td><a class="text-warning" data-bs-toggle="collapse" href="#D79A3834EXIF" role="button" aria-expanded="false" aria-controls="D79A3834EXIF">Image Details</a></td>
+                    <td><a class="text-warning" data-bs-toggle="collapse" href="#D79A3834Ref" role="button" aria-expanded="false" aria-controls="D79A3834Ref">Field Reference Details</a></td>
+                  </tr>
               </tbody>
             </table>
             <div class="collapse" id="D79A3834EXIF" role="button" area-expand="false" area-controls="D79A3834EXIF">
               <table class="table table-sm table-dark text-light text-center border-light">
                 <tbody>
-                  <tr>
-                    <td>Camera</td>
-                    <td>Canon EOS 5D Mk IV</td>
-                  </tr>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
                   <tr>
                     <td>Lens</td>
                     <td>EF100mm f/2.8 Macro USM</td>
@@ -222,10 +364,10 @@
       <!-- Autumn Meadowhawk -->
       <div class="col-sm-6 col-md-6 col-lg-6">
         <div class="card bg-dark text-light border-secondary">
-          <img src="images/E21A3420.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A3420-1.jpg" alt="Autumn Meadowhawk">
-          <div class="card-body p-2">
             <h5 class="card-title mb-1 text-center">Autumn Meadowhawk</h5>
             <h6 class="mb-1 text-center"><em>(Sympetrum vicinum)</em></h6>
+          <img src="images/E21A3420.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A3420-1.jpg" alt="Autumn Meadowhawk">
+          <div class="card-body p-2">
             <table class="table table-sm table-dark text-light text-center border-light">
               <tbody>
                 <tr>
@@ -297,10 +439,10 @@
       <!-- Autumn Meadowhawk -->
       <div id="autumnMeadowhawk-card" class="col-sm-6 col-md-4 col-lg-3">
         <div class="card bg-dark text-light border-secondary">
-          <img src="images/D79A4948.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/D79A4948.jpg" alt="Autumn Meadowhawk">
-          <div class="card-body p-2">
             <a href="dragonflyMeadowhawk.html"><h5 class="card-title mb-1 text-center">Autumn Meadowhawk</h5></a>
             <h6 class="mb-1 text-center"><em>(Sympetrum vicinum)</em></h6>
+          <img src="images/D79A4948.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/D79A4948.jpg" alt="Autumn Meadowhawk">
+          <div class="card-body p-2">
             <table class="table table-sm table-dark text-light text-center border-light">
               <tbody>
                 <tr>
@@ -1007,51 +1149,6 @@
                     <td>Flight Style</td>
                     <td>Fluttery, slow</td>
                   </tr>
-                </tbody>
-              </table>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- Green Darner -->
-      <div class="col-sm-6 col-md-6 col-lg-6">
-        <div class="card bg-dark text-light border-secondary">
-          <div class="card-body p-2">
-            <img src="images/D79A0053.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/D79A0053-1.jpg" alt="Common Green Darner">
-            <h5 class="card-title mb-1 text-center">Common Green Darner</h5>
-            <h6 class="mb-1 text-center"><em>(Anax junius)</em></h6>
-            <table class="table table-sm table-dark text-light text-center border-light">
-              <tbody>
-                <tr><td>D79A0053</td><td>6720x4480</td></tr>
-                <tr>
-                  <td><a class="text-warning" data-bs-toggle="collapse" href="#D79A0053EXIF" role="button" aria-expanded="false" aria-controls="D79A0053EXIF">Image Details</a></td>
-                  <td><a class="text-warning" data-bs-toggle="collapse" href="#D79A0053Ref" role="button" aria-expanded="false" aria-controls="D79A0053Ref">Field Reference Details</a></td>
-                </tr>
-              </tbody>
-            </table>
-            <!-- EXIF Data -->
-            <div class="collapse" id="D79A0053EXIF">
-              <table class="table table-sm table-dark text-light text-center border-light">
-                <tbody>
-                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
-                  <tr><td>Lens</td><td>EF100mm f/2.8 Macro USM</td></tr>
-                  <tr><td>ISO</td><td>400</td></tr>
-                  <tr><td>Aperture</td><td>f/6.3</td></tr>
-                  <tr><td>Shutter</td><td>1/1250</td></tr>
-                </tbody>
-              </table>
-            </div>
-            <div class="collapse" id="D79A0053Ref">
-              <table class="table table-sm table-dark text-light text-center border-light">
-                <tbody>
-                  <tr><td>Wings</td><td>Transparent, strong venation, held forward when perched</td></tr>
-                  <tr><td>Thorax</td><td>Bright green, often with bluish shoulder stripes</td></tr>
-                  <tr><td>Abdomen</td><td>Slender, bluish to purplish with tapering tail</td></tr>
-                  <tr><td>Eyes</td><td>Wraparound green, covering most of the head</td></tr>
-                  <tr><td>Range</td><td>Throughout North America</td></tr>
-                  <tr><td>Habitat</td><td>Ponds, marshes, fields, large water bodies</td></tr>
-                  <tr><td>Flight Style</td><td>Strong, steady, capable of long-distance migration</td></tr>
-                  <tr><td>Behavior</td><td>Frequently airborne, rarely seen perching for long</td></tr>
                 </tbody>
               </table>
             </div>
@@ -2636,7 +2733,7 @@
           </div>
         </div>
       </div>
-      <!-- Norther Pearly-eye Butterfly -->
+      <!-- Northern Pearly-eye Butterfly -->
       <div class="col-sm-12 col-md-8 col-lg-6">
         <div class="card bg-dark text-light border-secondary">
           <img src="images/D79A4109.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/D79A4109.jpg" alt="Northern Pearly-eye Butterfly">
@@ -3626,7 +3723,7 @@
     <div class="row g-3">
       <div class="col-sm-6 col-md-4 col-lg-3">
         <div class="card bg-dark text-light border-secondary">
-          <img src="images/D79A0410.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/D79A0410-1.jpg" alt="Bald-faced Hornet">
+          <img src="images/D79A0410.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/D79A0410.jpg" alt="Bald-faced Hornet">
           <div class="card-body p-2">
             <h5 class="card-title mb-1 text-center">Bald-faced Hornet</h5>
             <h6 class="mb-1 text-center"><em>(Dolichovespula maculata)</em></h6>
