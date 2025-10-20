@@ -14,9 +14,13 @@ description: Pale, flour-dusted cap with white free gills; photographed near bir
 **Stem:** Slender, pale; slight basal swelling possible  
 **Notes:** Some *Amanita* species are dangerously toxic—photograph only.
 
-A quiet, pale cap dusted as if with flour stood near the birches. The gills were immaculate white, the stem clean and simple—an understated *Amanita* and a fitting counterpoint to the louder forest colors.
+> *A quiet, pale cap dusted as if with flour stood near the birches. The gills were immaculate white, the stem clean and simple—an understated *Amanita* and a fitting counterpoint to the louder forest colors.*
+
+## References
+- *National Audubon Society: Mushrooms of North America* (April 2023)
+- Personal field notes, Lakeville MN (2025)  
 
 **Related pages:**  
 [Jumping Mushrooms](/gallery/fungi/mushrooms/jumping-mushrooms/) •
 [Argill Milkcap](/gallery/fungi/mushrooms/argill-milkcap/) •
-[Turkey Tail](/gallery/fungi/mushrooms/turkey-tail/)
+[Turkey Tail](/gallery/fungi/mushrooms/turkeytail/)

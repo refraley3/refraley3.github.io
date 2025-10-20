@@ -53,6 +53,19 @@ Though native to the Pacific Northwest, this one appeared in Minnesota under a t
 
 ---
 
+### Habitat Note — The “Jumping” Tree
+
+The host tree here appears to be a Douglas-fir, not native to Minnesota but thriving where it was likely planted.
+In its natural range, Douglas-fir (Pseudotsuga menziesii) grows west of the Continental Divide—from the Pacific Northwest down to the Monterey Bay region.
+That divide forms a real geographic and ecological barrier, so its presence in Minnesota is almost certainly the result of human planting—for windbreaks, Christmas tree farms, or forestry trials begun in the mid-20th century.
+In this sense, the tree itself “jumped” the Divide, carried eastward by people rather than by chance.
+And with it came the potential for its fungal partners, whether through soil, seedling roots, or spores traveling invisibly with us.
+The red squirrel may move mushrooms across branches, but people move whole forests across continents.
+
+> *Sometimes the biggest “jumping mushroom” is the one riding quietly in a nursery truck.*
+
+---
+
 ## A Late Appearance — Floury Amanita
 
 ![Floury Amanita](/gallery/fungi/mushrooms/assets/amanita/floury-amanita.jpg)
@@ -71,5 +84,5 @@ Near the birches, pale mushrooms stood like small lanterns—dry, dusted as if w
 
 **Related pages:**  
 [Blackening Slimespike](/gallery/fungi/mushrooms/blackening-slimespike/) •
-[Turkey Tail](/gallery/fungi/mushrooms/turkey-tail/) •
+[Turkey Tail](/gallery/fungi/mushrooms/turkeytail/) •
 [Floury Amanita](/gallery/fungi/mushrooms/floury-amanita/)

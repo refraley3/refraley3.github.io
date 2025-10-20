@@ -15,6 +15,8 @@ description: A gray-spored, slimy mushroom found beneath a Douglas-fir in Minnes
 **Spore print:** **Gray-black**, radiating clearly on paper  
 **Flesh:** Whitish, staining darker over time  
 
+> *Even the best field guess can change under the light of a spore print.*
+
 ---
 
 ## Field Story
@@ -39,7 +41,7 @@ While *Blackening Slimespike* is most often recorded in the Pacific Northwest be
 ---
 
 ## References
-- *National Audubon Society: Mushrooms of North America* (1981)  
+- *National Audubon Society: Mushrooms of North America* (April 2023)
 - Personal field notes, Lakeville MN (2025)  
 - Observations compared with *Gomphidius subroseus* and related species  
 - Distribution records from Pacific Northwest Mycological data, suggesting association with Douglas-fir
@@ -47,6 +49,6 @@ While *Blackening Slimespike* is most often recorded in the Pacific Northwest be
 ---
 
 **Related Pages:**  
-[Turkey Tail](/gallery/fungi/mushrooms/turkey-tail/) •
+[Turkey Tail](/gallery/fungi/mushrooms/turkeytail/) •
 [Floury Amanita](/gallery/fungi/mushrooms/floury-amanita/) •
 [Jumping Mushrooms](/gallery/fungi/mushrooms/jumping-mushrooms/)

@@ -1,252 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Ray's Photo Gallery</title>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ray Fraley Photography</title>
+  <meta name="description" content="Field photography: Animals, Fungi, Insects, Landscapes, Plants.">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
   <link href="css/styles.css" rel="stylesheet" />
-  <script src="https://cdn.jsdelivr.net/npm/exif-js"></script>
 </head>
 <body>
-  <div class="container py-4">
-    <div id="heroCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <div class="hero-slide" style="background-image: url('images/birds/BlueJay/E21A5336_Panorama-1.jpg');">
-            <h3 class="slide-caption">Blue Jay</h3>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="hero-slide" style="background-image: url('images/E21A4658-1.jpg');">
-            <h3 class="slide-caption">Ritter Farm Park</h3>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="hero-slide" style="background-image: url('images/E21A4656-1.jpg');">
-            <h3 class="slide-caption">Ritter Farm Park</h3>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="hero-slide" style="background-image: url('images/E21A3947-1.jpg');">
-            <h3 class="slide-caption">Ritter Farm Park</h3>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="hero-slide" style="background-image: url('images/insects/GreenDarner/E21A5028-1.jpg');">
-            <h3 class="slide-caption">Green Darner</h3>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="hero-slide" style="background-image: url('images/insects/GreenDarner/E21A5010-1.jpg');">
-            <h3 class="slide-caption">Green Darner</h3>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="hero-slide" style="background-image: url('images/plants/Mushroom/E21A5267-1.jpg');">
-            <h3 class="slide-caption">Mycena Mushrooms</h3>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="hero-slide" style="background-image: url('images/plants/Mushroom/E21A5422-1.jpg');">
-            <h3 class="slide-caption">Mycena Mushrooms</h3>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="hero-slide" style="background-image: url('images/plants/Mushroom/E21A5429-1.jpg');">
-            <h3 class="slide-caption">Mycena Mushrooms</h3>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="hero-slide" style="background-image: url('images/E21A3965-1.jpg');">
-            <h3 class="slide-caption">Orb-weaver</h3>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="hero-slide" style="background-image: url('images/E21A2940C-1.jpg');">
-            <h3 class="slide-caption">Cedar Waxwing</h3>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="hero-slide" style="background-image: url('images/birds/NorthernCardinal/E21A5539-1.jpg');">
-            <h3 class="slide-caption">Northern Cardinal</h3>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="hero-slide" style="background-image: url('images/birds/NorthernCardinal/E21A5540-1.jpg');">
-            <h3 class="slide-caption">Northern Cardinal</h3>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="hero-slide" style="background-image: url('images/birds/NorthernCardinal/E21A5541-1.jpg');">
-            <h3 class="slide-caption">Northern Cardinal</h3>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="hero-slide" style="background-image: url('images/birds/NorthernCardinal/E21A5542-1.jpg');">
-            <h3 class="slide-caption">Northern Cardinal</h3>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="hero-slide" style="background-image: url('images/E21A2940B-1.jpg');">
-            <h3 class="slide-caption">Field Sparrow</h3>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="hero-slide" style="background-image: url('images/E21A3471-1.jpg');">
-            <h3 class="slide-caption">Monarch Butterfly</h3>
-          </div>
-        </div>
-      </div>
-      <!-- Optional controls -->
-      <button class="carousel-control-prev" type="button" data-bs-target="#heroCarousel" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon"></span>
-      </button>
-      <button class="carousel-control-next" type="button" data-bs-target="#heroCarousel" data-bs-slide="next">
-        <span class="carousel-control-next-icon"></span>
-      </button>
+<!-- inside <nav id="primary-nav" class="site-nav"> -->
+<a class="brand" href="../index.html" aria-label="Fraley Design">
+  <img src="../images/FraleyDesignLogo.png" alt="Fraley Design logo">
+</a>
 
-      <!-- Overlay content -->
-      <div class="carousel-caption d-flex flex-column justify-content-center align-items-center text-center">
-        <h1 class="display-4 text-light">Ray's Photo Gallery</h1>
-        <a href="gallery.html" class="btn btn-outline-light btn-lg mt-3">Explore the Gallery</a>
-      </div>
+<a href="../gallery.html">Index</a>
+<a href="../animals/index.html">Animals</a>
+<a href="../birds/index.html">Birds</a>
+<a href="../fungi/index.html">Fungi</a>
+<a href="../insects/index.html">Insects</a>
+<a href="../landscapes/index.html">Landscape</a>
+<a href="../plants/index.html">Plants</a>
+
+<!-- NEW -->
+<a href="../field-notes/index.html">Field Notes</a>
+
+<main class="container py-4">
+    <h1 class="text-center">Ray Fraley – Gallery</h1>
+    <p class="lead text-center">Open a tile to explore.</p>
+
+    <div class="grid" role="list">
+      <!-- Gallery tile -->
+      <a class="tile" href="/gallery.html" role="listitem">
+        <div class="cover" role="img" aria-label="Gallery" style="background-image:url('/images/tiles/gallery.jpg')"></div>
+        <div class="content">
+          <div class="title">Gallery</div>
+          <div class="kicker">Browse by category</div>
+          <p class="desc">Animals, Fungi, Insects, Landscapes, Plants.</p>
+        </div>
+      </a>
+
+      <!-- Field Notes tile -->
+      <a class="tile" href="/field-notes/index.html" role="listitem">
+        <div class="cover" role="img" aria-label="Field Notes" style="background-image:url('/images/tiles/field-notes.jpg')"></div>
+        <div class="content">
+          <div class="title">Field Notes</div>
+          <div class="kicker">Seasonal observations</div>
+          <p class="desc">Stories and IDs from recent walks.</p>
+        </div>
+      </a>
     </div>
-</body>
-
-<hr>
-<footer class="text-center">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <p>Copyright © Fraley Design, L.L.C. All rights reserved.</p>
-      </div>
-    </div>
-  </div>
-</footer>
-
-
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/exif-js"></script>
-<script>
-  const lightboxImage = document.getElementById("lightboxImage");
-  const galleryImages = document.querySelectorAll(".gallery-img");
-  const prevBtn = document.getElementById("prevBtn");
-  const nextBtn = document.getElementById("nextBtn");
-
-  const modal = new bootstrap.Modal(document.getElementById("lightboxModal"));
-
-  const modalTitle = document.getElementById("modalTitle");
-  const modalText = document.getElementById("modalText");
-  const modalExif = document.getElementById("modalExif");
-
-  let currentIndex = 0;
-
-  galleryImages.forEach((img, index) => {
-    img.addEventListener("click", () => {
-      currentIndex = index;
-      updateModalImage();
-    });
-  });
-
-  function updateModalImage() {
-    const img = galleryImages[currentIndex];
-    lightboxImage.classList.add("fade-out");
-
-    setTimeout(() => {
-      // lightboxImage.src = img.getAttribute("data-bs-img");
-      lightboxImage.alt = img.alt;
-
-      // Set caption and title
-      const card = img.closest(".card");
-      if (card) {
-        const title = card.querySelector(".card-title")?.innerText || "";
-        const caption = card.querySelector(".card-text:last-of-type")?.innerText || "";
-        modalTitle.textContent = title;
-        modalText.textContent = caption;
-      }
-
-      // Clear old EXIF and extract new
-      modalExif.innerHTML = "";
-
-      // New from CoPilot
-      //****************************************************************************
-      lightboxImage.onload = () => {
-        const exifImage = new Image();
-        exifImage.crossOrigin = "Anonymous"; // Important for EXIF and CORS
-        exifImage.src = lightboxImage.src;
-        exifImage.onload = () => {
-            EXIF.getData(exifImage, function () {
-                const make = EXIF.getTag(this, "Make") || "Unknown";
-                const model = EXIF.getTag(this, "Model") || "";
-                const iso = EXIF.getTag(this, "ISOSpeedRatings") || "N/A";
-                const fstop = EXIF.getTag(this, "FNumber");
-                const fstopFormatted = fstop ? `f/${fstop.toFixed(1)}` : "N/A";
-
-      // New from CoPilot
-      //****************************************************************************
-                const rawShutter = EXIF.getTag(this, "ExposureTime");
-                let shutter = "N/A";
-
-                if (rawShutter) {
-                  if (typeof rawShutter === "number") {
-                    shutter = rawShutter < 1
-                    ? `1/${Math.round(1 / rawShutter)}`
-                    : rawShutter.toFixed(2) + " sec";
-                  } else if (typeof rawShutter === "string") {
-                    shutter = rawShutter;
-                  } else if (typeof rawShutter === "object" && rawShutter.numerator && rawShutter.denominator) {
-                    // Handle rational exposureTime object
-                    const value = rawShutter.numerator / rawShutter.denominator;
-                    shutter = value < 1
-                    ? `1/${Math.round(1 / value)}`
-                    : value.toFixed(2) + " sec";
-                  }
-                }
-      //****************************************************************************
-      
-                const copyright = EXIF.getTag(this, "Copyright") || "© Ray Fraley";
-
-                modalExif.innerHTML = `
-                <p class="mb-0"><strong>Camera:</strong> ${make} ${model}</p>
-                <p class="mb-0"><strong>ISO:</strong> ${iso}</p>
-                <p class="mb-0"><strong>Aperture:</strong> ${fstopFormatted}</p>
-                <p class="mb-0"><strong>Shutter:</strong> ${shutter}</p>
-                <p class="mb-0"><strong>Copyright:</strong> ${copyright}</p>
-                `;
-            });
-        };
-    };
-      //****************************************************************************
-
-
-      // Force reload by updating src with a cache-busting query string
-      const newSrc = img.getAttribute("data-bs-img") + "?v=" + Date.now();
-      lightboxImage.src = newSrc;
-
-      lightboxImage.classList.remove("fade-out");
-    }, 300);
-  }
-
-  prevBtn.addEventListener("click", () => {
-    currentIndex = (currentIndex - 1 + galleryImages.length) % galleryImages.length;
-    updateModalImage();
-  });
-
-  nextBtn.addEventListener("click", () => {
-    currentIndex = (currentIndex + 1) % galleryImages.length;
-    updateModalImage();
-  });
-
-  // document.addEventListener("keydown", (e) => {
-  document.addEventListener("DOMContentLoaded", () => {
-    const modalShown = document.getElementById("lightboxModal").classList.contains("show");
-    if (!modalShown) return;
-    if (e.key === "ArrowLeft") prevBtn.click();
-    if (e.key === "ArrowRight") nextBtn.click();
-    if (e.key === "Escape") bootstrap.Modal.getInstance(document.getElementById("lightboxModal")).hide();
-  });
-</script>
-
+  </main>
+  <!-- your footer + scripts -->
 </body>
 </html>
