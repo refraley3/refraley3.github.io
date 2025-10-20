@@ -38,7 +38,7 @@ The underside’s **fine white pores** clinched *Trametes versicolor*.
 Under the pines, clay-colored caps with close gills matched **Argill Milkcap**  
 (*Lactarius argillaceifolius*). The broken piece showed bright yellowing inside—consistent with latex that turns yellow on exposure.
 
-**More detail:** [Argill Milkcap page](/gallery/fungi/mushrooms/argill-milkcap/)
+**More detail:** [Argill Milkcap page](/gallery/fungi/mushrooms/argill-milkcap)
 
 ---
 
