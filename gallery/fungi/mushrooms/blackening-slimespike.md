@@ -6,14 +6,14 @@ description: A gray-spored, slimy mushroom found beneath a Douglas-fir in Minnes
 
 # Blackening Slimespike (*Gomphidius* subroseus group)
 
-![Blackening Slimespike spore print](/gallery/fungi/mushrooms/assets/slimespike/spore-print.jpg)
+![A mushroom found tucked in grass.](/gallery/fungi/mushrooms/assets/slimespike/E21A6290.jpg)
 
 **Habitat:** Under Douglas-fir (transplanted landscape grove, Lakeville, MN)  
 **Cap:** Smooth and strongly **slimy** when fresh, clay-pink to tan, darkening with age  
-**Gills:** Thick, waxy, slightly decurrent, eventually sooty  
+**Gills:** Thick, waxy, slightly decurrent, eventually sooty, extending a short distance along the stem
 **Stem:** Firm, glutinous, often darkening from the base upward  
 **Spore print:** **Gray-black**, radiating clearly on paper  
-**Flesh:** Whitish, staining darker over time  
+**Flesh:** Whitish, staining darker over time, bright yellow stem 
 
 > *Even the best field guess can change under the light of a spore print.*
 
@@ -24,9 +24,12 @@ description: A gray-spored, slimy mushroom found beneath a Douglas-fir in Minnes
 At first glance, this mushroom seemed like a *Lactarius* — its smooth tan cap and forest-floor habit matched the *Argill Milkcap* descriptions in the Audubon guide.  
 But once the **spore print appeared black-gray instead of yellowish**, the identification slipped away.
 
+![Clearing the grass away for a better view.](/gallery/fungi/mushrooms/assets/slimespike/E21A6366.jpg)
+
 The cap’s slimy texture and the slow darkening of the stem hinted at a **Slimespike**, a member of *Gomphidius*, a genus that often hides under conifers.  
 While *Blackening Slimespike* is most often recorded in the Pacific Northwest beneath Douglas-fir, the same host tree is sometimes **planted ornamentally or for reforestation** in Minnesota. This one was growing beneath a healthy stand of Douglas-fir — confirming that the partnership can extend well beyond its usual range.
 
+![Another mushroom found at perimeter of pine trees.](/gallery/fungi/mushrooms/assets/slimespike/E21A6366.jpg)
 ---
 
 ## Observations
@@ -35,6 +38,12 @@ While *Blackening Slimespike* is most often recorded in the Pacific Northwest be
 - **Cap Surface:** Thick glutinous layer that can be peeled like a membrane.  
 - **Gills:** Darkened within hours of collection.  
 - **Reaction:** No milky latex observed — confirming it’s not *Lactarius*.
+
+![Slimespike with gills extending along stem.](/gallery/fungi/mushrooms/assets/slimespike/E21A6391.jpg)
+
+![Cutting the stem reveals a bright yellow flesh.](/gallery/fungi/mushrooms/assets/slimespike/E21A6366.jpg)
+
+![Blackening Slimespike spore print](/gallery/fungi/mushrooms/assets/slimespike/SporePrint-Slimespike.jpg)
 
 > *The forest is its own teacher: sometimes the answer only appears overnight on a sheet of paper.*
 
