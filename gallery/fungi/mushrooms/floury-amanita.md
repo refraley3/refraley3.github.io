@@ -6,7 +6,7 @@ description: Pale, flour-dusted cap with white free gills; photographed near bir
 
 # Floury Amanita (*Amanita farinosa*)
 
-![Floury Amanita](/gallery/fungi/mushrooms/assets/E21A6402.jpg)
+![Floury Amanita](/gallery/fungi/mushrooms/assets/floury-amanita/E21A6402.jpg)
 
 **Habitat:** Birch/conifer edge, grassy leaf litter  
 **Cap:** Pale tan to off-white, dry and powdery (“floury”)  

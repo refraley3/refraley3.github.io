@@ -1,12 +1,12 @@
 ---
 layout: default
 title: The Day of the Jumping Mushrooms
-description: A red squirrel with a mushroom, a true Turkey Tail, and an Argill Milkcap—one morning’s woodland story.
+description: A red squirrel with a mushroom, a true Turkey Tail, and a misidentified milkcap that became a Slimespike—one morning’s woodland story.
 ---
 
 # The Day of the Jumping Mushrooms
 
-![Squirrel with mushroom](/gallery/fungi/mushrooms/assets/E21A6162-2.jpg)
+![Squirrel with mushroom](/gallery/fungi/mushrooms/assets/misc/squirrel-jumping-mushroom.jpg)
 *For a moment I thought a mushroom had learned to jump—until the tail gave it away.*
 
 I watched a “mushroom” leap from branch to branch and then to another pine tree—until it grew a tail.  
@@ -18,8 +18,8 @@ Red squirrels sometimes harvest mushrooms and cache them to dry. My “jumper”
 
 ## Turkey Tail — the Grounded Recyclers
 
-![Turkey Tail brackets](/gallery/fungi/mushrooms/assets/E21A6273.jpg)
-![Turkey Tail pores](/gallery/fungi/mushrooms/assets/E21A6360.jpg)
+![Turkey Tail brackets](/gallery/fungi/mushrooms/assets/turkeytail/turkey-tail-top.jpg)
+![Turkey Tail pores](/gallery/fungi/mushrooms/assets/turkeytail/turkey-tail-underside.jpg)
 
 The layered brackets along a fallen log were classic **Turkey Tail**.  
 The underside’s **fine white pores** clinched *Trametes versicolor*.
@@ -30,21 +30,32 @@ The underside’s **fine white pores** clinched *Trametes versicolor*.
 
 ---
 
-## The Likely Jumper — Argill Milkcap
+## The Likely Jumper — Argill Milkcap (Revisited)
 
-![Milkcap gills](/gallery/fungi/mushrooms/assets/E21A6391.jpg)
-![Yellowing interior](/gallery/fungi/mushrooms/assets/E21A6388.jpg)
+![Milkcap gills](/gallery/fungi/mushrooms/assets/milkcap/argill-milkcap-gills.jpg)
+![Yellowing interior](/gallery/fungi/mushrooms/assets/milkcap/argill-milkcap-stem-cut.jpg)
 
 Under the pines, clay-colored caps with close gills matched **Argill Milkcap**  
 (*Lactarius argillaceifolius*). The broken piece showed bright yellowing inside—consistent with latex that turns yellow on exposure.
 
-**More detail:** [Argill Milkcap page](/gallery/fungi/mushrooms/argill-milkcap)
+**More detail:** [Argill Milkcap page](/gallery/fungi/mushrooms/argill-milkcap/)
+
+---
+
+### 🌲 Update: The “Jumping Mushroom” Identified
+
+After collecting a spore print, the supposed *Argill Milkcap* revealed **gray-black spores** rather than yellowish.  
+The cap’s **slimy texture** and **darkening stem** confirmed a different identity:  
+**[Blackening Slimespike (*Gomphidius* subroseus group)](/gallery/fungi/mushrooms/blackening-slimespike/)** — a conifer associate most often found beneath **Douglas-fir**.  
+Though native to the Pacific Northwest, this one appeared in Minnesota under a transplanted Douglas-fir grove.
+
+> *Even the best field guess can change under the light of a spore print.*
 
 ---
 
 ## A Late Appearance — Floury Amanita
 
-![Floury Amanita](/gallery/fungi/mushrooms/assets/E21A6395.jpg)
+![Floury Amanita](/gallery/fungi/mushrooms/assets/amanita/floury-amanita.jpg)
 
 Near the birches, pale mushrooms stood like small lanterns—dry, dusted as if with flour. I left them as I found them.
 
@@ -54,10 +65,11 @@ Near the birches, pale mushrooms stood like small lanterns—dry, dusted as if w
 
 ## Notes & Next Steps
 
-- I’ll attempt a **spore print** for the milkcap (expected pale yellowish/buff).  
-- Photos taken around Lakeville, MN; mild, damp mornings in conifer/edge habitat.
+- Spore print results now support the Slimespike identification.  
+- Ongoing observations of Turkey Tail and Amanita growth continue into fall.  
+- Photos taken near Lakeville, MN — mild, damp mornings in conifer and edge habitat.
 
 **Related pages:**  
+[Blackening Slimespike](/gallery/fungi/mushrooms/blackening-slimespike/) •
 [Turkey Tail](/gallery/fungi/mushrooms/turkey-tail/) •
-[Argill Milkcap](/gallery/fungi/mushrooms/argill-milkcap/) •
 [Floury Amanita](/gallery/fungi/mushrooms/floury-amanita/)
