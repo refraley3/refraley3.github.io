@@ -1,7 +1,0 @@
----
-title: Mushrooms
----
-
-{% include breadcrumbs.html %}
-# Mushrooms
-{% include children-list.html %}

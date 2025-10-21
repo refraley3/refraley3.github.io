@@ -311,3 +311,47 @@ h4 {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+/* Grid of tiles */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 14px;
+}
+
+/* Each tile link */
+.tile {
+  display: block;
+  text-decoration: none;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 14px rgba(0,0,0,.08);
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.tile:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,.12);
+}
+
+/* The image area (needs height!) */
+.cover {
+  /* Pick one of these heights: */
+  /* padding-top keeps aspect ratio; 56% ≈ 16:9 */
+  padding-top: 56%;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+/* Text area */
+.content {
+  padding: 12px 14px 14px;
+}
+.content .title {
+  font-weight: 600;
+  color: #111;
+}
+.content .kicker, .content .desc {
+  color: #666;
+  font-size: .95rem;
+}
