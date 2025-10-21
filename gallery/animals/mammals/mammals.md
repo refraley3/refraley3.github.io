@@ -1,7 +1,7 @@
 ---
-title: Mushrooms
+title: Mammals
 ---
 
 {% include breadcrumbs.html %}
-# Mushrooms
+# Mammals
 {% include children-list.html %}

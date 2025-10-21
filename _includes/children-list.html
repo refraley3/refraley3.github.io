@@ -1,0 +1,15 @@
+<!-- _includes/children-list.html -->
+<ul class="children-list">
+{% assign here = page.url | replace: "/index.html","" %}
+{% assign pages_here = site.pages | where_exp: "p", "p.url != page.url" | where_exp: "p", "p.url contains here and p.url != here" %}
+{% assign direct = "" | split: "" %}
+{% for p in pages_here %}
+  {% assign remainder = p.url | remove_first: here | split: "/" | reject: "" %}
+  {% if remainder.size == 1 %}
+    {% assign direct = direct | push: p %}
+  {% endif %}
+{% endfor %}
+{% for p in direct %}
+  <li><a href="{{ p.url | relative_url }}">{{ p.title | default: p.url | split:"/" | last | replace:"-"," " | capitalize }}</a></li>
+{% endfor %}
+</ul>

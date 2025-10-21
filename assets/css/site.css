@@ -1,0 +1,8 @@
+/* assets/css/site.css */
+.breadcrumbs { font-size: .9rem; color:#666; margin: .5rem 0 1rem }
+.children-list { columns: 2; gap: 1.5rem; }
+.children-list a { text-decoration: none }
+.gallery { display:grid; grid-template-columns: repeat(auto-fit,minmax(260px,1fr)); gap:14px }
+.gallery img { width:100%; height:auto; border-radius:10px }
+.gallery figcaption { font-size:.9rem; color:#666 }
+.meta { display:block; font-size:.8rem; color:#777 }

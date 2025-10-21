@@ -1,0 +1,16 @@
+<!-- _includes/image-gallery.html -->
+<div class="gallery">
+{% for img in page.images %}
+  <figure>
+    <img src="{{ img.src | relative_url }}" alt="{{ img.alt }}">
+    {% if img.caption or img.meta %}
+      <figcaption>
+        {{ img.caption }}
+        {% if img.meta %}
+          <span class="meta">{{ img.meta }}</span>
+        {% endif %}
+      </figcaption>
+    {% endif %}
+  </figure>
+{% endfor %}
+</div>

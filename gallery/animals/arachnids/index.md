@@ -1,7 +1,7 @@
 ---
-title: Mushrooms
+title: Arachnids
 ---
 
 {% include breadcrumbs.html %}
-# Mushrooms
+# Arachnids
 {% include children-list.html %}

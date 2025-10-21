@@ -1,4 +1,11 @@
+# _config.yml
 title: Ray Fraley Photography
-description: Field photography and notes
-permalink: pretty
+theme: minima   # (or your theme)
 markdown: kramdown
+permalink: pretty
+collections: []  # we’re using folders, not collections
+defaults:
+  - scope: {path: ""}        # site-wide defaults
+    values:
+      layout: default
+      nav: true
