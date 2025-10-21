@@ -339,7 +339,7 @@ h4 {
   /* padding-top keeps aspect ratio; 56% ≈ 16:9 */
   padding-top: 56%;
   background-size: cover;
-  background-position: center center;
+  background-position: center;
   background-repeat: no-repeat;
 }
 
