@@ -6,7 +6,7 @@ description: Clay-colored milkcap found under pines.
 
 # Argill Milkcap (*Lactarius argillaceifolius*)
 
-![Argill Milkcap](assets/argill-milkcap.jpg)
+![Argill Milkcap](assets/agrill-milkcap/E21A6382.jpg)
 
 **Habitat:** Pine duff and grass near Lakeville, MN  
 **Cap:** Smooth, clay-colored to tan  
@@ -20,5 +20,5 @@ The latex slowly turns yellow — like the forest leaving its signature.
 > *Tomorrow, I’ll try a spore print — a quiet experiment to catch the forest’s handwriting in yellow dust.*
 
 **References:**  
-National Audubon Society Field Guide to North American Mushrooms (1981)  
+- *National Audubon Society: Mushrooms of North America* (April 2023) 
 Personal field notes (2025)
