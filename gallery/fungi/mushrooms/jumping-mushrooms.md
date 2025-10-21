@@ -6,7 +6,7 @@ description: A red squirrel with a mushroom, a true Turkey Tail, and a misidenti
 
 # The Day of the Jumping Mushrooms
 
-![Squirrel with mushroom](/gallery/fungi/mushrooms/assets/misc/squirrel-jumping-mushroom.jpg)
+![Squirrel with mushroom](/gallery/fungi/mushrooms/assets/agrill-milkcap/E21A6162-2.jpg)
 *For a moment I thought a mushroom had learned to jump—until the tail gave it away.*
 
 I watched a “mushroom” leap from branch to branch and then to another pine tree—until it grew a tail.  
@@ -18,8 +18,8 @@ Red squirrels sometimes harvest mushrooms and cache them to dry. My “jumper”
 
 ## Turkey Tail — the Grounded Recyclers
 
-![Turkey Tail brackets](/gallery/fungi/mushrooms/assets/turkeytail/turkey-tail-top.jpg)
-![Turkey Tail pores](/gallery/fungi/mushrooms/assets/turkeytail/turkey-tail-underside.jpg)
+![Turkey Tail brackets](/gallery/fungi/mushrooms/assets/turkeytail/E21A6273.jpg)
+![Turkey Tail pores](/gallery/fungi/mushrooms/assets/turkeytail/E21A6360.jpg)
 
 The layered brackets along a fallen log were classic **Turkey Tail**.  
 The underside’s **fine white pores** clinched *Trametes versicolor*.
@@ -32,8 +32,8 @@ The underside’s **fine white pores** clinched *Trametes versicolor*.
 
 ## The Likely Jumper — Argill Milkcap (Revisited)
 
-![Milkcap gills](/gallery/fungi/mushrooms/assets/milkcap/argill-milkcap-gills.jpg)
-![Yellowing interior](/gallery/fungi/mushrooms/assets/milkcap/argill-milkcap-stem-cut.jpg)
+![Milkcap gills](/gallery/fungi/mushrooms/assets/agrill-milkcap/E21A6374.jpg)
+![Yellowing interior](/gallery/fungi/mushrooms/assets/agrill-milkcap/E21A6382.jpg)
 
 Under the pines, clay-colored caps with close gills matched **Argill Milkcap**  
 (*Lactarius argillaceifolius*). The broken piece showed bright yellowing inside—consistent with latex that turns yellow on exposure.
