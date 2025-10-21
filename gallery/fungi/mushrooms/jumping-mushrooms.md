@@ -6,27 +6,31 @@ description: A red squirrel with a mushroom, a true Turkey Tail, and a misidenti
 
 # The Day of the Jumping Mushrooms
 
+## Turkeytail — the Grounded Recyclers
+
+![Turkeytail brackets](/gallery/fungi/mushrooms/assets/turkeytail/E21A6273.jpg)
+
+The layered brackets along a fallen log were classic **Turkeytail**.  
+
+![Turkeytail pores](/gallery/fungi/mushrooms/assets/turkeytail/E21A6360.jpg)
+
+The underside’s **fine white pores** clinched *Trametes versicolor*.
+
+> I considered bringing a mirror to see the undersides without touching anything, but sometimes turning one cap over feels like part of the conversation—a way of meeting the forest halfway.
+
+**More detail:** [Turkeytail page](/gallery/fungi/mushrooms/turkeytail/)
+
+---
+
 ![Squirrel with mushroom](/gallery/fungi/mushrooms/assets/agrill-milkcap/E21A6162-2.jpg)
 *For a moment I thought a mushroom had learned to jump—until the tail gave it away.*
+
+The camera was setup to take pictures in the early dawn light. Something was moving in the Pine tree behind me to the left. Turning to my right, through an opening between branches was a mushroom stopped mid branch. Stepping slowly to the left for a better view, I managed a couple shots. It continued to the trunk. It leaped to another branch and scurried to another pine tree.
 
 I watched a “mushroom” leap from branch to branch and then to another pine tree—until it grew a tail.  
 A red squirrel, commuting with breakfast.
 
 Red squirrels sometimes harvest mushrooms and cache them to dry. My “jumper” was likely a **milkcap**, carried up from the forest floor.
-
----
-
-## Turkey Tail — the Grounded Recyclers
-
-![Turkey Tail brackets](/gallery/fungi/mushrooms/assets/turkeytail/E21A6273.jpg)
-![Turkey Tail pores](/gallery/fungi/mushrooms/assets/turkeytail/E21A6360.jpg)
-
-The layered brackets along a fallen log were classic **Turkey Tail**.  
-The underside’s **fine white pores** clinched *Trametes versicolor*.
-
-> I considered bringing a mirror to see the undersides without touching anything, but sometimes turning one cap over feels like part of the conversation—a way of meeting the forest halfway.
-
-**More detail:** [Turkey Tail page](/gallery/fungi/mushrooms/turkey-tail/)
 
 ---
 
