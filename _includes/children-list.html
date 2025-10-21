@@ -1,15 +1,20 @@
-<!-- _includes/children-list.html -->
 <ul class="children-list">
-{% assign here = page.url | replace: "/index.html","" %}
-{% assign pages_here = site.pages | where_exp: "p", "p.url != page.url" | where_exp: "p", "p.url contains here and p.url != here" %}
-{% assign direct = "" | split: "" %}
-{% for p in pages_here %}
-  {% assign remainder = p.url | remove_first: here | split: "/" | reject: "" %}
-  {% if remainder.size == 1 %}
-    {% assign direct = direct | push: p %}
-  {% endif %}
-{% endfor %}
-{% for p in direct %}
-  <li><a href="{{ p.url | relative_url }}">{{ p.title | default: p.url | split:"/" | last | replace:"-"," " | capitalize }}</a></li>
-{% endfor %}
+  {%- assign here = page.url -%}
+  {%- for p in site.pages -%}
+    {%- if p.url != here and p.url != '/' and p.url contains here -%}
+      {%- assign remainder = p.url | remove_first: here -%}
+      {%- assign parts = remainder | split: '/' -%}
+      {%- comment -%}
+        Direct child pages will look like: /current/child/  → remainder "child/"
+        That splits to ["child", ""] (size == 2 and last empty because of trailing slash).
+      {%- endcomment -%}
+      {%- if parts.size == 2 and parts[1] == "" -%}
+        <li>
+          <a href="{{ p.url | relative_url }}">
+            {{ p.title | default: parts[0] | replace: '-', ' ' | capitalize }}
+          </a>
+        </li>
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
 </ul>
