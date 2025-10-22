@@ -7,14 +7,57 @@ title: Animals
   <li><a href="{{ '/gallery/animals/' | relative_url }}">Animals</a></li>
 </ul>
 
+<h1 class="text-center">Gallery</h1>
+<p class="lead text-center">Open a category to explore.</p>
+
+<div class="grid" role="list">
+  <!-- Animals -->
+  <a class="tile" href="/gallery/animals/arachnids/" role="listitem">
+    <div class="cover" role="img" aria-label="Arachnids"
+         style="background-image: url('/gallery/animals/arachnids/assets/garden-spider/E21A4882.jpg');"></div>
+    <div class="content">
+      <div class="title">Arachnids</div>
+      <div class="kicker">Kicker</div>
+      <p class="desc">Description</p>
+    </div>
+  </a>
+  
+  <!-- Insects -->
+  <a class="tile" href="/gallery/fungi/" role="listitem">
+    <div class="cover" role="img" aria-label="Fungi"
+         style="background-image: url('/gallery/fungi/mushrooms/assets/slimespike/E21A6391.jpg');"></div>
+    <div class="content">
+<div class="title">Insects</div>
+<div class="kicker">Kicker</div>
+<p class="desc">Description</p>
+    </div>
+  </a>
+
+  <!-- Birds -->
+  <a class="tile" href="/gallery/animals/birds/" role="listitem">
+    <div class="cover" role="img" aria-label="Landscapes"
+         style="background-image: url('/gallery/animals/birds/assets/ritter-farm-park/E21A4658.jpg');"></div>
+    <div class="content">
+      <div class="title">Birds</div>
+      <div class="kicker">Perching &sdot; Raptors &sdot; Tree-clinging &sdot; Waders</div>
+      <p class="desc">Description</p>
+    </div>
+  </a>
+
+  <!-- Plants -->
+  <a class="tile" href="/gallery/plants/" role="listitem">
+    <div class="cover" role="img" aria-label="Plants"
+         style="background-image: url('/gallery/plants/assets/D79A4902.jpg');"></div>
+    <div class="content">
+      <div class="title">Plants</div>
+    </div>
+  </a>
+</div>
 
 <!-- Arachnids -->
-<a class="tile" href="/gallery/animals/arachnids/" role="listitem">
-  <div class="cover" role="img" aria-label="Aria-label" style="background-image:url('/gallery/animals/arachnids/assets/garden-spider/E21A4882.jpg')"></div>
+<a class="tile" href="" role="listitem">
+  <div class="cover" role="img" aria-label="Aria-label" style="background-image:url('')"></div>
   <div class="content">
-    <div class="title">Arachnids</div>
-    <div class="kicker">Kicker</div>
-    <p class="desc">Description</p>
     <div class="thumbs">
       <img loading="lazy" src="/gallery/animals/arachnids/assets/crab-spider/D79A0274.jpg" alt="Crab Spider" />
       <img loading="lazy" src="/gallery/animals/arachnids/assets/garden-spider/E21A3965.jpg" alt="Web of an Orb-weaver" />
@@ -29,26 +72,20 @@ title: Animals
 <a class="tile" href="/gallery/animals/birds/" role="listitem">
   <div class="cover" role="img" aria-label="Aria-label" style="background-image:url('/gallery/animals/arachnids/assets/garden-spider/E21A4882.jpg')"></div>
   <div class="content">
-    <div class="title">Birds</div>
-    <div class="kicker">Perching &sdot; Raptors &sdot; Songbirds &sdot; Waders</div>
-    <p class="desc">Description</p>
     <div class="thumbs">
-      <img loading="lazy" src="/gallery/animals/birds/assets/D79A3388.jpg" alt="Perching" />
-      <img loading="lazy" src="/gallery/animals/birds/assets/D79A3424.jpg" alt="Raptors" />
-      <img loading="lazy" src="/gallery/animals/birds/assets/D79A3388.jpg" alt="Songbirds" />
-      <img loading="lazy" src="/gallery/animals/birds/assets/D79A3424.jpg" alt="Waders" />
+      <img loading="lazy" src="/gallery/animals/birds/assets/perching/cedar-waxwing/E21A1623-2.jpg" alt="Perching" />
+      <img loading="lazy" src="/gallery/animals/birds/assets/raptors/bald-eagle/IMG_0004.jpg" alt="Raptors" />
+      <img loading="lazy" src="/gallery/animals/birds/assets/tree-clinging/woodpecker-flying.jpg" alt="Tree-clinging" />
+      <img loading="lazy" src="/gallery/animals/birds/assets/waders/sandhill-crane/E21A2038.jpg" alt="Waders" />
     </div>
   </div>
 </a>
 
 
 <!-- Insects -->
-<a class="tile" href="insects/index.html" role="listitem">
-<div class="cover" role="img" aria-label="Aria-label" style="background-image:url('folder/subfolder1/images/file.jpg')"></div>
+<a class="tile" href="/gallery/animals/insects/" role="listitem">
+<div class="cover" role="img" aria-label="Aria-label" style="background-image:url('/gallery/animals/insects/moths/assets/_21A1656.jpg')"></div>
 <div class="content">
-<div class="title">Insects</div>
-<div class="kicker">Kicker</div>
-<p class="desc">Description</p>
 <div class="thumbs">
 <img loading="lazy" src="/gallery/animals/insects/bees/assets/bald-faced-hornet/D79A0363.jpg" alt="Bald-faced Hornet" />
 <img loading="lazy" src="/gallery/animals/insects/butterflies/assets/monarch/D79A0327.jpg" alt="Monarch Butterfly Caterpillar (Instar 2)" />
@@ -60,15 +97,15 @@ title: Animals
 </a>
 
 <!-- Mammals -->
-<a class="tile" href="mammals/index.html" role="listitem">
-<div class="cover" role="img" aria-label="Aria-label" style="background-image:url('folder/subfolder1/images/file.jpg')"></div>
+<a class="tile" href="/gallery/animals/mammals/" role="listitem">
+<div class="cover" role="img" aria-label="Aria-label" style="background-image:url('/gallery/animals/mammals/assets/whitetail-deer/E21A2340.jpg')"></div>
 <div class="content">
 <div class="title">Mammals</div>
 <div class="kicker">Kicker</div>
 <p class="desc">Description</p>
 <div class="thumbs">
-<img loading="lazy" src="/gallery/animals/mammals/assets/whitetail-deer/E21A2340.jpg" alt="Gray Squirrel" />
-<img loading="lazy" src="/gallery/animals/mammals/assets/whitetail-deer/E21A2340.jpg" alt="Red Squirrel" />
+<img loading="lazy" src="/gallery/animals/mammals/assets/gray-squirrel/IMG_3027-3.jpg" alt="Gray Squirrel" />
+<img loading="lazy" src="/gallery/animals/mammals/assets/red-squirrel/E21A6162-2.jpg" alt="Red Squirrel" />
 <img loading="lazy" src="/gallery/animals/mammals/assets/whitetail-deer/E21A2340.jpg" alt="Whitetail Deer" />
 </div>
 </div>
