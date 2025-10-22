@@ -61,3 +61,6 @@ While *Blackening Slimespike* is most often recorded in the Pacific Northwest be
 [Turkey Tail](/gallery/fungi/mushrooms/turkeytail/) •
 [Floury Amanita](/gallery/fungi/mushrooms/floury-amanita/) •
 [Jumping Mushrooms](/gallery/fungi/mushrooms/jumping-mushrooms/)
+---
+
+*© [2025] Ray Fraley. All photographs and text by the author.*

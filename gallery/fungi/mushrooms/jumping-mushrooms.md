@@ -90,3 +90,6 @@ Near the birches, pale mushrooms stood like small lanterns—dry, dusted as if w
 [Blackening Slimespike](/gallery/fungi/mushrooms/blackening-slimespike/) •
 [Turkey Tail](/gallery/fungi/mushrooms/turkeytail/) •
 [Floury Amanita](/gallery/fungi/mushrooms/floury-amanita/)
+---
+
+*© [2025] Ray Fraley. All photographs and text by the author.*

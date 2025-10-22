@@ -24,3 +24,6 @@ description: Pale, flour-dusted cap with white free gills; photographed near bir
 [Jumping Mushrooms](/gallery/fungi/mushrooms/jumping-mushrooms/) •
 [Argill Milkcap](/gallery/fungi/mushrooms/argill-milkcap/) •
 [Turkey Tail](/gallery/fungi/mushrooms/turkeytail/)
+---
+
+*© [2025] Ray Fraley. All photographs and text by the author.*

@@ -54,3 +54,6 @@ Caramel-brown caps with finely striate margins; thin stems on a mossy log.
 **References:**  
 - *National Audubon Society: Mushrooms of North America* (April 2023)  
 Personal field notes (2025)
+---
+
+*© [2025] Ray Fraley. All photographs and text by the author.*

@@ -56,3 +56,6 @@ They’re widespread and often appear in the same spot year after year, slowly t
 [Jumping Mushrooms](/gallery/fungi/mushrooms/jumping-mushrooms/) •
 [Blackening Slimespike](/gallery/fungi/mushrooms/blackening-slimespike/) •
 [Floury Amanita](/gallery/fungi/mushrooms/floury-amanita/)
+---
+
+*© [2025] Ray Fraley. All photographs and text by the author.*
