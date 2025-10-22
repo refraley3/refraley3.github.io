@@ -4,7 +4,9 @@ title: Blackening Slimespike (Gomphidius subroseus group)
 description: A gray-spored, slimy mushroom found beneath a Douglas-fir in Minnesota—first mistaken for a milkcap.
 ---
 
+{% include breadcrumbs.html %}
 # Blackening Slimespike (*Gomphidius* subroseus group)
+{% include children-list.html %}
 
 ![A mushroom found tucked in grass.](/gallery/fungi/mushrooms/assets/slimespike/E21A6290.jpg)
 

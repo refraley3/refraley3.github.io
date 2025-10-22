@@ -1,10 +1,13 @@
-<!-- _includes/breadcrumbs.html -->
-{% assign segs = page.url | split: "/" | reject: "" %}
+{% assign segs = page.url | split: "/" | reject: "" | reject: "index.html" %}
 <nav class="breadcrumbs">
   <a href="{{ "/" | relative_url }}">Home</a>
   {% capture path %}{% endcapture %}
   {% for s in segs %}
     {% assign path = path | append: "/" | append: s %}
-    › <a href="{{ path | relative_url }}">{{ s | replace: "-", " " | capitalize }}</a>
+    {% if forloop.last %}
+      › <span>{{ s | replace: "-", " " | split: " " | map: "capitalize" | join: " " }}</span>
+    {% else %}
+      › <a href="{{ path | relative_url }}">{{ s | replace: "-", " " | split: " " | map: "capitalize" | join: " " }}</a>
+    {% endif %}
   {% endfor %}
 </nav>

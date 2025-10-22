@@ -4,7 +4,9 @@ title: TurkeyTail (Trametes versicolor)
 description: Concentric, velvety brackets with a white pored underside—one of the forest’s classic decomposers.
 ---
 
+{% include breadcrumbs.html %}
 # Turkey Tail (*Trametes versicolor*)
+{% include children-list.html %}
 
 ![Turkeytail top view](/gallery/fungi/mushrooms/assets/turkeytail/E21A6273.jpg)
 ![Turkeytail underside](/gallery/fungi/mushrooms/assets/turkeytail/E21A6360.jpg)

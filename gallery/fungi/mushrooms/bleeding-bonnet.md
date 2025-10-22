@@ -1,4 +1,13 @@
+---
+layout: default
+title: Bleeding Bonnet Mushrooms (Mycena haematopus)
+description: A gray-spored, slimy mushroom found beneath a Douglas-fir in Minnesota—first mistaken for a milkcap.
+---
+
+{% include breadcrumbs.html %}
 # Bleeding Bonnet Mushrooms *Mycena haematopus* Infected by *Spinellus fusiger*
+{% include children-list.html %}
+
 
 ![Bleeding Bonnet mushrooms - Day 1](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5255.jpg)
 *Day 1 – Bleeding Bonnet mushrooms before the full spread of the mold.*

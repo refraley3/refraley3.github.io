@@ -4,7 +4,9 @@ title: Funeral Bell (Galerina marginata)
 description: Small, caramel-brown gilled mushrooms with a rusty-brown spore print on mossy wood; likely the deadly Funeral Bell.
 ---
 
+{% include breadcrumbs.html %}
 # Funeral Bell (*Galerina marginata*)
+{% include children-list.html %}
 
 ![Funeral Bell](/assets/funeral-bell/E1A6449.jpg)
 Caramel-brown caps with finely striate margins; thin stems on a mossy log.

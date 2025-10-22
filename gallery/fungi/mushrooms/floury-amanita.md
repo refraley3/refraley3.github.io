@@ -4,7 +4,9 @@ title: Floury Amanita (Amanita farinosa)
 description: Pale, flour-dusted cap with white free gills; photographed near birch edge.
 ---
 
+{% include breadcrumbs.html %}
 # Floury Amanita (*Amanita farinosa*)
+{% include children-list.html %}
 
 ![Floury Amanita](/gallery/fungi/mushrooms/assets/floury-amanita/E21A6402.jpg)
 

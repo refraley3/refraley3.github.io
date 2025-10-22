@@ -4,7 +4,9 @@ title: Oyster Mushroom (Pleurotus ostreatus group)
 description: Shelf-like gilled mushrooms with decurrent gills on mossy hardwood; classic oyster morphology.
 ---
 
+{% include breadcrumbs.html %}
 # Oyster Mushroom (*Pleurotus ostreatus* group)
+{% include children-list.html %}
 
 ![Oyster mushroom on mossy log](images/E21A0285.jpg)
 

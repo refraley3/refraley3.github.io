@@ -4,7 +4,9 @@ title: The Day of the Jumping Mushrooms
 description: A red squirrel with a mushroom, a true Turkeytail, and a misidentified milkcap that became a Slimespike—one morning’s woodland story.
 ---
 
+{% include breadcrumbs.html %}
 # The Day of the Jumping Mushrooms
+{% include children-list.html %}
 
 ## Turkeytail — the Grounded Recyclers
 

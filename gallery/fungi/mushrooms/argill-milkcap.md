@@ -4,7 +4,10 @@ title: Argill Milkcap (Lactarius argillaceifolius)
 description: Clay-colored milkcap found under pines.
 ---
 
+{% include breadcrumbs.html %}
 # Argill Milkcap (*Lactarius argillaceifolius*)
+{% include children-list.html %}
+
 
 ![Argill Milkcap](/gallery/fungi/mushrooms/assets/agrill-milkcap/E21A6290.jpg)
 
