@@ -10,6 +10,7 @@ description: A gray-spored, slimy mushroom found beneath a Douglas-fir in Minnes
 
 
 ![Bleeding Bonnet mushrooms - Day 1](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5255.jpg)
+
 *Day 1 – Bleeding Bonnet mushrooms before the full spread of the mold.*
 
 ---
@@ -41,6 +42,7 @@ This process doesn’t immediately destroy the Bleeding Bonnet fruiting bodies b
 
 ### Day 1 – Early Infection
 ![Bleeding Bonnet mushrooms - Day 1](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5255.jpg)
+
 The Bleeding Bonnet caps show early colonization. Fine hyphae are visible around the caps, but the structure of the mushrooms remains intact.
 
 |Image Data|
@@ -53,6 +55,7 @@ The Bleeding Bonnet caps show early colonization. Fine hyphae are visible around
 
 ### Day 2 – Full Colonization
 ![Bleeding Bonnet mushrooms - Day 2](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5422.jpg)
+
 By the second day, the *Spinellus* mold has spread extensively. Long, translucent hyphae radiate from the caps, giving them a spiky, ethereal appearance. This stage is the most photogenic — a delicate balance of life and decay.
 
 |Image Data|
@@ -65,6 +68,7 @@ By the second day, the *Spinellus* mold has spread extensively. Long, translucen
 
 ### Day 3 – Collapse
 ![Bleeding Bonnet mushrooms - Day 3](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5429.jpg)
+
 The mushrooms begin to collapse as nutrients are exhausted. The hyphae are dense, and the caps start to shrivel, marking the end of the visible infection cycle.
 
 |Image Data|

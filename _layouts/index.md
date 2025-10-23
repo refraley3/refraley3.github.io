@@ -2,6 +2,7 @@
 layout: default
 title: Funeral Bell (Galerina marginata)
 description: A small brown wood-loving mushroom with deadly amatoxins; found on a decaying log.
+
 # Optional: tags or category for future grouping
 tags: [fungi, mushrooms, wood-decayer]
 # Image gallery data for _includes/image-gallery.html
