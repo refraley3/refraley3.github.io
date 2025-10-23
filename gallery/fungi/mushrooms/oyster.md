@@ -8,7 +8,7 @@ description: Shelf-like gilled mushrooms with decurrent gills on mossy hardwood;
 # Oyster Mushroom (*Pleurotus ostreatus* group)
 {% include children-list.html %}
 
-![Oyster mushroom on mossy log](images/E21A0285.jpg)
+![Oyster mushroom on mossy log](/gallery/fungi/mushrooms/assets/oyster/E21A0285.jpg)
 
 **Habitat:** Dense clusters on a **mossy, decayed hardwood** log near Lakeville, MN  
 **Cap:** Fan- to oyster-shaped, tan to pale buff; margin often wavy or lobed  
@@ -22,23 +22,13 @@ description: Shelf-like gilled mushrooms with decurrent gills on mossy hardwood;
 ---
 
 ## Image Set
-<!-- E21A0281 -->
-<!-- EXIF Data -->
-<div class="collapse" id="E21A0281EXIF">
-<table class="table table-sm table-dark text-light text-center border-light">
-<tbody>
-<tr><td>Camera</td><td>Canon EOS 5D Mark IV</td></tr>
-<tr><td>Lens</td><td>EF100mm f/2.8 Macro USM</td></tr> 
-<tr><td>ISO</td><td>100</td></tr> <tr><td>Aperture</td><td>f/5.6</td></tr> 
-<tr><td>Shutter</td><td>1/125s</td></tr> 
-</tbody> 
-</table> 
-</div>
+
+---
 
 <div class="row g-3">
   <div class="col-sm-6 col-md-4 col-lg-3">
     <div class="card bg-dark text-light border-secondary">
-      <img src="images/E21A0285.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A0285.jpg" alt="Oyster Mushroom">
+      <img src="/gallery/fungi/mushrooms/assets/oyster/E21A0285.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="/gallery/fungi/mushrooms/assets/oyster/E21A0285.jpg" alt="Oyster Mushroom">
       <div class="card-body p-2">
         <h5 class="card-title mb-1">Oyster Mushroom</h5>
         <p class="card-text mb-1 small">Photo ID: _21A0285</p>
@@ -61,7 +51,7 @@ description: Shelf-like gilled mushrooms with decurrent gills on mossy hardwood;
 
   <div class="col-sm-6 col-md-4 col-lg-3">
     <div class="card bg-dark text-light border-secondary">
-      <img src="images/E21A0288.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A0288.jpg" alt="Oyster Mushroom">
+      <img src="/gallery/fungi/mushrooms/assets/oyster/E21A0288.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="/gallery/fungi/mushrooms/assets/oyster/E21A0288.jpg" alt="Oyster Mushroom">
       <div class="card-body p-2">
         <h5 class="card-title mb-1">Oyster Mushroom</h5>
         <p class="card-text mb-1 small">Photo ID: _21A0288</p>
@@ -84,7 +74,7 @@ description: Shelf-like gilled mushrooms with decurrent gills on mossy hardwood;
 
   <div class="col-sm-6 col-md-4 col-lg-3">
     <div class="card bg-dark text-light border-secondary">
-      <img src="images/E21A0294.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A0294.jpg" alt="Oyster Mushroom">
+      <img src="/gallery/fungi/mushrooms/assets/oyster/E21A0294.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="/gallery/fungi/mushrooms/assets/oyster/E21A0294.jpg" alt="Oyster Mushroom">
       <div class="card-body p-2">
         <h5 class="card-title mb-1">Oyster Mushroom</h5>
         <p class="card-text mb-1 small">Photo ID: _21A0294</p>
@@ -109,7 +99,7 @@ description: Shelf-like gilled mushrooms with decurrent gills on mossy hardwood;
 
   <div class="col-sm-6 col-md-4 col-lg-3">
     <div class="card bg-dark text-light border-secondary">
-      <img src="images/E21A0297.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A0297.jpg" alt="Oyster Mushroom">
+      <img src="/gallery/fungi/mushrooms/assets/oyster/E21A0297.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="/gallery/fungi/mushrooms/assets/oyster/E21A0297.jpg" alt="Oyster Mushroom">
       <div class="card-body p-2">
         <h5 class="card-title mb-1">Oyster Mushroom</h5>
         <p class="card-text mb-1 small">Photo ID: _21A0297</p>
@@ -119,7 +109,7 @@ description: Shelf-like gilled mushrooms with decurrent gills on mossy hardwood;
   </div>
   <!-- E21A0297 --> 
     <!-- EXIF Data --> 
-    <div class="collapse" id="E21A0297EXIF"> 
+    <div id="E21A0297EXIF"> 
     <table class="table table-sm table-dark text-light text-center border-light"> 
     <tbody> 
     <tr><td>Camera</td><td>Canon EOS 5D Mark IV</td></tr> 
