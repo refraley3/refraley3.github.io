@@ -321,6 +321,7 @@ h4 {
 
 /* Each tile link */
 .tile {
+  color: white;
   display: block;
   text-decoration: none;
   border-radius: 12px;

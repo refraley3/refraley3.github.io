@@ -24,7 +24,7 @@ The underside’s **fine white pores** clinched *Trametes versicolor*.
 
 ---
 
-![Squirrel with mushroom](/gallery/fungi/mushrooms/assets/agrill-milkcap/E21A6162-2.jpg)
+![Squirrel with mushroom](/gallery/animals/mammals/assets/red-squirrel/E21A6162-2.jpg)
 *For a moment I thought a mushroom had learned to jump—until the tail gave it away.*
 
 The camera was setup to take pictures in the early dawn light. Something was moving in the Pine tree behind me to the left. Turning to my right, through an opening between branches was a mushroom stopped mid branch. Stepping slowly to the left for a better view, I managed a couple shots. It continued to the trunk. It leaped to another branch and scurried to another pine tree.
@@ -38,13 +38,13 @@ Red squirrels sometimes harvest mushrooms and cache them to dry. My “jumper”
 
 ## The Likely Jumper — Argill Milkcap (Revisited)
 
-![Milkcap gills](/gallery/fungi/mushrooms/assets/agrill-milkcap/E21A6374.jpg)
-![Yellowing interior](/gallery/fungi/mushrooms/assets/agrill-milkcap/E21A6382.jpg)
+![Milkcap gills](/gallery/fungi/mushrooms/assets/slimespike/E21A6391.jpg)
+![Yellowing interior](/gallery/fungi/mushrooms/assets/slimespike/E21A6382.jpg)
 
 Under the pines, clay-colored caps with close gills matched **Argill Milkcap**  
 (*Lactarius argillaceifolius*). The broken piece showed bright yellowing inside—consistent with latex that turns yellow on exposure.
 
-**More detail:** [Argill Milkcap page](/gallery/fungi/mushrooms/argill-milkcap/)
+**More detail:** [Blackening Slimespike page](/gallery/fungi/mushrooms/blackening-slimespike/)
 
 ---
 
