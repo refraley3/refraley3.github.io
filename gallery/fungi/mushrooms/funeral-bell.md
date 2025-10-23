@@ -8,7 +8,7 @@ description: Small, caramel-brown gilled mushrooms with a rusty-brown spore prin
 # Funeral Bell (*Galerina marginata*)
 {% include children-list.html %}
 
-![Funeral Bell](/gallery/fungi/mushrooms/assets/funeral-bell/E1A6449.jpg)
+![Funeral Bell](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6449.jpg)
 Caramel-brown caps with finely striate margins; thin stems on a mossy log.
 <!-- EXIF Data -->
 <div id="E21A6449EXIF">
@@ -24,7 +24,7 @@ Caramel-brown caps with finely striate margins; thin stems on a mossy log.
 </div>
 
 
-![Funeral Bell](/gallery/fungi/mushrooms/assets/funeral-bell/E1A6452.jpg)
+![Funeral Bell](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6452.jpg)
 Caramel-brown caps with finely striate margins; thin stems on a mossy log.
 <!-- EXIF Data -->
 <div id="E21A6452EXIF">

@@ -17,7 +17,8 @@ description: Clay-colored milkcap found under pines.
 **Stem:** Firm, hollowing with age  
 **Spore print (expected):** Pale yellowish buff  
 
-The clay-colored milkcap (*Lactarius argillaceifolius*) matched both size and color from the Audubon description.  
+The clay-colored milkcap (*Lactarius argillaceifolius*) matched both size and color from the Audubon description. The cut stem revealed yellow flesh.
+(/gallery/fungi/mushrooms/assets/slimespike/E21A6382.jpg) 
 
 Unfortunately, the spore print (gray/black) did not match. This is actually a [Blackening Slimespike](/gallery/fungi/mushrooms/blackening-slimespike/).
 

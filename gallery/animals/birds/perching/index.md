@@ -19,7 +19,7 @@ title: Perching Birds
             </div>
             <div class="content">
                 <div class="title">American Goldfinch</div>
-                <p class="desc">Description</p>
+                <p class="desc">E21A3395</p>
             </div>
         </a>
     </div>
@@ -30,7 +30,7 @@ title: Perching Birds
             </div>
             <div class="content">
                 <div class="title">American Robin</div>
-                <p class="desc">Description</p>
+                <p class="desc">IMG_0007</p>
             </div>
         </a>
     </div>
@@ -41,7 +41,7 @@ title: Perching Birds
             </div>
             <div class="content">
                 <div class="title">Black-capped Chickadee</div>
-                <p class="desc">Description</p>
+                <p class="desc">E21A2654</p>
             </div>
         </a>
     </div>
@@ -52,7 +52,7 @@ title: Perching Birds
             </div>
             <div class="content">
                 <div class="title">Blue Jay</div>
-                <p class="desc">Description</p>
+                <p class="desc">E21A4699</p>
             </div>
         </a>
     </div>
