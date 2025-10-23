@@ -5,7 +5,7 @@ title: Mammals
 {% include breadcrumbs.html %}
 # Mammals
 {% include children-list.html %}
-
+---
 
   <div class="grid" role="list">
     <!-- Gray Squirrel -->
@@ -33,7 +33,7 @@ title: Mammals
     <!-- Whitetail Deer -->
     <a class="tile" href="/gallery/animals/mammals/whitetail-deer/" role="listitem">
         <div class="cover" role="img" aria-label="Whitetail Deer"
-             style="background-image: url('/gallery/animals/mammals/assets/whitetail-deer/E21A3240.jpg');"></div>
+             style="background-image: url('/gallery/animals/mammals/assets/whitetail-deer/E21A2340.jpg');"></div>
       <div class="content">
         <div class="title">Whitetail Deer</div>
         <div class="kicker">Whitetail Deer Kicker</div>

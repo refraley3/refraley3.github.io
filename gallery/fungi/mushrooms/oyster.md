@@ -80,20 +80,20 @@ description: Shelf-like gilled mushrooms with decurrent gills on mossy hardwood;
         <p class="card-text mb-1 small">Photo ID: _21A0294</p>
         <p class="card-text small">1247x1870</p>
       </div>
+      <!-- E21A0294 --> 
+      <!-- EXIF Data --> 
+      <div id="E21A0294EXIF"> 
+      <table class="table table-sm table-dark text-light text-center border-light"> 
+      <tbody> 
+      <tr><td>Camera</td><td>Canon EOS 5D Mark IV</td></tr> 
+      <tr><td>Lens</td><td>EF100mm f/2.8 Macro USM</td></tr> 
+      <tr><td>ISO</td><td>100</td></tr> 
+      <tr><td>Aperture</td><td>f/5.6</td></tr> 
+      <tr><td>Shutter</td><td>1/100s</td></tr> 
+      </tbody> 
+      </table> 
+      </div> 
     </div>
-    <!-- E21A0294 --> 
-<!-- EXIF Data --> 
-<div id="E21A0294EXIF"> 
-<table class="table table-sm table-dark text-light text-center border-light"> 
-<tbody> 
-<tr><td>Camera</td><td>Canon EOS 5D Mark IV</td></tr> 
-<tr><td>Lens</td><td>EF100mm f/2.8 Macro USM</td></tr> 
-<tr><td>ISO</td><td>100</td></tr> 
-<tr><td>Aperture</td><td>f/5.6</td></tr> 
-<tr><td>Shutter</td><td>1/100s</td></tr> 
-</tbody> 
-</table> 
-</div> 
 
   </div>
 
