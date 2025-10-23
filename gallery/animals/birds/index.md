@@ -14,7 +14,7 @@ A perching song sparrow flapping his tail feathers.
 
   <div class="grid" role="list">
     <!-- Perching Birds -->
-    <a class="tile" href="/gallery/animals/birds/assets/perching/" role="listitem">
+    <a class="tile" href="/gallery/animals/birds/perching/" role="listitem">
       <div class="cover" role="img" aria-label="Perching"
            style="background-image: url('//gallery/animals/birds/assets/perching/house-wren/E21A2645.jpg');"></div>
       <div class="content">
