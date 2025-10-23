@@ -61,7 +61,7 @@ title: Insects
 <!-- Common Blue Damselfly -->
 <div id="commonBlueDamselfly-card" class="col-sm-6 col-md-4 col-lg-3">
 <div class="card bg-dark text-light border-secondary">
-<img src="images/E21A1640.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A1640.jpg" alt="Common Blue Damselfly - Blue-form Female">
+<img src="/gallery/animals/insects/damselflies/assets/images/E21A1640.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A1640.jpg" alt="Common Blue Damselfly - Blue-form Female">
 <div class="card-body bg-dark">
 <h5 class="card-title mb-1 text-center">Common Blue Damselfly</h5>
 <h6 class="mb-1 text-center">Blue-form female</h6>
