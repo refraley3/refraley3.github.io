@@ -8,36 +8,28 @@ description: Small, caramel-brown gilled mushrooms with a rusty-brown spore prin
 # Funeral Bell (*Galerina marginata*)
 {% include children-list.html %}
 
-![Funeral Bell](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6449.jpg)
+![Funeral Bell](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6449.jpg)<br>
 Caramel-brown caps with finely striate margins; thin stems on a mossy log.
-<!-- EXIF Data -->
-<div id="E21A6449EXIF">
-  <table class="table table-sm table-dark text-light text-center border-light">
-    <tbody>
-      <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
-      <tr><td>Lens</td><td>EF100mm f/2.8 Macro USM</td></tr>
-      <tr><td>ISO</td><td>200</td></tr>
-      <tr><td>Aperture</td><td>f/13.0</td></tr>
-      <tr><td>Shutter</td><td>3.2s</td></tr>
-    </tbody>
-  </table>
-</div>
+|            Image Data            |
+|--------|------------------------|
+|Camera|Canon EOS 5D Mk IV|
+|Lens|EF100mm f/2.8L Macro IS USM|
+|ISO|200|
+|Aperture|f/13.0|
+|Shutter|3.2 seconds|
+|Size|6720x4480|
 
 
-![Funeral Bell](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6452.jpg)
+![Funeral Bell](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6452.jpg)<br>
 Caramel-brown caps with finely striate margins; thin stems on a mossy log.
-<!-- EXIF Data -->
-<div id="E21A6452EXIF">
-  <table class="table table-sm table-dark text-light text-center border-light">
-    <tbody>
-      <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
-      <tr><td>Lens</td><td>EF100mm f/2.8 Macro USM</td></tr>
-      <tr><td>ISO</td><td>200</td></tr>
-      <tr><td>Aperture</td><td>f/13.0</td></tr>
-      <tr><td>Shutter</td><td>3.2s</td></tr>
-    </tbody>
-  </table>
-</div>
+|            Image Data            |
+|--------|------------------------|
+|Camera|Canon EOS 5D Mk IV|
+|Lens|EF100mm f/2.8L Macro IS USM|
+|ISO|200|
+|Aperture|f/13.0|
+|Shutter|3.2 seconds|
+|Size|4679x3119|
 
 **Habitat:** Mossy, decayed hardwood log near Lakeville, MN  
 **Cap:** Hygrophanous caramel to tan with finely striate margin  

@@ -45,7 +45,7 @@ This process doesn’t immediately destroy the Bleeding Bonnet fruiting bodies b
 
 The Bleeding Bonnet caps show early colonization. Fine hyphae are visible around the caps, but the structure of the mushrooms remains intact.
 
-|Image Data|
+|            Image Data            |
 |--------|------------------------|
 |Camera|Canon EOS 5D Mk IV|
 |Lens|EF100mm f/2.8L Macro IS USM|
@@ -58,7 +58,7 @@ The Bleeding Bonnet caps show early colonization. Fine hyphae are visible around
 
 By the second day, the *Spinellus* mold has spread extensively. Long, translucent hyphae radiate from the caps, giving them a spiky, ethereal appearance. This stage is the most photogenic — a delicate balance of life and decay.
 
-|Image Data|
+|            Image Data            |
 |--------|------------------------|
 |Camera|Canon EOS 5D Mk IV|
 |Lens|EF100mm f/2.8L Macro IS USM|

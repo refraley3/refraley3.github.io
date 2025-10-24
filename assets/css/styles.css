@@ -412,3 +412,17 @@ h4 {
 .text-muted {
   color:#537070
 }
+
+.image-meta {
+  max-width: 500px;
+  margin: 0 auto 1em;
+  font-size: 0.9em;
+  color: #aaa;
+}
+.image-meta table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.image-meta td, .image-meta th {
+  padding: 2px 6px;
+}
