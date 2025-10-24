@@ -42,12 +42,12 @@ Close view showing the wrinkled, overlapping lobes with a slightly glossy textur
         <table>
             <th colspan="2">Image Data</th>
             <tbody>
-                <tr><td>Camera<td>Canon EOS 5D Mk IV</td></tr>
-                <tr><td>Lens<td>EF100mm f/2.8L Macro IS USM</td></tr>
-                <tr><td>ISO<td>100</td></tr>
-                <tr><td>Aperture<td>f/13.0</td></tr>
-                <tr><td>Shutter<td>4.0 seconds</td></tr>
-                <tr><td>Size<td>2289x3434</td></tr>
+                <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                <tr><td>Lens</td><td>EF100mm f/2.8L Macro IS USM</td></tr>
+                <tr><td>ISO</td><td>100</td></tr>
+                <tr><td>Aperture</td><td>f/13.0</td></tr>
+                <tr><td>Shutter</td><td>4.0 seconds</td></tr>
+                <tr><td>Size</td><td>2289x3434</td></tr>
             </tbody>
         </table>
     </div>
@@ -61,12 +61,12 @@ Two mature colonies of *F. caperata* on an elm trunk in a mixed deciduous forest
         <table>
             <th colspan="2">Image Data</th>
             <tbody>
-                <tr><td>Camera<td>Canon EOS 5D Mk IV</td></tr>
-                <tr><td>Lens<td>EF24=70mm f/2.8L II USM</td></tr>
-                <tr><td>ISO<td>800</td></tr>
-                <tr><td>Aperture<td>f/13.0</td></tr>
-                <tr><td>Shutter<td>1/4 seconds</td></tr>
-                <tr><td>Size<td>6649x4432</td></tr>
+                <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                <tr><td>Lens</td><td>EF24=70mm f/2.8L II USM</td></tr>
+                <tr><td>ISO</td><td>800</td></tr>
+                <tr><td>Aperture</td><td>f/13.0</td></tr>
+                <tr><td>Shutter</td><td>1/4 seconds</td></tr>
+                <tr><td>Size</td><td>6649x4432</td></tr>
             </tbody>
         </table>
     </div>
