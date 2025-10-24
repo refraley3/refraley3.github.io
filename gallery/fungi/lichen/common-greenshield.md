@@ -98,4 +98,3 @@ Moist fall weather and shaded conditions likely helped preserve vivid color and 
 **See also:** [Minnesota Lichen Guide](/field-notes/minnesota-lichen-guide/)
 
 _Observation and photography by [Ray Fraley](https://www.rayfraley.com)._
-*© 2025 Ray Fraley. All photographs and text by the author.*
