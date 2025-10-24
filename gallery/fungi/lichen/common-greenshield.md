@@ -19,7 +19,6 @@ Lichens do not have roots; nutrients are extracted from the air, making them sen
 
 ![Flavoparmelia caperata on Elm]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6505.jpg)<br>
 *Flavoparmelia caperata* forming a circular colony on elm bark. Yellow crustose lichens visible nearby.
-<div class="image-meta">
 |            Image Data           |
 |--------|------------------------|
 |Camera|Canon EOS 5D Mk IV|
@@ -28,11 +27,9 @@ Lichens do not have roots; nutrients are extracted from the air, making them sen
 |Aperture|f/13.0|
 |Shutter|2.0 seconds|
 |Size|6720x4480|
-</div>
 
 ![Close-up of lobes]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6509.jpg)<br>
 Close view showing the wrinkled, overlapping lobes with a slightly glossy texture.
-<div class="image-meta">
 |            Image Data           |
 |--------|------------------------|
 |Camera|Canon EOS 5D Mk IV|
@@ -41,12 +38,10 @@ Close view showing the wrinkled, overlapping lobes with a slightly glossy textur
 |Aperture|f/13.0|
 |Shutter|4.0 seconds|
 |Size|2289x3434|
-</div>
 
 
 ![Multiple colonies]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6518.jpg)<br>
 Two mature colonies of *F. caperata* on an elm trunk in a mixed deciduous forest.
-<div class="image-meta">
 |            Image Data           |
 |--------|------------------------|
 |Camera|Canon EOS 5D Mk IV|
@@ -55,7 +50,6 @@ Two mature colonies of *F. caperata* on an elm trunk in a mixed deciduous forest
 |Aperture|f/13.0|
 |Shutter|1/4 seconds|
 |Size|6649x4432|
-</div>
 
 
 ---
