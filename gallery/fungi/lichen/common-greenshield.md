@@ -33,7 +33,7 @@ Lichens do not have roots; nutrients are extracted from the air, making them sen
         </table>
     </div>
 </div>
-
+---
 
 ![Close-up of lobes]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6509.jpg)<br>
 Close view showing the wrinkled, overlapping lobes with a slightly glossy texture.
@@ -52,7 +52,7 @@ Close view showing the wrinkled, overlapping lobes with a slightly glossy textur
         </table>
     </div>
 </div>
-
+---
 
 ![Multiple colonies]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6518.jpg)<br>
 Two mature colonies of *F. caperata* on an elm trunk in a mixed deciduous forest.
