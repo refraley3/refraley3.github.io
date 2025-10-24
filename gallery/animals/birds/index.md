@@ -29,7 +29,7 @@ A perching song sparrow flapping his tail feathers.
       <div class="cover" role="img" aria-label="Raptors"
            style="background-image: url('/gallery/animals/birds/assets/raptors/bald-eagle/IMG_0004.jpg');"></div>
       <div class="content">
-        <div class="title">Bald Eagle</div>
+        <div class="title">Raptors</div>
         <div class="kicker">Bald Eagle Kicker</div>
         <p class="desc">Description</p>
       </div>
