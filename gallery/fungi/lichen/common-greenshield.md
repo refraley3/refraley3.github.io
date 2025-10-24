@@ -16,53 +16,58 @@ Lichens do not have roots; nutrients are extracted from the air, making them sen
 ---
 
 ## 📸 Photos
-
-![Flavoparmelia caperata on Elm]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6505.jpg)<br>
-*Flavoparmelia caperata* forming a circular colony on elm bark. Yellow crustose lichens visible nearby.
-<div class="image-meta">
-    <table>
-        <th>Image Data</th>
-        <tbody>
-            <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
-            <tr><td>Lens</td><td>EF100mm f/2.8L Macro IS USM</td></tr>
-            <tr><td>ISO</td><td>200</td></tr>
-            <tr><td>Aperture</td><td>f/13.0</td></tr>
-            <tr><td>Shutter</td><td>2.0 seconds</td></tr>
-            <tr><td>Size</td><td>6720x4480</td></tr>
-        </tbody>
-    </table>
+<div class="photo-tile">
+    ![Flavoparmelia caperata on Elm]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6505.jpg)<br>
+    *Flavoparmelia caperata* forming a circular colony on elm bark. Yellow crustose lichens visible nearby.
+    <div class="image-meta">
+        <table>
+            <th colspan="2">Image Data</th>
+            <tbody>
+                <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                <tr><td>Lens</td><td>EF100mm f/2.8L Macro IS USM</td></tr>
+                <tr><td>ISO</td><td>200</td></tr>
+                <tr><td>Aperture</td><td>f/13.0</td></tr>
+                <tr><td>Shutter</td><td>2.0 seconds</td></tr>
+                <tr><td>Size</td><td>6720x4480</td></tr>
+            </tbody>
+        </table>
+    </div>
 </div>
 
-![Close-up of lobes]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6509.jpg)<br>
-Close view showing the wrinkled, overlapping lobes with a slightly glossy texture.
-<div class="image-meta">
-    <table>
-        <th>Image Data</th>
-        <tbody>
-            <tr><td>Camera<td>Canon EOS 5D Mk IV</td></tr>
-            <tr><td>Lens<td>EF100mm f/2.8L Macro IS USM</td></tr>
-            <tr><td>ISO<td>100</td></tr>
-            <tr><td>Aperture<td>f/13.0</td></tr>
-            <tr><td>Shutter<td>4.0 seconds</td></tr>
-            <tr><td>Size<td>2289x3434</td></tr>
-        </tbody>
-    </table>
+<div class="photo-tile">
+    ![Close-up of lobes]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6509.jpg)<br>
+    Close view showing the wrinkled, overlapping lobes with a slightly glossy texture.
+    <div class="image-meta">
+        <table>
+            <th colspan="2">Image Data</th>
+            <tbody>
+                <tr><td>Camera<td>Canon EOS 5D Mk IV</td></tr>
+                <tr><td>Lens<td>EF100mm f/2.8L Macro IS USM</td></tr>
+                <tr><td>ISO<td>100</td></tr>
+                <tr><td>Aperture<td>f/13.0</td></tr>
+                <tr><td>Shutter<td>4.0 seconds</td></tr>
+                <tr><td>Size<td>2289x3434</td></tr>
+            </tbody>
+        </table>
+    </div>
 </div>
 
-![Multiple colonies]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6518.jpg)<br>
-Two mature colonies of *F. caperata* on an elm trunk in a mixed deciduous forest.
-<div class="image-meta">
-    <table>
-        <th>Image Data</th>
-        <tbody>
-            <tr><td>Camera<td>Canon EOS 5D Mk IV</td></tr>
-            <tr><td>Lens<td>EF24=70mm f/2.8L II USM</td></tr>
-            <tr><td>ISO<td>800</td></tr>
-            <tr><td>Aperture<td>f/13.0</td></tr>
-            <tr><td>Shutter<td>1/4 seconds</td></tr>
-            <tr><td>Size<td>6649x4432</td></tr>
-        </tbody>
-    </table>
+<div class="photo-tile">
+    ![Multiple colonies]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6518.jpg)<br>
+    Two mature colonies of *F. caperata* on an elm trunk in a mixed deciduous forest.
+    <div class="image-meta">
+        <table>
+            <th colspan="2">Image Data</th>
+            <tbody>
+                <tr><td>Camera<td>Canon EOS 5D Mk IV</td></tr>
+                <tr><td>Lens<td>EF24=70mm f/2.8L II USM</td></tr>
+                <tr><td>ISO<td>800</td></tr>
+                <tr><td>Aperture<td>f/13.0</td></tr>
+                <tr><td>Shutter<td>1/4 seconds</td></tr>
+                <tr><td>Size<td>6649x4432</td></tr>
+            </tbody>
+        </table>
+    </div>
 </div>
 
 ---

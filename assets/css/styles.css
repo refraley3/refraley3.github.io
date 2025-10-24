@@ -420,6 +420,7 @@ h4 {
   color: #aaa;
 }
 .image-meta table {
+  background-color: #343a40;
   width: 100%;
   border-collapse: collapse;
 }
