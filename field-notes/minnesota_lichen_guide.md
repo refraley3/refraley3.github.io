@@ -1,3 +1,8 @@
+---
+layout: default
+title: Minnesota Lichen Guide
+---
+
 # Common Lichens of Minnesota – Field Guide
 
 ## 🌿 Introduction
