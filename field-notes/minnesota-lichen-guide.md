@@ -23,7 +23,7 @@ Lichens are unique symbiotic organisms composed of fungi and algae (or cyanobact
 This guide highlights several common lichens you can spot during walks in Minnesota, especially in wooded and rocky areas.
 
 ---
-![Flavoparmelia caperata](../assets/images/lichens/flavoparmelia_caperata.jpg)
+![Flavoparmelia caperata](/assets/images/ChatGPT-Image-Lichen.png)
 *Flavoparmelia caperata* on oak bark, Minneapolis, MN
 
 ## 🟢 **Flavoparmelia caperata (Common Greenshield Lichen)**
