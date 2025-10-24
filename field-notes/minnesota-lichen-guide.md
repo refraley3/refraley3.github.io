@@ -1,7 +1,19 @@
 ---
 layout: default
 title: Minnesota Lichen Guide
+description: A beginner-friendly field guide to common lichens found across Minnesota forests, rocks, and bogs.
+image: /assets/images/lichens/greenshield-banner.jpg
 ---
+
+## Table of Contents
+- [Flavoparmelia caperata (Common Greenshield Lichen)](#flavoparmelia-caperata-common-greenshield-lichen)
+- [Physcia millegrana (Powdery Shield Lichen)](#physcia-millegrana-powdery-shield-lichen)
+- [Xanthoria parietina (Common Orange Lichen)](#xanthoria-parietina-common-orange-lichen)
+- [Cladonia rangiferina (Reindeer Lichen)](#cladonia-rangiferina-reindeer-lichen)
+- [Evernia mesomorpha (Boreal Oakmoss)](#evernia-mesomorpha-boreal-oakmoss)
+- [Observing Lichens](#observing-lichens)
+- [Field Note Suggestion](#field-note-suggestion)
+
 
 # Common Lichens of Minnesota – Field Guide
 
@@ -11,6 +23,8 @@ Lichens are unique symbiotic organisms composed of fungi and algae (or cyanobact
 This guide highlights several common lichens you can spot during walks in Minnesota, especially in wooded and rocky areas.
 
 ---
+![Flavoparmelia caperata](../assets/images/lichens/flavoparmelia_caperata.jpg)
+*Flavoparmelia caperata* on oak bark, Minneapolis, MN
 
 ## 🟢 **Flavoparmelia caperata (Common Greenshield Lichen)**
 - **Appearance:** Pale green to yellowish-green, round, and leaf-like (foliose) with smooth lobes.
@@ -71,6 +85,9 @@ When you find a lichen, record:
 Minnesota’s **North Shore and Boundary Waters** host over **500 lichen species**, including rare arctic types thriving on exposed granite.
 
 ---
+> 🧭 **Tip:** Look for these lichens after a light rain—they’ll be at their brightest.
 
 **Happy lichen hunting!** 🌲
 
+---
+_Compiled by [Ray Fraley](https://www.rayfraley.com), 2025._
