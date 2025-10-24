@@ -24,16 +24,12 @@ The underside’s **fine white pores** clinched *Trametes versicolor*.
 
 ---
 
-![Squirrel with mushroom](/gallery/animals/mammals/assets/red-squirrel/E21A6162-2.jpg)
-*For a moment I thought a mushroom had learned to jump—until the tail gave it away.*
-
-The camera was setup to take pictures in the early dawn light. Something was moving in the Pine tree behind me to the left. Turning to my right, through an opening between branches was a mushroom stopped mid branch. Stepping slowly to the left for a better view, I managed a couple shots. It continued to the trunk. It leaped to another branch and scurried to another pine tree.
-
-I watched a “mushroom” leap from branch to branch and then to another pine tree—until it grew a tail.  
-A red squirrel, commuting with breakfast.
+The camera was positioned to capture photographs during the early morning light. A movement was detected in the pine tree to my left. Turning to my right, an opening between branches revealed a mushroom partially suspended on a branch. Slowly advancing to the left for a more favorable view, I managed to capture several photographs. The mushroom continued its movement, leaping to another branch and then scurrying to another pine tree.
 
 Red squirrels sometimes harvest mushrooms and cache them to dry. My “jumper” was likely a **milkcap**, carried up from the forest floor.
-
+![Squirrel with mushroom](/gallery/animals/mammals/assets/red-squirrel/E21A6162-2.jpg)
+<br>
+*For a moment I thought a mushroom had learned to jump—until the tail gave it away.*
 ---
 
 ## The Likely Jumper — Argill Milkcap (Revisited)

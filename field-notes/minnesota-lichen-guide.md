@@ -24,6 +24,7 @@ This guide highlights several common lichens you can spot during walks in Minnes
 
 ---
 ![Flavoparmelia caperata](/assets/images/ChatGPT-Image-Lichen.png)
+<br>
 *Flavoparmelia caperata* on oak bark, Minneapolis, MN
 
 ## 🟢 **Flavoparmelia caperata (Common Greenshield Lichen)**
