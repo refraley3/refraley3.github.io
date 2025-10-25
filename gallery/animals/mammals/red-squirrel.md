@@ -12,10 +12,24 @@ description: A typical pine, spruce, and fir forest inhabitant.
 ![Red squirrel with mushroom](/gallery/animals/mammals/assets/red-squirrel/E21A6162-2.jpg)
 *Red squirrel carrying a mushroom in a pine tree.*
 
----
+| Property | Image Data |
+| Camera | Canon EOS 5D Mk IV |
+| Lens | EF100mm f/2.8L Macro IS USM |
+| ISO | 20000 |
+| Aperture | f/6.3 |
+| Shutter | 1/1250 seconds |
+| Size | 2267x1511 |
 
 ![Red squirrel on branch](/gallery/animals/mammals/assets/red-squirrel/IMG_7404.jpg)
 *Alert red squirrel peering over a branch edge, surrounded by green and golden leaves.*
+
+| Property | Image Data |
+| Camera | Canon EOS 7D |
+| Lens | EF-S18-200mm f/3.5-5.6IS |
+| ISO | 3200 |
+| Aperture | f/6.3 |
+| Shutter | 1/60 seconds |
+| Size | 3409x2273 |
 
 ---
 
@@ -32,18 +46,6 @@ These squirrels are famous for caching food — particularly conifer cones and f
 Red squirrels typically inhabit pine, spruce, and fir forests but also adapt to mixed hardwood stands. They are diurnal, active throughout the day, and spend much of their time gathering and defending food stores. Their sharp chattering calls serve as both warnings to rivals and alerts to predators.
 
 In autumn, red squirrels are particularly busy preparing for winter. Their nests (called *dreys*) are constructed from bark, leaves, and moss — often placed high in tree forks for protection and insulation.
-
----
-
-## Photography Notes
-
-- **Location:** Forested area with mature pine and oak trees  
-- **Lighting:** Soft natural light filtering through foliage  
-- **Camera Settings (suggested):**  
-  - ISO 800–1600  
-  - Shutter speed 1/500s or faster  
-  - Aperture f/5.6–f/8  
-- **Lens:** Telephoto (200–400mm range recommended)  
 
 Capturing these quick, agile animals requires patience — and sometimes a bit of luck, especially when they pause momentarily with a prized mushroom in tow.
 
