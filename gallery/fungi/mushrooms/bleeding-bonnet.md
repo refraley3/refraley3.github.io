@@ -5,10 +5,9 @@ description: Visit to these Bleeding Bonnets on three consecutive days to observ
 ---
 
 {% include breadcrumbs.html %}
+{% include children-list.html %}
 
 ## (*Mycena haematopus*) Infected by *Spinellus fusiger*
-
-{% include children-list.html %}
 
 ![Bleeding Bonnet mushrooms - Day 1](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5255.jpg)
 
@@ -39,16 +38,15 @@ This process doesn’t immediately destroy the Bleeding Bonnet fruiting bodies b
 
 ---
 
-### Photo Sequence
+## Photo Sequence
 
-#### Day 1 – Early Infection
+### Day 1 – Early Infection
 
 ![Bleeding Bonnet mushrooms - Day 1](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5255.jpg)
 
 The Bleeding Bonnet caps show early colonization. Fine hyphae are visible around the caps, but the structure of the mushrooms remains intact.
 
-|            Image Data            |
-|--------|------------------------|
+| Property | Image Data |
 |Camera|Canon EOS 5D Mk IV|
 |Lens|EF100mm f/2.8L Macro IS USM|
 |ISO|8000|
@@ -61,22 +59,20 @@ The Bleeding Bonnet caps show early colonization. Fine hyphae are visible around
 
 By the second day, the *Spinellus* mold has spread extensively. Long, translucent hyphae radiate from the caps, giving them a spiky, ethereal appearance. This stage is the most photogenic — a delicate balance of life and decay.
 
-|            Image Data            |
-|--------|------------------------|
+| Property | Image Data |
 |Camera|Canon EOS 5D Mk IV|
 |Lens|EF100mm f/2.8L Macro IS USM|
 |ISO|200|
 |Aperture|f/22.0|
 |Shutter|4.0 seconds|
 
-#### Day 3 – Collapse
+### Day 3 – Collapse
 
 ![Bleeding Bonnet mushrooms - Day 3](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5429.jpg)
 
 The mushrooms begin to collapse as nutrients are exhausted. The hyphae are dense, and the caps start to shrivel, marking the end of the visible infection cycle.
 
-|Image Data|
-|--------|------------------------|
+| Property | Image Data |
 |Camera|Canon EOS 5D Mk IV|
 |Lens|EF100mm f/2.8L Macro IS USM|
 |ISO|200|
@@ -85,7 +81,7 @@ The mushrooms begin to collapse as nutrients are exhausted. The hyphae are dense
 
 ---
 
-### Notes
+## Notes
 
 - **Location:** [Ritter Farm Park, Lakeville, MN]  
 - **Dates Taken:** [Three consecutive days – e.g., June 5–7, 2025]  
