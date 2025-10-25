@@ -13,7 +13,7 @@ Lichens do not have roots; nutrients are extracted from the air, making them sen
 - **Form:** Foliose (leaf-like) with broad lobes, slightly wrinkled surface.  
 - **Underside:** Black with pale veins and short rhizines.  
 - **Substrate:** Elm bark — medium texture and neutral pH support good lichen growth.
-- **Air Quality Indicator:** Abundant presence suggests healthy, low-pollution air.  
+- **Air Quality Indicator:** Abundant presence suggests healthy, low-pollution air.
 
 ---
 
