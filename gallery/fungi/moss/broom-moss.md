@@ -20,11 +20,14 @@ The tall reddish sporophyte stalks catch morning and evening light, making entir
 
 ### Photos
 
-![Moss sporophytes glowing in light](/gallery/fungi/moss/assets/E21A6416.jpg)<br>
-Moss Sporophytes glowing in light. 
-![Sporophyte capsules emerging from moss](/gallery/fungi/moss/assets/E21A6424.jpg)<br>
+![Moss sporophytes glowing in light](/gallery/fungi/moss/assets/E21A6416.jpg)
+
+Moss Sporophytes glowing in light.
+![Sporophyte capsules emerging from moss](/gallery/fungi/moss/assets/E21A6424.jpg)
+
 Sporophyte capsules emerging from moss.
-![Moss and small mushroom](/gallery/fungi/moss/assets/E21A6426.jpg)<br>
+![Moss and small mushroom](/gallery/fungi/moss/assets/E21A6426.jpg)
+
 Moss and a small mushroom. Possibly an **Oyster (*Pleurotus*)**
 
 ### Notes
