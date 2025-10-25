@@ -23,7 +23,7 @@
       {% if forloop.last %}
         <li aria-current="page"><span>{{ label }}</span></li>
       {% else %}
-        <li><a href="{{ href | relative_url }}">{{ label }}</a></li>
+        <li><a href="{{ '/' | relative_url }}">{{ label }}</a></li>
       {% endif %}
     {% endfor %}
   </ol>
