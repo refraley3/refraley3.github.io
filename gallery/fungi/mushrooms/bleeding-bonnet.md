@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bleeding Bonnet Mushrooms (Mycena haematopus)
-description: A gray-spored, slimy mushroom found beneath a Douglas-fir in Minnesota—first mistaken for a milkcap.
+description: Visit to these Bleeding Bonnets on three consecutive days to observe progress of the Pin Mold infection.
 ---
 
 {% include breadcrumbs.html %}
@@ -95,6 +95,7 @@ The mushrooms begin to collapse as nutrients are exhausted. The hyphae are dense
 - *Spinellus fusiger* is an **obligate parasite** of small mushrooms, especially *Bleeding Bonnet*, *Galerina*, and *Coprinellus* species.  
 - The genus *Bleeding Bonnet* includes over 500 species, many bioluminescent — such as *Bleeding Bonnet chlorophos* and *Bleeding Bonnet haematopus*.  
 - This relationship between two fungi is an example of **mycoparasitism**, a relatively rare but visually spectacular ecological interaction.
+- The Spinellus fusiger fibers make these Mycena almost glow. Mycena chlorophos has a distingly tropical range. The Phillipines is one of the best places to see it glowing naturally.
 
 ---
 
@@ -102,10 +103,8 @@ The mushrooms begin to collapse as nutrients are exhausted. The hyphae are dense
 
 | Day | Description | Image |
 |-----|--------------|-------|
-| **1** | Early stage; fine hyphae beginning to emerge | ![Day 1](E21A5255.jpg) |
-| **2** | Peak colonization with radiating hyphae | ![Day 2](E21A5422.jpg) |
-| **3** | Mushrooms collapsing under infection | ![Day 3](E21A5429.jpg) |
+| **1** | Early stage; fine hyphae beginning to emerge | ![Day 1](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5255.jpg) |
+| **2** | Peak colonization with radiating hyphae | ![Day 2](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5422.jpg) |
+| **3** | Mushrooms collapsing under infection | ![Day 3](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5429.jpg) |
 
 ---
-
-*© [2025] Ray Fraley. All photographs and text by the author.*

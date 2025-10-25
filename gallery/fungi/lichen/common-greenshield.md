@@ -17,12 +17,13 @@ Lichens do not have roots; nutrients are extracted from the air, making them sen
 - **Form:** Foliose (leaf-like) with broad lobes, slightly wrinkled surface.  
 - **Underside:** Black with pale veins and short rhizines.  
 - **Substrate:** Elm bark — medium texture and neutral pH support good lichen growth.  
-- **Air Quality Indicator:** Abundant presence suggests healthy, low-pollution air.  
+- Air Quality Indicator: Abundant presence suggests healthy, low-pollution air.  
 ---
 
 ## Photos
 ![Flavoparmelia caperata on Elm]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6505.jpg)<br>
-*Flavoparmelia caperata* forming a circular colony on elm bark. Yellow crustose lichens visible nearby.<br>
+*Flavoparmelia caperata* forming a circular colony on elm bark. Yellow crustose lichens visible nearby.
+
 |          Image Data                |
 |Camera  |Canon EOS 5D Mk IV         |
 |Lens    |EF100mm f/2.8L Macro IS USM|
@@ -30,10 +31,12 @@ Lichens do not have roots; nutrients are extracted from the air, making them sen
 |Aperture|f/13.0                     |
 |Shutter |2.0 seconds                |
 |Size    |6720x4480                  |
+
 ---
-<div class="photo-tile">
+
 ![Close-up of lobes]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6509.jpg)<br>
 Close view showing the wrinkled, overlapping lobes with a slightly glossy texture.
+
 |          Image Data                |
 |Camera  |Canon EOS 5D Mk IV         |
 |Lens    |EF100mm f/2.8L Macro IS USM|
@@ -41,11 +44,12 @@ Close view showing the wrinkled, overlapping lobes with a slightly glossy textur
 |Aperture|f/13.0                     |
 |Shutter |4.0 seconds                |
 |Size    |2289x3434                  |
+
 ---
 
 ![Multiple colonies]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6518.jpg)<br>
 Two mature colonies of *F. caperata* on an elm trunk in a mixed deciduous forest.
-<div class="photo-tile">
+
 |          Image Data                |
 |Camera  |Canon EOS 5D Mk IV         |
 |Lens    |EF24=70mm f/2.8L II USM    |
@@ -73,7 +77,6 @@ Moist fall weather and shaded conditions likely helped preserve vivid color and 
 ### 💡 Fun Fact
 *Flavoparmelia caperata* produces **caperatic acid**, which helps protect it from microbial damage and UV exposure — one reason it can live for decades on the same trunk.
 
----
 ---
 **See also:** [Minnesota Lichen Guide](/field-notes/minnesota-lichen-guide/)
 

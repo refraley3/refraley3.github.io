@@ -18,11 +18,13 @@ The tall reddish sporophyte stalks catch morning and evening light, making entir
 - **Habitat:** Moist woodlands, shaded rocks, and decaying wood  
 
 ### Photos
-![Moss sporophytes glowing in light](/gallery/fungi/moss/assets/E21A6416.jpg)  
-![Sporophyte capsules emerging from moss](/gallery/fungi/moss/assets/E21A6424.jpg)  
-![Moss and small mushroom](/gallery/fungi/moss/assets/E21A6426.jpg)
+![Moss sporophytes glowing in light](/gallery/fungi/moss/assets/E21A6416.jpg)<br>
+Moss Sporophytes glowing in light. 
+![Sporophyte capsules emerging from moss](/gallery/fungi/moss/assets/E21A6424.jpg)<br>
+Sporophyte capsules emerging from moss.
+![Moss and small mushroom](/gallery/fungi/moss/assets/E21A6426.jpg)<br>
+Moss and a small mushroom. Possibly an **Oyster (*Pleurotus*)**
 
-The third image shows a small mushroom among the moss — possibly an **Oyster (*Pleurotus*)**, photographed from below.
 
 ### Notes
 *Dicranum scoparium* is one of the most common mosses in North America and can be identified by its sweeping, broom-like leaves that bend to one side. When wet, the leaves appear darker and more translucent.
