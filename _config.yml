@@ -3,6 +3,8 @@ title: Ray Fraley Photography
 theme: minima   # (or your theme)
 markdown: kramdown
 permalink: pretty
+url: "https://www.rayfraley.com"
+baseurl: ""
 collections: []  # we’re using folders, not collections
 defaults:
   - scope: {path: ""}        # site-wide defaults
