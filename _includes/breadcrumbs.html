@@ -27,7 +27,7 @@
         {% else %}
           {% assign link_label = label %}
         {% endif %}
-        <li><a href="{{ href | relative_url }}">{{ link_label }}</a></li>
+        <li><a href="{{ href | absolute_url }}">{{ link_label }}</a></li>
       {% endif %}
     {% endfor %}
   </ol>
