@@ -3,15 +3,31 @@
   <ol>
     <li><a href="{{ "/" | relative_url }}">Home</a></li>
 
-    {% capture path %}{% endcapture %}
+    {% assign path = "" %}
     {% for s in segs %}
       {% assign path = path | append:"/" | append:s %}
       {% assign label = s | replace:"-"," " | replace:".html","" | capitalize %}
 
       {% if forloop.last %}
-        <li aria-current="page"><span>{{ label }}</span></li>
+        {% if page.title %}
+          <li aria-current="page"><span>{{ page.title }}</span></li>
+        {% else %}
+          <li aria-current="page"><span>{{ label }}</span></li>
+        {% endif %}
       {% else %}
-        <li><a href="{{ path | append:"/" | relative_url }}">{{ label }}</a></li>
+        {% assign href = path | append:"/" %}
+        {% assign match = site.pages | where: "url", href %}
+        {% if match != empty %}
+          {% assign page_for_label = match | first %}
+          {% if page_for_label.title %}
+            {% assign link_label = page_for_label.title %}
+          {% else %}
+            {% assign link_label = label %}
+          {% endif %}
+        {% else %}
+          {% assign link_label = label %}
+        {% endif %}
+        <li><a href="{{ href | relative_url }}">{{ link_label }}</a></li>
       {% endif %}
     {% endfor %}
   </ol>
