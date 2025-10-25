@@ -31,3 +31,5 @@ Moss and a small mushroom. Possibly an **Oyster (*Pleurotus*)**
 
 ---
 
+
+- Air Quality Indicator: Abundant presence suggests healthy, low-pollution air.
