@@ -5,13 +5,11 @@ title: Mammals
 ---
 
 {% include breadcrumbs.html %}
+# Mammals
 {% include children-list.html %}
 
----
-
 <!-- markdownlint-disable MD033 -->
-
-    <div class="grid" role="list">
+  <div class="grid" role="list">
   
       <!-- Gray Squirrel -->
       <a class="tile" href="/gallery/animals/mammals/gray-squirrel/" role="listitem">
@@ -46,8 +44,5 @@ title: Mammals
         </div>
       </a>
       
-    </div>
-
+  </div>
 <!-- markdownlint-enable MD033 -->
-
----
