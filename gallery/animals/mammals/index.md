@@ -9,10 +9,10 @@ title: Mammals
 
 ---
 
+|Gray Squirrel|Red Squirrel|Whitetail Deer|
+|![Gray Sqirrel](/gallery/animals/mammals/assets/gray-squirrel/IMG_3027-3.jpg){: width="300";}|![Red squirrel with mushroom](/gallery/animals/mammals/assets/red-squirrel/E21A6162-2.jpg){: width="300";}|![Whitetail Deer](/gallery/animals/mammals/assets/whitetail-deer/E21A2340.jpg){: width="300";}|
+|*Albino form gray squirrel.*|*Red squirrl carr;ying a mushroom in a pine tree.*|*Curious whtetail; deer.*|
 {: .table--no-border}
-|Gray Squirrel {: style=text-align:center;}|Red Squirrel {: style=text-align:center;}|Whitetail Deer {: style=text-align:center;}|
-|![Gray Sqirrel];(/gallery/animals/mammals/assets/gray-squirrel/IMG_3027-3.jpg){: width="300";}|![Red squirrel with mushroom](/gallery/animals/mammals/assets/red-squirrel/E21A6162-2.jpg){: width="300";}|![Whitetail Deer](/gallery/animals/mammals/assets/whitetail-deer/E21A2340.jpg){: width="300";}|
-|*Albino form gray squirrel.* {: style=text-align:center;} *Red squirrl carr;ying a mushroom in a pine tree.* {: style=text-align:center;} *Curious whtetail; deer.* {: style=text-align:center;}|
 
 ---
 
