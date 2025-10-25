@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Mammals
+
 ---
 
 {% include breadcrumbs.html %}
@@ -7,7 +9,6 @@ title: Mammals
 
 ---
 
-  <!-- markdownlint-disable MD033 -->
     <div class="grid" role="list">
   
       <!-- Gray Squirrel -->
@@ -44,4 +45,4 @@ title: Mammals
       </a>
       
     </div>
-  <!-- markdownlint-enable MD033 -->
+    
