@@ -4,6 +4,9 @@ title: Common Greenshield Lichen
 description: Close-up observations of *Flavoparmelia caperata* (Common Greenshield Lichen) on an elm tree in Minnesota.
 ---
 
+{% include breadcrumbs.html %}
+{% include children-list.html %}
+
 ## (*Flavoparmelia caperata*)
 
 The pale, leafy lobes and black-veined underside identify them as **Common Greenshield Lichen (*Flavoparmelia caperata*)** — one of Minnesota’s most widespread bark lichens. This elm tree has several round, greenish patches on the trunk.

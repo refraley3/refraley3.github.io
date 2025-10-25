@@ -5,6 +5,9 @@ tags: [moss, bryophyte, plants]
 image: /gallery/fungi/moss/assets/E21A6416.jpg
 ---
 
+{% include breadcrumbs.html %}
+{% include children-list.html %}
+
 ## (*Dicranum scoparium*)
 
 A common and beautiful moss found in forest understories and on rotting logs.  

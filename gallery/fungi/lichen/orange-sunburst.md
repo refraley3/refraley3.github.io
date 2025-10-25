@@ -4,6 +4,9 @@ title: Orange Sunburst Lichen
 description: Close-up observations of *Xanthoria elegans* (Orange Sunburst Lichen) on an elm tree in Minnesota.
 ---
 
+{% include breadcrumbs.html %}
+{% include children-list.html %}
+
 ## (*Xantoria elegans*)
 
 The vivid orange patches on this elm bark belong to **Orange Sunburst Lichen (*Xanthoria elegans*)**, one of the most striking crustose lichens found across Minnesota. Its bright pigmentation is caused by **parietin**, a compound that protects the lichen from intense sunlight and UV radiation.  
