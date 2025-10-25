@@ -1,9 +1,7 @@
 ---
 layout: photo
-title: Common Greenshield Lichen on Elm
-date: 2025-10-24
+title: Common Greenshield Lichen
 description: Close-up observations of *Flavoparmelia caperata* (Common Greenshield Lichen) on an elm tree in Minnesota.
-image: /assets/images/lichens/E21A6505.jpg
 ---
 
 # Common Greenshield Lichen
@@ -21,7 +19,7 @@ Lichens do not have roots; nutrients are extracted from the air, making them sen
 ---
 
 ## Photos
-![Flavoparmelia caperata on Elm]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6505.jpg)<br>
+![Flavoparmelia caperata on Elm]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6505.jpg)
 *Flavoparmelia caperata* forming a circular colony on elm bark. Yellow crustose lichens visible nearby.
 
 |          Image Data                |
@@ -35,10 +33,11 @@ Lichens do not have roots; nutrients are extracted from the air, making them sen
 
 ---
 
-![Close-up of lobes]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6509.jpg)<br>
+![Close-up of lobes]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6509.jpg)
 Close view showing the wrinkled, overlapping lobes with a slightly glossy texture.
 
 |          Image Data                |
+|------------------------------------|
 |Camera  |Canon EOS 5D Mk IV         |
 |Lens    |EF100mm f/2.8L Macro IS USM|
 |ISO     |100                        |
@@ -48,10 +47,11 @@ Close view showing the wrinkled, overlapping lobes with a slightly glossy textur
 
 ---
 
-![Multiple colonies]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6518.jpg)<br>
+![Multiple colonies]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6518.jpg)
 Two mature colonies of *F. caperata* on an elm trunk in a mixed deciduous forest.
 
 |          Image Data                |
+|------------------------------------|
 |Camera  |Canon EOS 5D Mk IV         |
 |Lens    |EF24=70mm f/2.8L II USM    |
 |ISO     |800                        |

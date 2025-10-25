@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: photo
 title: Bleeding Bonnet Mushrooms (Mycena haematopus)
 description: Visit to these Bleeding Bonnets on three consecutive days to observe progress of the Pin Mold infection.
 ---
