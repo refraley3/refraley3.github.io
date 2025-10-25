@@ -1,13 +1,19 @@
-{% assign segs = page.url | split: "/" | reject: "" | reject: "index.html" %}
-<nav class="breadcrumbs">
-  <a href="{{ "/" | relative_url }}">Home</a>
-  {% capture path %}{% endcapture %}
-  {% for s in segs %}
-    {% assign path = path | append: "/" | append: s %}
-    {% if forloop.last %}
-      › <span>{{ s | replace: "-", " " | split: " " | map: "capitalize" | join: " " }}</span>
-    {% else %}
-      › <a href="{{ path | relative_url }}">{{ s | replace: "-", " " | split: " " | map: "capitalize" | join: " " }}</a>
-    {% endif %}
-  {% endfor %}
+{% assign segs = page.url | split:"/" | reject:"" | reject:"index.html" %}
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <ol>
+    <li><a href="{{ "/" | relative_url }}">Home</a></li>
+
+    {% capture path %}{% endcapture %}
+    {% for s in segs %}
+      {% assign path = path | append:"/" | append:s %}
+      {%- comment -%} Human-friendly label: replace dashes, strip .html, capitalize {%- endcomment -%}
+      {% assign label = s | replace:"-"," " | replace:".html","" | capitalize %}
+
+      {% if forloop.last %}
+        <li aria-current="page"><span>{{ label }}</span></li>
+      {% else %}
+        <li><a href="{{ path | relative_url }}">{{ label }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ol>
 </nav>

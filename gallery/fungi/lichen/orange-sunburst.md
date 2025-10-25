@@ -61,3 +61,9 @@ The pigment **parietin** not only gives *Xanthoria elegans* its brilliant hue bu
 
 **See also:** [Common Greenshield Lichen](/field-notes/common-greenshield-lichen/)  
 **See also:** [Minnesota Lichen Guide](/field-notes/minnesota-lichen-guide/)
+
+---
+
+### References
+
+[Orange Sunburst Lichens, Missouri Department of Conservation] <https://mdc.mo.gov/discover-nature/field-guide/orange-sunburst-lichens-xanthoria-lichens>

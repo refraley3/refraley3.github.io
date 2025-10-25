@@ -88,3 +88,7 @@ Moist fall weather and shaded conditions likely helped preserve vivid color and 
 **See also:** [Minnesota Lichen Guide](/field-notes/minnesota-lichen-guide/)
 
 Observation and photography by [Ray Fraley](https://www.rayfraley.com)
+
+### References
+
+[Common Greenshield Lichen, Missouri Department of Conservation]<https://mdc.mo.gov/discover-nature/field-guide/common-greenshield-lichen>
