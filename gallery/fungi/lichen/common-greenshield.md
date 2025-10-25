@@ -53,7 +53,7 @@ Two mature colonies of *F. caperata* on an elm trunk in a mixed deciduous forest
 |          Image Data                |
 |------------------------------------|
 |Camera  |Canon EOS 5D Mk IV         |
-|Lens    |EF24=70mm f/2.8L II USM    |
+|Lens    |EF24-70mm f/2.8L II USM    |
 |ISO     |800                        |
 |Aperture|f/13.0                     |
 |Shutter |1/4 seconds                |
