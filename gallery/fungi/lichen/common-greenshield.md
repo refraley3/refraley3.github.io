@@ -16,8 +16,10 @@ Lichens do not have roots; nutrients are extracted from the air, making them sen
 - **Color:** Pale green to yellowish-green, turns brighter when wet.  
 - **Form:** Foliose (leaf-like) with broad lobes, slightly wrinkled surface.  
 - **Underside:** Black with pale veins and short rhizines.  
-- **Substrate:** Elm bark — medium texture and neutral pH support good lichen growth.  
-- Air Quality Indicator: Abundant presence suggests healthy, low-pollution air.  
+- **Substrate:** Elm bark — medium texture and neutral pH support good lichen growth.
+
+- Air Quality Indicator: Abundant presence suggests healthy, low-pollution air.
+
 ---
 
 ## Photos
@@ -25,6 +27,7 @@ Lichens do not have roots; nutrients are extracted from the air, making them sen
 *Flavoparmelia caperata* forming a circular colony on elm bark. Yellow crustose lichens visible nearby.
 
 |          Image Data                |
+|------------------------------------|
 |Camera  |Canon EOS 5D Mk IV         |
 |Lens    |EF100mm f/2.8L Macro IS USM|
 |ISO     |200                        |
