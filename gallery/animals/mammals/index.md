@@ -5,7 +5,9 @@ title: Mammals
 ---
 
 {% include breadcrumbs.html %}
-# Mammals
+
+## Mammals
+
 {% include children-list.html %}
 
 <!-- markdownlint-disable MD033 -->

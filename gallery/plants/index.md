@@ -3,7 +3,7 @@ layout: default
 title: Plants
 
 ---
-<h1>Plants</h1>
+
 <ul>
   <li><a href="{{ '/gallery/plants/' | relative_url }}">Plants</a></li>
 </ul>
