@@ -9,13 +9,14 @@ title: Mammals
 
 ---
 
-|Gray Squirrel{: style text-align: center}|Red Squirrel{: text-align: center}|Whitetail Deer{: text-align: center}|
-|![Gray Squirrel](/gallery/animals/mammals/assets/gray-squirrel/IMG_3027-3.jpg){: width="300"}|![Red squirrel with mushroom](/gallery/animals/mammals/assets/red-squirrel/E21A6162-2.jpg){: width="300"}|![Whitetail Deer](/gallery/animals/mammals/assets/whitetail-deer/E21A2340.jpg){: width="300"}|
-|*Albino form gray squirrel.*{: text-align: center}|*Red squirrel carrying a mushroom in a pine tree.*{: text-align: center}|*Curious whitetail deer.*{: text-align: center}|{: .table--no-border}
+{: .table--no-border}
+|Gray Squirrel {: style=text-align:center;}|Red Squirrel {: style=text-align:center;}|Whitetail Deer {: style=text-align:center;}|
+|![Gray Sqirrel];(/gallery/animals/mammals/assets/gray-squirrel/IMG_3027-3.jpg){: width="300";}|![Red squirrel with mushroom](/gallery/animals/mammals/assets/red-squirrel/E21A6162-2.jpg){: width="300";}|![Whitetail Deer](/gallery/animals/mammals/assets/whitetail-deer/E21A2340.jpg){: width="300";}|
+|*Albino form gray squirrel.* {: style=text-align:center;} *Red squirrl carr;ying a mushroom in a pine tree.* {: style=text-align:center;} *Curious whtetail; deer.* {: style=text-align:center;}|
 
 ---
 
-    <div class="grid" role="list">
+    div cl;ass="grid" role="list">
   
       <!-- Gray Squirrel -->
       <a class="tile" href="/gallery/animals/mammals/gray-squirrel/" role="listitem">
