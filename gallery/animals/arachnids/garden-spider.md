@@ -66,6 +66,27 @@ In the angled morning light, the garden spider wraps her catch with practiced pr
 | Shutter | 1/640 seconds |
 | Size | 4814x3209 |
 
+![Female Argiope aurantia repairing web](/gallery/animals/arachnids/assets/garden-spider/E21A4898.jpg)
+
+| Property | Image Data |
+| Camera | Canon EOS 5D Mk IV |
+| Lens | EF100mm f/2.8L Macro IS USM |
+| ISO | 10000 |
+| Aperture | f/13.0 |
+| Shutter | 1/640 seconds |
+| Size | 4814x3209 |
+
+
+![Female Argiope aurantia repairing web](/gallery/animals/arachnids/assets/garden-spider/E21A4902.jpg)
+
+| Property | Image Data |
+| Camera | Canon EOS 5D Mk IV |
+| Lens | EF100mm f/2.8L Macro IS USM |
+| ISO | 6400 |
+| Aperture | f/13.0 |
+| Shutter | 1/640 seconds |
+| Size | 4814x3209 |
+
 Suspended among prairie grasses, the garden spider reinforces its silk architecture, laying fresh threads across the heart of the web. The zig-zag stabilimentum glows at the center — both signal and structure — as the patient builder prepares for another day of hunting.
 
 ---
