@@ -9,7 +9,7 @@ title: Birds
      alt="Song Sparrow perching on mullien"
      style="max-width:100%; height:auto; display:block; margin-bottom:1rem;">
 
-A perching song sparrow flapping his tail feathers.
+In a series of quick, deliberate movements, a song sparrow shifts, balances, and surveys the clearing — part vigilance, part rhythm.
 
   <div class="grid" role="list">
     <!-- Perching Birds -->
@@ -50,8 +50,8 @@ A perching song sparrow flapping his tail feathers.
         <div class="cover" role="img" aria-label="Wading Birds"
              style="background-image: url('/gallery/animals/birds/assets/waders/sandhill-crane/E21A2039.jpg');"></div>
       <div class="content">
-        <div class="title">Wading Birds</div>
-        <div class="kicker"Poise and reflection at the water's edge.</div>
+        <div class="title"> Wading Birds</div>
+        <div class="kicker">Poise and reflection at the water's edge.</div>
         <p class="desc">Wading birds inhabit the boundaries between land and water.</p>
       </div>
     </a>
