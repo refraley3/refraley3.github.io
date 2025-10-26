@@ -3,7 +3,6 @@ title: Birds
 ---
 
 {% include breadcrumbs.html %}
-# Birds
 {% include children-list.html %}
 
 <img src="/gallery/animals/birds/assets/perching/song-sparrow/E21A1917_1.jpg"
@@ -19,8 +18,8 @@ A perching song sparrow flapping his tail feathers.
            style="background-image: url('/gallery/animals/birds/assets/perching/house-wren/E21A2645.jpg');"></div>
       <div class="content">
         <div class="title">Perching Birds</div>
-        <div class="kicker">Perching Birds Kicker</div>
-        <p class="desc">Description</p>
+        <div class="kicker">The songbirds and sitters of branches and fences.</div>
+        <p class="desc">Perching birds - or passerines - bring color and melody to woodlands, fields and backyards.</p>
       </div>
     </a>
 
@@ -30,8 +29,8 @@ A perching song sparrow flapping his tail feathers.
            style="background-image: url('/gallery/animals/birds/assets/raptors/bald-eagle/IMG_0004.jpg');"></div>
       <div class="content">
         <div class="title">Raptors</div>
-        <div class="kicker">Bald Eagle Kicker</div>
-        <p class="desc">Description</p>
+        <div class="kicker">Hunters of the open sky and silent forests.</div>
+        <p class="desc">Raptors command the air with precision and power.</p>
       </div>
     </a>
 
@@ -41,8 +40,8 @@ A perching song sparrow flapping his tail feathers.
              style="background-image: url('/gallery/animals/birds/assets/tree-clinging/woodpecker-flying.jpg');"></div>
       <div class="content">
         <div class="title">Tree Clinging</div>
-        <div class="kicker">Tree Clinging Birds Kicker</div>
-        <p class="desc">Description</p>
+        <div class="kicker">Specialists of bark and vertical motion.</div>
+        <p class="desc">Woodpeckers, nuthatches, and creepers hammering and probing in search of insects.</p>
       </div>
     </a>
 
@@ -52,8 +51,8 @@ A perching song sparrow flapping his tail feathers.
              style="background-image: url('/gallery/animals/birds/assets/waders/sandhill-crane/E21A2039.jpg');"></div>
       <div class="content">
         <div class="title">Wading Birds</div>
-        <div class="kicker">Wading Birds Kicker</div>
-        <p class="desc">Description</p>
+        <div class="kicker"Poise and reflection at the water's edge.</div>
+        <p class="desc">Wading birds inhabit the boundaries between land and water.</p>
       </div>
     </a>
   </div>
