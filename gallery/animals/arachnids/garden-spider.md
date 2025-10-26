@@ -36,7 +36,7 @@ A perfect orb-weaver web glistens with the mist among tall grasses and goldenrod
 
 ---
 
-### The Hunter's Reward
+## The Hunter's Reward
 
 *A female Argiope aurantia subdues her catch, a grasshopper in silk.*
 
@@ -76,7 +76,6 @@ In the angled morning light, the garden spider wraps her catch with practiced pr
 | Shutter | 1/640 seconds |
 | Size | 4814x3209 |
 
-
 ![Female Argiope aurantia repairing web](/gallery/animals/arachnids/assets/garden-spider/E21A4902.jpg)
 
 | Property | Image Data |
@@ -91,7 +90,7 @@ Suspended among prairie grasses, the garden spider reinforces its silk architect
 
 ---
 
-## Field Reference — Web Repair Behavior
+### Field Reference — Web Repair Behavior
 
 | Key | Details |
 |-----|----------|
@@ -125,7 +124,7 @@ The smaller male lurks beneath a curled milkweed leaf at the edge of the meadow,
 
 ---
 
-## Field Reference — Male *Argiope aurantia*
+### Field Reference — Male *Argiope aurantia*
 
 | Key | Details |
 |-----|----------|
@@ -136,7 +135,3 @@ The smaller male lurks beneath a curled milkweed leaf at the edge of the meadow,
 | **Seasonality (MN)** | Mid to late summer; males become visible as females reach maturity (July–September). |
 | **Key Clues** | Slender body, long legs, reduced coloration; position near but not in web. |
 | **Photo Notes** | Show context — leaf shelter, angle relative to web, and scale difference if both sexes are visible. |
-
----
-
-*© Ray Fraley — field observations and photography, Minnesota prairie habitat.*
