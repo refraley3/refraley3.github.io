@@ -13,15 +13,58 @@ description: Field observations of orb-weaver webs and the garden spiders that b
 
 ![Orb-weaver web in morning dew](/gallery/animals/arachnids/assets/garden-spider/E21A3965.jpg)
 
+| Property | Image Data |
+| Camera | Canon EOS 5D Mk IV |
+| Lens | EF24-70mm f/2.8L II USM |
+| ISO | 25600 |
+| Aperture | f/22.0 |
+| Shutter | 1/30 seconds |
+| Size | 6720x4480 |
+
 A perfect orb-weaver web glistens with the mist among tall grasses and goldenrod, each strand outlined by the soft morning light. The delicate structure captures the geometry of patience — every thread rebuilt and renewed with precision after a calm night in the prairie.
 
+*Suspended between slender stems, the orb-weaver’s web glows against the warm light of early autumn.
+![Autumn Silhouette](/gallery/animals/arachnids/assets/garden-spider/E21A4297B.jpg)
+
+| Property | Image Data |
+| Camera | Canon EOS 5D Mk IV |
+| Lens | EF100mm f/2.8L Macro IS USM |
+| ISO | 1600 |
+| Aperture | f/8.0 |
+| Shutter | 1/1600 seconds |
+| Size | 2987x4480 |
+
 ---
+
+### The Hunter's Reward
+
+*A female Argiope aurantia subdues her catch, a grasshopper in silk.*
+
+![A female Argiope aurantia subdues her catch, a grasshopper in silk.](/gallery/animals/arachnids/assets/garden-spider/E21A4310B.jpg)
+
+| Property | Image Data |
+| Camera | Canon EOS 5D Mk IV |
+| Lens | EF100mm f/2.8L Macro IS USM |
+| ISO | 800 |
+| Aperture | f/13.0 |
+| Shutter | 1/500 seconds |
+| Size | 2345x3518 |
+
+In the angled morning light, the garden spider wraps her catch with practiced precision. Each turn of silk immobilizes the struggling grasshopper, sealing the energy that will sustain her through another day. The scene, both intricate and brutal, is a quiet glimpse of nature’s efficiency at work.
 
 ## Thread by Thread
 
 *A black-and-yellow garden spider mends its orb web in morning light.*
 
 ![Female Argiope aurantia repairing web](/gallery/animals/arachnids/assets/garden-spider/E21A4882.jpg)
+
+| Property | Image Data |
+| Camera | Canon EOS 5D Mk IV |
+| Lens | EF100mm f/2.8L Macro IS USM |
+| ISO | 8000 |
+| Aperture | f/13.0 |
+| Shutter | 1/640 seconds |
+| Size | 4814x3209 |
 
 Suspended among prairie grasses, the garden spider reinforces its silk architecture, laying fresh threads across the heart of the web. The zig-zag stabilimentum glows at the center — both signal and structure — as the patient builder prepares for another day of hunting.
 
@@ -48,6 +91,14 @@ Suspended among prairie grasses, the garden spider reinforces its silk architect
 *A male garden spider waits beneath a folded leaf.*
 
 ![Male Argiope aurantia beneath leaf](/gallery/animals/arachnids/assets/garden-spider/E21A4911.jpg)
+
+| Property | Image Data |
+| Camera | Canon EOS 5D Mk IV |
+| Lens | EF100mm f/2.8L Macro IS USM |
+| ISO | 16000 |
+| Aperture | f/13.0 |
+| Shutter | 1/640 seconds |
+| Size | 3166x2111 |
 
 The smaller male lurks beneath a curled milkweed leaf at the edge of the meadow, near the larger female’s web. He keeps hidden from birds and cautious of the female’s territory, emerging briefly to inspect her silk for pheromone cues or attempt a careful approach. His slender legs and reduced patterning distinguish him from his vivid counterpart.
 
