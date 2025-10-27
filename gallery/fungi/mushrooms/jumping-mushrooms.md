@@ -5,8 +5,9 @@ description: A red squirrel with a mushroom, a true Turkeytail, and a misidentif
 ---
 
 {% include breadcrumbs.html %}
-# The Day of the Jumping Mushrooms
 {% include children-list.html %}
+
+# The Day of the Jumping Mushrooms
 
 ## Turkeytail — the Grounded Recyclers
 
@@ -27,9 +28,11 @@ The underside’s **fine white pores** clinched *Trametes versicolor*.
 The camera was positioned to capture photographs during the early morning light. A movement was detected in the pine tree to my left. Turning to my right, an opening between branches revealed a mushroom partially suspended on a branch. Slowly advancing to the left for a more favorable view, I managed to capture several photographs. The mushroom continued its movement, leaping to another branch and then scurrying to another pine tree.
 
 Red squirrels sometimes harvest mushrooms and cache them to dry. My “jumper” was likely a **milkcap**, carried up from the forest floor.
+
 ![Squirrel with mushroom](/gallery/animals/mammals/assets/red-squirrel/E21A6162-2.jpg)
-<br>
+
 *For a moment I thought a mushroom had learned to jump—until the tail gave it away.*
+
 ---
 
 ## The Likely Jumper — Argill Milkcap (Revisited)
@@ -84,10 +87,9 @@ Near the birches, pale mushrooms stood like small lanterns—dry, dusted as if w
 - Ongoing observations of Turkey Tail and Amanita growth continue into fall.  
 - Photos taken near Lakeville, MN — mild, damp mornings in conifer and edge habitat.
 
-**Related pages:**  
+**Related pages:**
+
 [Blackening Slimespike](/gallery/fungi/mushrooms/blackening-slimespike/) •
 [Turkey Tail](/gallery/fungi/mushrooms/turkeytail/) •
 [Floury Amanita](/gallery/fungi/mushrooms/floury-amanita/)
 ---
-
-*© [2025] Ray Fraley. All photographs and text by the author.*

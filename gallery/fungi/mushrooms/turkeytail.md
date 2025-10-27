@@ -5,13 +5,12 @@ description: Concentric, velvety brackets with a white pored underside—one of 
 ---
 
 {% include breadcrumbs.html %}
-# Turkey Tail (*Trametes versicolor*)
 {% include children-list.html %}
 
 ![Turkeytail top view](/gallery/fungi/mushrooms/assets/turkeytail/E21A6273.jpg)
 ![Turkeytail underside](/gallery/fungi/mushrooms/assets/turkeytail/E21A6360.jpg)
 
-**Habitat:** Dead hardwood log in partial shade, south-metro Minnesota 
+**Habitat:** Dead hardwood log in partial shade, south-metro Minnesota
 **Cap:** Thin, leathery, with concentric velvety bands of brown, tan, blue, and cream  
 **Underside:** White with fine **pores** (3–8 per mm)  
 **Flesh:** Flexible when fresh, tough when dry  
@@ -58,6 +57,5 @@ They’re widespread and often appear in the same spot year after year, slowly t
 [Jumping Mushrooms](/gallery/fungi/mushrooms/jumping-mushrooms/) •
 [Blackening Slimespike](/gallery/fungi/mushrooms/blackening-slimespike/) •
 [Floury Amanita](/gallery/fungi/mushrooms/floury-amanita/)
----
 
-*© [2025] Ray Fraley. All photographs and text by the author.*
+---

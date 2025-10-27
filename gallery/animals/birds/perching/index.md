@@ -4,9 +4,9 @@ title: Perching Birds
 ---
 
 {% include breadcrumbs.html %}
-# Perching Birds
 {% include children-list.html %}
 
+<!-- markdownlint-disable MD033 -->
 <img src="/gallery/animals/birds/assets/perching/song-sparrow/E21A1917_1.jpg"
      alt="Song Sparrow perching on mullien"
      style="max-width:100%; height:auto; display:block; margin-bottom:1rem;">
@@ -189,3 +189,5 @@ title: Perching Birds
         </a>
     </div>
 </div>
+
+<!-- markdownlint-enable MD033 -->
