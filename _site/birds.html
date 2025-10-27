@@ -1,0 +1,3171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Birds | Ray Fraley Photography</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="css/styles.css" rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/exif-js"></script>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+
+      <!-- (Optional) brand -->
+      <a class="navbar-brand" href="/gallery/"><img src="/Documents/FraleyDesignLogo.png" alt="Fraley Design" width="100"></a>
+
+      <!-- Mobile toggler -->
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+        data-bs-target="#mainNav" aria-controls="mainNav"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <!-- Collapsible content -->
+      <div class="collapse navbar-collapse" id="mainNav">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+          <li class="nav-item"><a class="nav-link" href="/gallery/">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="plants.html">Plants</a></li>
+
+            <!-- Birds dropdown -->
+          <li class="nav-item dropdown">
+            <!-- IMPORTANT: href="#" so it toggles instead of navigating -->
+            <a class="nav-link dropdown-toggle" href="#" id="birdsDropdown"
+              role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Birds
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="birdsDropdown">
+              <!-- Put the section page here -->
+              <li><a class="dropdown-item" href="birds.html">All Birds</a></li>
+              <li><hr class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="americanGoldfinch.html">American Goldfinch</a></li>
+              <!-- 
+              <li><a class="dropdown-item" href="black-cappedChickadee.html">Black-capped Chickadee</a></li>
+              <li><a class="dropdown-item" href="blueJay.html">Blue Jay</a></li>
+              <li><a class="dropdown-item" href="cedarWaxwing.html">Cedar Waxwing</a></li>
+              <li><a class="dropdown-item" href="fieldSparrow.html">Field Sparrow</a></li>
+              <li><a class="dropdown-item" href="houseWren.html">House Wren</a></li>
+              <li><a class="dropdown-item" href="indigoBunting.html">Indigo Bunting</a></li>
+            -->
+              <li><a class="dropdown-item" href="nashvilleWarbler.html">Nashville Warbler</a></li>
+              <li><a class="dropdown-item" href="northerCardinal.html">Cardinal</a></li>
+              <!--
+              <li><a class="dropdown-item" href="red-wingedBlackbird.html">Red-winged Blackbird</a></li>
+              <li><a class="dropdown-item" href="sedgeWren.html">Sedge Wren</a></li>
+              -->
+              <li><a class="dropdown-item" href="songSparrow.html">Song Sparrow</a></li>
+              <!--
+              <li><a class="dropdown-item" href="yellowthroat.html">Yellowthroat</a></li>
+            -->
+            </ul>
+          </li>
+
+            <!-- insects dropdown -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="insectsDropdown"
+              role="button" data-bs-toggle="dropdown" area-expanded="false">
+              Insects
+            </a>
+            <ul class="dropdown-menu" area-labelledby="insectsDropdown">
+              <!-- Put the section page here -->
+               <li><a class="dropdown-item" href="insects.html">All Insects</a></li>
+               <li><hr class="dropdown-divider"></li>
+               <li><a class="dropdown-item" href="damselfly.html">Damselflies</a></li>
+               <li><a class="dropdown-item" href="dragonfly.html">Dragonflies</a></li>
+            </ul>
+          </li>
+
+          <li class="nav-item"><a class="nav-link" href="places.html">Places</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <div class="container py-4">
+    <h1 class="display-4 text-light">Birds</h1>
+    <div id="heroCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <div class="hero-slide" style="background-image: url('images/birds/BlueJay/E21A4699-1.jpg');">
+            <h3 class="slide-caption">Blue Jay and a juvenile</h3>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="hero-slide" style="background-image: url('images/birds/BlueJay/E21A5336_Panorama-1.jpg');">
+            <h3 class="slide-caption">Blue Jay Flight</h3>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="hero-slide" style="background-image: url('images/birds/BlueJay//E21A2940B-1.jpg');">
+            <h3 class="slide-caption">Field Sparrow</h3>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="hero-slide" style="background-image: url('images/E21A2940C-1.jpg');">
+            <h3 class="slide-caption">Cedar Waxwing</h3>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="hero-slide" style="background-image: url('images/D79A3424-2.jpg');">
+            <h3 class="slide-caption">Northern Cardinal</h3>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="hero-slide" style="background-image: url('images/birds/NorthernCardinal/E21A5539-1.jpg');">
+            <h3 class="slide-caption">Northern Cardinal</h3>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="hero-slide" style="background-image: url('images/birds/NorthernCardinal/E21A5540-1.jpg');">
+            <h3 class="slide-caption">Northern Cardinal</h3>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="hero-slide" style="background-image: url('images/birds/NorthernCardinal/E21A5541-1.jpg');">
+            <h3 class="slide-caption">Northern Cardinal</h3>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="hero-slide" style="background-image: url('images/birds/NorthernCardinal/E21A5542-1.jpg');">
+            <h3 class="slide-caption">Northern Cardinal</h3>
+          </div>
+        </div>
+      </div>
+      <!-- Optional controls -->
+      <button class="carousel-control-prev" type="button" data-bs-target="#heroCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#heroCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon"></span>
+      </button>
+      <!-- Overlay content -->
+      <div class="carousel-caption d-flex flex-column justify-content-center align-items-center text-center">
+        <!-- <h2 class="display-4"><b>Birds</b></h2> -->
+         <img src="/Documents/FraleyDesignLogo.png" alt="Fraley Design" width="200">
+      </div>
+    </div>
+  </div>
+    <div class="container py-4">
+      <!-- Blue Jay -->
+      <div class="row g-3">
+        <div id="blueJay-card" class="col-sm-6 col-md-4 col-lg-3">
+          <div class="card bg-dark text-light border-secondary">
+            <img src="images/birds/BlueJay/E21A4699.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/birds/BlueJay/E21A4699-1.jpg" alt="Blue Jay">
+            <div class="card-body p-2">
+              <h5 class="card-title mb-1 text-center">Blue Jay</h5>
+              <h6 class="mb-1 text-center"><em>Cyanocitta cristata</em></h6>
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr>
+                    <td>_21A4699</td>
+                    <td>3587x2391</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <a class="text-warning" data-bs-toggle="collapse" href="#E21A4699EXIF" role="button" aria-expanded="false" aria-controls="E21A4699EXIF">
+                        Image Details
+                      </a>
+                    </td>
+                    <td>
+                      <a class="text-warning" data-bs-toggle="collapse" href="#E21A4699Ref" role="button" aria-expanded="false" aria-controls="E21A4699Ref">
+                        Field Reference Details
+                      </a>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <!-- EXIF Data -->
+              <div class="collapse" id="E21A4699EXIF">
+                <table class="table table-sm table-dark text-light text-center border-light">
+                  <tbody>
+                    <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                    <tr><td>Lens</td><td>EF100-400mm f/4.5-5.6L IS USM</td></tr>
+                    <tr><td>ISO</td><td>100</td></tr>
+                    <tr><td>Aperture</td><td>f/5.6</td></tr>
+                    <tr><td>Shutter</td><td>1/320</td></tr>
+                  </tbody>
+                </table>
+              </div>
+              <div class="collapse" id="E21A4699Ref">
+                <table class="table table-sm table-dark text-light text-center border-light">
+                  <tbody>
+                    <tr><td>Plumage</td><td>Bright blue upperparts with black necklace, white underparts. Crest can be raised or lowered.</td></tr>
+                    <tr><td>Size</td><td>9–12" [23–30 cm]</td></tr>
+                    <tr><td>Color</td><td>Blue, black, white</td></tr>
+                    <tr><td>Wings</td><td>Rounded with bold black bars and white patches</td></tr>
+                    <tr><td>Tail</td><td>Long, rounded with white tips</td></tr>
+                    <tr><td>Habitat</td><td>Woodlands, forest edges, parks, and suburban areas</td></tr>
+                    <tr><td>Flight Style</td><td>Steady, direct flight with slow wingbeats</td></tr>
+                    <tr><td>Behavior</td><td>Loud, social birds; often travel in small groups. Known for caching acorns and mimicking hawk calls.</td></tr>
+                    <tr><td>Diet</td><td>Nuts, seeds, insects, fruits, and occasionally eggs or nestlings.</td></tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4 col-lg-3">
+          <div class="card bg-dark text-light border-secondary">
+            <img src="images/birds/BlueJay/E21A4700.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/birds/BlueJay/E21A4700-1.jpg" alt="Blue Jay">
+            <div class="card-body p-2">
+              <h5 class="card-title mb-1 text-center">Blue Jay</h5>
+              <h6 class="mb-1 text-center"><em>Cyanocitta cristata</em></h6>
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr>
+                    <td>_21A4700</td>
+                    <td>3587x2391</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <a class="text-warning" data-bs-toggle="collapse" href="#E21A4700EXIF" role="button" aria-expanded="false" aria-controls="E21A4700EXIF">
+                        Image Details
+                      </a>
+                    </td>
+                    <td>
+                      <a class="text-warning" data-bs-toggle="collapse" href="#E21A4700Ref" role="button" aria-expanded="false" aria-controls="E21A4700Ref">
+                        Field Reference Details
+                      </a>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <!-- EXIF Data -->
+              <div class="collapse" id="E21A4700EXIF">
+                <table class="table table-sm table-dark text-light text-center border-light">
+                  <tbody>
+                    <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                    <tr><td>Lens</td><td>EF100-400mm f/4.5-5.6L IS USM</td></tr>
+                    <tr><td>ISO</td><td>100</td></tr>
+                    <tr><td>Aperture</td><td>f/5.6</td></tr>
+                    <tr><td>Shutter</td><td>1/320</td></tr>
+                  </tbody>
+                </table>
+              </div>
+              <div class="collapse" id="E21A4700Ref">
+                <table class="table table-sm table-dark text-light text-center border-light">
+                  <tbody>
+                    <tr><td>Plumage</td><td>Bright blue upperparts with black necklace, white underparts. Crest can be raised or lowered.</td></tr>
+                    <tr><td>Size</td><td>9–12" [23–30 cm]</td></tr>
+                    <tr><td>Color</td><td>Blue, black, white</td></tr>
+                    <tr><td>Wings</td><td>Rounded with bold black bars and white patches</td></tr>
+                    <tr><td>Tail</td><td>Long, rounded with white tips</td></tr>
+                    <tr><td>Habitat</td><td>Woodlands, forest edges, parks, and suburban areas</td></tr>
+                    <tr><td>Flight Style</td><td>Steady, direct flight with slow wingbeats</td></tr>
+                    <tr><td>Behavior</td><td>Loud, social birds; often travel in small groups. Known for caching acorns and mimicking hawk calls.</td></tr>
+                    <tr><td>Diet</td><td>Nuts, seeds, insects, fruits, and occasionally eggs or nestlings.</td></tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4 col-lg-3">
+          <div class="card bg-dark text-light border-secondary">
+            <img src="images/birds/BlueJay/E21A4701.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/birds/BlueJay/E21A4701-1.jpg" alt="Blue Jay">
+            <div class="card-body p-2">
+              <h5 class="card-title mb-1 text-center">Blue Jay</h5>
+              <h6 class="mb-1 text-center"><em>Cyanocitta cristata</em></h6>
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr>
+                    <td>_21A4700</td>
+                    <td>3587x2391</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <a class="text-warning" data-bs-toggle="collapse" href="#E21A4701EXIF" role="button" aria-expanded="false" aria-controls="E21A4701EXIF">
+                        Image Details
+                      </a>
+                    </td>
+                    <td>
+                      <a class="text-warning" data-bs-toggle="collapse" href="#E21A4701Ref" role="button" aria-expanded="false" aria-controls="E21A4701Ref">
+                        Field Reference Details
+                      </a>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <!-- EXIF Data -->
+              <div class="collapse" id="E21A4701EXIF">
+                <table class="table table-sm table-dark text-light text-center border-light">
+                  <tbody>
+                    <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                    <tr><td>Lens</td><td>EF100-400mm f/4.5-5.6L IS USM</td></tr>
+                    <tr><td>ISO</td><td>100</td></tr>
+                    <tr><td>Aperture</td><td>f/5.6</td></tr>
+                    <tr><td>Shutter</td><td>1/320</td></tr>
+                  </tbody>
+                </table>
+              </div>
+              <div class="collapse" id="E21A4701Ref">
+                <table class="table table-sm table-dark text-light text-center border-light">
+                  <tbody>
+                    <tr><td>Plumage</td><td>Bright blue upperparts with black necklace, white underparts. Crest can be raised or lowered.</td></tr>
+                    <tr><td>Size</td><td>9–12" [23–30 cm]</td></tr>
+                    <tr><td>Color</td><td>Blue, black, white</td></tr>
+                    <tr><td>Wings</td><td>Rounded with bold black bars and white patches</td></tr>
+                    <tr><td>Tail</td><td>Long, rounded with white tips</td></tr>
+                    <tr><td>Habitat</td><td>Woodlands, forest edges, parks, and suburban areas</td></tr>
+                    <tr><td>Flight Style</td><td>Steady, direct flight with slow wingbeats</td></tr>
+                    <tr><td>Behavior</td><td>Loud, social birds; often travel in small groups. Known for caching acorns and mimicking hawk calls.</td></tr>
+                    <tr><td>Diet</td><td>Nuts, seeds, insects, fruits, and occasionally eggs or nestlings.</td></tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4 col-lg-3">
+          <div class="card bg-dark text-light border-secondary">
+            <img src="images/birds/BlueJay/E21A4708.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/birds/BlueJay/E21A4708-1.jpg" alt="Blue Jay">
+            <div class="card-body p-2">
+              <h5 class="card-title mb-1 text-center">Blue Jay</h5>
+              <h6 class="mb-1 text-center"><em>Cyanocitta cristata</em></h6>
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr>
+                    <td>_21A4708</td>
+                    <td>1194x796</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <a class="text-warning" data-bs-toggle="collapse" href="#E21A4708EXIF" role="button" aria-expanded="false" aria-controls="E21A4708EXIF">
+                        Image Details
+                      </a>
+                    </td>
+                    <td>
+                      <a class="text-warning" data-bs-toggle="collapse" href="#E21A4708Ref" role="button" aria-expanded="false" aria-controls="E21A4708Ref">
+                        Field Reference Details
+                      </a>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <!-- EXIF Data -->
+              <div class="collapse" id="E21A4708EXIF">
+                <table class="table table-sm table-dark text-light text-center border-light">
+                  <tbody>
+                    <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                    <tr><td>Lens</td><td>EF100-400mm f/4.5-5.6L IS USM</td></tr>
+                    <tr><td>ISO</td><td>100</td></tr>
+                    <tr><td>Aperture</td><td>f/5.6</td></tr>
+                    <tr><td>Shutter</td><td>1/320</td></tr>
+                  </tbody>
+                </table>
+              </div>
+              <div class="collapse" id="E21A4708Ref">
+                <table class="table table-sm table-dark text-light text-center border-light">
+                  <tbody>
+                    <tr><td>Plumage</td><td>Bright blue upperparts with black collar, dingy-white underparts. Crest can be raised or lowered.</td></tr>
+                    <tr><td>Size</td><td>9–12" [23–30 cm]</td></tr>
+                    <tr><td>Color</td><td>Blue, black, white</td></tr>
+                    <tr><td>Wings</td><td>Rounded with bold black bars and white patches</td></tr>
+                    <tr><td>Tail</td><td>Long, rounded with white tips</td></tr>
+                    <tr><td>Habitat</td><td>Woodlands, forest edges, parks, and suburban areas</td></tr>
+                    <tr><td>Flight Style</td><td>Steady, direct flight with slow wingbeats</td></tr>
+                    <tr><td>Behavior</td><td>Loud, social birds; often travel in small groups. Known for caching acorns and mimicking hawk calls.</td></tr>
+                    <tr><td>Diet</td><td>Nuts, seeds, insects, fruits, and occasionally eggs or nestlings.</td></tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container py-4">
+      <div class="row g-3">
+        <div class="col-sm-12 col-md-12 col-lg-12">
+          <div class="card bg-dark text-light border-secondary">
+            <img src="images/birds/BlueJay/E21A5336_Panorama.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/birds/BlueJay/E21A5336_Panorama-1.jpg" alt="Blue Jay Flight">
+            <div class="card-body p-2">
+              <h5 class="card-title mb-1 text-center">Blue Jay Flight</h5>
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr>
+                    <td>_21A5336_Panorama</td>
+                    <td>3587x2391</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row g-3">
+        <div class="col-sm-6 col-md-4 col-lg-3">
+          <div class="card bg-dark text-light border-secondary">
+            <img src="images/birds/BlueJay/E21A5336.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A5538.jpg" alt="Blue Jay Flight">
+            <div class="card-body p-2">
+              <h5 class="card-title mb-1 text-center">Blue Jay Flight</h5>
+              <h6 class="mb-1 text-center"><em>Cyanocitta cristata</em></h6>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4 col-lg-3">
+          <div class="card bg-dark text-light border-secondary">
+            <img src="images/birds/BlueJay/E21A5337.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A5538.jpg" alt="Blue Jay Flight">
+            <div class="card-body p-2">
+              <h5 class="card-title mb-1 text-center">Blue Jay Flight</h5>
+              <h6 class="mb-1 text-center"><em>Cyanocitta cristata</em></h6>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4 col-lg-3">
+          <div class="card bg-dark text-light border-secondary">
+            <img src="images/birds/BlueJay/E21A5338.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A5538.jpg" alt="Blue Jay Flight">
+            <div class="card-body p-2">
+              <h5 class="card-title mb-1 text-center">Blue Jay Flight</h5>
+              <h6 class="mb-1 text-center"><em>Cyanocitta cristata</em></h6>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4 col-lg-3">
+          <div class="card bg-dark text-light border-secondary">
+            <div class="card-body p-2">
+              <h5 class="card-title mb-1 text-center">Blue Jay Flight</h5>
+              <h6 class="mb-1 text-center"><em>Cyanocitta cristata</em></h6>
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF100-400mm f/4.5-5.6L IS USM</td></tr>
+                  <tr><td>ISO</td><td>3200</td></tr>
+                  <tr><td>Aperture</td><td>f/5.6</td></tr>
+                  <tr><td>Shutter</td><td>1/3200</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <hr>
+      <!-- American Goldfinch -->
+      <div class="row g-3">
+        <div id="americanGoldfinch-card" class="col-sm-12 col-md-4 col-lg-4">
+          <div class="card bg-dark text-light border-secondary">
+            <img src="images/E21A2448.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2448-1.jpg" alt="American Goldfinch">
+            <div class="card-body p-2">
+              <h5 class="card-title mb-1 text-center">American Goldfinch</h5>
+              <h6 class="mb-1 text-center"><em>Spinus tristis</em></h6>
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr>
+                    <td>_21A2448</td>
+                    <td>1361x2041</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <a class="text-warning" data-bs-toggle="collapse" href="#E21A2448EXIF" role="button" aria-expanded="false" aria-controls="E21A2448EXIF">
+                        Image Details
+                      </a>
+                    </td>
+                    <td>
+                      <a class="text-warning" data-bs-toggle="collapse" href="#E21A2448Ref" role="button" aria-expanded="false" aria-controls="E21A2448Ref">
+                        Field Reference Details
+                      </a>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <!-- EXIF Data -->
+              <div class="collapse" id="E21A2448EXIF">
+                <table class="table table-sm table-dark text-light text-center border-light">
+                  <tbody>
+                    <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                    <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM</td></tr>
+                    <tr><td>ISO</td><td>4000</td></tr>
+                    <tr><td>Aperture</td><td>f/9.0</td></tr>
+                    <tr><td>Shutter</td><td>1/1250</td></tr>
+                  </tbody>
+                </table>
+              </div>
+              <div class="collapse" id="E21A2448Ref">
+                <table class="table table-sm table-dark text-light text-center border-light">
+                  <tbody>
+                    <tr><td>Plumage</td><td>Breeding males bright yellow with black cap, wings, and tail. Nonbreeding and females duller with olive tones.</td></tr>
+                    <tr><td>Size</td><td>5" [13 cm]</td></tr>
+                    <tr><td>Color</td><td>Yellow, black, white</td></tr>
+                    <tr><td>Wings</td><td>Pointed with bold white markings</td></tr>
+                    <tr><td>Tail</td><td>Short, notched</td></tr>
+                    <tr><td>Habitat</td><td>Weedy fields, gardens, roadsides, orchards</td></tr>
+                    <tr><td>Flight Style</td><td>Undulating flight with a bouncy rhythm</td></tr>
+                    <tr><td>Behavior</td><td>Feeds on seeds while perched; often seen in flocks. Nests late in summer to match seed availability.</td></tr>
+                    <tr><td>Diet</td><td>Primarily seeds from thistle, sunflower, dandelion, and other composites.</td></tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-12 col-md-4 col-lg-4">
+          <div class="card bg-dark text-light border-secondary">
+            <img src="images/E21A3383.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A3383-1.jpg" alt="American Goldfinch">
+            <div class="card-body p-2">
+              <h5 class="card-title mb-1 text-center">American Goldfinch</h5>
+              <h6 class="mb-1 text-center"><em>Spinus tristis</em></h6>
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr>
+                    <td>_21A3383</td>
+                    <td>2090x3135</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <a class="text-warning" data-bs-toggle="collapse" href="#E21A3383EXIF" role="button" aria-expanded="false" aria-controls="E21A3383EXIF">
+                        Image Details
+                      </a>
+                    </td>
+                    <td>
+                      <a class="text-warning" data-bs-toggle="collapse" href="#E21A3383Ref" role="button" aria-expanded="false" aria-controls="E21A3383Ref">
+                        Field Reference Details
+                      </a>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <!-- EXIF Data -->
+              <div class="collapse" id="E21A3383EXIF">
+                <table class="table table-sm table-dark text-light text-center border-light">
+                  <tbody>
+                    <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                    <tr><td>Lens</td><td>EF100-400mm f/4.5-5.6L IS USM</td></tr>
+                    <tr><td>ISO</td><td>100</td></tr>
+                    <tr><td>Aperture</td><td>f/8.0</td></tr>
+                    <tr><td>Shutter</td><td>1/320</td></tr>
+                  </tbody>
+                </table>
+              </div>
+              <div class="collapse" id="E21A3383Ref">
+                <table class="table table-sm table-dark text-light text-center border-light">
+                  <tbody>
+                    <tr><td>Plumage</td><td>Breeding males bright yellow with black cap, wings, and tail. Nonbreeding and females duller with olive tones.</td></tr>
+                    <tr><td>Size</td><td>5" [13 cm]</td></tr>
+                    <tr><td>Color</td><td>Yellow, black, white</td></tr>
+                    <tr><td>Wings</td><td>Pointed with bold white markings</td></tr>
+                    <tr><td>Tail</td><td>Short, notched</td></tr>
+                    <tr><td>Habitat</td><td>Weedy fields, gardens, roadsides, orchards</td></tr>
+                    <tr><td>Flight Style</td><td>Undulating flight with a bouncy rhythm</td></tr>
+                    <tr><td>Behavior</td><td>Feeds on seeds while perched; often seen in flocks. Nests late in summer to match seed availability.</td></tr>
+                    <tr><td>Diet</td><td>Primarily seeds from thistle, sunflower, dandelion, and other composites.</td></tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-12 col-md-4 col-lg-4">
+          <div class="card bg-dark text-light border-secondary">
+            <img src="images/E21A3386.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A3386-1.jpg" alt="American Goldfinch">
+            <div class="card-body p-2">
+              <h5 class="card-title mb-1 text-center">American Goldfinch</h5>
+              <h6 class="mb-1 text-center"><em>Spinus tristis</em></h6>
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr>
+                    <td>_21A3386</td>
+                    <td>2090x3135</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <a class="text-warning" data-bs-toggle="collapse" href="#E21A3386EXIF" role="button" aria-expanded="false" aria-controls="E21A3386EXIF">
+                        Image Details
+                      </a>
+                    </td>
+                    <td>
+                      <a class="text-warning" data-bs-toggle="collapse" href="#E21A3386Ref" role="button" aria-expanded="false" aria-controls="E21A3386Ref">
+                        Field Reference Details
+                      </a>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <!-- EXIF Data -->
+              <div class="collapse" id="E21A3386EXIF">
+                <table class="table table-sm table-dark text-light text-center border-light">
+                  <tbody>
+                    <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                    <tr><td>Lens</td><td>EF100-400mm f/4.5-5.6L IS USM</td></tr>
+                    <tr><td>ISO</td><td>100</td></tr>
+                    <tr><td>Aperture</td><td>f/8.0</td></tr>
+                    <tr><td>Shutter</td><td>1/320</td></tr>
+                  </tbody>
+                </table>
+              </div>
+              <div class="collapse" id="E21A3386Ref">
+                <table class="table table-sm table-dark text-light text-center border-light">
+                  <tbody>
+                    <tr><td>Plumage</td><td>Breeding males bright yellow with black cap, wings, and tail. Nonbreeding and females duller with olive tones.</td></tr>
+                    <tr><td>Size</td><td>5" [13 cm]</td></tr>
+                    <tr><td>Color</td><td>Yellow, black, white</td></tr>
+                    <tr><td>Wings</td><td>Pointed with bold white markings</td></tr>
+                    <tr><td>Tail</td><td>Short, notched</td></tr>
+                    <tr><td>Habitat</td><td>Weedy fields, gardens, roadsides, orchards</td></tr>
+                    <tr><td>Flight Style</td><td>Undulating flight with a bouncy rhythm</td></tr>
+                    <tr><td>Behavior</td><td>Feeds on seeds while perched; often seen in flocks. Nests late in summer to match seed availability.</td></tr>
+                    <tr><td>Diet</td><td>Primarily seeds from thistle, sunflower, dandelion, and other composites.</td></tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+    <!-- Common Yellowthroat -->
+        <div id="commonYellowthroat-card" class="col-sm-12 col-md-6 col-lg-6">
+          <div class="card bg-dark text-light border-secondary">
+            <img src="images/E21A2145.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2145-1.jpg" alt="Common Yellowthroat">
+            <div class="card-body p-2">
+              <h5 class="card-title mb-1 text-center">Common Yellowthroat</h5>
+              <h6 class="mb-1 text-center"><em>Geothlypis trichas</em></h6>
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr>
+                    <td>_21A2145</td>
+                    <td>2587x1725</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <a class="text-warning" data-bs-toggle="collapse" href="#E21A2145EXIF" role="button" aria-expanded="false" aria-controls="E21A2145EXIF">
+                        Image Details
+                      </a>
+                    </td>
+                    <td>
+                      <a class="text-warning" data-bs-toggle="collapse" href="#E21A2145Ref" role="button" aria-expanded="false" aria-controls="E21A2145Ref">
+                        Field Reference Details
+                      </a>
+                    </td>
+                  </tr>
+                  <tr><td colspan="2"><a href="https://www.audubon.org/field-guide/bird/common-yellowthroat">Audubon - Common Yellowthroat</a></td></tr>
+                </tbody>
+              </table>
+              <!-- EXIF Data -->
+              <div class="collapse" id="E21A2145EXIF">
+                <table class="table table-sm table-dark text-light text-center border-light">
+                  <tbody>
+                    <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                    <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM</td></tr>
+                    <tr><td>ISO</td><td>2500</td></tr>
+                    <tr><td>Aperture</td><td>f/13.0</td></tr>
+                    <tr><td>Shutter</td><td>1/100</td></tr>
+                  </tbody>
+                </table>
+              </div>
+              <div class="collapse" id="E21A2145Ref">
+                <table class="table table-sm table-dark text-light text-center border-light">
+                  <tbody>
+                    <tr><td>Plumage</td><td>Males have a black mask with white brow. Females show contrast between yellow throat and darker face; olive above with plain wings.</td></tr>
+                    <tr><td>Size</td><td>5" [13 cm]</td></tr>
+                    <tr><td>Color</td><td>Black, green, white, yellow</td></tr>
+                    <tr><td>Wings</td><td>Rounded</td></tr>
+                    <tr><td>Tail</td><td>Rounded, square-tipped</td></tr>
+                    <tr><td>Habitat</td><td>Nesting in open marshes, wetlands, dense brush.</td></tr>
+                    <tr><td>Flight Style</td><td>Strong, steady, capable of long-distance migration</td></tr>
+                    <tr><td>Behavior</td><td>Feeding in marsh, low dense growth. Occasionally makes short flights to catch insects in mid-air. Migrates at night</td></tr>
+                    <tr><td>Diet</td><td>Insects include grasshoppers, dragonflies, damselflies, catepillars, moths.</td></tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-6">
+          <div class="card bg-dark text-light border-secondary">
+            <img src="images/E21A2146.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2146-1.jpg" alt="Common Yellowthroat">
+            <div class="card-body p-2">
+              <h5 class="card-title mb-1 text-center">Common Yellowthroat</h5>
+              <h6 class="mb-1 text-center"><em>Geothlypis trichas</em></h6>
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr>
+                    <td>_21A2146</td>
+                    <td>2587x1725</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <a class="text-warning" data-bs-toggle="collapse" href="#E21A2146EXIF" role="button" aria-expanded="false" aria-controls="E21A2146EXIF">
+                        Image Details
+                      </a>
+                    </td>
+                    <td>
+                      <a class="text-warning" data-bs-toggle="collapse" href="#E21A2146Ref" role="button" aria-expanded="false" aria-controls="E21A2146Ref">
+                        Field Reference Details
+                      </a>
+                    </td>
+                  </tr>
+                    <tr><td colspan="2"><a href="https://www.allaboutbirds.org/guide/Common_Yellowthroat/id">Cornell Lab of Ornithology - Yellowthroat</a></td></tr>
+                </tbody>
+              </table>
+              <div class="collapse" id="E21A2146EXIF">
+                <table class="table table-sm table-dark text-light text-center border-light">
+                  <tbody>
+                    <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                    <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM</td></tr>
+                    <tr><td>ISO</td><td>2500</td></tr>
+                    <tr><td>Aperture</td><td>f/13.0</td></tr>
+                    <tr><td>Shutter</td><td>1/100</td></tr>
+                  </tbody>
+                </table>
+              </div>
+              <div class="collapse" id="E21A2146Ref">
+                <table class="table table-sm table-dark text-light text-center border-light">
+                  <tbody>
+                    <tr><td>Plumage</td><td>Males have a black mask with white brow. Females show contrast between yellow throat and darker face; olive above with plain wings.</td></tr>
+                    <tr><td>Size</td><td>5" [13 cm]</td></tr>
+                    <tr><td>Color</td><td>Black, green, white, yellow</td></tr>
+                    <tr><td>Wings</td><td>Rounded</td></tr>
+                    <tr><td>Tail</td><td>Rounded, square-tipped</td></tr>
+                    <tr><td>Habitat</td><td>Nesting in open marshes, wetlands, dense brush.</td></tr>
+                    <tr><td>Flight Style</td><td>Strong, steady, capable of long-distance migration</td></tr>
+                    <tr><td>Behavior</td><td>Feeding in marsh, low dense growth. Occasionally makes short flights to catch insects in mid-air. Migrates at night</td></tr>
+                    <tr><td>Diet</td><td>Insects include grasshoppers, dragonflies, damselflies, catepillars, moths.</td></tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <hr>
+    <!-- Northern Cardinal -->
+    <div class="row g-3">
+      <div id="northernCardinal-card" class="col-sm-12 col-md-6 col-lg-6">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/D79A3424.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/D79A3424.jpg" alt="Northern Cardinal">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Northern Cardinal</h5>
+            <h6 class="mb-1 text-center"><em>Cardinalis cardinalis</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>D79A3424</td>
+                  <td>1195x1793</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#D79A3424EXIF" role="button" aria-expanded="false" aria-controls="D79A3424EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#NorthernCardinalRef" role="button" aria-expanded="false" aria-controls="NorthernCardinalRef">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="D79A3424EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-300mm f/4-5.6 IS USM</td></tr>
+                  <tr><td>ISO</td><td>200</td></tr>
+                  <tr><td>Aperture</td><td>f/8.0</td></tr>
+                  <tr><td>Shutter</td><td>1/640</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-6 col-lg-6">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2159.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2159-1.jpg" alt="Northern Cardinal">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Northern Cardinal</h5>
+            <h6 class="mb-1 text-center"><em>Cardinalis cardinalis</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr><td>_21A2159</td><td>1537x1025</td></tr>
+                <tr><td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2159EXIF" role="button" aria-expanded="false" aria-controls="E21A2159EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#NorthernCardinalRef" role="button" aria-expanded="false" aria-controls="NorthernCardinalRef">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A2159EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM</td></tr>
+                  <tr><td>ISO</td><td>1000</td></tr>
+                  <tr><td>Aperture</td><td>f/13.0</td></tr>
+                  <tr><td>Shutter</td><td>1/800</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row g-3">
+      <div class="col-sm-12 col-md-12 col-lg-12">
+        <div class="card bg-dark text-light border-secondary">
+          <a class="text-warning" data-bs-toggle="collapse" href="#NorthernCardinalRef" role="button" aria-expanded="false" aria-controls="NorthernCardinalRef">
+            Field Reference Details
+          </a>
+          <!-- Reference Data -->
+          <div class="collapse" id="NorthernCardinalRef">
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr><td>Plumage</td><td>Sharp crest, black mask, large orange bill, and long tail. Males are brilliant red. Females are a reddish-brown.</td></tr>
+                <tr><td>Size</td><td>8" - 9" [20 -23 cm]</td></tr>
+                <tr><td>Color</td><td>Orange, or pink bill, and long tail. Males are brilliant red. Females are a reddish-brown.</td></tr>
+                <tr><td>Wings</td><td>Rounded,<br>Span 9" - 12" [25 - 31 cm]</td></tr>
+                <tr><td>Tail</td><td>Notched, Rounded, Square-tipped</td></tr>
+                <tr><td>Habitat</td><td>Nesting in open marshes, wetlands, dense brush.</td></tr>
+                <tr><td>Flight Style</td><td>Typically fly low to the ground. "Flap-bounding" with short bursts of wing flaps followed by brief pauses with the wings tucked near the body.</td></tr>
+                <tr><td>Behavior</td><td>Forages while hopping on ground or in low bushes.</td></tr>
+                <tr><td>Diet</td><td>Seeds, insects, berries. Mostly vegetable. Favors sunflower seeds in feeders.</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <p class="card-text mb-1 small"><a href="https://www.audubon.org/field-guide/bird/northern-cardinal" target="_blank">Audubon - Northern Cardinal</a></p>
+          <p class="card-text mb-1 small"><a href="https://www.allaboutbirds.org/guide/Northern_Cardinal" target="_blank">Cornell Lab of Ornithology - Northern Cardinal</a></p>
+          <p class="card-text mb-1 small"><a href="https://www.dimensions.com/element/northern-cardinal-cardinalis-cardinalis" target="_blank">Dimensions - Northern Cardinal</a></p>
+        </div>
+      </div>
+    </div>
+    <!-- Northern Cardinal -->
+    <div class="row g-3">
+      <div class="col-sm-12 col-md-4 col-lg-4">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2166.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2166-1.jpg" alt="Northern Cardinal">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Northern Cardinal</h5>
+            <h6 class="mb-1 text-center"><em>Cardinalis cardinalis</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2166</td>
+                  <td>1537x1025</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2166EXIF" role="button" aria-expanded="false" aria-controls="E21A2166EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#NorthernCardinalRef" role="button" aria-expanded="false" aria-controls="NorthernCardinalRef">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <div class="collapse" id="E21A2166EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM</td></tr>
+                  <tr><td>ISO</td><td>1000</td></tr>
+                  <tr><td>Aperture</td><td>f/13.0</td></tr>
+                  <tr><td>Shutter</td><td>1/800</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-4 col-lg-4">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2170.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2170-1.jpg" alt="Northern Cardinal">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Northern Cardinal</h5>
+            <h6 class="mb-1 text-center"><em>Cardinalis cardinalis</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2170</td>
+                  <td>1537x1025</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2170EXIF" role="button" aria-expanded="false" aria-controls="E21A2170EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#NorthernCardinalRef" role="button" aria-expanded="false" aria-controls="NorthernCardinalRef">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A2170EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM</td></tr>
+                  <tr><td>ISO</td><td>320</td></tr>
+                  <tr><td>Aperture</td><td>f/13.0</td></tr>
+                  <tr><td>Shutter</td><td>1/250</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-4 col-lg-4">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2173.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2173-1.jpg" alt="Northern Cardinal">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Northern Cardinal</h5>
+            <h6 class="mb-1 text-center"><em>Cardinalis cardinalis</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2173</td>
+                  <td>1537x1025</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2173EXIF" role="button" aria-expanded="false" aria-controls="E21A2173EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#NorthernCardinalRef" role="button" aria-expanded="false" aria-controls="NorthernCardinalRef">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A2173EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM</td></tr>
+                  <tr><td>ISO</td><td>500</td></tr>
+                  <tr><td>Aperture</td><td>f/16.0</td></tr>
+                  <tr><td>Shutter</td><td>1/250</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <a class="text-center" href="index.html#northernCardinal"><p>Home</p></a>
+    <hr>
+      <div class="row g-3">
+        <div class="col-sm-12 col-md-6 col-lg-3">
+            <div class="card bg-dark text-light border-secondary">
+                <h5 class="card-title mb-1 text-center">Northern Cardinal</h5>
+                <h6 class="mb-1 text-center"><em>Cardinalis cardinalis</em></h6>
+                <div class="card-body p-2">
+                    <img src="images/birds/NorthernCardinal/E21A5539.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/birds/NorthernCardinal/E21A5539-1.jpg" alt="Northern Cardinal">
+                    <table class="table table-sm table-dark text-light text-center border-light">
+                        <tbody>
+                            <tr><td>_21A5539</td><td>3404x2269</td></tr>
+                            <tr>
+                                <td><a class="text-warning" data-bs-toggle="collapse" href="#E21A5539EXIF" role="button" aria-expanded="false" aria-controls="E21A5539EXIF">Image Details</a></td>
+                                <td><a class="text-warning" data-bs-toggle="collapse" href="#E21A5539Ref" role="button" aria-expanded="false" aria-controls="E21A5539Ref">Field Reference Details</a></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <!-- EXIF Data -->
+                      <div class="collapse" id="E21A5539EXIF">
+                        <table class="table table-sm table-dark text-light text-center border-light">
+                            <tbody>
+                                <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                                <tr><td>Lens</td><td>EF100-400mm f/4.5-5.6L IS USM</td></tr>
+                                <tr><td>ISO</td><td>10000</td></tr>
+                                <tr><td>Aperture</td><td>f/13.0</td></tr>
+                                <tr><td>Shutter</td><td>1/2000</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="collapse" id="E21A5539Ref">
+                        <table class="table table-sm table-dark text-light text-center border-light">
+                        <tbody>
+                            <tr><td>Plumage</td><td>Sharp crest, black mask, large orange bill, and long tail. Males are brilliant red. Females are a reddish-brown.</td></tr>
+                            <tr><td>Size</td><td>8" - 9" [20 -23 cm]</td></tr>
+                            <tr><td>Color</td><td>Orange, or pink bill, and long tail. Males are brilliant red. Females are a reddish-brown.</td></tr>
+                            <tr><td>Wings</td><td>Rounded,<br>Span 9" - 12" [25 - 31 cm]</td></tr>
+                            <tr><td>Tail</td><td>Notched, Rounded, Square-tipped</td></tr>
+                            <tr><td>Habitat</td><td>Nesting in open marshes, wetlands, dense brush.</td></tr>
+                            <tr><td>Flight Style</td><td>Typically fly low to the ground. "Flap-bounding" with short bursts of wing flaps followed by brief pauses with the wings tucked near the body.</td></tr>
+                            <tr><td>Behavior</td><td>Forages while hopping on ground or in low bushes.</td></tr>
+                            <tr><td>Diet</td><td>Seeds, insects, berries. Mostly vegetable. Favors sunflower seeds in feeders.</td></tr>
+                        </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-3">
+            <div class="card bg-dark text-light border-secondary">
+                <h5 class="card-title mb-1 text-center">Northern Cardinal</h5>
+                <h6 class="mb-1 text-center"><em>Cardinalis cardinalis</em></h6>
+                <div class="card-body p-2">
+                    <img src="images/birds/NorthernCardinal/E21A5540.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/birds/NorthernCardinal/E21A5540-1.jpg" alt="Northern Cardinal">
+                    <table class="table table-sm table-dark text-light text-center border-light">
+                        <tbody>
+                            <tr><td>_21A5540</td><td>3404x2269</td></tr>
+                            <tr>
+                                <td><a class="text-warning" data-bs-toggle="collapse" href="#E21A5540EXIF" role="button" aria-expanded="false" aria-controls="E21A5540EXIF">Image Details</a></td>
+                                <td><a class="text-warning" data-bs-toggle="collapse" href="#E21A5540Ref" role="button" aria-expanded="false" aria-controls="E21A5540Ref">Field Reference Details</a></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <!-- EXIF Data -->
+                      <div class="collapse" id="E21A5540EXIF">
+                        <table class="table table-sm table-dark text-light text-center border-light">
+                            <tbody>
+                                <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                                <tr><td>Lens</td><td>EF100-400mm f/4.5-5.6L IS USM</td></tr>
+                                <tr><td>ISO</td><td>10000</td></tr>
+                                <tr><td>Aperture</td><td>f/13.0</td></tr>
+                                <tr><td>Shutter</td><td>1/2000</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="collapse" id="E21A5540Ref">
+                        <table class="table table-sm table-dark text-light text-center border-light">
+                        <tbody>
+                            <tr><td>Plumage</td><td>Sharp crest, black mask, large orange bill, and long tail. Males are brilliant red. Females are a reddish-brown.</td></tr>
+                            <tr><td>Size</td><td>8" - 9" [20 -23 cm]</td></tr>
+                            <tr><td>Color</td><td>Orange, or pink bill, and long tail. Males are brilliant red. Females are a reddish-brown.</td></tr>
+                            <tr><td>Wings</td><td>Rounded,<br>Span 9" - 12" [25 - 31 cm]</td></tr>
+                            <tr><td>Tail</td><td>Notched, Rounded, Square-tipped</td></tr>
+                            <tr><td>Habitat</td><td>Nesting in open marshes, wetlands, dense brush.</td></tr>
+                            <tr><td>Flight Style</td><td>Typically fly low to the ground. "Flap-bounding" with short bursts of wing flaps followed by brief pauses with the wings tucked near the body.</td></tr>
+                            <tr><td>Behavior</td><td>Forages while hopping on ground or in low bushes.</td></tr>
+                            <tr><td>Diet</td><td>Seeds, insects, berries. Mostly vegetable. Favors sunflower seeds in feeders.</td></tr>
+                        </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+                <div class="col-sm-12 col-md-6 col-lg-3">
+                    <div class="card bg-dark text-light border-secondary">
+                        <h5 class="card-title mb-1 text-center">Northern Cardinal</h5>
+                        <h6 class="mb-1 text-center"><em>Cardinalis cardinalis</em></h6>
+                        <div class="card-body p-2">
+                            <img src="images/birds/NorthernCardinal/E21A5541.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/birds/NorthernCardinal/E21A5541-1.jpg" alt="Northern Cardinal">
+                            <table class="table table-sm table-dark text-light text-center border-light">
+                                <tbody>
+                                    <tr><td>_21A5541</td><td>3404x2269</td></tr>
+                                    <tr>
+                                        <td><a class="text-warning" data-bs-toggle="collapse" href="#E21A5541EXIF" role="button" aria-expanded="false" aria-controls="E21A5541EXIF">Image Details</a></td>
+                                        <td><a class="text-warning" data-bs-toggle="collapse" href="#E21A5541Ref" role="button" aria-expanded="false" aria-controls="E21A5541Ref">Field Reference Details</a></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <!-- EXIF Data -->
+                             <div class="collapse" id="E21A5541EXIF">
+                                <table class="table table-sm table-dark text-light text-center border-light">
+                                    <tbody>
+                                        <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                                        <tr><td>Lens</td><td>EF100-400mm f/4.5-5.6L IS USM</td></tr>
+                                        <tr><td>ISO</td><td>10000</td></tr>
+                                        <tr><td>Aperture</td><td>f/13.0</td></tr>
+                                        <tr><td>Shutter</td><td>1/2000</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="collapse" id="E21A5541Ref">
+                                <table class="table table-sm table-dark text-light text-center border-light">
+                                <tbody>
+                                    <tr><td>Plumage</td><td>Sharp crest, black mask, large orange bill, and long tail. Males are brilliant red. Females are a reddish-brown.</td></tr>
+                                    <tr><td>Size</td><td>8" - 9" [20 -23 cm]</td></tr>
+                                    <tr><td>Color</td><td>Orange, or pink bill, and long tail. Males are brilliant red. Females are a reddish-brown.</td></tr>
+                                    <tr><td>Wings</td><td>Rounded,<br>Span 9" - 12" [25 - 31 cm]</td></tr>
+                                    <tr><td>Tail</td><td>Notched, Rounded, Square-tipped</td></tr>
+                                    <tr><td>Habitat</td><td>Nesting in open marshes, wetlands, dense brush.</td></tr>
+                                    <tr><td>Flight Style</td><td>Typically fly low to the ground. "Flap-bounding" with short bursts of wing flaps followed by brief pauses with the wings tucked near the body.</td></tr>
+                                    <tr><td>Behavior</td><td>Forages while hopping on ground or in low bushes.</td></tr>
+                                    <tr><td>Diet</td><td>Seeds, insects, berries. Mostly vegetable. Favors sunflower seeds in feeders.</td></tr>
+                                </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-6 col-lg-3">
+                    <div class="card bg-dark text-light border-secondary">
+                        <h5 class="card-title mb-1 text-center">Northern Cardinal</h5>
+                        <h6 class="mb-1 text-center"><em>Cardinalis cardinalis</em></h6>
+                        <div class="card-body p-2">
+                            <img src="images/birds/NorthernCardinal/E21A5542.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/birds/NorthernCardinal/E21A5542-1.jpg" alt="Northern Cardinal">
+                            <table class="table table-sm table-dark text-light text-center border-light">
+                                <tbody>
+                                    <tr><td>_21A5542</td><td>3404x2269</td></tr>
+                                    <tr>
+                                        <td><a class="text-warning" data-bs-toggle="collapse" href="#E21A5542EXIF" role="button" aria-expanded="false" aria-controls="E21A5542EXIF">Image Details</a></td>
+                                        <td><a class="text-warning" data-bs-toggle="collapse" href="#E21A5542Ref" role="button" aria-expanded="false" aria-controls="E21A5542Ref">Field Reference Details</a></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <!-- EXIF Data -->
+                             <div class="collapse" id="E21A5542EXIF">
+                                <table class="table table-sm table-dark text-light text-center border-light">
+                                    <tbody>
+                                        <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                                        <tr><td>Lens</td><td>EF100-400mm f/4.5-5.6L IS USM</td></tr>
+                                        <tr><td>ISO</td><td>10000</td></tr>
+                                        <tr><td>Aperture</td><td>f/13.0</td></tr>
+                                        <tr><td>Shutter</td><td>1/2000</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="collapse" id="E21A5542Ref">
+                                <table class="table table-sm table-dark text-light text-center border-light">
+                                <tbody>
+                                    <tr><td>Plumage</td><td>Sharp crest, black mask, large orange bill, and long tail. Males are brilliant red. Females are a reddish-brown.</td></tr>
+                                    <tr><td>Size</td><td>8" - 9" [20 -23 cm]</td></tr>
+                                    <tr><td>Color</td><td>Orange, or pink bill, and long tail. Males are brilliant red. Females are a reddish-brown.</td></tr>
+                                    <tr><td>Wings</td><td>Rounded,<br>Span 9" - 12" [25 - 31 cm]</td></tr>
+                                    <tr><td>Tail</td><td>Notched, Rounded, Square-tipped</td></tr>
+                                    <tr><td>Habitat</td><td>Nesting in open marshes, wetlands, dense brush.</td></tr>
+                                    <tr><td>Flight Style</td><td>Typically fly low to the ground. "Flap-bounding" with short bursts of wing flaps followed by brief pauses with the wings tucked near the body.</td></tr>
+                                    <tr><td>Behavior</td><td>Forages while hopping on ground or in low bushes.</td></tr>
+                                    <tr><td>Diet</td><td>Seeds, insects, berries. Mostly vegetable. Favors sunflower seeds in feeders.</td></tr>
+                                </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    <!-- Cedar Waxwing -->
+    <div class="row g-3">
+      <div id="cedarWaxwing-card" class="col-sm-12 col-md-6 col-lg-6">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2064.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2064.jpg" alt="Cedar Waxwings and Indigo Bunting">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Cedar Waxwings and Indigo Bunting</h5>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2064</td>
+                  <td>1115x1673</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2064EXIF" role="button" aria-expanded="false" aria-controls="E21A2064EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#CedarWaxwingRef" role="button" aria-expanded="false" aria-controls="CedarWaxwingRef">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A2064EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM</td></tr>
+                  <tr><td>ISO</td><td>250</td></tr>
+                  <tr><td>Aperture</td><td>f/13.0</td></tr>
+                  <tr><td>Shutter</td><td>1/250</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2067.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2067.jpg" alt="Cedar Waxwing">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Cedar Waxwings and Indigo Bunting</h5>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2067</td>
+                  <td>1115x1673</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2067EXIF" role="button" aria-expanded="false" aria-controls="E21A2067EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#CedarWaxwingRef" role="button" aria-expanded="false" aria-controls="CedarWaxwingRef">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          -->
+            <!-- EXIF Data -->
+             <!--
+            <div class="collapse" id="E21A2067EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM</td></tr>
+                  <tr><td>ISO</td><td>250</td></tr>
+                  <tr><td>Aperture</td><td>f/13.0</td></tr>
+                  <tr><td>Shutter</td><td>1/250</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    -->
+      <div class="col-sm-12 col-md-6 col-lg-6">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A1623.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A1623.jpg" alt="Cedar Waxwing">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Cedar Waxwing</h5>
+            <h6 class="mb-1 text-center"><em>Bombycilla cedrorum</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A1623</td>
+                  <td>1191x1786</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A1623EXIF" role="button" aria-expanded="false" aria-controls="E21A1623EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#CedarWaxwingRef" role="button" aria-expanded="false" aria-controls="CedarWaxwingRef">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A1623EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM</td></tr>
+                  <tr><td>ISO</td><td>200</td></tr>
+                  <tr><td>Aperture</td><td>f/11.0</td></tr>
+                  <tr><td>Shutter</td><td>1/125</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-4 col-lg-4">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2121.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2121-1.jpg" alt="Cedar Waxwing">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Cedar Waxwing</h5>
+            <h6 class="mb-1 text-center"><em>Bombycilla cedrorum</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2121</td>
+                  <td>1014x1521</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2121EXIF" role="button" aria-expanded="false" aria-controls="E21A2121EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#CedarWaxwingRef" role="button" aria-expanded="false" aria-controls="CedarWaxwingRef">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A2121EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM</td></tr>
+                  <tr><td>ISO</td><td>250</td></tr>
+                  <tr><td>Aperture</td><td>f/13.0</td></tr>
+                  <tr><td>Shutter</td><td>1/320</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-4 col-lg-4">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2122.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2122-1.jpg" alt="Cedar Waxwing">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Cedar Waxwing</h5>
+            <h6 class="mb-1 text-center"><em>Bombycilla cedrorum</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2122</td>
+                  <td>1014x1521</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2122EXIF" role="button" aria-expanded="false" aria-controls="E21A2122EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#CedarWaxwingRef" role="button" aria-expanded="false" aria-controls="CedarWaxwingRef">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A2122EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM</td></tr>
+                  <tr><td>ISO</td><td>200</td></tr>
+                  <tr><td>Aperture</td><td>f/13.0</td></tr>
+                  <tr><td>Shutter</td><td>1/320</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-4 col-lg-4">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2128.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2128-1.jpg" alt="Cedar Waxwing">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Cedar Waxwing</h5>
+            <h6 class="mb-1 text-center"><em>Bombycilla cedrorum</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2128</td>
+                  <td>1014x1521</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2128EXIF" role="button" aria-expanded="false" aria-controls="E21A2128EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#CedarWaxwingRef" role="button" aria-expanded="false" aria-controls="CedarWaxwingRef">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A2128EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-300mm f/4-5.6 IS USM</td></tr>
+                  <tr><td>ISO</td><td>320</td></tr>
+                  <tr><td>Aperture</td><td>f/13.0</td></tr>
+                  <tr><td>Shutter</td><td>1/320</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="text-center" href="index.html#cedarWaxwing">Home</a>
+    </div>
+    <hr>
+    <div class="row g-3">
+      <div class="col-sm-12 col-md-4 col-lg-4">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/D79A3388.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/D79A3388.jpg" alt="Brown Thrasher">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1">Brown Thrasher</h5>
+            <p class="card-text mb-1 small">Photo ID: D79A3388</p>
+            <p class="card-text small">800x1200</p>
+          </div>
+        </div>
+        <a class="text-center" href="index.html#brownThrasher">Home</a>
+      </div>
+    <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2038.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2038-1.jpg" alt="Sandhill Cranes">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1">Sandhill Cranes</h5>
+            <p class="card-text mb-1 small">Photo ID: _21A2038</p>
+            <p class="card-text small">1022x1533</p>
+          </div>
+        </div>
+      <a class="text-center" href="index.html#sandhillCrane">Home</a>
+      </div>
+      <div id="songSparrow-card" class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A1917-2.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A1917-2.jpg" alt="Song Sparrow on Mullien">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Song Sparrow on Mullien</h5>
+            <h6 class="mb-1 text-center"><em>Melospiza melodia</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A1917-2</td>
+                  <td>2892x1928</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A1917-2EXIF" role="button" aria-expanded="false" aria-controls="E21A1917-2EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A1917-2Ref" role="button" aria-expanded="false" aria-controls="E21A1917-2Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A1917-2EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                  <tr><td>ISO</td><td>200</td></tr>
+                  <tr><td>Aperture</td><td>f/16.0</td></tr>
+                  <tr><td>Shutter</td><td>1/50</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A1917-2Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Plumage</td><td>Streaked brown with gray face and central dark chest spot. Variation across range.</td></tr>
+                  <tr><td>Size</td><td>6" [15 cm]</td></tr>
+                  <tr><td>Color</td><td>Brown, white, gray</td></tr>
+                  <tr><td>Wings</td><td>Rounded with dark streaks</td></tr>
+                  <tr><td>Tail</td><td>Long, rounded</td></tr>
+                  <tr><td>Habitat</td><td>Fields, brushy edges, marshes, gardens</td></tr>
+                  <tr><td>Flight Style</td><td>Short, low, fluttering flights</td></tr>
+                  <tr><td>Behavior</td><td>Sings from prominent perches; scratches on the ground for food</td></tr>
+                  <tr><td>Diet</td><td>Seeds, insects, spiders, berries</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <!-- Nashville Warbler -->
+    <div class="row g-3">
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A3753.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A3753-1.jpg" alt="Nashville Warbler">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Nashville Warbler</h5>
+            <h6 class="mb-1 text-center"><em>Leiothlypis ruficapilla</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A3753</td>
+                  <td>4198x2799</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A3753EXIF" role="button" aria-expanded="false" aria-controls="E21A3753EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A3753Ref" role="button" aria-expanded="false" aria-controls="E21A3753Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A3753EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF100-400mm f/4.5-5.6L IS USM</td></tr>
+                  <tr><td>ISO</td><td>20000</td></tr>
+                  <tr><td>Aperture</td><td>f/13.0</td></tr>
+                  <tr><td>Shutter</td><td>1/3200</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A3753Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Wings</td><td>Olive-green with no wing bars; short and rounded.</td></tr>
+                  <tr><td>Body</td><td>Bright yellow underparts with olive back; small, slim profile.</td></tr>
+                  <tr><td>Head</td><td>Gray hood with faint white eye ring; males may show a rusty crown patch (often concealed).</td></tr>
+                  <tr><td>Bill</td><td>Small, thin, and pointed; insectivorous.</td></tr>
+                  <tr><td>Size</td><td>About 4.3–5.1 in (11–13 cm) in length; wingspan ~7.5 in (19 cm).</td></tr>
+                  <tr><td>Habitat / Behavior</td><td>Favors shrubby edges, young forests, and thickets; actively forages for insects, often flicking tail while gleaning foliage.</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A3756.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A3756-1.jpg" alt="Nashville Warbler">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Nashville Warbler</h5>
+            <h6 class="mb-1 text-center"><em>Leiothlypis ruficapilla</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A3756</td>
+                  <td>4198x2799</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A3756EXIF" role="button" aria-expanded="false" aria-controls="E21A3756EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A3756Ref" role="button" aria-expanded="false" aria-controls="E21A3756Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A3756EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF100-400mm f/4.5-5.6L IS USM</td></tr>
+                  <tr><td>ISO</td><td>16000</td></tr>
+                  <tr><td>Aperture</td><td>f/13.0</td></tr>
+                  <tr><td>Shutter</td><td>1/3200</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A376Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Wings</td><td>Olive-green with no wing bars; short and rounded.</td></tr>
+                  <tr><td>Body</td><td>Bright yellow underparts with olive back; small, slim profile.</td></tr>
+                  <tr><td>Head</td><td>Gray hood with faint white eye ring; males may show a rusty crown patch (often concealed).</td></tr>
+                  <tr><td>Bill</td><td>Small, thin, and pointed; insectivorous.</td></tr>
+                  <tr><td>Size</td><td>About 4.3–5.1 in (11–13 cm) in length; wingspan ~7.5 in (19 cm).</td></tr>
+                  <tr><td>Habitat / Behavior</td><td>Favors shrubby edges, young forests, and thickets; actively forages for insects, often flicking tail while gleaning foliage.</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A3758.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A3758-1.jpg" alt="Nashville Warbler">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Nashville Warbler</h5>
+            <h6 class="mb-1 text-center"><em>Leiothlypis ruficapilla</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A3758</td>
+                  <td>4198x2799</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A3758EXIF" role="button" aria-expanded="false" aria-controls="E21A3758EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A3758Ref" role="button" aria-expanded="false" aria-controls="E21A3758Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A3758EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF100-400mm f/4.5-5.6L IS USM</td></tr>
+                  <tr><td>ISO</td><td>16000</td></tr>
+                  <tr><td>Aperture</td><td>f/13.0</td></tr>
+                  <tr><td>Shutter</td><td>1/3200</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A3758Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Wings</td><td>Olive-green with no wing bars; short and rounded.</td></tr>
+                  <tr><td>Body</td><td>Bright yellow underparts with olive back; small, slim profile.</td></tr>
+                  <tr><td>Head</td><td>Gray hood with faint white eye ring; males may show a rusty crown patch (often concealed).</td></tr>
+                  <tr><td>Bill</td><td>Small, thin, and pointed; insectivorous.</td></tr>
+                  <tr><td>Size</td><td>About 4.3–5.1 in (11–13 cm) in length; wingspan ~7.5 in (19 cm).</td></tr>
+                  <tr><td>Habitat / Behavior</td><td>Favors shrubby edges, young forests, and thickets; actively forages for insects, often flicking tail while gleaning foliage.</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A3760.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A3760-1.jpg" alt="Nashville Warbler">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Nashville Warbler</h5>
+            <h6 class="mb-1 text-center"><em>Leiothlypis ruficapilla</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A3760</td>
+                  <td>4198x2799</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A3760EXIF" role="button" aria-expanded="false" aria-controls="E21A3760EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A3760Ref" role="button" aria-expanded="false" aria-controls="E21A3760Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A3760EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF100-400mm f/4.5-5.6L IS USM</td></tr>
+                  <tr><td>ISO</td><td>12800</td></tr>
+                  <tr><td>Aperture</td><td>f/13.0</td></tr>
+                  <tr><td>Shutter</td><td>1/3200</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A3760Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Wings</td><td>Olive-green with no wing bars; short and rounded.</td></tr>
+                  <tr><td>Body</td><td>Bright yellow underparts with olive back; small, slim profile.</td></tr>
+                  <tr><td>Head</td><td>Gray hood with faint white eye ring; males may show a rusty crown patch (often concealed).</td></tr>
+                  <tr><td>Bill</td><td>Small, thin, and pointed; insectivorous.</td></tr>
+                  <tr><td>Size</td><td>About 4.3–5.1 in (11–13 cm) in length; wingspan ~7.5 in (19 cm).</td></tr>
+                  <tr><td>Habitat / Behavior</td><td>Favors shrubby edges, young forests, and thickets; actively forages for insects, often flicking tail while gleaning foliage.</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <!-- Nashville Warbler -->
+    <div class="row g-3">
+      <div id="houseWren-card" class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2644.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2644-1.jpg" alt="House Wren">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">House Wren</h5>
+            <h6 class="mb-1 text-center"><em>Troglodytes aedon</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2644</td>
+                  <td>2892x1928</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2644EXIF" role="button" aria-expanded="false" aria-controls="E21A2644EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2644Ref" role="button" aria-expanded="false" aria-controls="E21A2644Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A2644EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                  <tr><td>ISO</td><td>400</td></tr>
+                  <tr><td>Aperture</td><td>f/5.6</td></tr>
+                  <tr><td>Shutter</td><td>1/400</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A2644Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Plumage</td><td>Warm rufous-brown above; paler buffy underparts with faint streaking; faint barring on wings and tail.</td></tr>
+                  <tr><td>Size</td><td>4.3–5.1" [11–13 cm]</td></tr>
+                  <tr><td>Color</td><td>Rufous-brown, buff, grayish tones</td></tr>
+                  <tr><td>Wings</td><td>Short, rounded with subtle barring</td></tr>
+                  <tr><td>Tail</td><td>Short, rounded; frequently held cocked upward</td></tr>
+                  <tr><td>Habitat</td><td>Brushy edges, thickets, shrubby yards, woodland edges, nest boxes and cavities</td></tr>
+                  <tr><td>Flight Style</td><td>Short, rapid, low flights with quick wingbeats and brief glides</td></tr>
+                  <tr><td>Behavior</td><td>Active, often creeping in dense cover; frequently perches conspicuously while singing</td></tr>
+                  <tr><td>Diet</td><td>Primarily insects & spiders; may take small berries/fruit in non-breeding season</td></tr>
+                  <tr><td>Voice</td><td>Loud, bubbly warbling and rattling trills; sharp "chik/chek" calls</td></tr>
+                  <tr><td>Nesting</td><td>Uses cavities, nest boxes, and artificial cavities; builds a loose cup of grasses/feathers</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2645.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2645-1.jpg" alt="House Wren">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">House Wren</h5>
+            <h6 class="mb-1 text-center"><em>Troglodytes aedon</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2645</td>
+                  <td>4170x2780</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2645EXIF" role="button" aria-expanded="false" aria-controls="E21A2645EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2645Ref" role="button" aria-expanded="false" aria-controls="E21A2645Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A2645EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                  <tr><td>ISO</td><td>400</td></tr>
+                  <tr><td>Aperture</td><td>f/5.6</td></tr>
+                  <tr><td>Shutter</td><td>1/400</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A2645Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Plumage</td><td>Warm rufous-brown above; paler buffy underparts with faint streaking; faint barring on wings and tail.</td></tr>
+                  <tr><td>Size</td><td>4.3–5.1" [11–13 cm]</td></tr>
+                  <tr><td>Color</td><td>Rufous-brown, buff, grayish tones</td></tr>
+                  <tr><td>Wings</td><td>Short, rounded with subtle barring</td></tr>
+                  <tr><td>Tail</td><td>Short, rounded; frequently held cocked upward</td></tr>
+                  <tr><td>Habitat</td><td>Brushy edges, thickets, shrubby yards, woodland edges, nest boxes and cavities</td></tr>
+                  <tr><td>Flight Style</td><td>Short, rapid, low flights with quick wingbeats and brief glides</td></tr>
+                  <tr><td>Behavior</td><td>Active, often creeping in dense cover; frequently perches conspicuously while singing</td></tr>
+                  <tr><td>Diet</td><td>Primarily insects & spiders; may take small berries/fruit in non-breeding season</td></tr>
+                  <tr><td>Voice</td><td>Loud, bubbly warbling and rattling trills; sharp "chik/chek" calls</td></tr>
+                  <tr><td>Nesting</td><td>Uses cavities, nest boxes, and artificial cavities; builds a loose cup of grasses/feathers</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2646.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2646-1.jpg" alt="House Wren">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">House Wren</h5>
+            <h6 class="mb-1 text-center"><em>Troglodytes aedon</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2646</td>
+                  <td>4170x2780</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2646EXIF" role="button" aria-expanded="false" aria-controls="E21A2646EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2646Ref" role="button" aria-expanded="false" aria-controls="E21A2646Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A2646EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                  <tr><td>ISO</td><td>800</td></tr>
+                  <tr><td>Aperture</td><td>f/8.0</td></tr>
+                  <tr><td>Shutter</td><td>1/200</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A2646Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Plumage</td><td>Warm rufous-brown above; paler buffy underparts with faint streaking; faint barring on wings and tail.</td></tr>
+                  <tr><td>Size</td><td>4.3–5.1" [11–13 cm]</td></tr>
+                  <tr><td>Color</td><td>Rufous-brown, buff, grayish tones</td></tr>
+                  <tr><td>Wings</td><td>Short, rounded with subtle barring</td></tr>
+                  <tr><td>Tail</td><td>Short, rounded; frequently held cocked upward</td></tr>
+                  <tr><td>Habitat</td><td>Brushy edges, thickets, shrubby yards, woodland edges, nest boxes and cavities</td></tr>
+                  <tr><td>Flight Style</td><td>Short, rapid, low flights with quick wingbeats and brief glides</td></tr>
+                  <tr><td>Behavior</td><td>Active, often creeping in dense cover; frequently perches conspicuously while singing</td></tr>
+                  <tr><td>Diet</td><td>Primarily insects & spiders; may take small berries/fruit in non-breeding season</td></tr>
+                  <tr><td>Voice</td><td>Loud, bubbly warbling and rattling trills; sharp "chik/chek" calls</td></tr>
+                  <tr><td>Nesting</td><td>Uses cavities, nest boxes, and artificial cavities; builds a loose cup of grasses/feathers</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2648.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2648-1.jpg" alt="House Wren">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">House Wren</h5>
+            <h6 class="mb-1 text-center"><em>Troglodytes aedon</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2645</td>
+                  <td>4674x3116</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2648EXIF" role="button" aria-expanded="false" aria-controls="E21A2648EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2648Ref" role="button" aria-expanded="false" aria-controls="E21A2648Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A2648EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                  <tr><td>ISO</td><td>200</td></tr>
+                  <tr><td>Aperture</td><td>f/8.0</td></tr>
+                  <tr><td>Shutter</td><td>1/200</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A2648Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Plumage</td><td>Warm rufous-brown above; paler buffy underparts with faint streaking; faint barring on wings and tail.</td></tr>
+                  <tr><td>Size</td><td>4.3–5.1" [11–13 cm]</td></tr>
+                  <tr><td>Color</td><td>Rufous-brown, buff, grayish tones</td></tr>
+                  <tr><td>Wings</td><td>Short, rounded with subtle barring</td></tr>
+                  <tr><td>Tail</td><td>Short, rounded; frequently held cocked upward</td></tr>
+                  <tr><td>Habitat</td><td>Brushy edges, thickets, shrubby yards, woodland edges, nest boxes and cavities</td></tr>
+                  <tr><td>Flight Style</td><td>Short, rapid, low flights with quick wingbeats and brief glides</td></tr>
+                  <tr><td>Behavior</td><td>Active, often creeping in dense cover; frequently perches conspicuously while singing</td></tr>
+                  <tr><td>Diet</td><td>Primarily insects & spiders; may take small berries/fruit in non-breeding season</td></tr>
+                  <tr><td>Voice</td><td>Loud, bubbly warbling and rattling trills; sharp "chik/chek" calls</td></tr>
+                  <tr><td>Nesting</td><td>Uses cavities, nest boxes, and artificial cavities; builds a loose cup of grasses/feathers</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="text-center" href="index.html#HouseWren">Home</a>
+    </div>
+    <hr>
+    <!-- Black-capped Chickadee -->
+    <div class="row g-3">
+      <div id="black-CappedChickadee-card" class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2651.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2651-1.jpg" alt="Black-capped Chickadee">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Black-capped Chickadee</h5>
+            <h6 class="mb-1 text-center"><em>Poecile atricapillus</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2651</td>
+                  <td>4674x3116</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2651EXIF" role="button" aria-expanded="false" aria-controls="E21A2651EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2651Ref" role="button" aria-expanded="false" aria-controls="E21A2651Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A2651EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                  <tr><td>ISO</td><td>800</td></tr>
+                  <tr><td>Aperture</td><td>f/5.6</td></tr>
+                  <tr><td>Shutter</td><td>1/800</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A2651Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Plumage</td><td>Bold black cap and bib with white cheeks; gray back and wings; buffy flanks and underparts.</td></tr>
+                  <tr><td>Size</td><td>4.7–5.9" [12–15 cm]</td></tr>
+                  <tr><td>Color</td><td>Black, white, gray, buff</td></tr>
+                  <tr><td>Wings</td><td>Short, rounded; subtle pale feather edges visible on close inspection</td></tr>
+                  <tr><td>Tail</td><td>Medium-length, narrow; often flicked</td></tr>
+                  <tr><td>Habitat</td><td>Mixed and deciduous woods, parks, suburban yards, feeders</td></tr>
+                  <tr><td>Flight Style</td><td>Undulating with quick wingbeats and short glides</td></tr>
+                  <tr><td>Behavior</td><td>Curious and bold; often hangs upside-down on branches; frequently visits feeders</td></tr>
+                  <tr><td>Diet</td><td>Insects & spiders (breeding season), seeds and berries (winter); caches food</td></tr>
+                  <tr><td>Voice</td><td>Clear "chick-a-dee-dee-dee" calls; high, two-note "fee-bee" or "hey-sweetie" song (regional variation)</td></tr>
+                  <tr><td>Nesting</td><td>Nests in tree cavities or nest boxes; may excavate soft wood; uses moss, fur, and feathers for lining</td></tr>
+                  <tr><td>Range</td><td>Across much of North America — year-round resident in most of its range</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2652.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2652-1.jpg" alt="Black-capped Chickadee">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Black-capped Chickadee</h5>
+            <h6 class="mb-1 text-center"><em>Poecile atricapillus</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2652</td>
+                  <td>4665x3110</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2652EXIF" role="button" aria-expanded="false" aria-controls="E21A2652EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2652Ref" role="button" aria-expanded="false" aria-controls="E21A2652Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A2652EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                  <tr><td>ISO</td><td>800</td></tr>
+                  <tr><td>Aperture</td><td>f/5.6</td></tr>
+                  <tr><td>Shutter</td><td>1/800</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A2652Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Plumage</td><td>Bold black cap and bib with white cheeks; gray back and wings; buffy flanks and underparts.</td></tr>
+                  <tr><td>Size</td><td>4.7–5.9" [12–15 cm]</td></tr>
+                  <tr><td>Color</td><td>Black, white, gray, buff</td></tr>
+                  <tr><td>Wings</td><td>Short, rounded; subtle pale feather edges visible on close inspection</td></tr>
+                  <tr><td>Tail</td><td>Medium-length, narrow; often flicked</td></tr>
+                  <tr><td>Habitat</td><td>Mixed and deciduous woods, parks, suburban yards, feeders</td></tr>
+                  <tr><td>Flight Style</td><td>Undulating with quick wingbeats and short glides</td></tr>
+                  <tr><td>Behavior</td><td>Curious and bold; often hangs upside-down on branches; frequently visits feeders</td></tr>
+                  <tr><td>Diet</td><td>Insects & spiders (breeding season), seeds and berries (winter); caches food</td></tr>
+                  <tr><td>Voice</td><td>Clear "chick-a-dee-dee-dee" calls; high, two-note "fee-bee" or "hey-sweetie" song (regional variation)</td></tr>
+                  <tr><td>Nesting</td><td>Nests in tree cavities or nest boxes; may excavate soft wood; uses moss, fur, and feathers for lining</td></tr>
+                  <tr><td>Range</td><td>Across much of North America — year-round resident in most of its range</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2653.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2653-1.jpg" alt="Black-capped Chickadee">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Black-capped Chickadee</h5>
+            <h6 class="mb-1 text-center"><em>Poecile atricapillus</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2653</td>
+                  <td>4674x3116</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2653EXIF" role="button" aria-expanded="false" aria-controls="E21A2653EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2653Ref" role="button" aria-expanded="false" aria-controls="E21A2653Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A2653EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                  <tr><td>ISO</td><td>800</td></tr>
+                  <tr><td>Aperture</td><td>f/5.6</td></tr>
+                  <tr><td>Shutter</td><td>1/800</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A2653Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Species</td><td><em>Poecile atricapillus</em> — Black-capped Chickadee</td></tr>
+                  <tr><td>Plumage</td><td>Bold black cap and bib with white cheeks; gray back and wings; buffy flanks and underparts.</td></tr>
+                  <tr><td>Size</td><td>4.7–5.9" [12–15 cm]</td></tr>
+                  <tr><td>Color</td><td>Black, white, gray, buff</td></tr>
+                  <tr><td>Wings</td><td>Short, rounded; subtle pale feather edges visible on close inspection</td></tr>
+                  <tr><td>Tail</td><td>Medium-length, narrow; often flicked</td></tr>
+                  <tr><td>Habitat</td><td>Mixed and deciduous woods, parks, suburban yards, feeders</td></tr>
+                  <tr><td>Flight Style</td><td>Undulating with quick wingbeats and short glides</td></tr>
+                  <tr><td>Behavior</td><td>Curious and bold; often hangs upside-down on branches; frequently visits feeders</td></tr>
+                  <tr><td>Diet</td><td>Insects & spiders (breeding season), seeds and berries (winter); caches food</td></tr>
+                  <tr><td>Voice</td><td>Clear "chick-a-dee-dee-dee" calls; high, two-note "fee-bee" or "hey-sweetie" song (regional variation)</td></tr>
+                  <tr><td>Nesting</td><td>Nests in tree cavities or nest boxes; may excavate soft wood; uses moss, fur, and feathers for lining</td></tr>
+                  <tr><td>Range</td><td>Across much of North America — year-round resident in most of its range</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2654.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2654-1.jpg" alt="Black-capped Chickadee">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Black-capped Chickadee</h5>
+            <h6 class="mb-1 text-center"><em>Poecile atricapillus</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2654</td>
+                  <td>4674x3116</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2654EXIF" role="button" aria-expanded="false" aria-controls="E21A2654EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2654Ref" role="button" aria-expanded="false" aria-controls="E21A2654Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A2654EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                  <tr><td>ISO</td><td>800</td></tr>
+                  <tr><td>Aperture</td><td>f/5.6</td></tr>
+                  <tr><td>Shutter</td><td>1/800</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A2654Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Species</td><td><em>Poecile atricapillus</em> — Black-capped Chickadee</td></tr>
+                  <tr><td>Plumage</td><td>Bold black cap and bib with white cheeks; gray back and wings; buffy flanks and underparts.</td></tr>
+                  <tr><td>Size</td><td>4.7–5.9" [12–15 cm]</td></tr>
+                  <tr><td>Color</td><td>Black, white, gray, buff</td></tr>
+                  <tr><td>Wings</td><td>Short, rounded; subtle pale feather edges visible on close inspection</td></tr>
+                  <tr><td>Tail</td><td>Medium-length, narrow; often flicked</td></tr>
+                  <tr><td>Habitat</td><td>Mixed and deciduous woods, parks, suburban yards, feeders</td></tr>
+                  <tr><td>Flight Style</td><td>Undulating with quick wingbeats and short glides</td></tr>
+                  <tr><td>Behavior</td><td>Curious and bold; often hangs upside-down on branches; frequently visits feeders</td></tr>
+                  <tr><td>Diet</td><td>Insects & spiders (breeding season), seeds and berries (winter); caches food</td></tr>
+                  <tr><td>Voice</td><td>Clear "chick-a-dee-dee-dee" calls; high, two-note "fee-bee" or "hey-sweetie" song (regional variation)</td></tr>
+                  <tr><td>Nesting</td><td>Nests in tree cavities or nest boxes; may excavate soft wood; uses moss, fur, and feathers for lining</td></tr>
+                  <tr><td>Range</td><td>Across much of North America — year-round resident in most of its range</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="text-center" href="index.html#blackCappedChickadee">Home</a>
+    </div>
+    <hr>
+    <!-- Song Sparrow -->
+    <div class="row g-3">
+      <div id="songSparrow-card" class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A1912.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A1912-1.jpg" alt="Song Sparrow">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Song Sparrow</h5>
+            <h6 class="mb-1 text-center"><em>Melospiza melodia</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A1912</td>
+                  <td>2892x1928</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A1912EXIF" role="button" aria-expanded="false" aria-controls="E21A1912EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A1912Ref" role="button" aria-expanded="false" aria-controls="E21A1912Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A1912EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                  <tr><td>ISO</td><td>640</td></tr>
+                  <tr><td>Aperture</td><td>f/16.0</td></tr>
+                  <tr><td>Shutter</td><td>1/160</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A1912Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Plumage</td><td>Streaked brown with gray face and central dark chest spot. Variation across range.</td></tr>
+                  <tr><td>Size</td><td>6" [15 cm]</td></tr>
+                  <tr><td>Color</td><td>Brown, white, gray</td></tr>
+                  <tr><td>Wings</td><td>Rounded with dark streaks</td></tr>
+                  <tr><td>Tail</td><td>Long, rounded</td></tr>
+                  <tr><td>Habitat</td><td>Fields, brushy edges, marshes, gardens</td></tr>
+                  <tr><td>Flight Style</td><td>Short, low, fluttering flights</td></tr>
+                  <tr><td>Behavior</td><td>Sings from prominent perches; scratches on the ground for food</td></tr>
+                  <tr><td>Diet</td><td>Seeds, insects, spiders, berries</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A1913.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A1913-1.jpg" alt="Song Sparrow">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Song Sparrow</h5>
+            <h6 class="mb-1 text-center"><em>Melospiza melodia</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A1913</td>
+                  <td>2892x1928</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A1913EXIF" role="button" aria-expanded="false" aria-controls="E21A1913EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A1913Ref" role="button" aria-expanded="false" aria-controls="E21A1913Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A1913EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                  <tr><td>ISO</td><td>500</td></tr>
+                  <tr><td>Aperture</td><td>f/16.0</td></tr>
+                  <tr><td>Shutter</td><td>1/125</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A1913Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Plumage</td><td>Streaked brown with gray face and central dark chest spot. Variation across range.</td></tr>
+                  <tr><td>Size</td><td>6" [15 cm]</td></tr>
+                  <tr><td>Color</td><td>Brown, white, gray</td></tr>
+                  <tr><td>Wings</td><td>Rounded with dark streaks</td></tr>
+                  <tr><td>Tail</td><td>Long, rounded</td></tr>
+                  <tr><td>Habitat</td><td>Fields, brushy edges, marshes, gardens</td></tr>
+                  <tr><td>Flight Style</td><td>Short, low, fluttering flights</td></tr>
+                  <tr><td>Behavior</td><td>Sings from prominent perches; scratches on the ground for food</td></tr>
+                  <tr><td>Diet</td><td>Seeds, insects, spiders, berries</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+        <!-- <a href="songsparrow.html"><h4>ISO Reference...</h4></a> -->
+      <!-- E21A1794
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A1794.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A1794-1.jpg" alt="Song Sparrow">
+          <div class="card-body p-2">
+            <p class="card-text mb-1 small">Photo ID: _21A1794</p>
+            <p class="card-text small">3807x2538</p>
+          </div>
+        </div>
+      </div>
+       -->
+      <!-- E21A2402 
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2402.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2402-1.jpg" alt="Song Sparrow">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Song Sparrow</h5>
+            <h6 class="mb-1 text-center"><em>Melospiza melodia</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2402</td>
+                  <td>800x533</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2402EXIF" role="button" aria-expanded="false" aria-controls="E21A2402EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2402Ref" role="button" aria-expanded="false" aria-controls="E21A2402Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            -->
+            <!-- EXIF Data -->
+            <!-- 
+            <div class="collapse" id="E21A2402EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                  <tr><td>ISO</td><td>640</td></tr>
+                  <tr><td>Aperture</td><td>f/8.0</td></tr>
+                  <tr><td>Shutter</td><td>1/500</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A2402Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Plumage</td><td>Streaked brown with gray face and central dark chest spot. Variation across range.</td></tr>
+                  <tr><td>Size</td><td>6" [15 cm]</td></tr>
+                  <tr><td>Color</td><td>Brown, white, gray</td></tr>
+                  <tr><td>Wings</td><td>Rounded with dark streaks</td></tr>
+                  <tr><td>Tail</td><td>Long, rounded</td></tr>
+                  <tr><td>Habitat</td><td>Fields, brushy edges, marshes, gardens</td></tr>
+                  <tr><td>Flight Style</td><td>Short, low, fluttering flights</td></tr>
+                  <tr><td>Behavior</td><td>Sings from prominent perches; scratches on the ground for food</td></tr>
+                  <tr><td>Diet</td><td>Seeds, insects, spiders, berries</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A1931.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A1931-1.jpg" alt="Song Sparrow">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Song Sparrow</h5>
+            <h6 class="mb-1 text-center"><em>Melospiza melodia</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A1931</td>
+                  <td>2109x1406</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A1931EXIF" role="button" aria-expanded="false" aria-controls="E21A1931EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A1931Ref" role="button" aria-expanded="false" aria-controls="E21A1931Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            -->
+            <!-- EXIF Data -->
+             <!--
+            <div class="collapse" id="E21A1931EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                  <tr><td>ISO</td><td>1250</td></tr>
+                  <tr><td>Aperture</td><td>f/13.0</td></tr>
+                  <tr><td>Shutter</td><td>1/200</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A1931Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Plumage</td><td>Streaked brown with gray face and central dark chest spot. Variation across range.</td></tr>
+                  <tr><td>Size</td><td>6" [15 cm]</td></tr>
+                  <tr><td>Color</td><td>Brown, white, gray</td></tr>
+                  <tr><td>Wings</td><td>Rounded with dark streaks</td></tr>
+                  <tr><td>Tail</td><td>Long, rounded</td></tr>
+                  <tr><td>Habitat</td><td>Fields, brushy edges, marshes, gardens</td></tr>
+                  <tr><td>Flight Style</td><td>Short, low, fluttering flights</td></tr>
+                  <tr><td>Behavior</td><td>Sings from prominent perches; scratches on the ground for food</td></tr>
+                  <tr><td>Diet</td><td>Seeds, insects, spiders, berries</td></tr>
+                </tbody>
+              </table>
+            </div>
+        </div>
+      </div>
+    </div>
+  -->
+    <!-- E21A1942
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A1942.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A1942-1.jpg" alt="Song Sparrow">
+          <div class="card-body p-2">
+            <p class="card-text mb-1 small">Photo ID: _21A1942</p>
+            <p class="card-text small">3529x2353</p>
+          </div>
+        </div>
+      </div> -->
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A1943.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A1943-1.jpg" alt="Song Sparrow">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Song Sparrow</h5>
+            <h6 class="mb-1 text-center"><em>Melospiza melodia</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A1943</td>
+                  <td>3529x2353</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A1943EXIF" role="button" aria-expanded="false" aria-controls="E21A1943EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A1943Ref" role="button" aria-expanded="false" aria-controls="E21A1943Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A1943EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                  <tr><td>ISO</td><td>1250</td></tr>
+                  <tr><td>Aperture</td><td>f/13.0</td></tr>
+                  <tr><td>Shutter</td><td>1/200</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A1943Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Plumage</td><td>Streaked brown with gray face and central dark chest spot. Variation across range.</td></tr>
+                  <tr><td>Size</td><td>6" [15 cm]</td></tr>
+                  <tr><td>Color</td><td>Brown, white, gray</td></tr>
+                  <tr><td>Wings</td><td>Rounded with dark streaks</td></tr>
+                  <tr><td>Tail</td><td>Long, rounded</td></tr>
+                  <tr><td>Habitat</td><td>Fields, brushy edges, marshes, gardens</td></tr>
+                  <tr><td>Flight Style</td><td>Short, low, fluttering flights</td></tr>
+                  <tr><td>Behavior</td><td>Sings from prominent perches; scratches on the ground for food</td></tr>
+                  <tr><td>Diet</td><td>Seeds, insects, spiders, berries</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A1963.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A1963-1.jpg" alt="Song Sparrow">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Song Sparrow</h5>
+            <h6 class="mb-1 text-center"><em>Melospiza melodia</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A1963</td>
+                  <td>2653x1769</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A1963EXIF" role="button" aria-expanded="false" aria-controls="E21A1963EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A1963Ref" role="button" aria-expanded="false" aria-controls="E21A1963Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A1963EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                  <tr><td>ISO</td><td>800</td></tr>
+                  <tr><td>Aperture</td><td>f/8.0</td></tr>
+                  <tr><td>Shutter</td><td>1/640</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A1963Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Plumage</td><td>Streaked brown with gray face and central dark chest spot. Variation across range.</td></tr>
+                  <tr><td>Size</td><td>6" [15 cm]</td></tr>
+                  <tr><td>Color</td><td>Brown, white, gray</td></tr>
+                  <tr><td>Wings</td><td>Rounded with dark streaks</td></tr>
+                  <tr><td>Tail</td><td>Long, rounded</td></tr>
+                  <tr><td>Habitat</td><td>Fields, brushy edges, marshes, gardens</td></tr>
+                  <tr><td>Flight Style</td><td>Short, low, fluttering flights</td></tr>
+                  <tr><td>Behavior</td><td>Sings from prominent perches; scratches on the ground for food</td></tr>
+                  <tr><td>Diet</td><td>Seeds, insects, spiders, berries</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="text-center" href="index.html#songSparrow">Home</a>
+    </div>
+    <hr>
+    <!-- Field Sparrow -->
+    <div class="row g-3">
+      <h5 id="fieldSparrow-card" class="card-title mb-1">Field Sparrow</h5>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2053.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2053-1.jpg" alt="Field Sparrow">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Field Sparrow</h5>
+            <h6 class="mb-1 text-center"><em>Spizella pusilla</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2053</td>
+                  <td>2618x1745</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2053EXIF" role="button" aria-expanded="false" aria-controls="E21A2053EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2053Ref" role="button" aria-expanded="false" aria-controls="E21A2053Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A2053EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                  <tr><td>ISO</td><td>3200</td></tr>
+                  <tr><td>Aperture</td><td>f/8.0</td></tr>
+                  <tr><td>Shutter</td><td>1/250</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A2053Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Wings</td><td>Brown with lighter edging; no bold wingbars.</td></tr>
+                  <tr><td>Body</td><td>Overall pale brown to grayish; underparts light and unmarked.</td></tr>
+                  <tr><td>Head</td><td>Plain gray face with thin white eye ring; small rufous crown; pink bill.</td></tr>
+                  <tr><td>Tail</td><td>Long and notched, gray-brown with lighter edges.</td></tr>
+                  <tr><td>Size</td><td>About 5.5 in (14 cm) in length.</td></tr>
+                  <tr><td>Behavior</td><td>Often seen in brushy fields; distinctive clear whistled song that accelerates like a ping-pong ball.</td></tr>
+                  <tr><td>Species</td><td><em>Spizella pusilla</em></td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2055.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2055-1.jpg" alt="Field Sparrow">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Field Sparrow</h5>
+            <h6 class="mb-1 text-center"><em>Spizella pusilla</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2055</td>
+                  <td>2618x1745</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2055EXIF" role="button" aria-expanded="false" aria-controls="E21A2055EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2055Ref" role="button" aria-expanded="false" aria-controls="E21A2055Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A2055EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                  <tr><td>ISO</td><td>3200</td></tr>
+                  <tr><td>Aperture</td><td>f/8.0</td></tr>
+                  <tr><td>Shutter</td><td>1/250</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A2055Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Wings</td><td>Brown with lighter edging; no bold wingbars.</td></tr>
+                  <tr><td>Body</td><td>Overall pale brown to grayish; underparts light and unmarked.</td></tr>
+                  <tr><td>Head</td><td>Plain gray face with thin white eye ring; small rufous crown; pink bill.</td></tr>
+                  <tr><td>Tail</td><td>Long and notched, gray-brown with lighter edges.</td></tr>
+                  <tr><td>Size</td><td>About 5.5 in (14 cm) in length.</td></tr>
+                  <tr><td>Behavior</td><td>Often seen in brushy fields; distinctive clear whistled song that accelerates like a ping-pong ball.</td></tr>
+                  <tr><td>Species</td><td><em>Spizella pusilla</em></td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2056.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2056-1.jpg" alt="Field Sparrow">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Field Sparrow</h5>
+            <h6 class="mb-1 text-center"><em>Spizella pusilla</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2056</td>
+                  <td>2280x1520</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2056EXIF" role="button" aria-expanded="false" aria-controls="E21A2056EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2056Ref" role="button" aria-expanded="false" aria-controls="E21A2056Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A2056EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                  <tr><td>ISO</td><td>400</td></tr>
+                  <tr><td>Aperture</td><td>f/10.0</td></tr>
+                  <tr><td>Shutter</td><td>1/250</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A2056Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Wings</td><td>Brown with lighter edging; no bold wingbars.</td></tr>
+                  <tr><td>Body</td><td>Overall pale brown to grayish; underparts light and unmarked.</td></tr>
+                  <tr><td>Head</td><td>Plain gray face with thin white eye ring; small rufous crown; pink bill.</td></tr>
+                  <tr><td>Tail</td><td>Long and notched, gray-brown with lighter edges.</td></tr>
+                  <tr><td>Size</td><td>About 5.5 in (14 cm) in length.</td></tr>
+                  <tr><td>Behavior</td><td>Often seen in brushy fields; distinctive clear whistled song that accelerates like a ping-pong ball.</td></tr>
+                  <tr><td>Species</td><td><em>Spizella pusilla</em></td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2940B.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2940B-1.jpg" alt="Field Sparrow">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Field Sparrow</h5>
+            <h6 class="mb-1 text-center"><em>Spizella pusilla</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2940B</td>
+                  <td>2295x1530</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2940BEXIF" role="button" aria-expanded="false" aria-controls="E21A2940BEXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2940BRef" role="button" aria-expanded="false" aria-controls="E21A2940BRef">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A2940BEXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                  <tr><td>ISO</td><td>3200</td></tr>
+                  <tr><td>Aperture</td><td>f/9.0</td></tr>
+                  <tr><td>Shutter</td><td>1/3200</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A2940BRef">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Wings</td><td>Brown with lighter edging; no bold wingbars.</td></tr>
+                  <tr><td>Body</td><td>Overall pale brown to grayish; underparts light and unmarked.</td></tr>
+                  <tr><td>Head</td><td>Plain gray face with thin white eye ring; small rufous crown; pink bill.</td></tr>
+                  <tr><td>Tail</td><td>Long and notched, gray-brown with lighter edges.</td></tr>
+                  <tr><td>Size</td><td>About 5.5 in (14 cm) in length.</td></tr>
+                  <tr><td>Behavior</td><td>Often seen in brushy fields; distinctive clear whistled song that accelerates like a ping-pong ball.</td></tr>
+                  <tr><td>Species</td><td><em>Spizella pusilla</em></td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="text-center" href="index.html#fieldSparrow">Home</a>
+    </div>
+    <hr>
+    <!-- Indigo Bunting -->
+    <div class="row g-3">
+      <div id="IndigoBunting-card" class="col-sm-12 col-md-4 col-lg-4">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2130.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2130-1.jpg" alt="Indigo Bunting">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Indigo Bunting</h5>
+            <h6 class="mb-1 text-center"><em>Passerina cyanea</em></h6>
+          </div>
+          <table class="table table-sm table-dark text-light text-center border-light">
+            <tbody>
+              <tr>
+                <td>_21A2130</td>
+                <td>1014x1521</td>
+              </tr>
+              <tr>
+                <td>
+                  <a class="text-warning" data-bs-toggle="collapse" href="#E21A2130EXIF" role="button" aria-expanded="false" aria-controls="E21A2130EXIF">
+                    Image Details
+                  </a>
+                </td>
+                <td>
+                  <a class="text-warning" data-bs-toggle="collapse" href="#E21A2130Ref" role="button" aria-expanded="false" aria-controls="E21A2130Ref">
+                    Field Reference Details
+                  </a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <!-- EXIF Data -->
+          <div class="collapse" id="E21A2130EXIF">
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                <tr><td>ISO</td><td>200</td></tr>
+                <tr><td>Aperture</td><td>f/13.0</td></tr>
+                <tr><td>Shutter</td><td>1/320</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <div class="collapse" id="E21A2130Ref">
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr><td>Plumage</td><td>Breeding males are vibrant blue all over; females and non-breeding males are brown with faint blue highlights.</td></tr>
+                <tr><td>Size</td><td>5.5" [14 cm]</td></tr>
+                <tr><td>Color</td><td>Blue (males), brown (females)</td></tr>
+                <tr><td>Wings</td><td>Short and rounded with dark markings</td></tr>
+                <tr><td>Tail</td><td>Fairly short, slightly notched</td></tr>
+                <tr><td>Habitat</td><td>Brushy edges, weedy fields, woodland clearings</td></tr>
+                <tr><td>Flight Style</td><td>Short bounding flights, often low and erratic</td></tr>
+                <tr><td>Behavior</td><td>Often sings from high perches; territorial during breeding season</td></tr>
+                <tr><td>Diet</td><td>Primarily seeds and berries, supplemented with insects in summer</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-4 col-lg-4">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A1920.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A1920-1.jpg" alt="Indigo Bunting">
+          <div class="card-body p-2">
+          <h5 class="card-title mb-1 text-center">Indigo Bunting</h5>
+          <h6 class="mb-1 text-center"><em>Passerina cyanea</em></h6>
+          </div>
+          <table class="table table-sm table-dark text-light text-center border-light">
+            <tbody>
+              <tr>
+                <td>_21A1920</td>
+                <td>1801x1201</td>
+              </tr>
+              <tr>
+                <td>
+                  <a class="text-warning" data-bs-toggle="collapse" href="#E21A1920EXIF" role="button" aria-expanded="false" aria-controls="E21A1920EXIF">
+                    Image Details
+                  </a>
+                </td>
+                <td>
+                  <a class="text-warning" data-bs-toggle="collapse" href="#E21A1920Ref" role="button" aria-expanded="false" aria-controls="E21A1920Ref">
+                    Field Reference Details
+                  </a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <!-- EXIF Data -->
+          <div class="collapse" id="E21A1920EXIF">
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                <tr><td>ISO</td><td>1600</td></tr>
+                <tr><td>Aperture</td><td>f/13.0</td></tr>
+                <tr><td>Shutter</td><td>1/320</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <div class="collapse" id="E21A1920Ref">
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr><td>Plumage</td><td>Breeding males are vibrant blue all over; females and non-breeding males are brown with faint blue highlights.</td></tr>
+                <tr><td>Size</td><td>5.5" [14 cm]</td></tr>
+                <tr><td>Color</td><td>Blue (males), brown (females)</td></tr>
+                <tr><td>Wings</td><td>Short and rounded with dark markings</td></tr>
+                <tr><td>Tail</td><td>Fairly short, slightly notched</td></tr>
+                <tr><td>Habitat</td><td>Brushy edges, weedy fields, woodland clearings</td></tr>
+                <tr><td>Flight Style</td><td>Short bounding flights, often low and erratic</td></tr>
+                <tr><td>Behavior</td><td>Often sings from high perches; territorial during breeding season</td></tr>
+                <tr><td>Diet</td><td>Primarily seeds and berries, supplemented with insects in summer</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-4 col-lg-4">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2430.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2430-1.jpg" alt="Indigo Bunting">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1 text-center">Indigo Bunting</h5>
+            <h6 class="mb-1 text-center"><em>Passerina cyanea</em></h6>
+            <table class="table table-sm table-dark text-light text-center border-light">
+              <tbody>
+                <tr>
+                  <td>_21A2430</td>
+                  <td>533x800</td>
+                </tr>
+                <tr>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2430EXIF" role="button" aria-expanded="false" aria-controls="E21A2430EXIF">
+                      Image Details
+                    </a>
+                  </td>
+                  <td>
+                    <a class="text-warning" data-bs-toggle="collapse" href="#E21A2430Ref" role="button" aria-expanded="false" aria-controls="E21A2430Ref">
+                      Field Reference Details
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- EXIF Data -->
+            <div class="collapse" id="E21A2430EXIF">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
+                  <tr><td>Lens</td><td>EF70-200mm f/2.8L IS II USM (2x)</td></tr>
+                  <tr><td>ISO</td><td>800</td></tr>
+                  <tr><td>Aperture</td><td>f/5.6</td></tr>
+                  <tr><td>Shutter</td><td>1/1600</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="collapse" id="E21A2430Ref">
+              <table class="table table-sm table-dark text-light text-center border-light">
+                <tbody>
+                  <tr><td>Plumage</td><td>Breeding males are vibrant blue all over; females and non-breeding males are brown with faint blue highlights.</td></tr>
+                  <tr><td>Size</td><td>5.5" [14 cm]</td></tr>
+                  <tr><td>Color</td><td>Blue (males), brown (females)</td></tr>
+                  <tr><td>Wings</td><td>Short and rounded with dark markings</td></tr>
+                  <tr><td>Tail</td><td>Fairly short, slightly notched</td></tr>
+                  <tr><td>Habitat</td><td>Brushy edges, weedy fields, woodland clearings</td></tr>
+                  <tr><td>Flight Style</td><td>Short bounding flights, often low and erratic</td></tr>
+                  <tr><td>Behavior</td><td>Often sings from high perches; territorial during breeding season</td></tr>
+                  <tr><td>Diet</td><td>Primarily seeds and berries, supplemented with insects in summer</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="text-center" href="index.html#indigoBunting">Home</a>
+    </div>
+    <hr>
+    <!-- Sedge Wren -->
+    <div class="row g-3">
+      <h5 id="sedgeWren-card" class="card-title mb-1">Sedge Wren</h5>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2013.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2013-1.jpg" alt="Sedge Wren">
+          <div class="card-body p-2">
+            <p class="card-text mb-1 small">Photo ID: _21A2013</p>
+            <p class="card-text small">5043x3362</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2015.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2015-1.jpg" alt="Sedge Wren">
+          <div class="card-body p-2">
+            <p class="card-text mb-1 small">Photo ID: _21A2015</p>
+            <p class="card-text small">5043x3362</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2016.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2016-1.jpg" alt="Sedge Wren">
+          <div class="card-body p-2">
+            <p class="card-text mb-1 small">Photo ID: _21A2016</p>
+            <p class="card-text small">5043x3362</p>
+          </div>
+        </div>
+      </div>
+      <a class="text-center" href="index.html#sedgeWren">Home</a>
+    </div>
+    <hr>
+    <!-- Red-winged Blackbird -->
+    <div class="row g-3">
+      <div id="red-wingedBlackbird-card" class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A1864.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A1864-1.jpg" alt="Red-winged Blackbird">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1">Red-winged Blackbird</h5>
+            <p class="card-text mb-1 small">Photo ID: _21A1864</p>
+            <p class="card-text small">2758x1839</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="card bg-dark text-light border-secondary">
+          <img src="images/E21A2028.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A2028-1.jpg" alt="Red-winged Blackbird">
+          <div class="card-body p-2">
+            <h5 class="card-title mb-1">Red-winged Blackbird</h5>
+            <p class="card-text mb-1 small">Photo ID: _21A2028</p>
+            <p class="card-text small">6720x4480</p>
+          </div>
+        </div>
+      </div>
+      <a class="text-center" href="index.html#red-wingedBlackbird">Home</a>
+    </div>
+    <hr>
+  </div>
+  
+
+
+  <!-- Modal for Lightbox -->
+ <div class="modal fade" id="lightboxModal" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg">
+    <div class="modal-content bg-dark position-relative">
+      <button class="btn btn-secondary position-absolute top-50 start-0 translate-middle-y z-2" id="prevBtn">&#9664;</button>
+
+      <div class="modal-body p-0">
+        <img src="" id="lightboxImage" class="img-fluid w-100" alt="Enlarged photo" />
+        <div class="p-3 text-light bg-black" id="modalCaption">
+          <h5 id="modalTitle" class="mb-1"></h5>
+          <p id="modalText" class="mb-1 small text-muted"></p>
+          <div id="modalExif" class="small text-secondary"></div>
+        </div>
+        <div class="p-3 text-light bg-black" id="modalCaption">
+          <h5 id="modalTitle" class="mb-1"></h5>
+        </div>
+
+      </div>
+
+      <button class="btn btn-secondary position-absolute top-50 end-0 translate-middle-y z-2" id="nextBtn">&#9654;</button>
+    </div>
+  </div>
+</div>
+<hr>
+
+<div class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 col-12"></div>
+      <div class="col-md-4 col-12">
+        <h3 class="text-center">GET IN TOUCH</h3>
+        <address class="text-center">
+          <strong>Fraley Design, L.L.C.</strong><br>
+          16380 Java Ln<br>
+          Lakeville, MN, 55044, US<br>
+          <abbr title="Phone">P:</abbr> (952) 855-2600
+        </address>
+      </div>
+      <div class="col-md-4 col-12"></div>
+    </div>
+  </div>
+</div>
+<hr>
+<footer class="text-center">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <p>Copyright © Fraley Design, L.L.C. All rights reserved.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+  const lightboxImage = document.getElementById("lightboxImage");
+  const galleryImages = document.querySelectorAll(".gallery-img");
+  const prevBtn = document.getElementById("prevBtn");
+  const nextBtn = document.getElementById("nextBtn");
+  const modal = new bootstrap.Modal(document.getElementById("lightboxModal"));
+  const modalTitle = document.getElementById("modalTitle");
+  const modalText = document.getElementById("modalText");
+  const modalExif = document.getElementById("modalExif");
+  let currentIndex = 0;
+
+  galleryImages.forEach((img, index) => {
+    img.addEventListener("click", () => {
+      currentIndex = index;
+      updateModalImage();
+    });
+  });
+
+  function updateModalImage() {
+    const img = galleryImages[currentIndex];
+    lightboxImage.classList.add("fade-out");
+
+    setTimeout(() => {
+      lightboxImage.alt = img.alt;
+
+      // Title + caption from card (optional)
+      const card = img.closest(".card");
+      if (card) {
+        const title = card.querySelector(".card-title")?.innerText || "";
+        const caption = card.querySelector(".card-text:last-of-type")?.innerText || "";
+        modalTitle.textContent = title;
+        modalText.textContent = caption;
+      }
+
+      // Clear old EXIF
+      modalExif.innerHTML = "";
+
+      // Extract EXIF after image loads
+      lightboxImage.onload = () => {
+        const exifImage = new Image();
+        exifImage.crossOrigin = "Anonymous";
+        exifImage.src = lightboxImage.src;
+        exifImage.onload = () => {
+          EXIF.getData(exifImage, function () {
+            const make = EXIF.getTag(this, "Make") || "Unknown";
+            const model = EXIF.getTag(this, "Model") || "";
+            const iso = EXIF.getTag(this, "ISOSpeedRatings") || "N/A";
+            const fstop = EXIF.getTag(this, "FNumber");
+            const fstopFormatted = fstop ? `f/${fstop.toFixed(1)}` : "N/A";
+
+            const rawShutter = EXIF.getTag(this, "ExposureTime");
+            let shutter = "N/A";
+            if (rawShutter) {
+              if (typeof rawShutter === "number") {
+                shutter = rawShutter < 1 ? `1/${Math.round(1 / rawShutter)}` : rawShutter.toFixed(2) + " sec";
+              } else if (typeof rawShutter === "string") {
+                shutter = rawShutter;
+              } else if (typeof rawShutter === "object" && rawShutter.numerator && rawShutter.denominator) {
+                const value = rawShutter.numerator / rawShutter.denominator;
+                shutter = value < 1 ? `1/${Math.round(1 / value)}` : value.toFixed(2) + " sec";
+              }
+            }
+
+            const copyright = EXIF.getTag(this, "Copyright") || "© Ray Fraley";
+
+            modalExif.innerHTML = `
+              <p class="mb-0"><strong>Camera:</strong> ${make} ${model}</p>
+              <p class="mb-0"><strong>ISO:</strong> ${iso}</p>
+              <p class="mb-0"><strong>Aperture:</strong> ${fstopFormatted}</p>
+              <p class="mb-0"><strong>Shutter:</strong> ${shutter}</p>
+              <p class="mb-0"><strong>Copyright:</strong> ${copyright}</p>
+            `;
+          });
+        };
+      };
+
+      // Cache-bust the image so EXIF reloads
+      const newSrc = img.getAttribute("data-bs-img") + "?v=" + Date.now();
+      lightboxImage.src = newSrc;
+
+      lightboxImage.classList.remove("fade-out");
+    }, 300);
+  }
+
+  prevBtn.addEventListener("click", () => {
+    currentIndex = (currentIndex - 1 + galleryImages.length) % galleryImages.length;
+    updateModalImage();
+  });
+
+  nextBtn.addEventListener("click", () => {
+    currentIndex = (currentIndex + 1) % galleryImages.length;
+    updateModalImage();
+  });
+
+  // Keyboard navigation ONLY while modal is shown
+  document.addEventListener("keydown", (e) => {
+    const modalEl = document.getElementById("lightboxModal");
+    const isShown = modalEl.classList.contains("show");
+    if (!isShown) return;
+
+    if (e.key === "ArrowLeft") prevBtn.click();
+    if (e.key === "ArrowRight") nextBtn.click();
+    if (e.key === "Escape") bootstrap.Modal.getInstance(modalEl)?.hide();
+  });
+</script>
+
+<!-- Bootstrap 5 JS Bundle (includes Popper) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<!-- EXIF.js -->
+<script src="https://cdn.jsdelivr.net/npm/exif-js"></script>
+
+</body>
+</html>
