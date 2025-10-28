@@ -50,6 +50,3 @@ In autumn, red squirrels are particularly busy preparing for winter. Their nests
 Capturing these quick, agile animals requires patience — and sometimes a bit of luck, especially when they pause momentarily with a prized mushroom in tow.
 
 ---
-
-© 2025 Ray Fraley  
-[www.rayfraley.com](https://www.rayfraley.com)

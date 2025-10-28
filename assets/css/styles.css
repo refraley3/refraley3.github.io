@@ -464,3 +464,18 @@ table.exif-table {
 }
 table.exif-table th, 
 table.exif-table td { text-align: left; }
+
+.caption {
+  display: block;
+  text-align: center;
+  font-style: italic;
+  color: #ccc;
+  margin-top: 0.75em;
+  margin-bottom: 2em;
+}
+
+.caption p {
+  text-align: center;
+}
+
+.table-center {}

@@ -2,6 +2,16 @@
 title: Ray Fraley Photography
 theme: minima   # (or your theme)
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+  parse_block_html: true
+  # 👇 this line is crucial
+  enable_coderay: false
+
 permalink: pretty
 url: "https://www.rayfraley.com"
 baseurl: ""
