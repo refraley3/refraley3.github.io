@@ -322,6 +322,8 @@ h4 {
 /* Each tile link */
 .tile {
   display: block;
+  align-items: center;
+  text-align: center;
   text-decoration: none;
   border-radius: 12px;
   overflow: hidden;
@@ -337,7 +339,9 @@ h4 {
 .cover {
   /* Pick one of these heights: */
   /* padding-top keeps aspect ratio; 56% ≈ 16:9 */
-  padding-top: 56%;
+  /* padding-top: 56%; */
+  align-content: center;
+  text-align: center;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -345,11 +349,13 @@ h4 {
 
 /* Text area */
 .content {
-  padding: 12px 14px 14px;
+  padding: 12px 14px 14px 12px;
 }
 .content .title {
   font-weight: 600;
+  text-align: center;
   color: #ffffff;
+
 }
 .content .kicker, .content .desc {
   color: #ffffff;
@@ -387,6 +393,7 @@ h4 {
 .photo-tile {
   position: relative;
   align-content: center;
+  text-align: center;
   display: inline-block;
   margin: 1rem;
 }
@@ -400,6 +407,7 @@ h4 {
 
 .photo-tile .title {
   position: absolute;
+  text-align: center;
   bottom: 0;
   left: 0;
   right: 0;
