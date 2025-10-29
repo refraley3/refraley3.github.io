@@ -6,8 +6,6 @@ image: /gallery/animals/birds/assets/perching/american-goldfinch/E21A3383.jpg
 tags: [birds, finch, wildlife, Minnesota, photography]
 ---
 
-{% include breadcrumbs.html %}
-{% include children-list.html %}
 These images capture both male and female goldfinches foraging and resting among sunlit branches.
 
 ![American Goldfinch perched on a branch](/gallery/animals/birds/assets/perching/american-goldfinch/E21A3383.jpg)

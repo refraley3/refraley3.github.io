@@ -4,89 +4,72 @@ title: Black and Yellow Garden Spider
 description: Field observations of orb-weaver webs and the garden spiders that build them.
 ---
 
-{% include breadcrumbs.html %}
-{% include children-list.html %}
-
 ## Morning Geometry
-
-*An orb-weaver web glistens with the mist in a prairie meadow.*
-
-![Orb-weaver web in morning dew](/gallery/animals/arachnids/assets/garden-spider/E21A3965.jpg)
-
-| Property | Image Data |
-| Camera | Canon EOS 5D Mk IV |
-| Lens | EF24-70mm f/2.8L II USM |
-| ISO | 25600 |
-| Aperture | f/22.0 |
-| Shutter | 1/30 seconds |
-| Size | 6720x4480 |
 
 A perfect orb-weaver web glistens with the mist among tall grasses and goldenrod, each strand outlined by the soft morning light. The delicate structure captures the geometry of patience — every thread rebuilt and renewed with precision after a calm night in the prairie.
 
-*Suspended between slender stems, the orb-weaver’s web glows against the warm light of early autumn.
+![Orb-weaver web in morning dew](/gallery/animals/arachnids/assets/garden-spider/E21A3965.jpg)
+
+*Image ID: E21A3965* - Orb-weaver web in morning dew • Size: 6720x4480
+{:.caption}
+
+*Camera: Canon EOS 5D Mk IV • Lens:* EF24-70mm f/2.8L II USM
+*Settings:* ISO 25600 • Aperture f/22.0 • Shutter 1/30 s
+{:.caption}
+
+---
+
+Suspended between slender stems, the orb-weaver’s web glows against the warm light of early autumn.
+
 ![Autumn Silhouette](/gallery/animals/arachnids/assets/garden-spider/E21A4297B.jpg)
 
-| Property | Image Data |
-| Camera | Canon EOS 5D Mk IV |
-| Lens | EF100mm f/2.8L Macro IS USM |
-| ISO | 1600 |
-| Aperture | f/8.0 |
-| Shutter | 1/1600 seconds |
-| Size | 2987x4480 |
+*Image ID: E21A4297B* - Autumn Silhouette • Size: 2987x4480
+{:.caption}
+
+*Camera: Canon EOS 5D Mk IV • Lens:* EF100mm f/2.8L Macro IS USM
+*Settings:* ISO 1600 • Aperture f/8.0 • Shutter 1/1600 s
+{:.caption}
 
 ---
 
 ## The Hunter's Reward
 
-*A female Argiope aurantia subdues her catch, a grasshopper in silk.*
+In the angled morning light, the garden spider wraps her catch with practiced precision. Each turn of silk immobilizes the struggling grasshopper, sealing the energy that will sustain her through another day. The scene, both intricate and brutal, is a quiet glimpse of nature’s efficiency at work.
 
 ![A female Argiope aurantia subdues her catch, a grasshopper in silk.](/gallery/animals/arachnids/assets/garden-spider/E21A4310B.jpg)
+*Image ID: E21A4310B* - A female Argiope aurantia subdues her catch, a grasshopper in silk. • Size: 2345x3518
+{:.caption}
 
-| Property | Image Data |
-| Camera | Canon EOS 5D Mk IV |
-| Lens | EF100mm f/2.8L Macro IS USM |
-| ISO | 800 |
-| Aperture | f/13.0 |
-| Shutter | 1/500 seconds |
-| Size | 2345x3518 |
+*Camera: Canon EOS 5D Mk IV • Lens:* EF100mm f/2.8L Macro IS USM
+*Settings:* ISO 800 • Aperture f/13.0 • Shutter 1/500 s
+{:.caption}
 
-In the angled morning light, the garden spider wraps her catch with practiced precision. Each turn of silk immobilizes the struggling grasshopper, sealing the energy that will sustain her through another day. The scene, both intricate and brutal, is a quiet glimpse of nature’s efficiency at work.
+---
 
 ## Thread by Thread
 
-*A black-and-yellow garden spider mends its orb web in morning light.*
+Suspended among prairie grasses, the garden spider reinforces its silk architecture, laying fresh threads across the heart of the web. The zig-zag stabilimentum glows at the center — both signal and structure — as the patient builder prepares for another day of hunting.
 
 ![Female Argiope aurantia repairing web](/gallery/animals/arachnids/assets/garden-spider/E21A4882.jpg)
+*Image ID: E21A4882* - Female Argiope aurantia repairing web. • Size: 4814x3209
+{:.caption}
 
-| Property | Image Data |
-| Camera | Canon EOS 5D Mk IV |
-| Lens | EF100mm f/2.8L Macro IS USM |
-| ISO | 8000 |
-| Aperture | f/13.0 |
-| Shutter | 1/640 seconds |
-| Size | 4814x3209 |
+*Camera: Canon EOS 5D Mk IV • Lens:* EF100mm f/2.8L Macro IS USM
+*Settings:* ISO 8000 • Aperture f/13.0 • Shutter 1/640 s
+{:.caption}
 
 ![Female Argiope aurantia repairing web](/gallery/animals/arachnids/assets/garden-spider/E21A4898.jpg)
+*Image ID: E21A4882* - Female Argiope aurantia repairing web. • Size: 4814x3209
+{:.caption}
 
-| Property | Image Data |
-| Camera | Canon EOS 5D Mk IV |
-| Lens | EF100mm f/2.8L Macro IS USM |
-| ISO | 10000 |
-| Aperture | f/13.0 |
-| Shutter | 1/640 seconds |
-| Size | 4814x3209 |
+*Camera: Canon EOS 5D Mk IV • Lens:* EF100mm f/2.8L Macro IS USM
+*Settings:* ISO 1000 • Aperture f/13.0 • Shutter 1/640 s
+{:.caption}
 
 ![Female Argiope aurantia repairing web](/gallery/animals/arachnids/assets/garden-spider/E21A4902.jpg)
 
-| Property | Image Data |
-| Camera | Canon EOS 5D Mk IV |
-| Lens | EF100mm f/2.8L Macro IS USM |
-| ISO | 6400 |
-| Aperture | f/13.0 |
-| Shutter | 1/640 seconds |
-| Size | 4814x3209 |
-
-Suspended among prairie grasses, the garden spider reinforces its silk architecture, laying fresh threads across the heart of the web. The zig-zag stabilimentum glows at the center — both signal and structure — as the patient builder prepares for another day of hunting.
+*Image ID: E21A4902* - Female Argiope aurantia repairing web. • Size: 4814x3209
+{:.caption}
 
 ---
 
@@ -108,19 +91,15 @@ Suspended among prairie grasses, the garden spider reinforces its silk architect
 
 ## Hidden Engineer
 
-*A male garden spider waits beneath a folded leaf.*
+The smaller male lurks beneath a curled milkweed leaf at the edge of the meadow, near the larger female’s web. He keeps hidden from birds and cautious of the female’s territory, emerging briefly to inspect her silk for pheromone cues or attempt a careful approach. His slender legs and reduced patterning distinguish him from his vivid counterpart.
 
 ![Male Argiope aurantia beneath leaf](/gallery/animals/arachnids/assets/garden-spider/E21A4911.jpg)
+*Image ID: E21A4911* - Male Argiope aurantia beneath leaf. • Size: 3166x2111
+{:.caption}
 
-| Property | Image Data |
-| Camera | Canon EOS 5D Mk IV |
-| Lens | EF100mm f/2.8L Macro IS USM |
-| ISO | 16000 |
-| Aperture | f/13.0 |
-| Shutter | 1/640 seconds |
-| Size | 3166x2111 |
-
-The smaller male lurks beneath a curled milkweed leaf at the edge of the meadow, near the larger female’s web. He keeps hidden from birds and cautious of the female’s territory, emerging briefly to inspect her silk for pheromone cues or attempt a careful approach. His slender legs and reduced patterning distinguish him from his vivid counterpart.
+*Camera: Canon EOS 5D Mk IV • Lens:* EF100mm f/2.8L Macro IS USM
+*Settings:* ISO 16000 • Aperture f/13.0 • Shutter 1/640 s
+{:.caption}
 
 ---
 

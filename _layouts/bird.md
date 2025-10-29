@@ -3,10 +3,6 @@ layout: photo
 title: Title
 ---
 
-{% include breadcrumbs.html %}
-
-{% include children-list.html %}
-
 ## Scientific Name
 
 What is the scientific name of the bird?

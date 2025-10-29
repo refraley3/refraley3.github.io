@@ -2,18 +2,11 @@
 layout: photo
 title: "American Goldfinch"
 category: "birds"
-date: 2025-10-28
 image: /gallery/animals/birds/assets/perching/american-goldfinch/E21A3383.jpg
 tags: [birds, finch, wildlife, Minnesota, photography]
 ---
 
-
-{% include breadcrumbs.html %}
-{% include children-list.html %}
-
-## Scientific Name
-
-Spinus tristis
+## Scientific Name: *Spinus tristis*
 
 ## Description
 
