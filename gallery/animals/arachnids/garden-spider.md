@@ -19,6 +19,13 @@ A perfect orb-weaver web glistens with the mist among tall grasses and goldenrod
 
 ---
 
+Description of web
+![A spider’s web catches the first light, tension and balance woven through grass.](/gallery/animals/arachnids/assets/garden-spider/E21A4635.jpg)
+
+*Image ID: E21A4635* - Orb weaver web catches the first light. • Size: 6720x4480
+
+---
+
 Suspended between slender stems, the orb-weaver’s web glows against the warm light of early autumn.
 
 ![Autumn Silhouette](/gallery/animals/arachnids/assets/garden-spider/E21A4297B.jpg)
@@ -58,8 +65,8 @@ Suspended among prairie grasses, the garden spider reinforces its silk architect
 *Settings:* ISO 8000 • Aperture f/13.0 • Shutter 1/640 s
 {:.caption}
 
-![Female Argiope aurantia repairing web](/gallery/animals/arachnids/assets/garden-spider/E21A4898.jpg)
-*Image ID: E21A4882* - Female Argiope aurantia repairing web. • Size: 4814x3209
+![Female Argiope aurantia repairing web](/gallery/animals/arachnids/assets/garden-spider/E21A4898-B.jpg)
+*Image ID: E21A4898* - Female Argiope aurantia repairing web. • Size: 3424x2283
 {:.caption}
 
 *Camera: Canon EOS 5D Mk IV • Lens:* EF100mm f/2.8L Macro IS USM
@@ -68,8 +75,10 @@ Suspended among prairie grasses, the garden spider reinforces its silk architect
 
 ![Female Argiope aurantia repairing web](/gallery/animals/arachnids/assets/garden-spider/E21A4902.jpg)
 
-*Image ID: E21A4902* - Female Argiope aurantia repairing web. • Size: 4814x3209
+*Image ID: E21A4902* - Female Argiope aurantia repairing web. • Size: 3329x2153
 {:.caption}
+
+</div>
 
 ---
 
