@@ -1,138 +1,68 @@
 ---
+layout: photo
 title: Insects
 ---
 
-{% include breadcrumbs.html %}
-{% include children-list.html %}
+[![Thread by Thread](/gallery/animals/arachnids/assets/garden-spider/E21A4882.jpg){: .cover role="img" aria-label="Thread by Thread"}  
+**Thread by Thread**  
+_A female black and yellow garden spider repairing web._  
+A garden spider laying freash threads across the heart of the web.  
+](/gallery/folder/folder/folder){: .tile role="listitem"}
 
-<!-- markdownlint-disable MD033 -->
-<div class="container py-4">
-<h3>Dragonflies</h3>
-<hr>
-<!-- Green Darner -->
-<div class="row g-3">
-<div class="col-sm-6 col-md-6 col-lg-6">
-<div class="card bg-dark text-light border-secondary">
-<div class="card-body p-2">
-<h5 class="card-title mb-1 text-center">Common Green Darner</h5>
-<h6 class="mb-1 text-center"><em>(Anax junius)</em></h6>
-<img src="images/insects/GreenDarner/E21A5028.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/insects/GreenDarner/E21A5028-1.jpg" alt="Common Green Darner">
-<table class="table table-sm table-dark text-light text-center border-light">
-<tbody>
-<tr><td>_21A5028</td><td>6720x4480</td></tr>
-<tr>
-<td><a class="text-warning" data-bs-toggle="collapse" href="#E21A5028EXIF" role="button" aria-expanded="false" aria-controls="E21A5028EXIF">Image Details</a></td>
-<td><a class="text-warning" data-bs-toggle="collapse" href="#E21A5028Ref" role="button" aria-expanded="false" aria-controls="E21A5028Ref">Field Reference Details</a></td>
-</tr>
-</tbody>
-</table>
-<!-- EXIF Data -->
-<div class="collapse" id="E21A5028EXIF">
-<table class="table table-sm table-dark text-light text-center border-light">
-<tbody>
-<tr><td>Camera</td><td>Canon EOS 5D Mk IV</td></tr>
-<tr><td>Lens</td><td>EF100mm f/2.8 Macro USM</td></tr>
-<tr><td>ISO</td><td>400</td></tr>
-<tr><td>Aperture</td><td>f/6.3</td></tr>
-<tr><td>Shutter</td><td>1/1250</td></tr>
-</tbody>
-</table>
+<div class="grid" role="list">
+
+[![Bees Title](/gallery/animals/insects/bees/assets/bald-faced-hornet/D79A0422.jpg){: .cover-role="img area-label="Bees"}  
+**Bees**  
+_The bald-faced hornet is actually a type of wasp._  
+These solcial wasps are hightly protective and can sting repeatedly.  
+](/gallery/insects/bees/bald-faced-hornet){: . tile role="listitem"}
+
+[![Beetles Title](/gallery/folder/folder/assets/image-2.jpg){: .cover-role="img area-label="Beetles title"}  
+**Image Title**  
+_Beetles kicker._  
+Beetles description.  
+](/gallery/folder/folder/folder-index){: . tile role="listitem"}
+
+[![Butterflies Title](/gallery/folder/folder/assets/image-3.jpg){: .cover-role="img area-label="Butterflies title"}  
+**Image Title**  
+_Butterflies kicker._  
+Butterflies description.  
+](/gallery/folder/folder/folder-index){: . tile role="listitem"}
+
+[![Crickets Title](/gallery/folder/folder/assets/image-4.jpg){: .cover-role="img area-label="Crickets title"}  
+**Image Title**  
+_Crickets kicker._  
+Crickets description.  
+](/gallery/folder/folder/folder-index){: . tile role="listitem"}
+
+[![Damselflies Title](/gallery/folder/folder/assets/image-5.jpg){: .cover-role="img area-label="Damselflies title"}  
+**Image Title**  
+_Damselflies kicker._  
+Damselflies description.  
+](/gallery/folder/folder/folder-index){: . tile role="listitem"}
+
+[![Dragonflies Title](/gallery/folder/folder/assets/image-6.jpg){: .cover-role="img area-label="Dragonflies title"}  
+**Image Title**  
+_Dragonflies kicker._  
+Dragonflies description.  
+](/gallery/folder/folder/folder-index){: . tile role="listitem"}
+
+[![Flies Title](/gallery/folder/folder/assets/image-7.jpg){: .cover-role="img area-label="Flies title"}  
+**Image Title**  
+_Flies kicker._  
+Flies description.  
+](/gallery/folder/folder/folder-index){: . tile role="listitem"}
+
+[![Grasshoppers Title](/gallery/folder/folder/assets/image-8.jpg){: .cover-role="img area-label="Grasshoppers title"}  
+**Image Title**  
+_Grasshoppers kicker._  
+Grasshoppers description.  
+](/gallery/folder/folder/folder-index){: . tile role="listitem"}
+
+[![Moths Title](/gallery/folder/folder/assets/image-9.jpg){: .cover-role="img area-label="Moths title"}  
+**Image Title**  
+_Moths kicker._  
+Moths description.  
+](/gallery/folder/folder/folder-index){: . tile role="listitem"}
+
 </div>
-<div class="collapse" id="E21A5028Ref">
-<table class="table table-sm table-dark text-light text-center border-light">
-<tbody>
-<tr><td>Wings</td><td>Transparent, strong venation, held forward when perched</td></tr>
-<tr><td>Thorax</td><td>Bright green, often with bluish shoulder stripes</td></tr>
-<tr><td>Abdomen</td><td>Slender, bluish to purplish with tapering tail</td></tr>
-<tr><td>Eyes</td><td>Wraparound green, covering most of the head</td></tr>
-<tr><td>Range</td><td>Throughout North America</td></tr>
-<tr><td>Habitat</td><td>Ponds, marshes, fields, large water bodies</td></tr>
-<tr><td>Flight Style</td><td>Strong, steady, capable of long-distance migration</td></tr>
-<tr><td>Behavior</td><td>Frequently airborne, rarely seen perching for long</td></tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
-</div>
-</div>
-<h3>Damselflies</h3>
-<!-- Common Blue Damselfly -->
-<div id="commonBlueDamselfly-card" class="col-sm-6 col-md-4 col-lg-3">
-<div class="card bg-dark text-light border-secondary">
-<img src="/gallery/animals/insects/damselflies/assets/images/E21A1640.jpg" class="card-img-top gallery-img" data-bs-toggle="modal" data-bs-target="#lightboxModal" data-bs-img="images/E21A1640.jpg" alt="Common Blue Damselfly - Blue-form Female">
-<div class="card-body bg-dark">
-<h5 class="card-title mb-1 text-center">Common Blue Damselfly</h5>
-<h6 class="mb-1 text-center">Blue-form female</h6>
-<h6 class="mb-1 text-center"><em>(Enallagma cyathigerum)</em></h6>
-    <table class="table table-sm table-dark text-light text-center border-light">
-        <tbody>
-            <tr><td>_21A1640</td><td>1849x2773</td></tr>
-            <tr><td><a class="text-warning" data-bs-toggle="collapse" href="#E21A1640EXIF" role="button" aria-expanded="false" aria-controls="E21A1640EXIF">Image Details</a></td>
-            <td><a class="text-warning" data-bs-toggle="collapse" href="#E21A1640Ref" role="button" aria-expanded="false" aria-controls="E21A1640Ref">Field Reference Details</a></td></tr>
-        </tbody>
-    </table>
-<div class="collapse" id="E21A1640EXIF" role="button" area-expand="false" area-controls="E21A1640EXIF">
-<table class="table table-sm table-dark text-light text-center border-light">
-<tbody>
-<tr>
-<td>Camera</td>
-<td>Canon EOS 5D Mk IV</td>
-</tr>
-<tr>
-<td>Lens</td>
-<td>EF100mm f/2.8L Macro IS USM</td>
-</tr>
-<tr>
-<td>ISO</td>
-<td>200</td>
-</tr>
-<tr>
-<td>Aperture</td>
-<td>f/13.0</td>
-</tr>
-<tr>
-<td>Shutter</td>
-<td>1/125</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="collapse" id="E21A1640Ref">
-<table class="table table-sm table-dark text-light text-center border-light">
-<tbody>
-<tr>
-<td>Wings</td>
-<td>Clear with a small dark spot</td>
-</tr>
-<tr>
-<td>Body</td>
-<td>Segment 2 has a distinct "U" shape. Males: Slender, blue with black bands. Females: green-blue or brown.</td>
-</tr>
-<tr>
-<td>Eyes</td>
-<td>Blue with a thin black top line</td>
-</tr>
-<tr>
-<td>Range</td>
-<td>Northern U.S. and Canada</td>
-</tr>
-<tr>
-<td>Habitat</td>
-<td>Ponds, marshes, slow-moving streams, grassy fields near water.</td>
-</tr>
-<tr>
-<td>Perching</td>
-<td>Likes swaying tall grasses or twigs; often perches in open sunlight.</td>
-</tr>
-<tr>
-<td>Flight Style</td>
-<td>Fluttery, slow</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
-</div>
-<!-- markdownlint-enable MD033 -->
