@@ -1,57 +1,40 @@
 ---
-layout: default
+layout: photo
 title: Plants
 
 ---
 
-<ul>
-  <li><a href="{{ '/gallery/plants/' | relative_url }}">Plants</a></li>
-</ul>
+*A study of green resilience — ferns unfolding in shade, trees rising through light, wildflowers marking the seasons, and vines tracing paths between them.*
+{:.caption}
 
-  <div class="grid" role="list">
-    <!-- Ferns -->
-    <a class="tile" href="/gallery/plants/ferns/" role="listitem">
-        <div class="cover" role="img" aria-label="Ferns"
-            style="background-image: url('/gallery/plants/assets/D79A4902.jpg');"></div>
-        <div class="content">
-            <div class="title">Ferns</div>
-            <div class="kicker">Ferns Kicker</div>
-            <p class="desc">Description</p>
-        </div>
-    </a>
+<div class="grid" role="list">
 
-    <!-- Trees -->
-    <a class="tile" href="/gallery/plants/trees/" role="listitem">
-        <div class="cover" role="img" aria-label="trees"
-            style="background-image: url('/gallery/plants/assets/E21A1432.jpg');"></div>
-        <div class="content">
-            <div class="title">Trees</div>
-            <div class="kicker">Trees Kicker</div>
-            <p class="desc">Description</p>
-        </div>
-    </a>
+[![Ferns](/gallery/plants/assets/D79A4902.jpg){: .cover role="img" aria-label="Ferns"}  
+**Ferns**  
+_Unfurling from forest shade._  
+Ferns thrive in filtered light and moist soil, their delicate fronds curling open in slow rhythm.  
+](/gallery/plants/ferns/){: .tile role="listitem"}
 
-    <!-- Wildflowers -->
-    <a class="tile" href="/gallery/plants/wildflowers/" role="listitem">
-        <div class="cover" role="img" aria-label="wildflowers"
-            style="background-image: url('/gallery/plants/assets/E21A1577.jpg');"></div>
-        <div class="content">
-            <div class="title">wildflowers</div>
-            <div class="kicker">Wildflowers Kicker</div>
-            <p class="desc">Description</p>
-        </div>
-    </a>
+[![Trees](/gallery/plants/assets/E21A1432.jpg){: .cover role="img" aria-label="Trees"}  
+**Trees**  
+_The architecture of light and air._  
+Their trunks and canopies define the woodland — steady, sheltering, and ever-changing through the seasons.  
+](/gallery/plants/trees/){: .tile role="listitem"}
 
-    <!-- Vines -->
-    <a class="tile" href="/gallery/plants/vines/" role="listitem">
-        <div class="cover" role="img" aria-label="vines"
-            style="background-image: url('/gallery/plants/assets/E21A1653.jpg');"></div>
-        <div class="content">
-            <div class="title">Vines</div>
-            <div class="kicker">Vines Kicker</div>
-            <p class="desc">Description</p>
-        </div>
-    </a>
-  </div>
-  
-  ---
+</div>
+
+<div class="grid" role="list">
+
+[![Wildflowers](/gallery/plants/assets/E21A1577.jpg){: .cover role="img" aria-label="Wildflowers"}  
+**Wildflowers**  
+_Seasonal color in brief bloom._  
+Each blossom invites bees, birds, and wind — fleeting moments of brightness across the landscape.  
+](/gallery/plants/wildflowers/){: .tile role="listitem"}
+
+[![Vines](/gallery/plants/assets/E21A1653.jpg){: .cover role="img" aria-label="Vines"}  
+**Vines**  
+_The wanderers of the understory._  
+Vines climb, cling, and weave through the forest fabric — connecting soil, bark, and canopy.  
+](/gallery/plants/vines/){: .tile role="listitem"}
+
+</div>

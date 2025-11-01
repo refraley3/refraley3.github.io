@@ -11,7 +11,7 @@ title: Birds
 [![Perching Birds](/gallery/animals/birds/assets/perching/house-wren/E21A2645.jpg){: .photo-tile role="img" aria-label="Perching Birds"}
 **Perching Birds**  
 _The songbirds and sitters of branches and fences._  
-Perching birds - or passerines - bring color and melody to woodlands, fields and backyards.](/gallery/animals/birds/perching){: .photo-tile role="listitem"}
+Perching birds - or passerines - bring color and melody to woodlands, fields and backyards.](/gallery/animals/birds/perching/){: .photo-tile role="listitem"}
 
 [![Raptors](/gallery/animals/birds/assets/raptors/bald-eagle/IMG_0004.jpg){: .cover role="img" aria-label="Raptors"}  
 **Raptors**  

@@ -3,11 +3,11 @@ layout: photo
 title: Insects
 ---
 
-[![Thread by Thread](/gallery/animals/arachnids/assets/garden-spider/E21A4882.jpg){: .cover role="img" aria-label="Thread by Thread"}  
-**Thread by Thread**  
+[![Hidden Lives Among Petals](/gallery/animals/insects/bees/assets/brown-belted-bumble-bee/D79A2070.jpg){: .cover role="img" aria-label="Hidden Lives Among Petals"}  
+**Hidden Lives Among Petals**  
 _A female black and yellow garden spider repairing web._  
-A garden spider laying freash threads across the heart of the web.  
-](/gallery/folder/folder/folder){: .tile role="listitem"}
+A moment of delicate balance unfolds on a sunflower — a bumblebee absorbed in its work, unaware of the crab spider lying in wait. Such encounters remind us that the insect world is an intricate web of beauty, purpose, and predation. From pollinators and predators to the unseen architects of ecosystems, these small creatures shape the landscapes around us in quiet, essential ways.  
+](/gallery/animals/insects/bees){: .tile role="listitem"}
 
 <div class="grid" role="list">
 
@@ -15,7 +15,7 @@ A garden spider laying freash threads across the heart of the web.
 **Bees**  
 _The bald-faced hornet is actually a type of wasp._  
 These solcial wasps are hightly protective and can sting repeatedly.  
-](/gallery/insects/bees/bald-faced-hornet){: . tile role="listitem"}
+](/gallery/animals/insects/bees){: . tile role="listitem"}
 
 [![Beetles Title](/gallery/folder/folder/assets/image-2.jpg){: .cover-role="img area-label="Beetles title"}  
 **Image Title**  

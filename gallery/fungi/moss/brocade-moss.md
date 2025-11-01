@@ -5,10 +5,7 @@ tags: [moss, bryophyte, plants]
 image: /gallery/fungi/moss/assets/E21A6624.jpg
 ---
 
-{% include breadcrumbs.html %}
-{% include children-list.html %}
-
-## (*Hypnum imponens*)
+## Scientific name - *Hypnum imponens*
 
 A soft, feathery moss that forms lush mats across rotting logs and shaded forest floors.  
 When illuminated, its overlapping branches create a rippling texture — the “brocade” that gives this species its common name.
