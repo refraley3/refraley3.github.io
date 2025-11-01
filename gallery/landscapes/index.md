@@ -39,35 +39,92 @@ A small white tower and keeper’s house mark the turning point of the Kennebec 
 ## Ritter Farm Park
 {:.text-center}
 
+### Misty Morning
+{:.section-title}
+
+#### Early autumn mist drifts through the wetlands as morning light begins to emerge.  
+{:.caption}
+
+Taken on a fog-covered morning in early September, these images capture the stillness of Ritter Farm Park before the sun breaks through. The first shows the beaver pond, where cattails and water plants fade into the haze, and the air feels almost suspended in silence. The second frames the small bridge over a tributary feeding Lake Marion, its structure softened by the lingering fog. Together, they convey a moment between night and day — when the park’s wetlands seem to hold their breath in the muted calm of dawn.  
+{:.description}
+
 <div class="grid" role="list">
 
-[![Ritter Farm Park](/gallery/landscapes/assets/ritter-farm-park/E21A6528.jpg){: .cover role="img" aria-label="Ritter Farm Park"}  
-**Ritter Farm Park**  
-_Hidden Engineers and Patient Hunters._  
-From the balance of waiting to the geometry of a web.  
-](/gallery/landscapes/ritter-farm-park/){: .tile role="listitem"}
+<div class="tile">
 
-[![Ritter Farm Park](/gallery/landscapes/assets/ritter-farm-park/E21A6521.jpg){: .cover role="img" aria-label="Ritter Farm Park"}  
-**Ritter Farm Park**  
-_Hidden Engineers and Patient Hunters._  
-From the balance of waiting to the geometry of a web.  
-](/gallery/landscapes/ritter-farm-park/){: .tile role="listitem"}
+![Beaver Pond](/gallery/landscapes/assets/ritter-farm-park/E21A4656.jpg){: .cover role="img" aria-label="Beaver Pond"}  
+**Beaver Pond**  
+Image ID: E21A4656 – Beaver pond under early-morning fog • Size: 4277x2851  
+
+Camera: Canon EOS 5D Mk IV • Lens: EF24–70 mm f/2.8L II USM  
+Settings: ISO 100 • Aperture f/2.8 • Shutter 1/160 s  
+{:.caption}
+
+</div>
+
+<div class="tile">
+
+![Bridge Crossing](/gallery/landscapes/assets/ritter-farm-park/E21A4658.jpg){: .cover role="img" aria-label="Bridge Crossing"}  
+**Bridge Crossing**  
+Image ID: E21A4658 – Bridge crossing a tributary feeding Lake Marion in morning fog • Size: 2703x1802  
+
+Camera: Canon EOS 5D Mk IV • Lens: EF24–70 mm f/2.8L II USM  
+Settings: ISO 100 • Aperture f/3.2 • Shutter 1/160 s  
+{:.caption}
+
+</div>
+
+</div>
+
+### Morning Light
+{:.section-title}
+
+#### Low autumn sun illuminates the prairie and woodland trails in golden light.  
+
+Captured in the early hours after sunrise, these images show the soft interplay of light and texture across the prairie and woodland paths of Ritter Farm Park. The first frame highlights tall grasses and late-season blooms glowing under a clearing sky. The second looks down a wooded trail edged with warm foliage and filtered morning light. Together, they reflect the quiet energy of a fall morning as the landscape shifts from shadow to gold.  
+{:.description}
+
+<div class="grid" role="list">
+
+<div class="tile">
+
+![Prairie Grasses in Morning Light](/gallery/landscapes/assets/ritter-farm-park/E21A6521.jpg){: .cover role="img" aria-label="Prairie Grasses in Morning Light"}  
+**Prairie Grasses in Morning Light**  
+Image ID: E21A6521 – Late-season prairie grasses illuminated by low-angle morning sunlight under broken cloud cover • Size: 800x533  
+
+Camera: Canon EOS 5D Mk IV • Lens: EF24–70 mm f/2.8L II USM  
+Settings: ISO 800 • Aperture f/13 • Shutter 1/320 s  
+{:.caption}
+
+</div>
+
+<div class="tile">
+
+![Autumn Trail](/gallery/landscapes/assets/ritter-farm-park/E21A6528.jpg){: .cover role="img" aria-label="Autumn Trail"}  
+**Autumn Trail**  
+Image ID: E21A6528 – Wooded trail bordered by fall foliage at Ritter Farm Park, captured in warm morning light beneath layered clouds • Size: 800x533  
+
+Camera: Canon EOS 5D Mk IV • Lens: EF24–70 mm f/2.8L II USM  
+Settings: ISO 1250 • Aperture f/13 • Shutter 1/100 s  
+{:.caption}
+
+</div>
 
 </div>
 
 <div class="grid" role="list">
 
-[![Ritter Farm Park](/gallery/landscapes/assets/ritter-farm-park/E21A4658.jpg){: .cover role="img" aria-label="Ritter Farm Park"}  
-**Ritter Farm Park**  
-_Hidden Engineers and Patient Hunters._  
-From the balance of waiting to the geometry of a web.  
-](/gallery/landscapes/ritter-farm-park/){: .tile role="listitem"}
+<div class="tile">
 
-[![Ritter Farm Park](/gallery/landscapes/assets/ritter-farm-park/E21A4656.jpg){: .cover role="img" aria-label="Ritter Farm Park"}  
-**Ritter Farm Park**  
-_Hidden Engineers and Patient Hunters._  
-From the balance of waiting to the geometry of a web.  
-](/gallery/landscapes/ritter-farm-park/){: .tile role="listitem"}
+![Autumn Reflection](/gallery/landscapes/assets/ritter-farm-park/E21A6817.jpg){: .cover role="img" aria-label="Autumn Reflection"}  
+**Autumn Reflection**  
+Image ID: E21A6817 – Autumn foliage reflected across the pond at Ritter Farm Park, captured in calm morning light • Size: 800x533  
+
+Camera: Canon EOS 5D Mk IV • Lens: EF24–70 mm f/2.8L II USM  
+Settings: ISO 200 • Aperture f/18 • Shutter 1 s • Focal Length 50 mm  
+{:.caption}
+
+</div>
 
 </div>
 

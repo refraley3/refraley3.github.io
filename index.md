@@ -2,6 +2,7 @@
 layout: photo
 title: Home
 ---
+
 <div class="grid" role="list">
 
 [![Gallery](/gallery/landscapes/assets/ritter-farm-park/E21A4658.jpg){: .cover role="img" aria-label="Gallery"}  
