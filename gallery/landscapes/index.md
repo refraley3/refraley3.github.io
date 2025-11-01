@@ -8,29 +8,30 @@ title: Landscapes
 
 <div class="grid" role="list">
 
-[![Boston, MA](/gallery/landscapes/assets/boston-ma/IMG_0001.jpg){: .cover role="img" aria-label="Boston, MA"}  
-**Boston, MA**  
-_Hidden Engineers and Patient Hunters._  
-From the balance of waiting to the geometry of a web.  
+[![Boston Waterfront](/gallery/landscapes/assets/boston-ma/IMG_0001.jpg){: .cover role="img" aria-label="Boston Waterfront"}  
+**Boston Waterfront**  
+_Morning calm beneath the skyline._  
+From the harbor, Boston’s skyline rises in layers of glass and brick — a balance of history and renewal reflected on the still water. The scene captures a brief pause between movement and memory, where the city meets the tide.  
 ](/gallery/landscapes/boston-ma/){: .tile role="listitem"}
 
-[![Boston, MA](/gallery/landscapes/assets/boston-ma/IMG_0019.jpg){: .cover role="img" aria-label="Boston, MA"}  
-**Boston, MA**  
-_Hidden Engineers and Patient Hunters._  
-From the balance of waiting to the geometry of a web.  
+[![Schooners in Boston Harbor — June 2006](/gallery/landscapes/assets/boston-ma/IMG_0019.jpg){: .cover role="img" aria-label="Schooners in Boston Harbor — June 2006"}  
+**Schooners in Boston Harbor — June 2006**  
+_Training ships of the Ocean Classroom Foundation._  
+Moored together at the Boston waterfront, the schooners Spirit of Massachusetts, Harvey Gamage, and Westward formed a striking trio of sail-training vessels under the Ocean Classroom Foundation. Each served as a floating classroom for maritime education along the Atlantic coast.
+The Harvey Gamage remains active today through the Marine Learning Project, while the Spirit of Massachusetts was later restored and now serves as a dockside restaurant in Kennebunkport, Maine.  
 ](/gallery/landscapes/boston-ma/){: .tile role="listitem"}
 
 </div>
 
-## Brunswick, ME
+## Arrowsic, ME
 {:.text-center}
 
 <div class="grid" role="list">
 
-[![Brunswick, ME](/gallery/landscapes/assets/brunswick-me/D79A3578.jpg){: .cover role="img" aria-label="Brunswick, ME"}  
-**Fiddler's Reach Lighthouse — Brunswick, ME**  
-_Turning point on the Kennebec River._  
-From the balance of waiting to the geometry of a web.  
+[![Fiddler’s Reach Lighthouse](/gallery/landscapes/assets/brunswick-me/D79A3578.jpg){: .cover role="img" aria-label="Fiddler’s Reach Lighthouse"}  
+**Fiddler’s Reach Lighthouse — Arrowsic, ME**  
+_Monitoring the bend where river meets tide._  
+A small white tower and keeper’s house mark the turning point of the Kennebec River, guiding ships past forested banks toward the open sea.  
 ](/gallery/landscapes/brunswick-me/){: .tile role="listitem"}
 
 </div>
