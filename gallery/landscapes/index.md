@@ -6,6 +6,8 @@ title: Landscapes
 ## Boston, MA
 {:.text-center}
 
+---
+
 <div class="grid" role="list">
 
 [![Boston Waterfront](/gallery/landscapes/assets/boston-ma/IMG_0001.jpg){: .cover role="img" aria-label="Boston Waterfront"}  
@@ -23,9 +25,12 @@ The Harvey Gamage remains active today through the Marine Learning Project, whil
 
 </div>
 
+---
+
 ## Arrowsic, ME
 {:.text-center}
 
+---
 <div class="grid" role="list">
 
 [![Fiddler’s Reach Lighthouse](/gallery/landscapes/assets/brunswick-me/D79A3578.jpg){: .cover role="img" aria-label="Fiddler’s Reach Lighthouse"}  
@@ -36,8 +41,12 @@ A small white tower and keeper’s house mark the turning point of the Kennebec 
 
 </div>
 
+---
+
 ## Ritter Farm Park
 {:.text-center}
+
+---
 
 ### Misty Morning
 {:.section-title}
@@ -139,67 +148,43 @@ Settings: ISO 200 • Aperture f/18 • Shutter 1 s
 </div>
 
 </div>
+---
 
-### Energy Transition near Kirtland, New Mexico
+## Energy Transition near Kirtland, New Mexico
 {:.section-title}
 
-From coal combustion to solar generation on Navajo land in the high desert.  
+---
+
+### From coal combustion to solar generation on Navajo land in the high desert.  
 {:.kicker}
 
-This series traces the changing energy landscape near Kirtland, New Mexico, on land owned by the Navajo Nation. The first image, taken in 2007, shows the coal-fired power plant once operated by Public Service Company of New Mexico. Built in the 1970s, the plant suffered an explosion on July 7, 1977, at 7:07 a.m., which permanently shut down one of its generating units. The facility was later acquired by PacifiCorp, whose grid west of the Rockies remains among the least renewable in the United States. Coal for this and a nearby plant—operated by Arizona Public Service across the range—has long been mined from Navajo lands, generating revenue for the tribe. The following photos document the decommissioning and demolition of the original facility, and a final image looks toward a solar array rising on the same desert plain. Together, they record a slow transition from fossil fuel dependence to renewable generation across the region.  
-{:.description}
-
 <div class="grid" role="list">
 
-<div class="tile">
-
-![San Juan Generating Station – 2007](/gallery/landscapes/assets/kirtland-nm/IMG_0047.jpg){: .cover role="img" aria-label="San Juan Generating Station – 2007"}  
+[![San Juan Generating Station – 2007](/gallery/landscapes/assets/kirtland-nm/IMG_0047.jpg){: .cover role="img" aria-label="San Juan Generating Station – 2007"}  
 **San Juan Generating Station – 2007**  
-Image ID: IMG_0047 – Coal-fired power plant west of Kirtland, New Mexico, showing one of four units offline following the 1977 explosion • Size: 3456x2304  
+Coal-fired power plant west of Kirtland, New Mexico, showing one of four units offline following the 1977 explosion.  ](/gallery/landscapes/energy-transition-kirtland/){: .tile role="listitem"}  
 
-Camera: Canon EOS DIGITAL REBEL XT • Lens: 75-300mm f/4-5.6  
-Settings: ISO 100 • Aperture f/16 • Shutter 1/250 s  
-{:.caption}
-
-</div>
-
-<div class="tile">
-
-![Plant Demolition](/gallery/landscapes/assets/kirtland-nm/E21A4594.jpg){: .cover role="img" aria-label="Plant Demolition"}  
+[![Plant Demolition - 2025](/gallery/landscapes/assets/kirtland-nm/E21A4594.jpg){: .cover role="img" aria-label="Plant Demolition"}  
 **Plant Demolition**  
-Image ID: E21A4582 – Remains of the San Juan Generating Station during demolition, with conveyors and support structures visible across the reclaimed mine area • Size: 4646x3097  
+Remains of the San Juan Generating Station during demolition, with conveyors and support structures visible across the reclaimed mine area.  ](/gallery/landscapes/energy-transition-kirtland/){: .tile role="listitem"}  
 
-Camera: Canon EOS 5D Mk IV • Lens: EF100–400mm f/4.5–5.6L IS USM  
-Settings: ISO 200 • Aperture f/8 • Shutter 1/1000 s • Focal Length 400 mm  
-{:.caption}
-
-</div>
-
-</div>
-
-<div class="grid" role="list">
-
-<div class="tile">
-
-![Solar Array near Kirtland](/gallery/landscapes/assets/kirtland-nm/E21A4582.jpg){: .cover role="img" aria-label="Solar Array near Kirtland"}  
+[![Solar Array near Kirtland](/gallery/landscapes/assets/kirtland-nm/E21A4582.jpg){: .cover role="img" aria-label="Solar Array near Kirtland"}  
 **Solar Array near Kirtland**  
-Image ID: IMG_0047 – View toward a new solar installation near the former San Juan Generating Station site, marking the region’s transition toward renewable energy • Size: 2432x1621  
-
-Camera: Canon EOS 5D Mk IV • Lens: EF24–70mm f/2.8L II USM  
-Settings: ISO 100 • Aperture f/13.0 • Shutter 1/250 s  
-{:.caption}
-
-</div>
+View toward a new solar installation near the former San Juan Generating Station site, marking the region’s transition toward renewable energy.  ](/gallery/landscapes/energy-transition-kirtland/){: .tile role="listitem"}  
 
 </div>
 
 ---
 
-### Murphy-Hanrehan Park Reserve
+## Murphy-Hanrehan Park Reserve
 {:.section-title}
 
-Reflections in early light over the wetlands.  
+---
+
+### Reflections in early light over the wetlands.  
 {:.kicker}
+
+---
 
 Captured at sunrise, this view across the wetlands of Murphy-Hanrehan Park Reserve shows the first light touching the water’s surface. The stillness of the pond contrasts with the pastel colors of the sky, mirrored across patches of lily pads and reeds. The moment reflects the calm transition between night and morning in one of the region’s most peaceful natural spaces.  
 {:.description}
@@ -269,10 +254,14 @@ Black and white study of Spring Point Ledge Light in fog, emphasizing form and t
 
 ---
 
-### Rice Lake, Minnesota
+## Rice Lake, Minnesota
 {:.section-title}
 
-At sunrise, the wind stirs light ripples across Rice Lake while duck hunters call from the south shore. The wooden dock catches the first warm light of day, contrasting the movement of water with the quiet structure of the pier.  
+---
+
+### Rice Lake at Sunrise
+
+At sunrise, the wind stirs light ripples across Rice Lake while duck hunters call from the south shore. The fishing pier catches the first warm light of day, contrasting the movement of water with the quiet structure of the pier.  
 {:.kicker}
 
 <div class="grid" role="list">
@@ -281,7 +270,7 @@ At sunrise, the wind stirs light ripples across Rice Lake while duck hunters cal
 
 ![Rice Lake at Sunrise](/gallery/landscapes/assets/rice-lake-mn/E21A5775-2.jpg){: .cover role="img" aria-label="Rice Lake at Sunrise"}  
 **Rice Lake at Sunrise**  
-Image ID: E21A5775-2 – Wooden dock at Rice Lake, Minnesota, illuminated by early sunlight under a rising sky • Size: 6564x4376  
+Image ID: E21A5775-2 – Fishing pier at Rice Lake, Minnesota, illuminated by early sunlight under a rising sky • Size: 6564x4376  
 
 Camera: Canon EOS 5D Mk IV • Lens: EF24–70mm f/2.8L II USM  
 Settings: ISO 100 • Aperture f/4 • Shutter 1/160 s  
@@ -294,25 +283,16 @@ Settings: ISO 100 • Aperture f/4 • Shutter 1/160 s
 
 ---
 
-### Tumacácori National Historical Park, Arizona
+## Tumacácori National Historical Park, Arizona
 {:.section-title}
+
+---
+### Adaptation to climate, culture, and conflict
 
 The Spanish mission at Tumacácori stands as one of the oldest surviving examples of colonial architecture in the American Southwest. Established in the late 1600s by Jesuit missionaries and later expanded under Franciscan supervision, the mission church reflects centuries of adaptation to climate, culture, and conflict. Its unfinished bell tower, weathered plaster, and hand-formed adobe walls retain the quiet dignity of a structure shaped by both faith and frontier life.  
 {:.kicker}
 
 <div class="grid" role="list">
-
-<div class="tile">
-
-![Tumacácori Mission – South Wall](/gallery/landscapes/assets/tumacacori-az/IMG_0160.jpg){: .cover role="img" aria-label="Tumacácori Mission – South Wall"}  
-**Tumacácori Mission – South Wall**  
-Image ID: IMG_0160 – The mission’s thick adobe walls and dome seen from the south, their weathered surfaces revealing centuries of sun and restoration • Size: 3456x2304  
-
-Camera: Canon EOS DIGITAL REBEL XT • Lens: 35-80mm f/4  
-Settings: ISO 400 • Aperture f/13 • Shutter 1/125 s  
-{:.caption}
-
-</div>
 
 <div class="tile">
 
@@ -322,6 +302,18 @@ Image ID: IMG_0139 – The unfinished bell tower and ornate mission entrance fra
 
 Camera: Canon EOS DIGITAL REBEL XT • Lens: 35-80mm f/4  
 Settings: ISO 100 • Aperture f/20 • Shutter 1/60 s  
+{:.caption}
+
+</div>
+
+<div class="tile">
+
+![Tumacácori Mission – North Wall](/gallery/landscapes/assets/tumacacori-az/IMG_0160.jpg){: .cover role="img" aria-label="Tumacácori Mission – North Wall"}  
+**Tumacácori Mission – South Wall**  
+Image ID: IMG_0160 – The mission’s thick adobe walls and dome seen from the north, their weathered surfaces revealing centuries of sun and restoration • Size: 3456x2304  
+
+Camera: Canon EOS DIGITAL REBEL XT • Lens: 35-80mm f/4  
+Settings: ISO 400 • Aperture f/13 • Shutter 1/125 s  
 {:.caption}
 
 </div>
