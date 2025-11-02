@@ -27,17 +27,17 @@ The Harvey Gamage remains active today through the Marine Learning Project, whil
 
 ---
 
-## Arrowsic, ME
+## Kennebec River, Maine
 {:.text-center}
 
 ---
 <div class="grid" role="list">
 
-[![Fiddler’s Reach Lighthouse](/gallery/landscapes/assets/brunswick-me/D79A3578.jpg){: .cover role="img" aria-label="Fiddler’s Reach Lighthouse"}  
+[![Fiddler’s Reach Lighthouse](/gallery/landscapes/assets/kennebec-river/D79A3578.jpg){: .cover role="img" aria-label="Fiddler’s Reach Lighthouse"}  
 **Fiddler’s Reach Lighthouse — Arrowsic, ME**  
 _Monitoring the bend where river meets tide._  
 A small white tower and keeper’s house mark the turning point of the Kennebec River, guiding ships past forested banks toward the open sea.  
-](/gallery/landscapes/brunswick-me/){: .tile role="listitem"}
+](/gallery/landscapes/kennebec-river/){: .tile role="listitem"}
 
 </div>
 
@@ -148,6 +148,7 @@ Settings: ISO 200 • Aperture f/18 • Shutter 1 s
 </div>
 
 </div>
+
 ---
 
 ## Energy Transition near Kirtland, New Mexico
@@ -206,9 +207,6 @@ Settings: ISO 2000 • Aperture f/4.5 • Shutter 1/200 s
 </div>
 
 *Captured at Murphy-Hanrehan Park Reserve, Savage, Minnesota – September 2025*  
-{:.date}
-
-*Captured between 2007 and 2025*  
 {:.date}
 
 ---
@@ -279,7 +277,6 @@ Settings: ISO 100 • Aperture f/4 • Shutter 1/160 s
 </div>
 
 </div>
-
 
 ---
 
