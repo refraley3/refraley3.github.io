@@ -4,22 +4,19 @@ title: Pear-shaped Puffball
 description: Field observations of pear-shaped puffball.
 ---
 
-{% include breadcrumbs.html %}
-{% include children-list.html %}
-
 ###  (*Lycoperdon pyriforme*)
 
 ![Pear-shaped Puffball on mossy white oak](/gallery/fungi/mushrooms/assets/pear-shaped-puffball/E21A6643.jpg)
 
 ---
 
-## Overview
+### Overview
 
 The pear-shaped puffball (*Lycoperdon pyriforme*) is a small woodland fungus found on decaying wood or moss-covered surfaces. Despite sometimes appearing to grow from living trees, it feeds only on decomposing organic matter, helping recycle nutrients in forest ecosystems.
 
 ---
 
-## Appearance
+### Appearance
 
 * **Shape:** Rounded or slightly pear-shaped, typically 1–3 cm in diameter.
 * **Color:** White when young, gradually turning tan or brown as it matures.
@@ -31,7 +28,7 @@ The pear-shaped puffball (*Lycoperdon pyriforme*) is a small woodland fungus fou
 
 ---
 
-## Habitat
+### Habitat
 
 * **Substrate:** Prefers decaying wood, stumps, and mossy logs, though sometimes appears on bark of living trees where organic matter accumulates.
 * **Environment:** Moist, shaded forests — often beneath oaks or maples.
@@ -41,6 +38,6 @@ The pear-shaped puffball (*Lycoperdon pyriforme*) is a small woodland fungus fou
 
 ---
 
-## 🌿 Ecological Role
+### Ecological Role
 
 The pear-shaped puffball is a **saprobe**, breaking down decomposing plant matter. By doing so

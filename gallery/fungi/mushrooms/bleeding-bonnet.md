@@ -4,14 +4,7 @@ title: Bleeding Bonnet Mushrooms
 description: Visit to these Bleeding Bonnets on three consecutive days to observe progress of the Pin Mold infection.
 ---
 
-{% include breadcrumbs.html %}
-{% include children-list.html %}
-
 ## (*Mycena haematopus*) Infected by *Spinellus fusiger*
-
-![Bleeding Bonnet mushrooms - Day 1](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5255.jpg)
-
-*Day 1 – Bleeding Bonnet mushrooms before the full spread of the mold.*
 
 ---
 
@@ -21,6 +14,17 @@ A quiet corner of the northern woods where the Bleeding Bonnet (*Mycena haematop
 Even here, life gives way to life — a fungus consumed by another, framed in still air and soft light.
 
 ---
+### Day 1 – Early Infection
+
+![Bleeding Bonnet mushrooms - Day 1](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5255.jpg){: .cover role="img" aria-label="Bleeding Bonnet mushrooms early infection"}  
+**Bleeding Bonnet — Day 1, Early Infection**  
+_Fine hyphae appear around the intact caps, marking the onset of mold colonization._  
+The Bleeding Bonnet caps show early colonization. Fine hyphae are visible around the caps, but the structure of the mushrooms remains intact. • Size: 6000×4000  
+
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 8000 • Aperture f/13.0 • Shutter 1/50 s  
+{:.caption}
 
 ### Overview
 
@@ -38,46 +42,32 @@ This process doesn’t immediately destroy the Bleeding Bonnet fruiting bodies b
 
 ---
 
-## Photo Sequence
+### Day 2 – Expansion
 
-### Day 1 – Early Infection
+![Bleeding Bonnet mushrooms - Day 2](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5422.jpg){: .cover role="img" aria-label="Bleeding Bonnet mushrooms advanced mold"}  
+**Bleeding Bonnet — Day 2, Extensive Mold Growth**  
+_Long translucent hyphae radiate outward, giving the caps an ethereal halo._  
+By the second day, the *Spinellus* mold has spread extensively. The translucent filaments catch the light, making this stage the most photogenic — a delicate balance of life and decay. • Size: 6000×4000  
 
-![Bleeding Bonnet mushrooms - Day 1](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5255.jpg)
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/22.0 • Shutter 4.0 s  
+{:.caption}
 
-The Bleeding Bonnet caps show early colonization. Fine hyphae are visible around the caps, but the structure of the mushrooms remains intact.
-
-| Property | Image Data |
-|Camera|Canon EOS 5D Mk IV|
-|Lens|EF100mm f/2.8L Macro IS USM|
-|ISO|8000|
-|Aperture|f/13.0|
-|Shutter|1/50 seconds|
-
-### Day 2 – Full Colonization
-
-![Bleeding Bonnet mushrooms - Day 2](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5422.jpg)
-
-By the second day, the *Spinellus* mold has spread extensively. Long, translucent hyphae radiate from the caps, giving them a spiky, ethereal appearance. This stage is the most photogenic — a delicate balance of life and decay.
-
-| Property | Image Data |
-|Camera|Canon EOS 5D Mk IV|
-|Lens|EF100mm f/2.8L Macro IS USM|
-|ISO|200|
-|Aperture|f/22.0|
-|Shutter|4.0 seconds|
+---
 
 ### Day 3 – Collapse
 
-![Bleeding Bonnet mushrooms - Day 3](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5429.jpg)
+![Bleeding Bonnet mushrooms - Day 3](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5429.jpg){: .cover role="img" aria-label="Bleeding Bonnet mushrooms collapse"}  
+**Bleeding Bonnet — Day 3, Collapse**  
+_The hyphae thicken and the caps begin to shrink as nutrients are consumed._  
+The mushrooms begin to collapse as nutrients are exhausted. The hyphae are dense, and the caps start to shrivel, marking the end of the visible infection cycle. • Size: 6000×4000  
 
-The mushrooms begin to collapse as nutrients are exhausted. The hyphae are dense, and the caps start to shrivel, marking the end of the visible infection cycle.
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/18.0 • Shutter 15.0 s  
+{:.caption}
 
-| Property | Image Data |
-|Camera|Canon EOS 5D Mk IV|
-|Lens|EF100mm f/2.8L Macro IS USM|
-|ISO|200|
-|Aperture|f/18.0|
-|Shutter|15.0 seconds|
 
 ---
 

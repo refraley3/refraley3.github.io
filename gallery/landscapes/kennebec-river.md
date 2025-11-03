@@ -36,7 +36,7 @@ _Guiding ships along the upriver bend toward Bath._
 Set among pines and tidal flats, Doubling Point Light has guided mariners since 1898 where the Kennebec narrows toward Bath Iron Works. • Size: 2926x1646  
 
 Camera: Canon EOS 5D Mk IV  
-Lens:  F24–70 mm f/2.8L II USM  
+Lens:  EF24–70 mm f/2.8L II USM  
 Settings: ISO 200 • Aperture f/22 • Shutter 1/200 s  
 {:.caption}
 

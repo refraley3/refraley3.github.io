@@ -13,9 +13,16 @@ Clay-colored milkcap found under pines.
 
 [![Blackening Slimespike](/gallery/fungi/mushrooms/assets/slimespike/E21A6391.jpg){: .cover role="img" aria-label="Blackening Slimespike"}  
 **Blackening Slimespike**  
-_Slimey and sticky._  
+_Slimy and sticky._  
 Symbiotic with pine trees, especially Douglas-Fir.  
 ](/gallery/fungi/mushrooms/blackening-slimespike/){: .tile role="listitem"}
+
+[![Shrimp Russula](/gallery/fungi/mushrooms/assets/shrimp-russula/E21A6930.jpg){: .cover role="img" aria-label="Shrimp Russula"}  
+**Shrimp Russula**  
+_*Russula xerampelina* group_  
+Dry-capped and brittle, found beneath Red Pines.  
+A spore print will confirm whether it’s truly *Russula* or the similar *Gomphidius* Slimespike — the forest’s quiet test of patience.  
+](/gallery/fungi/mushrooms/shrimp-russula/){: .tile role="listitem"}
 
 </div>
 
@@ -59,7 +66,7 @@ _These shelf-like fungi grow in layers._
 Found on decaying wood or moss-covered surfaces.  
 ](/gallery/fungi/mushrooms/turkeytail/){: .tile role="listitem"}
 
-[![Violet-toothed Polypore](/gallery/fungi/mushrooms/assets/violet-toothed-polypore/E21A6876-6864.jpg){: .cover role="img aria-label="Violet-toothed Polypore}  
+[![Violet-toothed Polypore](/gallery/fungi/mushrooms/assets/violet-toothed-polypore/E21A6876-6864.jpg){: .cover role="img" aria-label="Violet-toothed Polypore"}  
 **Violet-toothed Polypore**  
 _*Trichaptum biforme*_  
 Violet-toothed polypore growing on a cut oak log, showing distinct purple margins.  
@@ -73,6 +80,6 @@ Violet-toothed polypore growing on a cut oak log, showing distinct purple margin
 **Pear-shaped Puffball**  
 _A tiny woodland puff that releases clouds of spores with a gentle tap._  
 The pear-shaped puffball is a small woodland fungus found on decaying wood or moss-covered surfaces.  
-](/gallery/fungi/mushrooms/pear-shaped-puffbal/){: .tile role="listitem"}
+](/gallery/fungi/mushrooms/pear-shaped-puffball/){: .tile role="listitem"}
 
 </div>

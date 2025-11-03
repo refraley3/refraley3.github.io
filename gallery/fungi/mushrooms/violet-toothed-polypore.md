@@ -9,6 +9,16 @@ image: /gallery/fungi/polypore/assets/_21A6876-6864.jpg
 
 A delicate bracket fungus that decorates dead hardwood with layered fans edged in violet. Its color fades with age, but when fresh, the purple margins make it one of the most recognizable wood decomposers in North American forests.
 
+![Violet-toothed polypore on oak log](/gallery/fungi/mushrooms/assets/violet-toothed-polypore/E21A6876-6864.jpg){: .cover role="img" aria-label="Violet-toothed Polypore on oak log"}  
+**Violet-toothed Polypore**  
+_Fresh violet edges on a cut oak log, fading to silver with age._  
+Thin, layered brackets with distinct purple margins decorate the end grain of an oak trunk, capturing the soft light of the forest understory. • Size: 6000×4000  
+
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 4000 • Aperture f/13.0 • Shutter 1/50 s  
+{:.caption}
+
 ### Identification
 
 * **Genus:** *Trichaptum*
@@ -25,11 +35,7 @@ A delicate bracket fungus that decorates dead hardwood with layered fans edged i
 * **Environment:** Moist forest interiors and shaded woodlots
 * **Season:** Year-round, most vibrant in spring and fall
 
-### Photos
-
-![Violet-toothed polypore on oak log](/gallery/fungi/mushrooms/assets/violet-toothed-polypore/E21A6876-6864.jpg)
-
-Violet-toothed polypore growing on a cut oak log, showing distinct purple margins.
+---
 
 ### Notes
 

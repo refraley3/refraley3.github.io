@@ -4,36 +4,29 @@ title: Funeral Bell (Galerina marginata)
 description: Small, caramel-brown gilled mushrooms with a rusty-brown spore print on mossy wood; likely the deadly Funeral Bell.
 ---
 
-{% include breadcrumbs.html %}
-{% include children-list.html %}
-
 ## (*Galerina marginata*)
 
-![Funeral Bell](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6449.jpg)
+![Funeral Bell Mushrooms on Mossy Log](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6449.jpg){: .cover role="img" aria-label="Funeral Bell Mushrooms on Mossy Log"}  
+**Funeral Bell Mushrooms on Mossy Log**  
+_Caramel-brown caps with finely striate margins; thin stems emerging from a mossy log._  
+Small, bell-shaped mushrooms known for their delicate texture and smooth, glossy caps. Their subdued brown tones contrast beautifully with the green moss beneath. • Size: 6720×4480  
 
-Caramel-brown caps with finely striate margins; thin stems on a mossy log.
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/13.0 • Shutter 3.2 s  
+{:.caption}
 
-|            Image Data            |
-|--------|------------------------|
-|Camera|Canon EOS 5D Mk IV|
-|Lens|EF100mm f/2.8L Macro IS USM|
-|ISO|200|
-|Aperture|f/13.0|
-|Shutter|3.2 seconds|
-|Size|6720x4480|
+---
 
-![Funeral Bell](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6452.jpg)
+![Funeral Bell Mushrooms close-up](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6452.jpg){: .cover role="img" aria-label="Funeral Bell Mushrooms close-up"}  
+**Funeral Bell Mushrooms close-up**  
+_Caramel-brown caps with finely striate margins; thin stems on a mossy log._  
+A closer look at the fine gills and thin, fibrous stems typical of the Funeral Bell group, often found in damp forest habitats on decaying wood. • Size: 4679×3119  
 
-Caramel-brown caps with finely striate margins; thin stems on a mossy log.
-
-|            Image Data            |
-|--------|------------------------|
-|Camera|Canon EOS 5D Mk IV|
-|Lens|EF100mm f/2.8L Macro IS USM|
-|ISO|200|
-|Aperture|f/13.0|
-|Shutter|3.2 seconds|
-|Size|4679x3119|
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/13.0 • Shutter 3.2 s  
+{:.caption}
 
 **Habitat:** Mossy, decayed hardwood log near Lakeville, MN  
 **Cap:** Hygrophanous caramel to tan with finely striate margin  
@@ -51,7 +44,3 @@ Caramel-brown caps with finely striate margins; thin stems on a mossy log.
 
 - *National Audubon Society: Mushrooms of North America* (April 2023)
 - Personal field notes (2025)
-
----
-
-*© [2025] Ray Fraley. All photographs and text by the author.*
