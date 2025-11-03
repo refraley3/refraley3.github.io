@@ -9,9 +9,17 @@ description: A brittle, pink-capped mushroom found beneath Red Pines in Minnesot
 
 ## (*Russula xerampelina* group)
 
-![Mushrooms growing among pine needles.](/gallery/fungi/mushrooms/assets/shrimp-russula/E21A6930.jpg)
+![Mushrooms growing among pine needles.](/gallery/fungi/mushrooms/assets/shrimp-russula/E21A6930.jpg){: .cover role="img" aria-label="Mushrooms growing among pine needles"}  
+**Mushrooms growing among pine needles**
+ _It often shares the same habitat as Slimespikes and Milkcaps, each forming its own hidden relationship with the surrounding pines._  
+ The Shrimp Russula, named for its faint **marine scent**, is part of a complex of species associated with conifers._ • Size: 5309x3539  
 
-**Habitat:** Beneath Red Pines (Lakeville, MN)  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 2000 • Aperture f/4.5 • Shutter 1/500 s  
+{:.caption}
+
+**Habitat:** Beneath Red Pines  
 **Cap:** Dry, smooth to slightly cracked with age; **reddish-brown to wine-colored**, fading toward the margin  
 **Gills:** Cream to pale yellow, crowded, becoming darker or spotted with age  
 **Stem:** White to pinkish, often **discolored brown** near the base  
@@ -25,11 +33,15 @@ description: A brittle, pink-capped mushroom found beneath Red Pines in Minnesot
 ### Field Story
 
 When first found beneath the **Red Pines**, these mushrooms seemed to match the **Blackening Slimespike**—brown caps, thick gills, and the same pine-needle setting.  
-Yet the **dry surface** and **brittle flesh** told another story. The cap edges cracked as they aged, and the gills broke cleanly under touch—a clue pointing toward the **Russulas**, not the slimy *Gomphidius*.
 
-![Mature Russula with dry, cracked cap.](/gallery/fungi/mushrooms/assets/shrimp-russula/E21A6936.jpg)
+![Mature Russula with dry, cracked cap.](/gallery/fungi/mushrooms/assets/shrimp-russula/E21A6936.jpg){: .cover role="img" aria-label="Mature Russula with dry, cracked cap"}  
+**Mature Russula with dry, cracked cap**  
+Yet the **dry surface** and **brittle flesh** told another story. The cap edges cracked as they aged, and the gills broke cleanly under touch—a clue pointing toward the **Russulas**, not the slimy *Gomphidius*. • Size: 5309x3539  
 
-The Shrimp Russula, named for its faint **marine scent**, is part of a complex of species associated with conifers. It often shares the same habitat as Slimespikes and Milkcaps, each forming its own hidden relationship with the surrounding pines.
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 2000 • Aperture f/4.5 • Shutter 1/500 s  
+{:.caption}
 
 ---
 
@@ -40,10 +52,6 @@ The Shrimp Russula, named for its faint **marine scent**, is part of a complex o
 - **Odor:** Mild, sometimes sweet or reminiscent of shellfish.  
 - **Spore Print:** White to cream, helping separate it from gray-spored *Gomphidius*.  
 - **Taste:** Mild (tested cautiously), lacking the acrid burn of peppery Russulas.  
-
-![Russula showing pale gills and discolored stem.](/gallery/fungi/mushrooms/assets/shrimp-russula/E21A6930.jpg)
-
-![Close-up of Russula cap texture.](/gallery/fungi/mushrooms/assets/shrimp-russula/E21A6936.jpg)
 
 > *In a dry autumn, the colors fade first, but the forms remain—each one a quiet echo of its wetter season.*
 
