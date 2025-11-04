@@ -49,7 +49,7 @@ This small male rests under a folded milkweed leaf, his slender body still, his 
 
 <div class="grid" role="list">
 
-[![Waiting in Gold](/gallery/animals/arachnids/assets/crab-spider/D79A0270.jpg){: .cover role="img" aria-label="Waiting in Gold"}  
+[![Waiting in Gold](/gallery/animals/arachnids/assets/crab-spider/D79A2078.jpg){: .cover role="img" aria-label="Waiting in Gold"}  
 **Waiting in Gold**  
 _These ambush predators rely on patience and camouflage rather than webs._  
 This small crab spider sits perfectly still on a yellow wildflower; its color tone matches the petal so well that most insects never notice until it's too late.  

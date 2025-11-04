@@ -1,13 +1,8 @@
 ---
 layout: photo
 title: Crab Spider
-description: Field observations of orb-weaver webs and the garden spiders that build them.
 ---
 
-{% include breadcrumbs.html %}
-{% include children-list.html %}
-
----
 
 ## *Waiting in Gold*
 
@@ -19,6 +14,38 @@ This small crab spider sits perfectly still on a yellow wildflower, its color ma
 *Image ID: D79A0274* - Crab spider on yellow wildflower • Size: 2345x3518
 {:.caption}
 
-*Camera: Canon EOS 5D Mk IV • Lens:* EF100mm f/2.8L Macro IS USM
-*Settings:* ISO 200 • Aperture f/8.0 • Shutter 1/8 s
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/8.0 • Shutter 1/8 s
+{:.caption}
+
+## *Hidden Among the Petals*
+
+**A patient hunter watches from the flower’s heart.**
+
+Perfectly adapted for ambush, it relies on color and stillness rather than speed or silk. The contrast between the golden bloom and the blue sky highlights both beauty and tension — an unseen balance between predator and prey.
+
+![Crab spider camouflaged in yellow bloom](/gallery/animals/arachnids/assets/crab-spider/D79A2078.jpg){: .cover role="img" aria-label="Crab spider camouflaged in yellow bloom"}  
+**Crab spider camouflaged in yellow bloom**  
+The crab spider remains motionless on this yellow wildflower, its pale body nearly indistinguishable from the petals surrounding it.• Size: 3648x2432  
+
+Camera: Canon EOS 5D Mk IV  
+Lens: EF50mm f/2.5 Compact Macro  
+Settings: ISO 200 • Aperture f/11.0 • Shutter 1/200 s  
+{:.caption}
+
+## *The Waiting Ends*
+
+**A sudden encounter between hunter and pollinator.**
+
+Though small, the crab spider’s patience and camouflage give it power far greater than its size, an ambush artist on nature’s most vivid stage.
+
+![Crab spider ambushing bee on flower](/gallery/animals/arachnids/assets/crab-spider/D79A2071.jpg){: .cover role="img" aria-label="Crab spider ambushing bee on flower"}  
+**Crab spider ambushing bee on flower**
+_Crab spider and bee on yellow wildflower  
+Perched on a bright sunflower, the crab spider remains invisible until a bee drifts into range. The moment captures a natural tension—life and death framed by sunlight and color.  • Size: 2995x1997  
+
+Camera: Canon EOS 5D Mk IV  
+Lens: EF50mm f/2.5 Compact Macro  
+Settings: ISO 400 • Aperture f/11.0 • Shutter 1/200 s  
 {:.caption}
