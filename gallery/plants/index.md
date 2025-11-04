@@ -55,7 +55,7 @@ Long, flexible needles grow in pairs, their soft green color catching the light 
 
 <div class="grid" role="list">
 
-[![Vines](/gallery/plants/vines/assets/placeholder.jpg){: .cover role="img" aria-label="Vines"}  
+[![Vines](/gallery/plants/vines/assets/virginia-creeper/E21A5614.jpg){: .cover role="img" aria-label="Vines"}  
 **Vines**  
 _Threads through the understory._  
 Climbing and weaving through trunks and stone, vines find their shape in motion — the forest’s living lines.  
