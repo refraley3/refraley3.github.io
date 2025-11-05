@@ -19,7 +19,7 @@ Symbiotic with pine trees, especially Douglas-Fir.
 
 [![Mucous Cort](/gallery/fungi/mushrooms/assets/mucous-cort/E21A6930.jpg){: .cover role="img" aria-label="Mucous Cort"}  
 **Mucous Cort**  
-_*Russula xerampelina* group_  
+_*Cortinarius mucosus*  
 Dry-capped and brittle, found beneath Red Pines.  
 This species thrives in the acidic litter where few others fruit.  
 ](/gallery/fungi/mushrooms/mucous-cort/){: .tile role="listitem"}

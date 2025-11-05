@@ -6,17 +6,52 @@ description: A thickly slimed, amber-brown mushroom growing beneath Red Pines in
 
 ### (*Cortinarius mucosus*)
 
+<div class="tile" style="margin: 15px;">
+
 ![Mucous Cort beneath Red Pines](/gallery/fungi/mushrooms/assets/mucous-cort/E21A6930.jpg){: .cover role="img" aria-label="Mucous Cort beneath Red Pines"}  
 **Mucous Cort beneath Red Pines**  
-_Heavy slime glistens across the cap and stem, catching every bit of light in the pine duff._  
-The Mucous Cort is a striking conifer associate—its entire surface cloaked in a glutinous layer that gives it an unmistakable sheen. Found beneath Red Pines, this species thrives in the acidic litter where few others fruit. • Size: 5309×3539  
+The Mucous Cort is a striking conifer associate—its entire surface cloaked in a glutinous layer that gives it an unmistakable sheen. Found beneath [Red Pines](/gallery/plants/trees/red-pine/), this species thrives in the acidic litter where few others fruit.  
+Size: 5309×3539  
 
 Camera: Canon EOS 5D Mk IV  
 Lens: EF100mm f/2.8L Macro IS USM  
 Settings: ISO 2000 • Aperture f/4.5 • Shutter 1/500 s  
-{:.caption}
 
-**Habitat:** Beneath Red Pines  
+</div>
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
+
+![Mature Mucous Cort beneath Red Pines](/gallery/fungi/mushrooms/assets/mucous-cort/E21A6432.jpg){: .cover role="img" aria-label="Mature Mucous Cort beneath Red Pines"}  
+**Mature Mucous Cort beneath Red Pines**  
+_A late-season Cortinarius emerging from the pine duff._  
+The reddish-brown cap has dried and split slightly, revealing the dense gills beneath. The species’ name “Mucous Cort” recalls its slimy youth.  
+Size: 4170x2780  
+
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 4000 • Aperture f/4.5 • Shutter 1/250 s  
+
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+![Paired Mucous Cort mushrooms](/gallery/fungi/mushrooms/assets/mucous-cort/E21A6435.jpg){: .cover role="img" aria-label="Paired Mucous Cort mushrooms"}  
+**Paired Mucous Cort Mushrooms**  
+_Two fruiting bodies in the Red Pine understory._  
+Beneath the needles, their purple-tinted caps and crowded gills rise through filtered light — remnants of a brief, glutinous emergence.  
+Size: 4170x2780  
+
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 4000 • Aperture f/5.0 • Shutter 1/250 s  
+
+</div>
+
+</div>
+
+**Habitat:** Beneath [Red Pines](/gallery/plants/trees/red-pine/)  
 **Cap:** Slimy, glossy, amber to cinnamon-brown, darker toward the center  
 **Gills:** Pale at first, becoming rusty-brown as spores mature  
 **Stem:** Coated in transparent slime; pale beneath, narrowing toward the base  
