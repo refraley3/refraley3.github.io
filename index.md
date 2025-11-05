@@ -22,3 +22,13 @@ Stories and IDs from recent walks.
 ](/field-notes/){: .tile role="listitem"}
 
 </div>
+
+<div class="grid" role="list">
+
+[![Photography Notes](/gallery/lens-comparison.jpg){: .cover role="img" aria-label="Photography Notes"}  
+**Photography Notes**  
+_Equipment, tools, and techniques._  
+Stories and IDs from recent walks.  
+](/photography-notes/){: .tile role="listitem"}
+
+</div>

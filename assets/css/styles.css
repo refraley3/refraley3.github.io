@@ -488,4 +488,45 @@ table.exif-table td { text-align: left; }
   text-align: center;
 }
 
-.table-center {}
+/* Center all Markdown tables */
+.markdown-body table {
+  width:max-content
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+/* Optional: style tweak to match your dark theme */
+.markdown-body th,
+.markdown-body td {
+  border: 1px solid #555;
+  padding: 6px 12px;
+}
+
+.markdown-body th {
+  background-color: #222;
+  color: #eee;
+}
+/* center markdown tables */
+.markdown-body table {
+  width: max-content;          /* shrink to content instead of 100% */
+  margin-left: auto;
+  margin-right: auto;          /* now auto margins can center it */
+  border-collapse: collapse;
+  text-align: left;
+}
+
+/* fallback for older browsers */
+@supports not (width: max-content) {
+  .markdown-body table { display: inline-table; }
+  .markdown-body { text-align: center; }      /* or a wrapper; see B below */
+  .markdown-body table { text-align: left; }  /* keep cells left-aligned */
+}
+
+.table-center { text-align: center; }     /* center the inline table box */
+.table-center table {
+  display: inline-table;                  /* shrink to content width */
+  border-collapse: collapse;
+  text-align: left;                       /* keep cell text left-aligned */
+}

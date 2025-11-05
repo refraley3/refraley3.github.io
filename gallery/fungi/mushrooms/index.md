@@ -17,12 +17,12 @@ _Slimy and sticky._
 Symbiotic with pine trees, especially Douglas-Fir.  
 ](/gallery/fungi/mushrooms/blackening-slimespike/){: .tile role="listitem"}
 
-[![Shrimp Russula](/gallery/fungi/mushrooms/assets/shrimp-russula/E21A6930.jpg){: .cover role="img" aria-label="Shrimp Russula"}  
-**Shrimp Russula**  
+[![Mucous Cort](/gallery/fungi/mushrooms/assets/mucous-cort/E21A6930.jpg){: .cover role="img" aria-label="Mucous Cort"}  
+**Mucous Cort**  
 _*Russula xerampelina* group_  
 Dry-capped and brittle, found beneath Red Pines.  
-A spore print will confirm whether it’s truly *Russula* or the similar *Gomphidius* Slimespike — the forest’s quiet test of patience.  
-](/gallery/fungi/mushrooms/shrimp-russula/){: .tile role="listitem"}
+This species thrives in the acidic litter where few others fruit.  
+](/gallery/fungi/mushrooms/mucous-cort/){: .tile role="listitem"}
 
 </div>
 

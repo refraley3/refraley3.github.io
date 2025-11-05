@@ -63,3 +63,5 @@ A concise reference for field identification.
 ](/field-notes/minnesota-lichen-guide/){: .tile role="listitem"}
 
 </div>
+
+Canon Macro Lens Comparison(/field-notes/canon-macro-lens-comparison/){: .tile role="listitem"}
