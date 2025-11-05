@@ -4,10 +4,7 @@ title: Mucous Cort
 description: A thickly slimed, amber-brown mushroom growing beneath Red Pines in Minnesota—first mistaken for a Slimespike.
 ---
 
-{% include breadcrumbs.html %}
-{% include children-list.html %}
-
-## (*Cortinarius mucosus*)
+### (*Cortinarius mucosus*)
 
 ![Mucous Cort beneath Red Pines](/gallery/fungi/mushrooms/assets/mucous-cort/E21A6930.jpg){: .cover role="img" aria-label="Mucous Cort beneath Red Pines"}  
 **Mucous Cort beneath Red Pines**  

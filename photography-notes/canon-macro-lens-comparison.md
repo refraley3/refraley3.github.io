@@ -101,6 +101,11 @@ Settings: ISO 200 • Aperture f/8 • Shutter 0.8 s (11-image stack)
 
 ---
 
+### Notes
+Superb optical performance with more working distance — ideal for insects, lichens with depth, or focus stacking.  
+Fast, quiet autofocus with excellent edge-to-edge sharpness, even at f/13–f/16.
+
+---
 ## Specifications
 
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
@@ -154,12 +159,6 @@ Settings: ISO 200 • Aperture f/8 • Shutter 0.8 s (11-image stack)
 
 ---
 
-### Notes
-Superb optical performance with more working distance — ideal for insects, lichens with depth, or focus stacking.  
-Fast, quiet autofocus with excellent edge-to-edge sharpness, even at f/13–f/16.
-
----
-
 ## ⚖️ Side-by-Side Comparison
 
 | Feature | **EF 50mm f/2.5 Compact Macro** | **EF 100mm f/2.8 Macro USM** |
@@ -180,7 +179,7 @@ Fast, quiet autofocus with excellent edge-to-edge sharpness, even at f/13–f/16
 
 ---
 
-## 🌿 Field Summary
+## Field Summary
 
 - **EF 50 mm Compact Macro**  
   Great for **lichen photography**, bark textures, and small flora.  
@@ -192,7 +191,7 @@ Fast, quiet autofocus with excellent edge-to-edge sharpness, even at f/13–f/16
 
 ---
 
-## 🔗 Related Links
+## Related Links
 - [Canon EF 50mm f/2.5 Compact Macro — Canon USA](https://www.usa.canon.com)
 - [Canon EF 100mm f/2.8 Macro USM — Canon USA](https://www.usa.canon.com)
 - [Focus Stacking Guide (Adobe Photoshop)](https://helpx.adobe.com/photoshop/using/focus-stacking.html)
