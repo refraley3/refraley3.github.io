@@ -6,13 +6,29 @@ title: Field Notes
 Seasonal observations, IDs, and stories.
 {:.caption}
 
-<div class="grid" role="list">
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
+
+[![First Quiet Voices of Spring](/gallery/plants/wildflowers/assets/rue-anemone/E21A1432.jpg){: .cover role="img" aria-label="First Quiet Voices of Spring"}  
+**First Quiet Voices of Spring**  
+_The first colors beneath bare branches._  
+Rue Anemones bloom after rain — fragile, pale, and brief — marking the quiet return of life to the woodland floor.  
+](/field-notes/first-quiet-voices-spring/){: .tile role="listitem"}
+
+</div>
+
+<div class="tile" style="margin: 15px;">
 
 [![The Day of the Jumping Mushrooms](/gallery/fungi/mushrooms/assets/slimespike/E21A6312.jpg){: .cover role="img" aria-label="Jumping Mushrooms"}  
 **The Day of the Jumping Mushrooms**  
 _Squirrel, Turkeytail, Slimespike._  
 A morning story that changed under a spore print.  
 ](/gallery/fungi/mushrooms/jumping-mushrooms){: .tile role="listitem"}
+
+</div>
+
+<div class="tile" style="margin: 15px;">
 
 [![Turkeytail](/gallery/fungi/mushrooms/assets/turkeytail/E21A6273.jpg){: .cover role="img" aria-label="Turkeytail"}  
 **Turkeytail**  
@@ -22,7 +38,11 @@ Concentric bands and fine pores on dead wood.
 
 </div>
 
-<div class="grid" role="list">
+</div>
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
 
 [![Blackening Slimespike](/gallery/fungi/mushrooms/assets/slimespike/SporePrint-Slimespike.jpg){: .cover role="img" aria-label="Blackening Slimespike"}  
 **Blackening Slimespike**  
@@ -32,13 +52,31 @@ A slimy cap and a Douglas-fir “jump.”
 
 </div>
 
-<div class="grid" role="list">
+<div class="tile" style="margin: 15px;">
+
+[![Funeral Bell](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6462.jpg){: .cover role="img" aria-label="Funeral Bell"}  
+**Funeral Bell**  
+_Likely the deadly Funeral Bell._  
+Small, caramel-brown gilled mushrooms with a rusty-brown spore print on mossy wood.  
+](/gallery/fungi/mushrooms/funeral-bell/){: .tile role="listitem"}
+
+</div>
+
+</div>
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
 
 [![Floury Amanita](/gallery/fungi/mushrooms/assets/floury-amanita/E21A6395.jpg){: .cover role="img" aria-label="Floury Amanita"}  
 **Floury Amanita**  
 _Powder-dusted caps._  
 Pale, poised, and photogenic — admired, not handled.  
 ](/gallery/fungi/mushrooms/floury-amanita){: .tile role="listitem"}
+
+</div>
+
+<div class="tile" style="margin: 15px;">
 
 [![Bleeding Bonnet](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5422.jpg){: .cover role="img" aria-label="Bleeding Bonnet"}  
 **Bleeding Bonnet**  
@@ -48,13 +86,9 @@ Three days beneath the trees — a quiet record of the Bleeding Bonnet’s surre
 
 </div>
 
-<div class="grid" role="list">
+</div>
 
-[![Funeral Bell](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6462.jpg){: .cover role="img" aria-label="Funeral Bell"}  
-**Funeral Bell**  
-_Likely the deadly Funeral Bell._  
-Small, caramel-brown gilled mushrooms with a rusty-brown spore print on mossy wood.  
-](/gallery/fungi/mushrooms/funeral-bell/){: .tile role="listitem"}
+<div class="tile" style="margin: 15px;">
 
 [![Minnesota Lichen Guide](/assets/images/ChatGPT-Image-Lichen.png){: .cover role="img" aria-label="Minnesota Lichen Guide"}  
 **Minnesota Lichen Guide**  
@@ -64,4 +98,4 @@ A concise reference for field identification.
 
 </div>
 
-Canon Macro Lens Comparison(/field-notes/canon-macro-lens-comparison/){: .tile role="listitem"}
+> [*Canon Macro Lens Comparison*](/photography-notes/canon-macro-lens-comparison/){: .tile role="listitem"}
