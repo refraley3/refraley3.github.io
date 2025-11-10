@@ -44,7 +44,6 @@ Mammals reveal adaptability of woodland life.
 ---
 
 ### Fungi
-{:.title .text-center}
 
 <div class="grid" role="list">
 
@@ -81,7 +80,6 @@ A collection of mushrooms and other fungi from Minnesota woodlands.
 ---
 
 ### Landscapes
-{:.title .text-center}
 
 <div class="grid" role="list">
 
@@ -96,7 +94,6 @@ Light, horizon, and the quiet geometry of open space.
 ---
 
 ### Plants
-{:.title .text-center}
 
 <div class="grid" role="list">
 
@@ -106,7 +103,7 @@ _Fronds in filtered light._
 Graceful green architecture unfolding through shade.  
 ](/gallery/plants/ferns/){: .tile role="listitem"}
 
-[![Trees](/gallery/plants/assets/E21A1432.jpg){: .cover role="img" aria-label="Trees"}  
+[![Trees](/gallery/plants/trees/assets/red-pine/E21A6945.jpg){: .cover role="img" aria-label="Trees"}  
 **Trees**  
 _Canopy and character._  
 From bark to crown, stories written in woodgrain.  
@@ -116,7 +113,7 @@ From bark to crown, stories written in woodgrain.
 
 <div class="grid" role="list">
 
-[![Wildflowers](/gallery/plants/assets/E21A1577.jpg){: .cover role="img" aria-label="Wildflowers"}  
+[![Wildflowers](/gallery/plants/wildflowers/assets/rue-anemone/E21A1443.jpg){: .cover role="img" aria-label="Wildflowers"}  
 **Wildflowers**  
 _Seasonal bursts of color._  
 Ephemeral beauty along paths and prairies.  

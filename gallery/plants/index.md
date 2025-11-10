@@ -69,10 +69,34 @@ Climbing and weaving through trunks and stone, vines find their shape in motion 
 
 <div class="grid" role="list">
 
-[![Wildflowers](/gallery/plants/wildflowers/assets/placeholder.jpg){: .cover role="img" aria-label="Wildflowers"}  
-**Wildflowers**  
-_Ephemeral notes in the woodland score._  
-Brief bursts of color marking season and soil — each bloom a moment between sunlight and shadow.  
+<div class="tile" style="margin: 15px;">
+
+[![Black-eyed Susan](/gallery/plants/wildflowers/assets/black-eyed-susan/E21A1653.jpg){: .cover role="img" aria-label="Black-eyed Susan"}  
+**Black-eyed Susan**  
+_A bright prairie coneflower catching the summer light._  
+Golden petals radiate from a dark velvet disk — a simple, enduring emblem of the Midwest’s warm months.  
+](/gallery/plants/wildflowers/black-eyed-susan/){: .tile role="listitem"}
+
+</div>
+
+<div class="tile">
+
+[![Canada Goldenrod](/gallery/plants/wildflowers/assets/canada-goldenrod/E21A7276.jpg){: .cover role="img" aria-label="Canada Goldenrod"}  
+**Canada Goldenrod**  
+_A resilient bloom standing tall through the frost._  
+A lone stem crowned with pale seed tufts catches the morning light — its quiet endurance marking the meadow’s shift from autumn to winter.  
+](/gallery/plants/wildflowers/){: .tile role="listitem"}
+
+</div>
+
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+[![Rue Anemones in soft spring light](/gallery/plants/wildflowers/assets/rue-anemone/E21A1443.jpg){: .cover role="img" aria-label="Rue Anemones in soft spring light"}  
+**Rue Anemones in soft spring light**  
+_Blossoms emerging through tender green leaves._  
+A small colony of Rue Anemones opens beneath the forest canopy — the morning air still cool, the forest floor alive with new color.  
 ](/gallery/plants/wildflowers/){: .tile role="listitem"}
 
 </div>
