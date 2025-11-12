@@ -307,7 +307,7 @@ Settings: ISO 100 • Aperture f/20 • Shutter 1/60 s
 
 ![Tumacácori Mission – North Wall](/gallery/landscapes/assets/tumacacori-az/IMG_0160.jpg){: .cover role="img" aria-label="Tumacácori Mission – North Wall"}  
 **Tumacácori Mission – South Wall**  
-Image ID: IMG_0160 – The mission’s thick adobe walls and dome seen from the north, their weathered surfaces revealing centuries of sun and restoration • Size: 3456x2304  
+The mission’s thick adobe walls and dome seen from the north, their weathered surfaces revealing centuries of sun and restoration • Size: 3456x2304  
 
 Camera: Canon EOS DIGITAL REBEL XT • Lens: 35-80mm f/4  
 Settings: ISO 400 • Aperture f/13 • Shutter 1/125 s  
