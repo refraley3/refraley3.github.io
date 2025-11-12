@@ -317,12 +317,12 @@ Settings: ISO 400 • Aperture f/13 • Shutter 1/125 s
 
 <div class="grid" role="list">
 
-<div class="tile">
+<div class="tile" markdown="1">
 
-[![Aurora Over Lakeville, Minnesota](/gallery/landscapes/assets/aurora-over-lakeville/E21A7357.jpg){: .cover role="img" aria-label="Aurora Over Lakeville, Minnesota"}  
+[![Aurora Over Lakeville, Minnesota]({{ '/gallery/landscapes/assets/aurora-over-lakeville/E21A7357.jpg' | relative_url }}){: .cover role="img" aria-label="Aurora Over Lakeville, Minnesota"}  
 **Aurora Over Lakeville, Minnesota**  
 _A vivid geomagnetic storm transforms a quiet night sky._  
-Captured from Lakeville, Minnesota, where rare red and green auroral curtains reached far south during an intense solar storm.  ](/gallery/landscapes/aurora/)  
+Captured from Lakeville, Minnesota, where rare red and green auroral curtains reached far south during an intense solar storm.]({{ '/gallery/landscapes/aurora/' | relative_url }})  
 {:.caption}
 
 </div>
