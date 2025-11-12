@@ -81,10 +81,6 @@ Settings: ISO 200 • Aperture f/14.0 • Shutter 1/8 s
 
 ---
 
-### Field Story
-
----
-
 ## Observations
 
 - **Color range:** White to soft lavender-pink  
@@ -95,7 +91,7 @@ Settings: ISO 200 • Aperture f/14.0 • Shutter 1/8 s
 
 ### Early Growth
 
-![Emerging Rue Anemone buds](/gallery/plants/wildflowers/assets/rue-anemone/E21A1435.jpg){: .cover role="img" aria-label="Emerging Rue Anemone buds"}  
+![Emerging Rue Anemone buds](/gallery/plants/wildflowers/assets/rue-anemone/E21A1445.jpg){: .cover role="img" aria-label="Emerging Rue Anemone buds"}  
 **Emerging Rue Anemone buds**  
 _Emerging through damp leaves, the first bloom finds the season’s light._  
 Tiny buds rise through leaf litter before the canopy closes, capturing the brief light of early spring. Within days, the flowers open, flourish, and fade — a fleeting season that rewards patient eyes.  
