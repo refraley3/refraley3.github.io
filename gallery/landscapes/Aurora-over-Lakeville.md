@@ -1,6 +1,6 @@
 ---
 layout: photo
-title: Aurora Over Lakeville, Minnesota
+title: Aurora Over Lakeville
 ---
 
 ### Lights Beneath the Red Sky  
