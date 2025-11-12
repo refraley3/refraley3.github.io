@@ -13,15 +13,13 @@ title: Landscapes
 [![Boston Waterfront](/gallery/landscapes/assets/boston-ma/IMG_0001.jpg){: .cover role="img" aria-label="Boston Waterfront"}  
 **Boston Waterfront**  
 _Morning calm beneath the skyline._  
-From the harbor, Boston’s skyline rises in layers of glass and brick — a balance of history and renewal reflected on the still water. The scene captures a brief pause between movement and memory, where the city meets the tide.  
-](/gallery/landscapes/boston-ma/){: .tile role="listitem"}
+From the harbor, Boston’s skyline rises in layers of glass and brick — a balance of history and renewal reflected on the still water. The scene captures a brief pause between movement and memory, where the city meets the tide.  ](/gallery/landscapes/boston-ma/){: .tile role="listitem"}
 
 [![Schooners in Boston Harbor — June 2006](/gallery/landscapes/assets/boston-ma/IMG_0019.jpg){: .cover role="img" aria-label="Schooners in Boston Harbor — June 2006"}  
 **Schooners in Boston Harbor — June 2006**  
 _Training ships of the Ocean Classroom Foundation._  
 Moored together at the Boston waterfront, the schooners Spirit of Massachusetts, Harvey Gamage, and Westward formed a striking trio of sail-training vessels under the Ocean Classroom Foundation. Each served as a floating classroom for maritime education along the Atlantic coast.
-The Harvey Gamage remains active today through the Marine Learning Project, while the Spirit of Massachusetts was later restored and now serves as a dockside restaurant in Kennebunkport, Maine.  
-](/gallery/landscapes/boston-ma/){: .tile role="listitem"}
+The Harvey Gamage remains active today through the Marine Learning Project, while the Spirit of Massachusetts was later restored and now serves as a dockside restaurant in Kennebunkport, Maine.  ](/gallery/landscapes/boston-ma/){: .tile role="listitem"}
 
 </div>
 
@@ -196,7 +194,7 @@ Captured at sunrise, this view across the wetlands of Murphy-Hanrehan Park Reser
 
 ![Sunrise over Wetlands](/gallery/landscapes/assets/murphy-hanrehan-mn/E21A5937.jpg){: .cover role="img" aria-label="Sunrise over Wetlands"}  
 **Sunrise over Wetlands**  
-Image ID: _21A5937 – Morning light over wetlands at Murphy-Hanrehan Park Reserve, reflected in calm water • Size: 1365×768  
+_Morning light over wetlands at Murphy-Hanrehan Park Reserve, reflected in calm water_ • Size: 1365×768  
 
 Camera: Canon EOS 5D Mk IV • Lens: EF24–70 mm f/2.8L II USM  
 Settings: ISO 2000 • Aperture f/4.5 • Shutter 1/200 s  
@@ -324,7 +322,7 @@ Settings: ISO 400 • Aperture f/13 • Shutter 1/125 s
 [![Aurora Over Lakeville, Minnesota](/gallery/landscapes/assets/aurora-over-lakeville/E21A7357.jpg){: .cover role="img" aria-label="Aurora Over Lakeville, Minnesota"}  
 **Aurora Over Lakeville, Minnesota**  
 _A vivid geomagnetic storm transforms a quiet night sky._  
-Captured from Lakeville, Minnesota, where rare red and green auroral curtains reached far south during an intense solar storm.](/gallery/landscapes/aurora-over-lakeville/)  
+Captured from Lakeville, Minnesota, where rare red and green auroral curtains reached far south during an intense solar storm.  ](/gallery/landscapes/aurora/)  
 {:.caption}
 
 </div>
