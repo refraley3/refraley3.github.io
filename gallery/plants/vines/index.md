@@ -37,7 +37,7 @@ _*Toxicodendron radicans*_
 Three leaflets, glossy and cautious — a familiar companion of wooded trails and river bottoms.  
 ](/gallery/plants/vines/poison-ivy/){: .tile role="listitem"}
 
-[![Bittersweet](/gallery/plants/vines/assets/american-bittersweet/placeholder.jpg){: .cover role="img" aria-label="American Bittersweet"}  
+[![Bittersweet](/gallery/plants/vines/assets/american-bittersweet/E21A7386.jpg){: .cover role="img" aria-label="American Bittersweet"}  
 **American Bittersweet**  
 _*Celastrus scandens*_  
 A native climber with orange capsules that split to reveal bright red fruit — color against the gray of late fall.  
