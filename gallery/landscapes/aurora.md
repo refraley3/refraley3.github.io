@@ -13,7 +13,7 @@ Captured from home, these images record one of the most intense auroral displays
 
 ![Aurora with Pleiades — Lakeville, MN](/gallery/landscapes/assets/aurora-over-lakeville/E21A7359.jpg){: .cover role="img" aria-label="Red and Green Aurora and Stars over Deck"}  
 **Aurora with Pleiades — Lakeville, MN**  
-_Red and green veils drift beneath the winter stars._  
+_Red and green veils drift beneath the autumn stars._  
 The Pleiades cluster and faint Orion glow through the auroral haze as light spills over the trees and deck. • Size: 6720 x 4480  
 Camera: Canon EOS 5D Mk IV  
 Lens: EF24-70mm f/2.8L II USM  
@@ -39,8 +39,8 @@ Settings: ISO 200 • Aperture f/5.0 • Shutter 20 s
 
 <div class="tile" style="margin: 15px;">
 
-![Red Aurora Behind Bare Tree](/gallery/landscapes/assets/aurora-over-lakeville/E21A7362.jpg){: .cover role="img" aria-label="Red Aurora Behind Bare Cottonwood"}  
-**Crimson Sky — Lakeville, MN**  
+![Red Aurora Behind Bare Cottonwood](/gallery/landscapes/assets/aurora-over-lakeville/E21A7362.jpg){: .cover role="img" aria-label="Red Aurora Behind Bare Cottonwood"}  
+**Red Aurora Behind Bare Cottonwood**  
 _Bare branches framed against the heart of the aurora._  
 The red emission, caused by oxygen excited at high altitude, dominated the horizon as faint green persisted below. • Size: 6720 x 4480  
 
@@ -67,19 +67,19 @@ Settings: ISO 200 • Aperture f/5.0 • Shutter 20 s
 
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 
-![Aurora above Suburban Houses](/gallery/landscapes/assets/aurora-over-lakeville/E21A7358.jpg){: .cover role="img" aria-label="Aurora above Suburban Houses"}  
+![The Northern Lights Over Lakeville](/gallery/landscapes/assets/aurora-over-lakeville/E21A7358.jpg){: .cover role="img" aria-label="The Northern Lights Over Lakeville"}  
 
-![Aurora above Suburban Houses](/gallery/landscapes/assets/aurora-over-lakeville/E21A7359.jpg){: .cover role="img" aria-label="Aurora above Suburban Houses"}  
+![Aurora with Pleiades](/gallery/landscapes/assets/aurora-over-lakeville/E21A7359.jpg){: .cover role="img" aria-label="Aurora with Pleiades"}  
 
-![Aurora above Suburban Houses](/gallery/landscapes/assets/aurora-over-lakeville/E21A7360.jpg){: .cover role="img" aria-label="Aurora above Suburban Houses"}  
+![Red Curtains and Autumn Stars](/gallery/landscapes/assets/aurora-over-lakeville/E21A7360.jpg){: .cover role="img" aria-label="Red Curtains and Autumn Stars"}  
 
-![Aurora above Suburban Houses](/gallery/landscapes/assets/aurora-over-lakeville/E21A7361.jpg){: .cover role="img" aria-label="Aurora above Suburban Houses"}  
+![Red Light Above the Deck](/gallery/landscapes/assets/aurora-over-lakeville/E21A7361.jpg){: .cover role="img" aria-label="Red Light Above the Deck"}  
 
-![Aurora above Suburban Houses](/gallery/landscapes/assets/aurora-over-lakeville/E21A7363.jpg){: .cover role="img" aria-label="Aurora above Suburban Houses"}  
+![Layers of Light](/gallery/landscapes/assets/aurora-over-lakeville/E21A7363.jpg){: .cover role="img" aria-label="Layers of Light"}  
 
-![Aurora above Suburban Houses](/gallery/landscapes/assets/aurora-over-lakeville/E21A7364.jpg){: .cover role="img" aria-label="Aurora above Suburban Houses"}  
+![The Northern Sky in Color](/gallery/landscapes/assets/aurora-over-lakeville/E21A7364.jpg){: .cover role="img" aria-label="The Northern Sky in Color"}  
 
-![Aurora above Suburban Houses](/gallery/landscapes/assets/aurora-over-lakeville/E21A7365.jpg){: .cover role="img" aria-label="Aurora above Suburban Houses"}  
+![Neighborhood Lightshow](/gallery/landscapes/assets/aurora-over-lakeville/E21A7365.jpg){: .cover role="img" aria-label="Neighborhood Lightshow"}  
 
 </div>
 
