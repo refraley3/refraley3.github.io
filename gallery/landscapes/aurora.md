@@ -11,22 +11,14 @@ For a few hours, the aurora reached deep into the northern United States, transf
 Captured from home, these images record one of the most intense auroral displays in decades — the solar wind brushing Earth’s magnetic field in full color.  
 {:.description}
 
-<div class="grid" role="list" style="justify-content: center; text-align: center;">
-
-<div class="tile" style="margin: 15px;">
-
-![Red and Green Aurora and Stars over Deck](/gallery/landscapes/assets/aurora-over-lakeville/E21A7359.jpg){: .cover role="img" aria-label="Red and Green Aurora and Stars over Deck"}  
+![Aurora with Pleiades — Lakeville, MN](/gallery/landscapes/assets/aurora-over-lakeville/E21A7359.jpg){: .cover role="img" aria-label="Red and Green Aurora and Stars over Deck"}  
 **Aurora with Pleiades — Lakeville, MN**  
 _Red and green veils drift beneath the winter stars._  
 The Pleiades cluster and faint Orion glow through the auroral haze as light spills over the trees and deck. • Size: 6720 x 4480  
-
 Camera: Canon EOS 5D Mk IV  
 Lens: EF24-70mm f/2.8L II USM  
 Settings: ISO 200 • Aperture f/5.0 • Shutter 20 s  
-
-</div>
-
-</div>
+{: .caption}
 
 ---
 
@@ -35,7 +27,7 @@ Settings: ISO 200 • Aperture f/5.0 • Shutter 20 s
 <div class="tile" style="margin: 15px;">
 
 ![Red and Green Aurora over Trees](/gallery/landscapes/assets/aurora-over-lakeville/E21A7357.jpg){: .cover role="img" aria-label="Red and Green Aurora over Trees"}  
-**Aurora over Lakeville, MN**  
+**Red and Green Aurora over Trees**  
 _Curtains of red and green light above silhouetted trees._  
 The aurora surged in color shortly after dark, glowing in layered bands that reached high into the sky. • Size: 6720 x 4480  
 
@@ -75,47 +67,19 @@ Settings: ISO 200 • Aperture f/5.0 • Shutter 20 s
 
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 
-<div class="tile" style="margin: 15px;">
-
 ![Aurora above Suburban Houses](/gallery/landscapes/assets/aurora-over-lakeville/E21A7358.jpg){: .cover role="img" aria-label="Aurora above Suburban Houses"}  
-
-</div>
-
-<div class="tile" style="margin: 15px;">
 
 ![Aurora above Suburban Houses](/gallery/landscapes/assets/aurora-over-lakeville/E21A7359.jpg){: .cover role="img" aria-label="Aurora above Suburban Houses"}  
 
-</div>
-
-<div class="tile" style="margin: 15px;">
-
 ![Aurora above Suburban Houses](/gallery/landscapes/assets/aurora-over-lakeville/E21A7360.jpg){: .cover role="img" aria-label="Aurora above Suburban Houses"}  
-
-</div>
-
-<div class="tile" style="margin: 15px;">
 
 ![Aurora above Suburban Houses](/gallery/landscapes/assets/aurora-over-lakeville/E21A7361.jpg){: .cover role="img" aria-label="Aurora above Suburban Houses"}  
 
-</div>
-
-<div class="tile" style="margin: 15px;">
-
 ![Aurora above Suburban Houses](/gallery/landscapes/assets/aurora-over-lakeville/E21A7363.jpg){: .cover role="img" aria-label="Aurora above Suburban Houses"}  
-
-</div>
-
-<div class="tile" style="margin: 15px;">
 
 ![Aurora above Suburban Houses](/gallery/landscapes/assets/aurora-over-lakeville/E21A7364.jpg){: .cover role="img" aria-label="Aurora above Suburban Houses"}  
 
-</div>
-
-<div class="tile" style="margin: 15px;">
-
 ![Aurora above Suburban Houses](/gallery/landscapes/assets/aurora-over-lakeville/E21A7365.jpg){: .cover role="img" aria-label="Aurora above Suburban Houses"}  
-
-</div>
 
 </div>
 
