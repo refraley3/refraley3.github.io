@@ -3,7 +3,9 @@ layout: photo
 title: Brown-belted Bumble Bee
 ---
 
-## Scientific Name - *Bombus griseocollis*
+### Bombus griseocollis
+
+---
 
 ## Unique Trait
 

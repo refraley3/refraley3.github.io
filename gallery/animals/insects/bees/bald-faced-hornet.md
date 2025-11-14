@@ -3,65 +3,69 @@ layout: photo
 title: Bald-faced Hornet
 ---
 
-## Scientific Name
-*Dolichovespula maculata*
+### Dolichovespula maculata
 
-## Unique Trait
+---
 
-Unlike most yellowjackets, the bald-faced hornet has distinctive white facial markings and builds large, enclosed paper nests high above ground — often in trees or under eaves. Though a recent nest found was mere 6 inches to 18 inches above the ground.
+<div class="tile" style="margin: 15px;">
 
-## Cultural Note
+![Ivory-Marked Sentinel](/gallery/animals/insects/bees/assets/bald-faced-hornet/D79A0422.jpg){: .cover role="img" aria-label="Ivory-Marked Sentinel"}  
+**Ivory-Marked Sentinel**  
+_Black body, white face — unmistakable in the summer light._  
+The soft green background lets the wasp stand forward, its face lit with perfect symmetry and intent. • Size: 6720x4480  
 
-> "Nearly every old-time mountain cabin had an empty hornets' nest hung up in the loft, and people even tied them up in newly built homes that were not yet occupied. The nest was supposed to bring good luck to everyone in the household, especially regarding childbirth and other reproductive matters."  
-> — *Vance Randolph* (as cited by the Missouri Department of Conservation)
-
-## Description
-
-Despite its name, the bald-faced hornet is actually a type of yellowjacket wasp. It is known for its black body and ivory-white face and markings. These social wasps are highly protective of their nests and can sting repeatedly when threatened. They feed on other insects making them beneficial predators, and also consume nectar and tree sap.
-
-## Diet
-
-Adult bald-faced hornets primarily feed on nectar from flowers, which provides them with energy for daily activity.  
-They spend much of the day hunting insects and spiders, which they chew into a pulp to feed their growing larvae back in the nest.  
-This diet makes them important both as pollinators and as natural pest controllers in their environment.
-
-## Images
-
-<div class="grid" role="list">
-
-![Bald-faced Hornet with blurred background](/gallery/animals/insects/bees/assets/bald-faced-hornet/D79A0363.jpg)
-
-| Image | D79A0363 |
-| Size | 6720x4480 |
-| Camera | Canon EOS 5D Mk IV |
-| Lens | EF 100mm f/2.8L Macro IS USM |
-| ISO | 16000 |
-| Aperture | f/8.0 |
-| Shutter | 1/1250 s |
-
-![Bald-faced Hornet on milkweed buds](/gallery/animals/insects/bees/assets/bald-faced-hornet/D79A0409.jpg)
-
-| Image | D79A0409 |
-| Size | 4039x2693 |
-| Camera | Canon EOS 5D Mk IV |
-| Lens | EF 100mm f/2.8L Macro IS USM |
-| ISO | 2500 |
-| Aperture | f/7.1 |
-| Shutter | 1/3200 s |
+Camera: Canon EOS 5D Mk IV  
+Lens: EF 100mm f/2.8L Macro IS USM  
+Settings: ISO 10000 • Aperture f/7.1 • Shutter 1/3200 s  
+{: .caption}
 
 </div>
 
-<div class="grid" role="list">
+### Description
 
-![Bald-faced Hornet close-up on flower](/gallery/animals/insects/bees/assets/bald-faced-hornet/D79A0422.jpg)
+Despite its name, the bald-faced hornet is actually a type of yellowjacket wasp. It is known for its black body and ivory-white face and markings. Unlike most yellowjackets, the bald-faced hornet has distinctive white facial markings
 
-| Image | D79A0422 |
-| Size | 6722x4480 |
-| Camera | Canon EOS 5D Mk IV |
-| Lens | EF 100mm f/2.8L Macro IS USM |
-| ISO | 10000 |
-| Aperture | f/7.1 |
-| Shutter | 1/3200 s |
+### Cultural Note
+
+> "Nearly every old-time mountain cabin had an empty hornets' nest hung up in the loft, and people even tied them up in newly built homes that were not yet occupied. The nest was supposed to bring good luck to everyone in the household, especially regarding childbirth and other reproductive matters."  
+> — *Vance Randolph* (as cited by the Missouri Department of Conservation)  
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+![Bald-faced Hornet on milkweed buds](/gallery/animals/insects/bees/assets/bald-faced-hornet/D79A0409.jpg){: .cover role="img" aria-label="Bald-faced Hornet on milkweed buds"}  
+**Bald-faced Hornet on milkweed buds**  
+
+Camera: Canon EOS 5D Mk IV  
+Lens: EF 100mm f/2.8L Macro IS USM  
+Settings: ISO 16000 • Aperture f/7.1 • Shutter 1/3200 s  
+
+</div>
+
+ These social wasps are highly protective of their nests and can sting repeatedly when threatened.   and builds large, enclosed paper nests high above ground — often in trees or under eaves. Though a recent nest found was mere 6 inches to 18 inches above the ground.
+
+### Diet
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+![Between the Green Blades](/gallery/animals/insects/bees/assets/bald-faced-hornet/D79A0363.jpg){: .cover role="img" aria-label="Between the Green Blades"}  
+
+Camera: Canon EOS 5D Mk IV  
+Lens: EF 100mm f/2.8L Macro IS USM  
+Settings: ISO 16000 • Aperture f/8.0 • Shutter 1/1250 s  
+
+</div>
+
+Adult bald-faced hornets primarily feed on other insects making them beneficial predators, and also consume nectar and tree sap. They also feed on nectar from flowers, which provides them with energy for daily activity. They feed spend much of the day hunting insects and spiders, which they chew into a pulp to feed their growing larvae back in the nest. This diet makes them important both as pollinators and as natural pest controllers in their environment.
+
+### Images
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+![Ivory-Marked Sentinel](/gallery/animals/insects/bees/assets/bald-faced-hornet/D79A0422.jpg){: .cover role="img" aria-label="Ivory-Marked Sentinel"}
+
+![Between the Green Blades](/gallery/animals/insects/bees/assets/bald-faced-hornet/D79A0363.jpg){: .cover role="img" aria-label="Between the Green Blades"}  
+
+![Bald-faced Hornet on milkweed buds](/gallery/animals/insects/bees/assets/bald-faced-hornet/D79A0409.jpg)
 
 </div>
 

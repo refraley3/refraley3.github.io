@@ -5,7 +5,7 @@ title: Insects
 
 [![Hidden Lives Among Petals](/gallery/animals/insects/bees/assets/brown-belted-bumble-bee/D79A2070.jpg){: .cover role="img" aria-label="Hidden Lives Among Petals"}  
 **Hidden Lives Among Petals**  
-_A female black and yellow garden spider repairing web._  
+_A bumblebee absorbed in its work, unaware of the crab spider lying in wait._  
 A moment of delicate balance unfolds on a sunflower — a bumblebee absorbed in its work, unaware of the crab spider lying in wait. Such encounters remind us that the insect world is an intricate web of beauty, purpose, and predation. From pollinators and predators to the unseen architects of ecosystems, these small creatures shape the landscapes around us in quiet, essential ways.  
 ](/gallery/animals/insects/bees){: .tile role="listitem"}
 
