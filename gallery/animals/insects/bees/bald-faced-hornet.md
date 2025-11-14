@@ -21,16 +21,35 @@ Settings: ISO 10000 • Aperture f/7.1 • Shutter 1/3200 s
 
 </div>
 
-### Description
+## Description
 
 Despite its name, the bald-faced hornet is actually a type of yellowjacket wasp. It is known for its black body and ivory-white face and markings. Unlike most yellowjackets, the bald-faced hornet has distinctive white facial markings
 
-### Cultural Note
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="justify-content: center;">
+
+| Feature | Description |
+|----------|--------------|
+| **Color** | These wasps have a glossy black exoskeleton with ivory-white markings on the face, the first antennal segment, thorax, and tail end. |
+| **Wings** | They have two pairs of transparent wings with a slight smoky tint, enabling agile flight and hovering capability during foraging. |
+| **Tail** | The “tail” ends in a sharp stinger capable of repeated use. |
+| **Legs** | The legs are slender and black, adapted for grasping and manipulating prey. |
+| **Size** | Workers measure around 12–15 mm in length, while queens can reach up to 20 mm. |
+{: .style="justify-content: center;"}
+
+</div>
+
+</div>
+
+## Cultural Note
 
 > "Nearly every old-time mountain cabin had an empty hornets' nest hung up in the loft, and people even tied them up in newly built homes that were not yet occupied. The nest was supposed to bring good luck to everyone in the household, especially regarding childbirth and other reproductive matters."  
 > — *Vance Randolph* (as cited by the Missouri Department of Conservation)  
 
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
 
 ![Bald-faced Hornet on milkweed buds](/gallery/animals/insects/bees/assets/bald-faced-hornet/D79A0409.jpg){: .cover role="img" aria-label="Bald-faced Hornet on milkweed buds"}  
 **Bald-faced Hornet on milkweed buds**  
@@ -41,17 +60,23 @@ Settings: ISO 16000 • Aperture f/7.1 • Shutter 1/3200 s
 
 </div>
 
+</div>
+
  These social wasps are highly protective of their nests and can sting repeatedly when threatened.   and builds large, enclosed paper nests high above ground — often in trees or under eaves. Though a recent nest found was mere 6 inches to 18 inches above the ground.
 
 ### Diet
 
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 
+<div class="tile" style="margin: 15px;">
+
 ![Between the Green Blades](/gallery/animals/insects/bees/assets/bald-faced-hornet/D79A0363.jpg){: .cover role="img" aria-label="Between the Green Blades"}  
 
 Camera: Canon EOS 5D Mk IV  
 Lens: EF 100mm f/2.8L Macro IS USM  
 Settings: ISO 16000 • Aperture f/8.0 • Shutter 1/1250 s  
+
+</div>
 
 </div>
 
@@ -72,26 +97,6 @@ Adult bald-faced hornets primarily feed on other insects making them beneficial 
 ## Behavior
 
 Bald-faced hornets are highly social and live in large colonies that can contain hundreds of workers by late summer. They are defensive of their nests and will attack perceived threats aggressively. Workers hunt other insects to feed larvae, while adults often drink nectar and fruit juices.
-
-## Color
-
-These wasps have a glossy black exoskeleton with ivory-white markings on the face, the first antennal segment, thorax, and tail end.
-
-## Wings
-
-They have two pairs of transparent wings with a slight smoky tint, enabling agile flight and hovering capability during foraging.
-
-## Legs
-
-The legs are slender and black, adapted for grasping and manipulating prey.
-
-## Tail
-
- The “tail” ends in a sharp stinger capable of repeated use.
-
-## Size
-
-Workers measure around 12–15 mm in length, while queens can reach up to 20 mm.
 
 ## Audubon Group
 
