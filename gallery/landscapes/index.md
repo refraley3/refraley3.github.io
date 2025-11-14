@@ -3,6 +3,24 @@ layout: photo
 title: Landscapes
 ---
 
+
+## Northern Lights
+{:.text-center}
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;" markdown="1">
+
+[![Aurora Over Lakeville, Minnesota]({{ '/gallery/landscapes/assets/aurora-over-lakeville/E21A7357.jpg' | relative_url }}){: .cover role="img" aria-label="Aurora Over Lakeville, Minnesota"}  
+**Aurora Over Lakeville, Minnesota**  
+_A vivid geomagnetic storm transforms a quiet night sky._  
+Captured from Lakeville, Minnesota, where rare red and green auroral curtains reached far south during an intense solar storm.]({{ '/gallery/landscapes/aurora/' | relative_url }})  
+{:.caption}
+
+</div>
+
+</div>
+
 ## Boston, MA
 {:.text-center}
 
@@ -104,7 +122,8 @@ Captured in the early hours after sunrise, these images show the soft interplay 
 **Prairie Grasses in Morning Light**  
 Image ID: E21A6521 – Late-season prairie grasses illuminated by low-angle morning sunlight under broken cloud cover • Size: 6720x4480  
 
-Camera: Canon EOS 5D Mk IV • Lens: EF24–70 mm f/2.8L II USM  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF24–70 mm f/2.8L II USM  
 Settings: ISO 800 • Aperture f/13 • Shutter 1/320 s  
 {:.caption}
 
@@ -116,7 +135,8 @@ Settings: ISO 800 • Aperture f/13 • Shutter 1/320 s
 **Autumn Trail**  
 Image ID: E21A6528 – Wooded trail bordered by fall foliage at Ritter Farm Park, captured in warm morning light beneath layered clouds • Size: 6447x4298  
 
-Camera: Canon EOS 5D Mk IV • Lens: EF24–70 mm f/2.8L II USM  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF24–70 mm f/2.8L II USM  
 Settings: ISO 1250 • Aperture f/13 • Shutter 1/100 s  
 {:.caption}
 
@@ -314,20 +334,6 @@ The mission’s thick adobe walls and dome seen from the north, their weathered 
 Camera: Canon EOS DIGITAL REBEL XT  
 Lens: 35-80mm f/4  
 Settings: ISO 400 • Aperture f/13 • Shutter 1/125 s  
-{:.caption}
-
-</div>
-
-</div>
-
-<div class="grid" role="list" style="justify-content: center; text-align: center;">
-
-<div class="tile" style="margin: 15px;" markdown="1">
-
-[![Aurora Over Lakeville, Minnesota]({{ '/gallery/landscapes/assets/aurora-over-lakeville/E21A7357.jpg' | relative_url }}){: .cover role="img" aria-label="Aurora Over Lakeville, Minnesota"}  
-**Aurora Over Lakeville, Minnesota**  
-_A vivid geomagnetic storm transforms a quiet night sky._  
-Captured from Lakeville, Minnesota, where rare red and green auroral curtains reached far south during an intense solar storm.]({{ '/gallery/landscapes/aurora/' | relative_url }})  
 {:.caption}
 
 </div>
