@@ -37,7 +37,7 @@ This biennial or short-lived perennial readily naturalizes in disturbed areas, s
 
 <div class="tile" style="margin: 15px;">
 
-![Dame’s Rocket and a Young Garden Spider](/gallery/plants/wildflowers/assets/dames-rocket/_21A1566.jpg)  
+![Dame’s Rocket and a Young Garden Spider](/gallery/plants/wildflowers/assets/dames-rocket/E21A1566.jpg)  
 **Dame’s Rocket and a Young Garden Spider**  
 _Clusters of pale blossoms attract pollinators—and small hunters alike._  
 Four-petaled flowers in white and lavender rise above early-summer foliage, drawing bees and butterflies. Hidden among the blooms, a juvenile [**Black-and-Yellow Garden Spider**](/gallery/animals/arachnids/garden-spider/) waits for its chance among the nectar seekers.  
