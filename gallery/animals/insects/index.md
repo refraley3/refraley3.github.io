@@ -3,11 +3,13 @@ layout: photo
 title: Insects
 ---
 
-[![Hidden Lives Among Petals](/gallery/animals/insects/bees/assets/brown-belted-bumble-bee/D79A2070.jpg){: .cover role="img" aria-label="Hidden Lives Among Petals"}  
+![Hidden Lives Among Petals](/gallery/animals/insects/bees/assets/brown-belted-bumble-bee/D79A2070.jpg){: .cover role="img" aria-label="Hidden Lives Among Petals"}  
 **Hidden Lives Among Petals**  
 _A bumblebee absorbed in its work, unaware of the crab spider lying in wait._  
-A moment of delicate balance unfolds on a sunflower — a bumblebee absorbed in its work, unaware of the crab spider lying in wait. Such encounters remind us that the insect world is an intricate web of beauty, purpose, and predation. From pollinators and predators to the unseen architects of ecosystems, these small creatures shape the landscapes around us in quiet, essential ways.  
-](/gallery/animals/insects/bees){: .tile role="listitem"}
+A moment of delicate balance unfolds on a sunflower — a [**Brown-belted Bumblebee**](/gallery/animals/insects/bees/brown-belted-bumble-bee/) absorbed in its work, unaware of the [**Crab Spider**](/gallery/animals/arachnids/crab-spider/) lying in wait.  
+Such encounters remind us that the insect world is an intricate web of beauty, purpose, and predation. From pollinators and predators to the unseen architects of ecosystems, these small creatures shape the landscapes around us in quiet, essential ways.  
+{: .tile role="listitem"}
+
 
 <div class="grid" role="list">
 
@@ -18,7 +20,7 @@ These solcial wasps are hightly protective and can sting repeatedly.
 ](/gallery/animals/insects/bees){: . tile role="listitem"}
 
   [![Ladybug](/gallery/animals/insects/beetles/assets/ladybug/E21A1535.jpg){: .cover role="img" aria-label="Ladybug"}  
-  **Ladybug**  
+  **Beetles**  
   _*Harmonia axyridis*_  
   Bright red beetle with variable black spots and a distinctive pale pronotum pattern.  
   ](/gallery/animals/insects/beetles/ladybug/){: .tile role="listitem"}

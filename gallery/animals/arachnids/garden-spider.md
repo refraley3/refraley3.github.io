@@ -43,6 +43,12 @@ Suspended between slender stems, the orb-weaver’s web glows against the warm l
 
 In the angled morning light, the garden spider wraps her catch with practiced precision. Each turn of silk immobilizes the struggling grasshopper, sealing the energy that will sustain her through another day. The scene, both intricate and brutal, is a quiet glimpse of nature’s efficiency at work.
 
+![Dame’s Rocket and a Young Garden Spider](/gallery/plants/wildflowers/assets/dames-rocket/E21A1566.jpg)  
+[**Dame’s Rocket and a Young Garden Spider**](/gallery/plants/wildflowers/dames-rocket/)  
+_Clusters of pale blossoms attract pollinators—and small hunters alike._  
+Four-petaled flowers in white and lavender rise above early-summer foliage, drawing bees and butterflies. Hidden among the blooms, a juvenile waits for its chance among the nectar seekers.  
+{:.caption}
+
 ![A female Argiope aurantia subdues her catch, a grasshopper in silk.](/gallery/animals/arachnids/assets/garden-spider/E21A4310B.jpg)
 *Image ID: E21A4310B* - A female Argiope aurantia subdues her catch, a grasshopper in silk. • Size: 2345x3518
 {:.caption}
@@ -109,8 +115,6 @@ The smaller male lurks beneath a curled milkweed leaf at the edge of the meadow,
 *Camera: Canon EOS 5D Mk IV • Lens:* EF100mm f/2.8L Macro IS USM
 *Settings:* ISO 16000 • Aperture f/13.0 • Shutter 1/640 s
 {:.caption}
-
----
 
 ### Field Reference — Male *Argiope aurantia*
 
