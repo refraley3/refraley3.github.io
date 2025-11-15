@@ -14,11 +14,11 @@ title: Plants
 <div class="grid" role="list">
 
 
-[![Ferns](/gallery/plants/ferns/assets/placeholder.jpg){: .cover role="img" aria-label="Ferns"}  
+[![Ferns]{: .cover role="img" aria-label="Ferns"}  
 **Ferns**  
 _Patterns older than the forest itself._  
 Fronds unfurl through shade and moisture, tracing ancient geometries beneath the canopy.  
-](/gallery/plants/ferns/){: .tile role="listitem"}
+]{: .tile role="listitem"}
 
 </div>
 

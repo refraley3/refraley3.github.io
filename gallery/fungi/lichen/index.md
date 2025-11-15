@@ -37,11 +37,11 @@ Green stalks with vivid red caps, resembling tiny soldiers’ hats.
 
 <div class="grid" role="list">
 
-[![Powdery Shield](/assets/images/ChatGPT-Image-Lichen.png){: .cover role="img" aria-label="Powdery Shield"}  
-**Powdery Shield**  
-_Powdery Shield Kicker_  
-Description.  
-](/assets/images/ChatGPT-Image-Lichen.png){: .tile role="listitem"}
+[![Powdery Shield and Candleflame Lichen on branch](/gallery/fungi/lichen/assets/powdery-shield/E21A1081.jpg){: .cover role="img" aria-label="Powdery Shield and Candleflame Lichen on branch"}  
+**Powdery Shield and Candleflame Lichen on branch**  
+_A mixed lichen community._  
+The pale gray *Physcia millegrana* forms powdery shields above the lemon-yellow *Candelaria concolor*, both anchored to a red maple twig.  
+](/gallery/fungi/lichen/powdery-shield/){: .tile role="listitem"}
 
 [![Minnesota Lichen Guide](/assets/images/ChatGPT-Image-Lichen.png){: .cover role="img" aria-label="Minnesota Lichen Guide"}  
 **Minnesota Lichen Guide**  

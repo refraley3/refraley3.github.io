@@ -25,4 +25,11 @@ _E21A2654_
 
 [![Blue Jay](/gallery/animals/birds/assets/perching/blue-jay/E21A4699.jpg){: .cover role="img" aria-label="Blue Jay"}  
 **Blue Jay**  
-_E21A4699_
+_](/gallery/animals/birds/perching/blue-jay/){: .cover role="img" aria-label="Blue Jay"}  
+
+[![Red-winged Blackbird perched on a bare branch](/gallery/animals/birds/assets/perching/red-winged-blackbird/E21A1553.jpg){: .cover role="img" aria-label="Red-winged Blackbird perched on a bare branch"}  
+**Red-winged Blackbird perched on a bare branch**  
+_A sentinel of the marsh, flashing red and gold against gray skies._  
+](/gallery/animals/birds/perching/red-winged-blackbird/){: .cover role="img" aria-label="Red-winged Blackbird perched on a bare branch"}  
+
+</div>

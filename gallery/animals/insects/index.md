@@ -17,11 +17,11 @@ _The bald-faced hornet is actually a type of wasp._
 These solcial wasps are hightly protective and can sting repeatedly.  
 ](/gallery/animals/insects/bees){: . tile role="listitem"}
 
-[![Beetles Title](/gallery/folder/folder/assets/image-2.jpg){: .cover-role="img area-label="Beetles title"}  
-**Image Title**  
-_Beetles kicker._  
-Beetles description.  
-](/gallery/folder/folder/folder-index){: . tile role="listitem"}
+  [![Ladybug](/gallery/animals/insects/beetles/assets/ladybug/E21A1535.jpg){: .cover role="img" aria-label="Ladybug"}  
+  **Ladybug**  
+  _*Harmonia axyridis*_  
+  Bright red beetle with variable black spots and a distinctive pale pronotum pattern.  
+  ](/gallery/animals/insects/beetles/ladybug/){: .tile role="listitem"}
 
 [![Butterflies Title](/gallery/folder/folder/assets/image-3.jpg){: .cover-role="img area-label="Butterflies title"}  
 **Image Title**  

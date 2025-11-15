@@ -32,6 +32,20 @@ A lone stem crowned with pale seed tufts catches the morning light — its quiet
 
 <div class="tile" style="margin: 15px;">
 
+[![Dame’s Rocket](/gallery/plants/wildflowers/assets/dames-rocket/E21A1563.jpg){: .cover role="img" aria-label="Dame’s Rocket"}  
+**Dame’s Rocket**  
+_*Hesperis matronalis*_  
+Pale four-petaled blossoms brighten shaded woodland edges and early-summer meadows.  
+](/gallery/plants/wildflowers/dames-rocket/){: .tile role="listitem"}
+
+</div>
+
+</div>
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
+
 [![Rue Anemone bloom detail](/gallery/plants/wildflowers/assets/rue-anemone/E21A1439.jpg){: .cover role="img" aria-label="Rue Anemone bloom detail"}  
 **Rue Anemone bloom detail**  
 _Purple-veined sepals and golden anthers in focus._  
