@@ -7,7 +7,7 @@ title: Dame’s Rocket
 
 ---
 
-![Dame’s Rocket in bloom](/gallery/plants/wildflowers/assets/dames-rocket/E21A1563.jpg)  
+![Dame’s Rocket — Woodland Edge Bloom](/gallery/plants/wildflowers/assets/dames-rocket/E21A1563.jpg)  
 **Dame’s Rocket — Woodland Edge Bloom**  
 _Pale petals open toward filtered light along a shaded trail._  
 Four-petaled blossoms of white and lavender rise on slender stems, marking the return of early summer. Introduced from Europe, this graceful wildflower now brightens woodlands and meadows across Minnesota.  
@@ -37,7 +37,7 @@ This biennial or short-lived perennial readily naturalizes in disturbed areas, s
 
 <div class="tile" style="margin: 15px;">
 
-![Dame’s Rocket with juvenile garden spider](/gallery/plants/wildflowers/assets/dames-rocket/_21A1566.jpg)  
+![Dame’s Rocket and a Young Garden Spider](/gallery/plants/wildflowers/assets/dames-rocket/_21A1566.jpg)  
 **Dame’s Rocket and a Young Garden Spider**  
 _Clusters of pale blossoms attract pollinators—and small hunters alike._  
 Four-petaled flowers in white and lavender rise above early-summer foliage, drawing bees and butterflies. Hidden among the blooms, a juvenile [**Black-and-Yellow Garden Spider**](/gallery/animals/arachnids/garden-spider/) waits for its chance among the nectar seekers.  

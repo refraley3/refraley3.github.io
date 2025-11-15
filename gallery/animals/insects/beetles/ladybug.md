@@ -7,10 +7,9 @@ title: Ladybug
 
 ---
 
-![Ladybug on leaf with dew](/gallery/animals/insects/beetles/assets/ladybug/E21A1651.jpg){: .cover role="img" aria-label="Ladybug on leaf with dew"}  
+![Ladybug on Aspen Leaf](/gallery/animals/insects/beetles/assets/ladybug/E21A1651.jpg){: .cover role="img" aria-label="Ladybug on Aspen Leaf"}  
 **Ladybug on Aspen Leaf**  
-_Dewdrops and morning light reveal the bright patterning of an Asian Lady Beetle._  
-• Size: 3055 x 2037  
+_Dewdrops and morning light reveal the bright patterning of an Asian Lady Beetle. • Size: 3055 x 2037  
 Camera: Canon EOS 5D Mark IV  
 Lens: EF100mm f/2.8L Macro IS USM  
 Settings: ISO 200 • f/11.0 • Shutter 1/200  
@@ -18,7 +17,7 @@ Settings: ISO 200 • f/11.0 • Shutter 1/200
 
 ---
 
-![Ladybug on green blade](/gallery/animals/insects/beetles/assets/ladybug/E21A1534.jpg){: role="img" aria-label="Ladybug on green blade"}  
+![Exploring the Underside](/gallery/animals/insects/beetles/assets/ladybug/E21A1534.jpg){: role="img" aria-label="Exploring the Underside"}  
 **Exploring the Underside**  
 _The beetle navigates the ribbed texture of a leaf blade, its elytra glossy in the filtered morning sun._  
 • Size: 2485 x 1657  
@@ -29,7 +28,7 @@ Settings: ISO 200 • f/13.0 • Shutter 1/4 s
 
 ---
 
-![Ladybug climbing leaf](/gallery/animals/insects/beetles/assets/ladybug/E21A1535.jpg){: role="img" aria-label="Ladybug climbing leaf"}  
+![Climbing the Ladder](/gallery/animals/insects/beetles/assets/ladybug/E21A1535.jpg){: role="img" aria-label="Climbing the Ladder"}  
 **Climbing the Ladder**  
 _A closer profile reveals the distinctive facial markings typical of the Asian Lady Beetle._  
 • Size: 2485 x 1657  
