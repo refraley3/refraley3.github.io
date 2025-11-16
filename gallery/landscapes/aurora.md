@@ -11,7 +11,7 @@ For a few hours, the aurora reached deep into the northern United States, transf
 Captured from home, these images record one of the most intense auroral displays in decades — the solar wind brushing Earth’s magnetic field in full color.  
 {:.description}
 
-![Aurora with Pleiades — Lakeville, MN](/gallery/landscapes/assets/aurora-over-lakeville/E21A7359.jpg){: .cover role="img" aria-label="Red and Green Aurora and Stars over Deck"}  
+![Aurora with Pleiades — Lakeville, MN](/gallery/landscapes/assets/aurora-over-lakeville/E21A7359.jpg){: .cover role="img" aria-label="RAurora with Pleiades — Lakeville, MN"}  
 **Aurora with Pleiades — Lakeville, MN**  
 _Red and green veils drift beneath the autumn stars._  
 The Pleiades cluster and faint Orion glow through the auroral haze as light spills over the trees and deck. • Size: 6720 x 4480  

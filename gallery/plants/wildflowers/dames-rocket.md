@@ -45,6 +45,10 @@ Four-petaled flowers in white and lavender rise above early-summer foliage, draw
 
 In these photographs, a young [Black-and-Yellow Garden Spider](/gallery/animals/arachnids/garden-spider/) has taken advantage of the floral traffic, anchoring its fine silk between the blossoms. 
 
+</div>
+
+</div>
+
 ---
 
 **Observation:**  
