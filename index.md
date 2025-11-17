@@ -1,5 +1,5 @@
 ---
-layout: photo
+layout: default
 title: Home
 ---
 ### Gallery  
