@@ -4,10 +4,7 @@ title: Red Squirrel
 description: A typical pine, spruce, and fir forest inhabitant.
 ---
 
-{% include breadcrumbs.html %}
-{% include children-list.html %}
-
-## (*Tamiasciurus hudsonicus*)
+### (*Tamiasciurus hudsonicus*)
 
 ![Red squirrel with mushroom](/gallery/animals/mammals/assets/red-squirrel/E21A6162-2.jpg)
 *Red squirrel carrying a mushroom in a pine tree.*
