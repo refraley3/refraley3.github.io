@@ -17,6 +17,10 @@ _Slimy and sticky._
 Symbiotic with pine trees, especially Douglas-Fir.  
 ](/gallery/fungi/mushrooms/blackening-slimespike/){: .tile role="listitem"}
 
+</div>
+
+<div class="grid" role="list">
+
 [![Mucous Cort](/gallery/fungi/mushrooms/assets/mucous-cort/E21A6930.jpg){: .cover role="img" aria-label="Mucous Cort"}  
 **Mucous Cort**  
 _*Cortinarius mucosus*  
@@ -24,15 +28,15 @@ Dry-capped and brittle, found beneath Red Pines.
 This species thrives in the acidic litter where few others fruit.  
 ](/gallery/fungi/mushrooms/mucous-cort/){: .tile role="listitem"}
 
-</div>
-
-<div class="grid" role="list">
-
 [![Bleeding Bonnet](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5422.jpg){: .cover role="img" aria-label="Bleeding Bonnet"}  
 **Bleeding Bonnet**  
 _*Mycena haematopus*_  
 Three days — a record of the Bleeding Bonnet’s surrender to another fungus.  
 ](/gallery/fungi/mushrooms/bleeding-bonnet/){: .tile role="listitem"}
+
+</div>
+
+<div class="grid" role="list">
 
 [![Floury Amanita](/gallery/fungi/mushrooms/assets/floury-amanita/E21A6395.jpg){: .cover role="img" aria-label="Floury Amanita"}  
 **Floury Amanita**  
@@ -50,7 +54,7 @@ Small, caramel-brown gilled mushrooms on mossy wood.
 
 <div class="grid" role="list">
 
-[![Oyster](/gallery/fungi/mushrooms/assets/oyster/E21A0294.jpg){: .cover role="img" aria-label="Oyster"}  
+[![Oyster](/gallery/fungi/mushrooms/assets/oyster/E21A0294.jpg){: .cover role="img" aria-label="Oyster" style="height: 500px;"}  
 **Oyster**  
 _*Pleurotus ostreatus*_  
 Oyster mushrooms unfolding through mist and decay.  
@@ -76,7 +80,7 @@ Violet-toothed polypore growing on a cut oak log, showing distinct purple margin
 
 <div class="grid" role="list">
 
-[![Pear-shaped Puffball](/gallery/fungi/mushrooms/assets/pear-shaped-puffball/E21A6643.jpg){: .cover role="img" aria-label="Pear-shaped Puffball"}  
+[![Pear-shaped Puffball](/gallery/fungi/mushrooms/assets/pear-shaped-puffball/E21A6643.jpg){: .cover role="img" aria-label="Pear-shaped Puffball" style="width: 500px;"}  
 **Pear-shaped Puffball**  
 _A tiny woodland puff that releases clouds of spores with a gentle tap._  
 The pear-shaped puffball is a small woodland fungus found on decaying wood or moss-covered surfaces.  

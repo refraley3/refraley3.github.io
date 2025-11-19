@@ -39,7 +39,7 @@ Found near alpine treelines, the Whitebark Pine endures cold and wind. Its twist
 
 <div class="tile">
 
-[![Jack Pine placeholder](/gallery/plants/trees/assets/jack-pine/cover.jpg){: .cover role="img" aria-label="Jack Pine"}  
+[![Jack Pine placeholder](/assets/images/under-construction.png){: .cover role="img" aria-label="Jack Pine"}  
 **Jack Pine (*Pinus banksiana*)**  
 _Resilient and fire-adapted._  
 A hardy northern species with curved cones that open only after fire. Jack Pines thrive on sandy soils and help regenerate boreal forests after disturbance.  

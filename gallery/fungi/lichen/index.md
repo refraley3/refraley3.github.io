@@ -43,7 +43,7 @@ _A mixed lichen community._
 The pale gray *Physcia millegrana* forms powdery shields above the lemon-yellow *Candelaria concolor*, both anchored to a red maple twig.  
 ](/gallery/fungi/lichen/powdery-shield/){: .tile role="listitem"}
 
-[![Minnesota Lichen Guide](/assets/images/ChatGPT-Image-Lichen.png){: .cover role="img" aria-label="Minnesota Lichen Guide"}  
+[![Minnesota Lichen Guide](/assets/images/ChatGPT-Image-Lichen.png){: .cover role="img" aria-label="Minnesota Lichen Guide" style="height:300px;"}  
 **Minnesota Lichen Guide**  
 _Field reference collection._  
 Regional field reference and notes on common lichens.  

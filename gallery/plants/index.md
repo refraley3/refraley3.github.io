@@ -9,21 +9,6 @@ title: Plants
 
 ---
 
-## Ferns
-
-<div class="grid" role="list">
-
-
-[![Ferns]{: .cover role="img" aria-label="Ferns"}  
-**Ferns**  
-_Patterns older than the forest itself._  
-Fronds unfurl through shade and moisture, tracing ancient geometries beneath the canopy.  
-]{: .tile role="listitem"}
-
-</div>
-
----
-
 ## Trees
 
 This gallery explores the diversity of North American trees — from sunlit birch groves and sugar maples to red pine plantations and alpine firs. Each species reveals a strategy for survival: thick bark against fire, flexible trunks against wind, or leaves timed to the rhythm of light and frost.  
@@ -48,6 +33,22 @@ Long, flexible needles grow in pairs, their soft green color catching the light 
 ](/gallery/plants/trees/){: .tile role="listitem"}
 
 </div>
+
+---
+
+## Ferns
+
+<div class="tile" style="margin: 15px;">
+<a class="fw-bold text-decoration-none" href="/gallery/plants/ferns/index">
+    <img src="/assets/images/under-construction_wht.png" 
+    alt="Ferns" 
+    style="width:300px; vertical-align:middle;">
+</a>
+**Ferns**  
+_Patterns older than the forest itself._  
+Fronds unfurl through shade and moisture, tracing ancient geometries beneath the canopy.  
+
+</div>  
 
 ---
 

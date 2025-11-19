@@ -6,27 +6,33 @@ description: A typical pine, spruce, and fir forest inhabitant.
 
 ### (*Tamiasciurus hudsonicus*)
 
-![Red squirrel with mushroom](/gallery/animals/mammals/assets/red-squirrel/E21A6162-2.jpg)
-*Red squirrel carrying a mushroom in a pine tree.*
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
 
-| Property | Image Data |
-| Camera | Canon EOS 5D Mk IV |
-| Lens | EF100mm f/2.8L Macro IS USM |
-| ISO | 20000 |
-| Aperture | f/6.3 |
-| Shutter | 1/1250 seconds |
-| Size | 2267x1511 |
+<div class="tile" style="margin: 15px;">
+
+![Red squirrel with mushroom](/gallery/animals/mammals/assets/red-squirrel/E21A6162-2.jpg)
+*Red squirrel carrying a mushroom in a pine tree.* • Size: 2267x1511
+
+*Camera:* Canon EOS 5D Mk IV  
+*Lens:* EF100mm f/2.8L Macro IS USM
+*Settings:* ISO 20000 • Aperture f/6.3 • Shutter 1/1250 s
+{:.caption}
+
+</div>
+
+<div class="tile" style="margin: 15px;">
 
 ![Red squirrel on branch](/gallery/animals/mammals/assets/red-squirrel/IMG_7404.jpg)
-*Alert red squirrel peering over a branch edge, surrounded by green and golden leaves.*
+*Alert red squirrel peering over a branch edge, surrounded by green and golden leaves.*  • Size: 3409x2273
 
-| Property | Image Data |
-| Camera | Canon EOS 7D |
-| Lens | EF-S18-200mm f/3.5-5.6IS |
-| ISO | 3200 |
-| Aperture | f/6.3 |
-| Shutter | 1/60 seconds |
-| Size | 3409x2273 |
+*Camera:* Canon EOS 7D  
+*Lens:* EF-S18-200mm f/3.5-5.6 IS
+*Settings:* ISO 3200 • Aperture f/6.3 • Shutter 1/60 s
+{:.caption}
+
+</div>
+
+</div>
 
 ---
 

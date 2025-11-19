@@ -17,11 +17,7 @@ _An orb-weaver web glistens with the mist in a prairie meadow._
 A perfect orb-weaver web glistens with the mist among tall grasses and goldenrod, each strand outlined by the soft morning light.  
 ](/gallery/animals/arachnids/garden-spider){: .tile role="listitem"}
 
-</div>
-
-<div class="grid" role="list">
-
-[![Autumn Silhouette](/gallery/animals/arachnids/assets/garden-spider/E21A4297B.jpg){: .cover role="img" aria-label="Autumn Silhouette"}  
+[![Autumn Silhouette](/gallery/animals/arachnids/assets/garden-spider/E21A4297B.jpg){: .cover role="img" aria-label="Autumn Silhouette" style="height: 400px"}  
 **Autumn Silhouette**  
 _A dew-strung orb web shimmers in backlit morning grass._  
 Suspended between slender stems, the orb-weaver’s web glows against the warm light of early autumn.  

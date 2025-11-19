@@ -25,46 +25,46 @@ These solcial wasps are hightly protective and can sting repeatedly.
   Bright red beetle with variable black spots and a distinctive pale pronotum pattern.  
   ](/gallery/animals/insects/beetles/ladybug/){: .tile role="listitem"}
 
-[![Butterflies Title](/gallery/folder/folder/assets/image-3.jpg){: .cover-role="img area-label="Butterflies title"}  
-**Image Title**  
-_Butterflies kicker._  
-Butterflies description.  
-](/gallery/folder/folder/folder-index){: . tile role="listitem"}
+[![Butterflies Title](/assets/images/under-construction_wht.png){: .cover-role="img area-label="Butterflies title"}  
+**Butterflies**  
+_Coming soon._  
+Monarchs, Pearly-eye, and Swallowtail.  
+](/gallery/animals/insects/butterflies/){: . tile role="listitem"}
 
-[![Crickets Title](/gallery/folder/folder/assets/image-4.jpg){: .cover-role="img area-label="Crickets title"}  
-**Image Title**  
-_Crickets kicker._  
+[![Crickets Title](/assets/images/under-construction_wht.png){: .cover-role="img area-label="Crickets title"}  
+**Crickets**  
+_Crickets coming soon._  
 Crickets description.  
-](/gallery/folder/folder/folder-index){: . tile role="listitem"}
+](/gallery/animals/insects/){: . tile role="listitem"}
 
-[![Damselflies Title](/gallery/folder/folder/assets/image-5.jpg){: .cover-role="img area-label="Damselflies title"}  
-**Image Title**  
-_Damselflies kicker._  
+[![Damselflies Title](/assets/images/under-construction_wht.png){: .cover-role="img area-label="Damselflies title"}  
+**Damselflies**  
+_Damselflies coming soon._  
 Damselflies description.  
-](/gallery/folder/folder/folder-index){: . tile role="listitem"}
+](/gallery/animals/insects/){: . tile role="listitem"}
 
-[![Dragonflies Title](/gallery/folder/folder/assets/image-6.jpg){: .cover-role="img area-label="Dragonflies title"}  
-**Image Title**  
-_Dragonflies kicker._  
+[![Dragonflies Title](/assets/images/under-construction_wht.png){: .cover-role="img area-label="Dragonflies title"}  
+**Dragonflies**  
+_Dragonflies coming soon._  
 Dragonflies description.  
-](/gallery/folder/folder/folder-index){: . tile role="listitem"}
+](/gallery/animals/insects/){: . tile role="listitem"}
 
-[![Flies Title](/gallery/folder/folder/assets/image-7.jpg){: .cover-role="img area-label="Flies title"}  
-**Image Title**  
-_Flies kicker._  
-Flies description.  
-](/gallery/folder/folder/folder-index){: . tile role="listitem"}
+[![Flies Title](/assets/images/under-construction_wht.png){: .cover-role="img area-label="Flies title"}  
+**Flies**  
+_Flies coming soon._  
+Assasin, Crane, and House flies.  
+](/gallery/animals/insects/){: . tile role="listitem"}
 
-[![Grasshoppers Title](/gallery/folder/folder/assets/image-8.jpg){: .cover-role="img area-label="Grasshoppers title"}  
-**Image Title**  
-_Grasshoppers kicker._  
-Grasshoppers description.  
-](/gallery/folder/folder/folder-index){: . tile role="listitem"}
+[![Grasshoppers Title](/assets/images/under-construction_wht.png){: .cover-role="img area-label="Grasshoppers title"}  
+**Grasshoppers**  
+_Grasshoppers coming soon._  
+Differential, Red-legged, and two-stripped.  
+](/gallery/animals/insects/){: . tile role="listitem"}
 
-[![Moths Title](/gallery/folder/folder/assets/image-9.jpg){: .cover-role="img area-label="Moths title"}  
-**Image Title**  
-_Moths kicker._  
-Moths description.  
-](/gallery/folder/folder/folder-index){: . tile role="listitem"}
+[![Moths Title](/assets/images/under-construction_wht.png){: .cover-role="img area-label="Moths title"}  
+**Moths**  
+_Moths coming soon._  
+Virginia Ctenucha  
+](/gallery/animals/insects/){: . tile role="listitem"}
 
 </div>

@@ -97,13 +97,13 @@ Light, horizon, and the quiet geometry of open space.
 
 <div class="grid" role="list">
 
-[![Ferns](/gallery/plants/assets/D79A4902.jpg){: .cover role="img" aria-label="Ferns"}  
+[![Ferns](/assets/images/under-construction_wht.png){: .cover role="img" aria-label="Ferns" style="width: 200px; height=300 px;"}  
 **Ferns**  
 _Fronds in filtered light._  
 Graceful green architecture unfolding through shade.  
 ](/gallery/plants/ferns/){: .tile role="listitem"}
 
-[![Trees](/gallery/plants/trees/assets/red-pine/E21A6945.jpg){: .cover role="img" aria-label="Trees"}  
+[![Trees](/gallery/plants/trees/assets/red-pine/E21A6945.jpg){: .cover role="img" aria-label="Trees" style="height: 300px;"}  
 **Trees**  
 _Canopy and character._  
 From bark to crown, stories written in woodgrain.  
@@ -119,7 +119,7 @@ _Seasonal bursts of color._
 Ephemeral beauty along paths and prairies.  
 ](/gallery/plants/wildflowers/){: .tile role="listitem"}
 
-[![Vines](/gallery/plants/assets/E21A1653.jpg){: .cover role="img" aria-label="Vines"}  
+[![Vines](/gallery/plants/vines/assets/american-bittersweet/E21A7415-7418.jpg){: .cover role="img" aria-label="Vines"}  
 **Vines**  
 _Tenacity and grace._  
 Threads that climb, twist, and anchor to life.  

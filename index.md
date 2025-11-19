@@ -62,13 +62,17 @@ _Bleeding Bonnet — Day 1, Early Infection._
 
 <div class="tile" style="margin: 15px;">
 
-[![Field Notes](/gallery/fungi/mushrooms/assets/slimespike/SporePrint-Slimespike.jpg){: .cover role="img" aria-label="Field Notes"}  
+[![Field Notes](/gallery/fungi/mushrooms/assets/slimespike/SporePrint-Slimespike.jpg){: .cover role="img" aria-label="Field Notes" style="width: 500px;"}  
 **Field Notes**  
 _Seasonal observations._  
 Stories and IDs from recent walks.  
 ](/field-notes/){: .tile role="listitem"}
 
 </div>
+
+</div>
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
 
 <div class="tile" style="margin: 15px;">
 
