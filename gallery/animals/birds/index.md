@@ -19,11 +19,11 @@ _Hunters of the open sky and silent forests._
 Raptors command the air with precision and power.  
 ](/gallery/animals/birds/raptors/){: .tile role="listitem"}
 
-[![Tree Clinging Birds](/gallery/animals/birds/assets/tree-clinging/woodpecker-flying.jpg){: .cover role="img" aria-label="Tree Clinging Birds"}  
+[![Tree Clinging Birds](/assets/images/under-construction_wht.png){: .cover role="img" aria-label="Tree Clinging Birds"}  
 **Tree Clinging**  
 _Specialists of bark and vertical motion._  
 Woodpeckers, nuthatches, and creepers hammering and probing in search of insects.  
-](/gallery/animals/birds/tree-clinging/){: .tile role="listitem"}
+](/gallery/animals/birds/){: .tile role="listitem"}
 
 </div>
 
@@ -33,6 +33,6 @@ Woodpeckers, nuthatches, and creepers hammering and probing in search of insects
 **Wading Birds**  
 _Poise and reflection at the water's edge._  
 Wading birds inhabit the boundaries between land and water.  
-](/gallery/animals/birds/waders/){: .tile role="listitem"}
+](/gallery/animals/birds/){: .tile role="listitem"}
 
 </div>

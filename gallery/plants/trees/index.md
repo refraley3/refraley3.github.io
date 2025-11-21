@@ -25,7 +25,7 @@ _Minnesota’s state tree._
 Tall, straight trunks and paired needles define the Red Pine, a species common in northern forests and reforestation areas. Its reddish bark and soft green color make it a standout of the pine family.  
 ](/gallery/plants/trees/red-pine/){: .tile role="listitem"}
 
-[![Whitebark Pine placeholder](/gallery/plants/trees/assets/whitebark-pine/cover.jpg){: .cover role="img" aria-label="Whitebark Pine"}  
+[![Whitebark Pine placeholder](/assets/images/under-construction_wht.png){: .cover role="img" aria-label="Whitebark Pine" style="width: 300px;"}  
 **Whitebark Pine (*Pinus albicaulis*)**  
 _A high-altitude survivor._  
 Found near alpine treelines, the Whitebark Pine endures cold and wind. Its twisted form and symbiotic relationship with Clark’s nutcracker define mountain ecosystems of the West.  
@@ -39,17 +39,27 @@ Found near alpine treelines, the Whitebark Pine endures cold and wind. Its twist
 
 <div class="tile">
 
-[![Jack Pine placeholder](/assets/images/under-construction.png){: .cover role="img" aria-label="Jack Pine"}  
+[![Jack Pine placeholder](/assets/images/under-construction_wht.png){: .cover role="img" aria-label="Jack Pine" style="width: 300px;"}  
 **Jack Pine (*Pinus banksiana*)**  
 _Resilient and fire-adapted._  
 A hardy northern species with curved cones that open only after fire. Jack Pines thrive on sandy soils and help regenerate boreal forests after disturbance.  
 ](/gallery/plants/trees/jack-pine/){: .tile role="listitem"}
 
-[![Douglas Fir placeholder](/gallery/plants/trees/assets/douglas-fir/cover.jpg){: .cover role="img" aria-label="Douglas Fir"}  
+[![Douglas Fir placeholder](/assets/images/under-construction_wht.png){: .cover role="img" aria-label="Douglas Fir" style="width: 300px;"}  
 **Douglas Fir (*Pseudotsuga menziesii*)**  
 _The towering evergreen of the Pacific Northwest._  
 Not a true fir, the Douglas Fir is prized for its height and strong timber. Its distinctive cones, each with “mouse-tail” bracts, are a key identifying feature.  
 ](/gallery/plants/trees/douglas-fir/){: .tile role="listitem"}
+
+</div>
+
+<div class="tile">
+
+[![Lodgepole Pine](/gallery/plants/trees/assets/lodgepole-pine/E21A7608.jpg){: .cover role="img" aria-label="Lodgepole Pine"}  
+**Lodgepole Pine**  
+_A narrow crown shaped by sun and open ground._  
+Fine needles and persistent cones distinguish this mountain pine, planted here far from its western range yet thriving in sandy soil and full light.  
+](/gallery/plants/trees/lodgepole-pine/){: .tile role="listitem"}
 
 </div>
 
