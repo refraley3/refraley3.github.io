@@ -23,14 +23,15 @@ This young Lodgepole Pine stands with its characteristic slender form and upward
 
 The **Lodgepole Pine** is a slender, straight-trunked conifer native to the western mountains of North America. Though native to the Rockies and Pacific Northwest, it is occasionally planted in the upper Midwest in research plots, soil restoration projects, windbreaks, and ornamental landscapes.
 
-![Lodgepole Pine branch close-up](/gallery/plants/trees/assets/lodgepole-pine/E21A7599.jpg)  
-*Fine paired needles and tightly clustered cones typical of the species.*  
+![Cones Held in the Needles](/gallery/plants/trees/assets/lodgepole-pine/E21A7599.jpg){: .cover role="img" aria-label="Cones Held in the Needles"}  
+**Cones Held in the Needles**  
+_Fine paired needles and tightly clustered cones typical of the species._  
 Camera: Canon EOS 5D Mk IV  
 Lens: EF24-70mm f/2.8L II USM  
 Settings: ISO 10000 • Aperture f/2.8 • Shutter 1/200 s  
 {:.caption}
 
-Its narrow crown and fine, paired needles set it apart from the heavier foliage of Red or Jack Pine. Lodgepole Pines can be identified by their:
+A dense sweep of paired needles cradles the Lodgepole’s small, ovate cones, many of which remain sealed for years. This branch captures the layered texture of resin, bark, and fine foliage—an intricate structure evolved to endure harsh climates and recurring fire. Its narrow crown and fine, paired needles set it apart from the heavier foliage of Red or Jack Pine. Lodgepole Pines can be identified by their:
 
 - **Needles:** 1.5–3 inches long, in **pairs**, fine and often straight  
 - **Cones:** Small, egg-shaped, and persistent — some remaining closed for years, especially in serotinous forms adapted to fire.  

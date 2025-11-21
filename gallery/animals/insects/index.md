@@ -61,10 +61,12 @@ _Grasshoppers coming soon._
 Differential, Red-legged, and two-stripped.  
 ](/gallery/animals/insects/){: . tile role="listitem"}
 
-[![Moths Title](/assets/images/under-construction_wht.png){: .cover-role="img area-label="Moths title"}  
-**Moths**  
-_Moths coming soon._  
-Virginia Ctenucha  
-](/gallery/animals/insects/){: . tile role="listitem"}
+
+[![Virginia Ctenucha](/gallery/animals/insects/moths/assets/virginia-ctenucha/E21A1656.jpg){: .cover role="img" aria-label="Virginia Ctenucha"}  
+**Virginia Ctenucha**  
+_Metallic blues & meadow shadows._  
+A vivid, day-flying moth with black wings, an orange collar, and an iridescent blue body.  
+](/gallery/animals/insects/moths/){: .tile role="listitem"}
+
 
 </div>
