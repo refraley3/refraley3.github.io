@@ -26,11 +26,8 @@ _The architecture of light and air._
 Their trunks and canopies define the woodland — steady, sheltering, and ever-changing through the seasons.  
 ](/gallery/plants/trees/){: .tile role="listitem"}
 
-[![Deciduous Trees](/assets/images/under-construction_wht.png){: .cover role="img" aria-label="Deciduous Trees"}  
+![Deciduous Trees](/assets/images/under-construction_wht.png){: .cover role="img" aria-label="Deciduous Trees"}  
 **Deciduous**  
-_Paired needles and small cones along a sunlit branch_  
-Long, flexible needles grow in pairs, their soft green color catching the light beside the season’s cones. Each cone is modest—oval, unarmed, and built for simplicity—yet together they define the quiet geometry of a Red Pine in summer.  
-](/gallery/plants/trees/){: .tile role="listitem"}
 
 </div>
 
