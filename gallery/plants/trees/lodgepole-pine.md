@@ -7,9 +7,9 @@ title: Lodgepole Pine
 
 A young Lodgepole Pine showing its narrow, upright crown — a form that contrasts with the broader silhouettes of Red or Jack Pine.  
 
-![Lodgepole Pine](/gallery/plants/trees/assets/lodgepole-pine/E21A7608.jpg){: .cover role="img" aria-label="Lodgepole Pine"}  
-**Lodgepole Pine**  
-_A narrow, wind-shaped crown rising from open ground._  
+![Lodgepole Pine in Open Meadow](/gallery/plants/trees/assets/lodgepole-pine/E21A7573.jpg){: .cover role="img" aria-label="Lodgepole Pine in Open Meadow"}  
+**Lodgepole Pine in Open Meadow**  
+_A narrow silhouette rising beneath a storm-heavy sky._  
 Camera: Canon EOS 5D Mk IV  
 Lens: EF24-70mm f/2.8L II USM  
 Settings: ISO 10000 • Aperture f/6.3 • Shutter 1/200 s  
@@ -128,3 +128,34 @@ Even when planted outside its natural range, it readily establishes in open, dis
 ### Range
 
 Native to the **western United States and Canada**, including the Rockies, Cascades, Sierra Nevada, and interior British Columbia. Outside its home range, it appears in **experimental forests, conservation plantings, arboretums, and occasionally private landscapes**.
+
+---
+
+**References:**
+
+-National Audubon Society: Trees of North America* (2021)
+
+Personal field notes (2025)
+Photographed near Lakeville, Minnesota.
+
+---
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+![E21A7573 - Lodgepole Pine](/gallery/plants/trees/assets/lodgepole-pine/E21A7573.jpg){: .cover role="img" aria-label="Lodgepole Pine"}  
+
+![E21A7608 - Lodgepole Pine](/gallery/plants/trees/assets/lodgepole-pine/E21A7608.jpg){: .cover role="img" aria-label="Lodgepole Pine"}  
+
+![E21A7632 - Lodgepole Pine — Needle Nodes](/gallery/plants/trees/assets/lodgepole-pine/E21A7632.jpg){: .cover role="img" aria-label="Lodgepole Pine — Needle Nodes"}  
+
+![E21A7596 - Lodgepole Pine branch with cones](/gallery/plants/trees/assets/lodgepole-pine/E21A7596.jpg){: .cover role="img" aria-label="Lodgepole Pine branch with cones"}  
+
+![E21A7599 - Cones Held in the Needles](/gallery/plants/trees/assets/lodgepole-pine/E21A7599.jpg){: .cover role="img" aria-label="Cones Held in the Needles"}  
+
+![E21A7602 - Lodgepole Pine — Trunk and Lower Branches](/gallery/plants/trees/assets/lodgepole-pine/E21A7602.jpg){: .cover role="img" aria-label="Lodgepole Pine — Trunk and Lower Branches"}  
+
+![E21A7637 - Emerging and Enduring](/gallery/plants/trees/assets/lodgepole-pine/E21A7637.jpg){: .cover role="img" aria-label="Emerging and Enduring"}  
+
+</div>
+
+---

@@ -55,13 +55,24 @@ Not a true fir, the Douglas Fir is prized for its height and strong timber. Its 
 
 <div class="tile">
 
-[![Lodgepole Pine](/gallery/plants/trees/assets/lodgepole-pine/E21A7608.jpg){: .cover role="img" aria-label="Lodgepole Pine"}  
+[![Austrian Pine in Open Meadow](/gallery/plants/trees/assets/austrian-pine/E21A7573.jpg){: .cover role="img" aria-label="Austrian Pine"}  
+**Austrian Pine in Open Meadow**  
+_A broad, dark crown built for wind and open ground._  
+Stiff paired needles and thick-scaled cones mark this European pine, long planted in the Midwest for windbreaks, durability, and its heavy, storm-resistant form.  
+](/gallery/plants/trees/austrian-pine/){: .tile role="listitem"}
+
+</div>
+
+<div class="tile">
+
+[![Lodgepole Pine](/assets/images/under-construction_wht.png){: .cover role="img" aria-label="Lodgepole Pine"}  
 **Lodgepole Pine**  
-_A narrow crown shaped by sun and open ground._  
-Fine needles and persistent cones distinguish this mountain pine, planted here far from its western range yet thriving in sandy soil and full light.  
+_Page under construction._  
+A future entry for the narrow-crowned, fire-adapted pine of the western mountains.  
 ](/gallery/plants/trees/lodgepole-pine/){: .tile role="listitem"}
 
 </div>
+
 
 </div>
 
