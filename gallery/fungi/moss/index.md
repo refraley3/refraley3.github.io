@@ -6,8 +6,8 @@ permalink: /gallery/fungi/moss/
 
 <div class="tile" style="margin: 15px;">
 
-![Feather Moss on Decaying Wood](/gallery/fungi/moss/assets/feather-moss/E21A6664-6684.jpg){: .cover role="img" aria-label="Feather Moss on Decaying Wood"}  
-**Feather Moss on Decaying Wood**  
+![Feather Moss with Sporophytes](/gallery/fungi/moss/assets/feather-moss-imponens/E21A7803-7840.jpg){: .cover role="img" aria-label="Feather Moss with Sporophytes"}  
+**Feather Moss with Sporophytes**  
 
 </div>
 
@@ -19,7 +19,7 @@ _A soft, feathery moss that forms lush mats._
 When illuminated, its overlapping branches create a rippling texture.  
 ](/gallery/fungi/moss/brocade-moss){: .tile role="listitem"}
 
-[![Feather Moss curvifolium](/gallery/fungi/moss/assets/feather-moss/E21A6664-6684.jpg){: .cover role="img" aria-label="Feather Moss curvifolium"}  
+[![Feather Moss curvifolium](/gallery/fungi/moss/assets/feather-moss-curvifolium/E21A6664-6684.jpg){: .cover role="img" aria-label="Feather Moss curvifolium"}  
 **Feather Moss curvifolium**  
 _A composite of multiple stacked images._  
 Fine, curved fronds forming soft, intricate mats across shaded decaying wood.  
