@@ -19,11 +19,17 @@ _A soft, feathery moss that forms lush mats._
 When illuminated, its overlapping branches create a rippling texture.  
 ](/gallery/fungi/moss/brocade-moss){: .tile role="listitem"}
 
-[![Feather Moss](/gallery/fungi/moss/assets/feather-moss/E21A6664-6684.jpg){: .cover role="img" aria-label="Feather Moss"}  
-**Feather Moss**  
-_Composite of multiple photos._  
-Rust-brown sporophyte stalks with brown capsules that release spores.  
-](/gallery/fungi/moss/feather-moss/){: .tile role="listitem"}
+[![Feather Moss curvifolium](/gallery/fungi/moss/assets/feather-moss/E21A6664-6684.jpg){: .cover role="img" aria-label="Feather Moss curvifolium"}  
+**Feather Moss curvifolium**  
+_A composite of multiple stacked images._  
+Fine, curved fronds forming soft, intricate mats across shaded decaying wood.  
+](/gallery/fungi/moss/feather-moss-curvifolium/){: .tile role="listitem"}
+
+[![Feather Moss imponens](/gallery/fungi/moss/assets/feather-moss-imponens/E21A7803-7840.jpg){: .cover role="img" aria-label="Feather Moss imponens"}  
+**Feather Moss imponens**  
+_Stacking-composite with sporophytes._  
+Broad fronds and tall reddish sporophytes rising above a dense lime-green colony.  
+](/gallery/fungi/moss/feather-moss-imponens/){: .tile role="listitem"}
 
 [![Brocade Moss with Pear-shaped Puffball](/gallery/fungi/mushrooms/assets/pear-shaped-puffball/E21A6629-41.jpg){: .cover role="img" aria-label="Brocade Moss with Pear-shaped Puffball"}  
 **Brocade Moss with Pear-shaped Puffball**  

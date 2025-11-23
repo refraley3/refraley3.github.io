@@ -57,7 +57,7 @@ A slimy cap and a Douglas-fir “jump.”
 [![Funeral Bell](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6462.jpg){: .cover role="img" aria-label="Funeral Bell" style="height: 400px;"}  
 **Funeral Bell**  
 _Likely the deadly Funeral Bell._  
-Small, caramel-brown gilled mushrooms with a rusty-brown spore print on mossy wood.  
+Small, caramel-brown gilled mushrooms on moss covered log.  
 ](/gallery/fungi/mushrooms/funeral-bell/){: .tile role="listitem"}
 
 </div>
@@ -99,3 +99,20 @@ A concise reference for field identification.
 </div>
 
 > [*Canon Macro Lens Comparison*](/photography-notes/canon-macro-lens-comparison/){: .tile role="listitem"}
+
+<div class="tile" style="margin: 15px;">
+
+[![Comparing Four Pine Species](/gallery/plants/trees/assets/austrian-pine/E21A7637.jpg){: .cover role="img" aria-label="Comparing Four Pine Species" style="height: 300px;"}  
+**Comparing Four Pine Species**  
+_Austrian Pine · Jack Pine · Red Pine · Lodgepole Pine_  
+Pine identification can be deceptively challenging. Many species share similar silhouettes—upright trunks, paired needles, persistent cones—yet each has its own structure, texture, and “posture” in the landscape.
+This guide compares four common or commonly planted pines in Minnesota and the Upper Midwest:
+- Austrian Pine (Pinus nigra)  
+- Jack Pine (Pinus banksiana)  
+- Red Pine (Pinus resinosa)  
+- Lodgepole Pine (Pinus contorta, var. latifolia)  
+Some are native, some heavily planted, some rare, and some often misidentified.
+Use this reference when sorting out pines in open meadows, windbreaks, restoration plots, or scattered plantings.  
+](/field-notes/comparing-four-pine-species/){: .tile role="listitem"}
+
+</div>
