@@ -10,7 +10,7 @@ Seasonal observations, IDs, and stories.
 
 <div class="tile" style="margin: 15px;">
 
-[![First Quiet Voices of Spring](/gallery/plants/wildflowers/assets/rue-anemone/E21A1432.jpg){: .cover role="img" aria-label="First Quiet Voices of Spring"}  
+[![First Quiet Voices of Spring](/gallery/plants/wildflowers/assets/rue-anemone/E21A1432.jpg){: .cover role="img" aria-label="First Quiet Voices of Spring" style="height: 300px;"}  
 **First Quiet Voices of Spring**  
 _The first colors beneath bare branches._  
 Rue Anemones bloom after rain — fragile, pale, and brief — marking the quiet return of life to the woodland floor.  
@@ -20,7 +20,7 @@ Rue Anemones bloom after rain — fragile, pale, and brief — marking the quiet
 
 <div class="tile" style="margin: 15px;">
 
-[![The Day of the Jumping Mushrooms](/gallery/fungi/mushrooms/assets/slimespike/E21A6312.jpg){: .cover role="img" aria-label="Jumping Mushrooms"}  
+[![The Day of the Jumping Mushrooms](/gallery/fungi/mushrooms/assets/slimespike/E21A6312.jpg){: .cover role="img" aria-label="Jumping Mushrooms" style="height: 300px;"}  
 **The Day of the Jumping Mushrooms**  
 _Squirrel, Turkeytail, Slimespike._  
 A morning story that changed under a spore print.  
@@ -30,7 +30,7 @@ A morning story that changed under a spore print.
 
 <div class="tile" style="margin: 15px;">
 
-[![Turkeytail](/gallery/fungi/mushrooms/assets/turkeytail/E21A6273.jpg){: .cover role="img" aria-label="Turkeytail"}  
+[![Turkeytail](/gallery/fungi/mushrooms/assets/turkeytail/E21A6273.jpg){: .cover role="img" aria-label="Turkeytail" style="height: 300px;"}  
 **Turkeytail**  
 _Pored underside._  
 Concentric bands and fine pores on dead wood.  
@@ -44,8 +44,8 @@ Concentric bands and fine pores on dead wood.
 
 <div class="tile" style="margin: 15px;">
 
-[![Blackening Slimespike](/gallery/fungi/mushrooms/assets/slimespike/SporePrint-Slimespike.jpg){: .cover role="img" aria-label="Blackening Slimespike" style="height: 400px;"}  
-**Blackening Slimespike**  
+[![Blackening Slimespike Spore Print](/gallery/fungi/mushrooms/assets/slimespike/SporePrint-Slimespike.jpg){: .cover role="img" aria-label="Blackening Slimespike Spore Print" style="height: 300px;"}  
+**Blackening Slimespike Spore Print**  
 _Gray/black spore print._  
 A slimy cap and a Douglas-fir “jump.”  
 ](/gallery/fungi/mushrooms/blackening-slimespike){: .tile role="listitem"}
@@ -54,11 +54,21 @@ A slimy cap and a Douglas-fir “jump.”
 
 <div class="tile" style="margin: 15px;">
 
-[![Funeral Bell](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6462.jpg){: .cover role="img" aria-label="Funeral Bell" style="height: 400px;"}  
-**Funeral Bell**  
+[![Funeral Bell Spore Print](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6462.jpg){: .cover role="img" aria-label="Funeral Bell Spore Print" style="height: 300px;"}  
+**Funeral Bell Spore Print**  
 _Likely the deadly Funeral Bell._  
 Small, caramel-brown gilled mushrooms on moss covered log.  
 ](/gallery/fungi/mushrooms/funeral-bell/){: .tile role="listitem"}
+
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+[![Mucous Cort Spore Print](/gallery/fungi/mushrooms/assets/mucous-cort/E21A7054-1.jpg){: .cover role="img" aria-label="Mucous Cort Spore Print" style="height: 300px;"}  
+**Mucous Cort Spore Print**  
+_Cortinarius mucosus_  
+A soft, rusty spore print, its color—neither pale cream nor dark brown—marks.  
+](/gallery/fungi/mushrooms/mucous-cort/){: .tile role="listitem"}
 
 </div>
 
@@ -68,7 +78,7 @@ Small, caramel-brown gilled mushrooms on moss covered log.
 
 <div class="tile" style="margin: 15px;">
 
-[![Floury Amanita](/gallery/fungi/mushrooms/assets/floury-amanita/E21A6395.jpg){: .cover role="img" aria-label="Floury Amanita"}  
+[![Floury Amanita](/gallery/fungi/mushrooms/assets/floury-amanita/E21A6395.jpg){: .cover role="img" aria-label="Floury Amanita" style="height: 200px;"}  
 **Floury Amanita**  
 _Powder-dusted caps._  
 Pale, poised, and photogenic — admired, not handled.  
@@ -78,7 +88,7 @@ Pale, poised, and photogenic — admired, not handled.
 
 <div class="tile" style="margin: 15px;">
 
-[![Bleeding Bonnet](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5422.jpg){: .cover role="img" aria-label="Bleeding Bonnet"}  
+[![Bleeding Bonnet](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5422.jpg){: .cover role="img" aria-label="Bleeding Bonnet" style="height: 200px;"}  
 **Bleeding Bonnet**  
 _Mycena haematopus._  
 Three days beneath the trees — a quiet record of the Bleeding Bonnet’s surrender to another fungus.  
@@ -86,11 +96,9 @@ Three days beneath the trees — a quiet record of the Bleeding Bonnet’s surre
 
 </div>
 
-</div>
-
 <div class="tile" style="margin: 15px;">
 
-[![Minnesota Lichen Guide](/assets/images/ChatGPT-Image-Lichen.png){: .cover role="img" aria-label="Minnesota Lichen Guide" style="height: 300px;"}  
+[![Minnesota Lichen Guide](/assets/images/ChatGPT-Image-Lichen.png){: .cover role="img" aria-label="Minnesota Lichen Guide" style="height: 200px;"}  
 **Minnesota Lichen Guide**  
 _Generated by ChatGPT._  
 A concise reference for field identification.  
@@ -98,21 +106,14 @@ A concise reference for field identification.
 
 </div>
 
-> [*Canon Macro Lens Comparison*](/photography-notes/canon-macro-lens-comparison/){: .tile role="listitem"}
-
 <div class="tile" style="margin: 15px;">
 
-[![Comparing Four Pine Species](/gallery/plants/trees/assets/austrian-pine/E21A7637.jpg){: .cover role="img" aria-label="Comparing Four Pine Species" style="height: 300px;"}  
+[![Comparing Four Pine Species](/gallery/plants/trees/assets/austrian-pine/E21A7573.jpg){: .cover role="img" aria-label="Comparing Four Pine Species" style="height: 200px;"}  
 **Comparing Four Pine Species**  
 _Austrian Pine · Jack Pine · Red Pine · Lodgepole Pine_  
-Pine identification can be deceptively challenging. Many species share similar silhouettes—upright trunks, paired needles, persistent cones—yet each has its own structure, texture, and “posture” in the landscape.
-This guide compares four common or commonly planted pines in Minnesota and the Upper Midwest:
-- Austrian Pine (Pinus nigra)  
-- Jack Pine (Pinus banksiana)  
-- Red Pine (Pinus resinosa)  
-- Lodgepole Pine (Pinus contorta, var. latifolia)  
-Some are native, some heavily planted, some rare, and some often misidentified.
-Use this reference when sorting out pines in open meadows, windbreaks, restoration plots, or scattered plantings.  
+This guide compares four common or commonly planted pines in Minnesota and the Upper Midwest.
 ](/field-notes/comparing-four-pine-species/){: .tile role="listitem"}
+
+</div>
 
 </div>
