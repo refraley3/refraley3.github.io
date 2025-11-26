@@ -33,6 +33,63 @@ Use this reference when sorting out pines in open meadows, windbreaks, restorati
 
 ---
 
+## Silhouette Comparison Panel  
+*A profile view of each species’ overall form*
+
+<div class="grid" role="list" style="margin-top: 20px;">
+
+<div class="tile" style="padding: 10px;">
+
+### **Austrian Pine**  
+**Broad, rounded, weighty.**  
+Silhouette marked by a deep, muscular crown with dense branching from top to bottom. Lower limbs remain stout for many years, giving the tree a strong, anchored look.
+
+- Crown: rounded, heavy  
+- Branching: dense and horizontal  
+- Overall posture: storm-resistant, compact  
+
+</div>
+
+<div class="tile" style="padding: 10px;">
+
+### **Red Pine**  
+**Tall, open, and airy.**  
+The trunk often clears itself of lower branches, creating a long column topped by a rounded, somewhat open crown.
+
+- Crown: rounded, elevated  
+- Branching: sparse on trunk, fuller near top  
+- Overall posture: straight, uniform  
+
+</div>
+
+<div class="tile" style="padding: 10px;">
+
+### **Jack Pine**  
+**Irregular, scraggly, asymmetrical.**  
+Branches zig-zag and twist, giving the tree an uneven silhouette. Often looks “wind-beaten” even in calm weather.
+
+- Crown: ragged, uneven  
+- Branching: sparse, angular  
+- Overall posture: rugged, unpredictable  
+
+</div>
+
+<div class="tile" style="padding: 10px;">
+
+### **Lodgepole Pine**  
+**Narrow, upright, columnar.**  
+A distinctly slender form, especially in youth, with evenly spaced branches and a tall, tapering crown.
+
+- Crown: narrow, conical  
+- Branching: regular, evenly spaced  
+- Overall posture: tall, slender, mountain-pine form  
+
+</div>
+
+</div>
+
+---
+
 ### Cones
 
 | Species | Size & Shape | Persistence | Special Traits |
