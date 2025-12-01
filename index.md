@@ -10,9 +10,10 @@ Animals, Fungi, Insects, Landscapes, Plants.
 
 <div class="tile" style="margin: 15px;">
 
-[![Feather Moss (imponens)](/gallery/fungi/moss/assets/feather-moss-imponens/E21A7803-7840.jpg){: .cover role="img" aria-label="Feather Moss (imponens)"}  
-**Gallery**  
-_Feather Moss (imponens): The two species often grow together on decaying wood, their contrasting textures—broad fronds of *imponens* beside the finer, more compact *curvifolium*—highlighting the diversity within the genus._  ](/gallery/){: .tile role="listitem"}
+[![Shared Bark - The Living Mosaic](/gallery/fungi/lichen/assets/common-greenshield/E21A8044.jpg){: .cover role="img" aria-label="Shared Bark - The Living Mosaic"}  
+**Shared Bark - The Living Mosaic**  
+_A winter bark community of color and form — where four lichens share space, light, and time._  
+](/gallery/fungi/lichen/)  
 
 </div>
 
@@ -20,7 +21,7 @@ _Feather Moss (imponens): The two species often grow together on decaying wood, 
 
 <div class="tile" style="margin: 15px;">
 
-[![Aurora with Pleiades — Lakeville, MN](/gallery/landscapes/assets/aurora-over-lakeville/E21A7359.jpg){: .cover role="img" aria-label="RAurora with Pleiades — Lakeville, MN"}  
+[![Aurora with Pleiades — Lakeville, MN](/gallery/landscapes/assets/aurora-over-lakeville/E21A7359.jpg){: .cover role="img" aria-label="RAurora with Pleiades — Lakeville, MN" style="height: 400px;"}  
 **Landscapes**  
 _Aurora with Pleiades — Lakeville, MN: Red and green veils drift beneath the autumn stars._  
 ](/gallery/landscapes/){: .tile role="listitem"}
@@ -29,18 +30,18 @@ _Aurora with Pleiades — Lakeville, MN: Red and green veils drift beneath the a
 
 <div class="tile" style="margin: 15px;">
 
-[![Dame’s Rocket and a Young Garden Spider](/gallery/plants/wildflowers/assets/dames-rocket/E21A1566.jpg)  
-**Wildflowers**  
-_Dame’s Rocket and a Young Garden Spider: Clusters of pale blossoms attract pollinators—and small hunters alike._  ](/gallery/plants/wildflowers/)  
-{:.caption}
+[![Austrian Pine in Open Meadow](/gallery/plants/trees/assets/austrian-pine/E21A7573.jpg){: .cover role="img" aria-label="Austrian Pine" style="height: 400px;"}  
+**Trees**  
+_Austrian Pine in Open Meadow: A broad, dark crown built for wind and open ground._  
+](/gallery/plants/trees/){: .tile role="listitem"}
 
 </div>
 
 <div class="tile" style="margin: 15px;">
 
-[![Hidden Lives Among Petals](/gallery/animals/insects/bees/assets/brown-belted-bumble-bee/D79A2070.jpg){: .cover role="img" aria-label="Hidden Lives Among Petals"}  
+[![Hidden Lives Among Petals](/gallery/animals/insects/bees/assets/brown-belted-bumble-bee/D79A2070.jpg){: .cover role="img" aria-label="Hidden Lives Among Petals" style="height: 400px;"}  
 **Insects**  
-_Hidden Lives Among Petals: A bumblebee absorbed in its work, unaware of the crab spider lying in wait._  ](/gallery/animals/insects/)  
+_Hidden Lives Among Petals: A bumblebee absorbed in its work, unaware of the crab spider lying in wait._  ](/gallery/animals/insects/){: .tile role="listitem"}  
 {:.caption}
 
 </div>
@@ -51,16 +52,17 @@ _Hidden Lives Among Petals: A bumblebee absorbed in its work, unaware of the cra
 
 <div class="tile" style="margin: 15px;">
 
-[![Austrian Pine in Open Meadow](/gallery/plants/trees/assets/austrian-pine/E21A7573.jpg){: .cover role="img" aria-label="Austrian Pine"}  
-**Trees**  
-_Austrian Pine in Open Meadow: A broad, dark crown built for wind and open ground._  
-](/gallery/plants/trees/){: .tile role="listitem"}
+[![Wildflowers](/gallery/plants/wildflowers/assets/rue-anemone/E21A1443.jpg){: .cover role="img" aria-label="Wildflowers" style="height: 400px;"}  
+**Wildflowers**  
+_Seasonal bursts of color._  
+Ephemeral beauty along paths and prairies.  
+](/gallery/plants/wildflowers/){: .tile role="listitem"}
 
 </div>
 
 <div class="tile" style="margin: 15px;">
 
-[![Bleeding Bonnet mushrooms - Day 1](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5255.jpg){: .cover role="img" aria-label="Bleeding Bonnet mushrooms early infection"}  
+[![Bleeding Bonnet mushrooms - Day 1](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5255.jpg){: .cover role="img" aria-label="Bleeding Bonnet mushrooms early infection" style="height: 400px;"}  
 **Mushrooms**  
 _Bleeding Bonnet — Day 1, Early Infection._  
 ](/gallery/fungi/mushrooms/){: .tile role="listitem"}

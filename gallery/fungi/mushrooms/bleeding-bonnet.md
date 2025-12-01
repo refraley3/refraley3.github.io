@@ -19,7 +19,7 @@ Even here, life gives way to life — a fungus consumed by another, framed in st
 ![Bleeding Bonnet mushrooms - Day 1](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5255.jpg){: .cover role="img" aria-label="Bleeding Bonnet mushrooms early infection"}  
 **Bleeding Bonnet — Day 1, Early Infection**  
 _Fine hyphae appear around the intact caps, marking the onset of mold colonization._  
-The Bleeding Bonnet caps show early colonization. Fine hyphae are visible around the caps, but the structure of the mushrooms remains intact. • Size: 6000×4000  
+The Bleeding Bonnet caps show early colonization. Fine hyphae are visible around the caps, but the structure of the mushrooms remains intact. • Size: 6720x4480  
 
 Camera: Canon EOS 5D Mk IV  
 Lens: EF100mm f/2.8L Macro IS USM  
@@ -44,10 +44,10 @@ This process doesn’t immediately destroy the Bleeding Bonnet fruiting bodies b
 
 ### Day 2 – Expansion
 
-![Bleeding Bonnet mushrooms - Day 2](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5422.jpg){: .cover role="img" aria-label="Bleeding Bonnet mushrooms advanced mold"}  
+![Bleeding Bonnet — Day 2, Extensive Mold Growth](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5422.jpg){: .cover role="img" aria-label="Bleeding Bonnet — Day 2, Extensive Mold Growth"}  
 **Bleeding Bonnet — Day 2, Extensive Mold Growth**  
 _Long translucent hyphae radiate outward, giving the caps an ethereal halo._  
-By the second day, the *Spinellus* mold has spread extensively. The translucent filaments catch the light, making this stage the most photogenic — a delicate balance of life and decay. • Size: 6000×4000  
+By the second day, the *Spinellus* mold has spread extensively. The translucent filaments catch the light, making this stage the most photogenic — a delicate balance of life and decay. • Size: 5015x3343  
 
 Camera: Canon EOS 5D Mk IV  
 Lens: EF100mm f/2.8L Macro IS USM  
@@ -58,23 +58,32 @@ Settings: ISO 200 • Aperture f/22.0 • Shutter 4.0 s
 
 ### Day 3 – Collapse
 
-![Bleeding Bonnet mushrooms - Day 3](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5429.jpg){: .cover role="img" aria-label="Bleeding Bonnet mushrooms collapse"}  
+![Bleeding Bonnet — Day 3, Collapse](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5429.jpg){: .cover role="img" aria-label="Bleeding Bonnet — Day 3, Collapse"}  
 **Bleeding Bonnet — Day 3, Collapse**  
 _The hyphae thicken and the caps begin to shrink as nutrients are consumed._  
-The mushrooms begin to collapse as nutrients are exhausted. The hyphae are dense, and the caps start to shrivel, marking the end of the visible infection cycle. • Size: 6000×4000  
+The mushrooms begin to collapse as nutrients are exhausted. The hyphae are dense, and the caps start to shrivel, marking the end of the visible infection cycle. • Size: 5015x3343  
 
 Camera: Canon EOS 5D Mk IV  
 Lens: EF100mm f/2.8L Macro IS USM  
 Settings: ISO 200 • Aperture f/18.0 • Shutter 15.0 s  
 {:.caption}
 
+![Bleeding Bonnet — Late Stage Infection](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5430.jpg){: .cover role="img" aria-label="Bleeding Bonnet late-stage infection"}  
+**Bleeding Bonnet — Hyphal Bridge**  
+_Late stage fusion and spore-bearing filament growth._  
+In advanced infection, the parasitic mold *Spinellus fusiger* sends out dense hyphae that weave between neighboring bonnets, creating the appearance of fused caps. Moisture clings to the softening tissue as the mold’s spore-bearing filaments spread across both mushrooms, anchored against a background of golden **Hypnum** moss. • Size: 1485x2227  
+
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 100 • Aperture f/18.0 • Shutter 25.0 s  
+{:.caption}
 
 ---
 
 ## Notes
 
 - **Location:** [Ritter Farm Park, Lakeville, MN]  
-- **Dates Taken:** [Three consecutive days – e.g., June 5–7, 2025]  
+- **Dates Taken:** [Three consecutive days – e.g., September 20 - 22, 2025]  
 - **Camera Details:** (EXIF information already recorded in metadata)  
 - **Lighting:** Natural diffused light, shaded woodland.  
 

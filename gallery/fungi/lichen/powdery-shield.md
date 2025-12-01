@@ -14,7 +14,7 @@ The *Powdery Shield* is among the most common foliose lichens in temperate fores
 
 <div class="tile" style="margin: 15px;">
 
-![Powdery Shield and Candleflame Lichen on branch](/gallery/fungi/lichen/assets/powdery-shield/_21A1081.jpg){: .cover role="img" aria-label="Powdery Shield and Candleflame Lichen on branch"}  
+![Powdery Shield and Candleflame Lichen on branch](/gallery/fungi/lichen/assets/powdery-shield/E21A1081.jpg){: .cover role="img" aria-label="Powdery Shield and Candleflame Lichen on branch"}  
 **Powdery Shield and Candleflame Lichen**  
 _A mixed lichen community._  
 The pale gray *Physcia millegrana* forms powdery shields above the lemon-yellow *Candelaria concolor*, both anchored to a red maple twig.  
@@ -45,7 +45,7 @@ This species prefers nutrient-balanced, clean air and often appears alongside *C
 
 <div class="tile" style="margin: 15px;">
 
-![Powdery Shield Lichen](/gallery/fungi/lichen/assets/powdery-shield/_21A1081.jpg){: .cover role="img" aria-label="Powdery Shield Lichen"}  
+![Powdery Shield Lichen](/gallery/fungi/lichen/assets/powdery-shield/E21A1081.jpg){: .cover role="img" aria-label="Powdery Shield Lichen"}  
 **Powdery Shield — *Physcia millegrana***  
 _Fine, powder-dusted gray rosettes._  
 Minute foliose clusters spread thinly across bark, forming a pale gray mat with a frosted texture. Sensitive to air quality, this lichen thrives in clean, open environments.  

@@ -4,7 +4,7 @@ title: Moss
 permalink: /gallery/fungi/moss/
 ---
 
-<div class="tile" style="margin: 15px;">
+<div class="tile" style="margin: 15px;">  
 
 ![Feather Moss with Sporophytes](/gallery/fungi/moss/assets/feather-moss-imponens/E21A7803-7840.jpg){: .cover role="img" aria-label="Feather Moss with Sporophytes"}  
 **Feather Moss with Sporophytes**  

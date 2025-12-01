@@ -8,10 +8,9 @@ title: Feather Moss (Hypnum imponens)
 ---
 
 ![Feather Moss (imponens)](/gallery/fungi/moss/assets/feather-moss-imponens/E21A7803-7840.jpg){: .cover role="img" aria-label="Feather Moss (imponens)"}  
-**Feather Moss (imponens)** 
+**Feather Moss (imponens)**  
 _Lime-green fronds rise into a forest of red-brown stalks, each capsule preparing to release next season’s spores._  
 In this composite, the dominant lime-green colony is *Hypnum imponens*, while a smaller patch of *Hypnum curvifolium* appears along the log in the upper left. The two species often grow together on decaying wood, their contrasting textures—broad fronds of *imponens* beside the finer, more compact *curvifolium*—highlighting the diversity within the genus. • Size: 6664×4444  
-
 
 Camera: Canon EOS 5D Mk IV  
 Lens: EF100mm f/2.8L Macro IS USM  

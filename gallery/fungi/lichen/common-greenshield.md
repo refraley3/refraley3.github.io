@@ -22,7 +22,7 @@ Lichens do not have roots; nutrients are extracted from the air, making them sen
 
 ### Photos
 
-![Flavoparmelia caperata on Elm]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6505.jpg)  
+![Flavoparmelia caperata on Elm](/gallery/fungi/lichen/assets/common-greenshield/E21A6505.jpg)  
 *Flavoparmelia caperata* forming a circular colony on elm bark. Yellow crustose lichens visible nearby.
 
 | Property | Image Data |
@@ -35,7 +35,7 @@ Lichens do not have roots; nutrients are extracted from the air, making them sen
 
 ---
 
-![Close-up of lobes]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6509.jpg)
+![Close-up of lobes](/gallery/fungi/lichen/assets/common-greenshield/E21A6509.jpg)
 Close view showing the wrinkled, overlapping lobes with a slightly glossy texture.
 
 | Property | Image Data |
@@ -48,7 +48,7 @@ Close view showing the wrinkled, overlapping lobes with a slightly glossy textur
 
 ---
 
-![Multiple colonies]({{ site.baseurl }}/gallery/fungi/lichen/assets/E21A6518.jpg)
+![Multiple colonies](/gallery/fungi/lichen/assets/common-greenshield/E21A6518.jpg)
 Two mature colonies of *F. caperata* on an elm trunk in a mixed deciduous forest.
 
 | Property | Image Data |

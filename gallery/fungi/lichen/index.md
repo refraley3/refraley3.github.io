@@ -3,9 +3,24 @@ layout: photo
 title: Lichen
 ---
 
+![Shared Bark - The Living Mosaic](/gallery/fungi/lichen/assets/common-greenshield/E21A8044.jpg){: .cover role="img" aria-label="Shared Bark - The Living Mosaic"}  
+**Shared Bark - The Living Mosaic**  
+_A winter bark community of color and form — where four lichens share space, light, and time._  
+
+A close look reveals the delicate architecture of coexisting lichens:  
+- the broad [**Common Greenshield**](/gallery/fungi/lichen/common-greenshield/) anchoring the surface,  
+- the gray [**Powdery Shield**](/gallery/fungi/lichen/powdery-shield/) forming fine dusted rosettes,  
+- the golden [**Orange Sunburst**](/gallery/fungi/lichen/orange-sunburst/) brightening cracks in the bark,  
+- the bright [**Candleflame Lichen**](/gallery/fungi/lichen/candelaria-concolor/) glowing from bark crevices below,  
+- and the patterned gray rosettes of [**Hooded Rosette Lichen**](/gallery/fungi/lichen/physcia-aipolia/) — their pale disks ringed in black, scattered across the surface.  
+
+Each thrives where light, moisture, and bark chemistry allow, creating a natural mosaic that shifts with season and exposure. Together, they form a study in quiet persistence and shared resilience.  
+{:.caption}
+
+
 <div class="grid" role="list">
 
-[![Common Greenshield](/gallery/fungi/lichen/assets/E21A6505.jpg){: .cover role="img" aria-label="Common Greenshield"}  
+[![Common Greenshield](/gallery/fungi/lichen/assets/common-greenshield/E21A6505.jpg){: .cover role="img" aria-label="Common Greenshield"}  
 **Common Greenshield**  
 _*Flavoparmelia caperata*_  
 Pale green foliose (leaf-like) with broad lobes.  
@@ -48,5 +63,15 @@ The pale gray *Physcia millegrana* forms powdery shields above the lemon-yellow 
 _Field reference collection._  
 Regional field reference and notes on common lichens.  
 ](/field-notes/minnesota-lichen-guide.md){: .tile role="listitem"}
+
+</div>
+
+<div class="grid" role="list">
+
+[![Apothecia Detail](/gallery/fungi/lichen/assets/physcia-aipolia/E21A8043.jpg){: .cover role="img" aria-label="Apothecia Detail"}
+**Apothecia Detail**  
+_Shows the characteristic black-rimmed fruiting bodies._  
+This is the key field mark separating *aipolia* from related species.  
+](/gallery/fungi/lichen/physcia-aipolia/){: .tile role="listitem"}
 
 </div>
