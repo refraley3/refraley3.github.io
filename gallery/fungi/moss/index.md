@@ -37,4 +37,9 @@ _Kicker_
 Brocade moss shares the base of a live white oak trunk with small puffballs.  
 ](/gallery/fungi/mushrooms/pear-shaped-puffball){: .tile role="listitem"}
 
+[![Knieff’s Hook-Moss](/gallery/fungi/moss/assets/knieffs-hook-moss/E21A6571.jpg){: .cover role="img" aria-label="Kneiff’s Hook-Moss"}  
+**Knieff’s Hook-Moss**  
+_Threaded fronds cascading over damp bark near running water._  
+](/gallery/fungi/moss/knieffs-hook-moss/){: .tile role="listitem"}
+
 </div>

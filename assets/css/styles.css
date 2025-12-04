@@ -138,8 +138,6 @@ a:hover {
 
 /* HERO SLIDE BASE */
 .hero-slide {
-  height: 80vh;
-  min-height: 500px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

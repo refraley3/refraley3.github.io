@@ -17,17 +17,20 @@ image: /assets/images/lichens/greenshield-banner.jpg
 
 # Common Lichens of Minnesota – Field Guide
 
-## 🌿 Introduction
+## Introduction
 Lichens are unique symbiotic organisms composed of fungi and algae (or cyanobacteria). They grow in diverse habitats across Minnesota—from forest bark to bare rock outcrops and even soil. Because they are sensitive to air quality, their presence often signals a healthy environment.
 
 This guide highlights several common lichens you can spot during walks in Minnesota, especially in wooded and rocky areas.
 
 ---
-![Flavoparmelia caperata](/assets/images/ChatGPT-Image-Lichen.png)
-<br>
-*Flavoparmelia caperata* on oak bark, Minneapolis, MN
 
-## 🟢 **Flavoparmelia caperata (Common Greenshield Lichen)**
+## **Common Greenshield Lichen** 
+### _(Flavoparmelia caperata)_
+
+[![Greenshield Circle](/gallery/fungi/lichen/assets/common-greenshield/E21A6505.jpg){: .cover role="img" aria-label="Greenshield Circle"}  
+**Greenshield Circle** - _A rounded foliose colony anchored firmly to aging elm bark._  
+](/gallery/fungi/lichen/common-greenshield/){: .tile role="listitem"}
+
 - **Appearance:** Pale green to yellowish-green, round, and leaf-like (foliose) with smooth lobes.
 - **Underside:** Black with pale veins and short, root-like rhizines.
 - **Habitat:** Found on tree bark—especially maple, oak, and birch—in areas with clean air.
@@ -35,6 +38,11 @@ This guide highlights several common lichens you can spot during walks in Minnes
 - **Tip:** Look for large, circular patches on trunks with a greenish tint after rain.
 
 ---
+
+[![Powdery Shield and Candleflame Lichen on branch](/gallery/fungi/lichen/assets/powdery-shield/E21A1081.jpg){: .cover role="img" aria-label="Powdery Shield and Candleflame Lichen on branch"}  
+**Powdery Shield and Candleflame Lichen on branch**  
+_A mixed lichen community._  
+](/gallery/fungi/lichen/powdery-shield/){: .tile role="listitem"}
 
 ## ⚪ **Physcia millegrana (Powdery Shield Lichen)**
 - **Appearance:** Grayish-white, forming small rosettes with powdery edges.
