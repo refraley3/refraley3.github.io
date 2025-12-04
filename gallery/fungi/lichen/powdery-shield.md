@@ -192,10 +192,10 @@ _E21A8057B_ **Lobe Architecture — Powdery Shield**
 ### References
 
 - **Lichens — Missouri Department of Conservation**  
-  https://mdc.mo.gov/discover-nature/field-guide/lichens
+  <https://mdc.mo.gov/discover-nature/field-guide/lichens>
 
 - **Physcia millegrana — iNaturalist Taxon Page**  
-  https://www.inaturalist.org/taxa/55751-Physcia-millegrana
+  <https://www.inaturalist.org/taxa/55751-Physcia-millegrana>
 
 - **Powdery Shield Lichen — MinnesotaSeasons.com**  
   <http://www.minnesotaseasons.com/Fungi/>

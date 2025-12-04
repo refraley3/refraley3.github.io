@@ -116,12 +116,12 @@ _E21A8111A_ **Golden Micro-Architecture**
 ## References
 
 - **Common Sunburst Lichens** — Missouri Department of Conservation  
-  https://mdc.mo.gov/discover-nature/field-guide/orange-sunburst-lichens-xanthoria-lichens
+  <https://mdc.mo.gov/discover-nature/field-guide/orange-sunburst-lichens-xanthoria-lichens>
 
 - **Xanthoria parietina** — iNaturalist Taxon Page  
-  https://www.inaturalist.org/taxa/55576-Xanthoria-parietina
+  <https://www.inaturalist.org/taxa/55576-Xanthoria-parietina>
 
 - **Sunburst Lichens (Xanthoria spp.)** — Minnesota Seasons.com  
-  http://www.minnesotaseasons.com/Fungi/Sunburst_Lichens_Xanthoria.html
+  <http://www.minnesotaseasons.com/Fungi/Sunburst_Lichens_Xanthoria.html>
 
 ---

@@ -7,9 +7,19 @@ title: Hammered Shield Lichen
 
 ---
 
+## Description
+
 ---
 
-## Images
+## Identification
+
+---
+
+## Habitat
+
+---
+
+## Collection
 
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 
@@ -20,5 +30,15 @@ _E21A1081_ **Hammered Shield and Candleflame Lichen on branch**
 _E21A6505_ **Common Greenshield Lichen**  
 
 </div>
+
+---
+
+### References:
+
+- **Lichens** - *Missouri Department of Conservation*:
+  <https://mdc.mo.gov/discover-nature/field-guide/lichens>
+
+- **Green Starbusrt Lichen** - *Minnesota Seasons.com*:
+  <http://www.minnesotaseasons.com/>
 
 ---

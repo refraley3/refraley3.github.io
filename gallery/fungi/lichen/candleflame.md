@@ -145,3 +145,18 @@ Settings: ISO 200 • Aperture f/8 • Shutter 1/40 s
 </div>
 
 </div>
+
+---
+
+## References
+
+- **Candleflame Lichens (Candelaria Lichens) — Missouri Department of Conservation**  
+  <https://mdc.mo.gov/discover-nature/field-guide/candleflame-lichens-candelaria-lichens>
+
+- **Candleflame Lichen (Candelaria concolor) — iNaturalist Taxon Page**  
+  <https://www.inaturalist.org/taxa/69430-Candelaria-concolor>
+
+- **Candleflame Lichen (Candelaria concolor) - Minnesota Seasons.com**  
+  <http://www.minnesotaseasons.com/Fungi/Candleflame_Lichen.html>
+
+---
