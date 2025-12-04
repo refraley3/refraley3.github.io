@@ -30,7 +30,7 @@ In **Candleflame with Rosettes and Shadow Lichen**, a bright flare of *Candelari
 
 <div class="tile" style="margin: 15px;">
 
-[![Candleflame with Rosettes and Shadow Lichen](/gallery/fungi/lichen/assets/candleflame/E21A8051-8055.jpg){: .cover role="img" aria-label="Candleflame with Rosettes and Shadow Lichen"}](/gallery/fungi/lichen/candelaria/){: .tile role="listitem"}
+[![Candleflame with Rosettes and Shadow Lichen](/gallery/fungi/lichen/assets/candleflame/E21A8051-8055.jpg){: .cover role="img" aria-label="Candleflame with Rosettes and Shadow Lichen"}](/gallery/fungi/lichen/candleflame/){: .tile role="listitem"}
 **Candleflame with Rosettes and Shadow Lichen**  
 _Warm yellow Candleflame flaring beneath pale Star Rosette and the soft gray of Mealy Shadow, with Powdery Shield above._  
 {: .caption}
@@ -39,7 +39,7 @@ _Warm yellow Candleflame flaring beneath pale Star Rosette and the soft gray of 
 
 <div class="tile" style="margin: 15px;">
 
-![Star Rosette with Candleflame and Powdery Companions](/gallery/fungi/lichen/assets/candleflame/E21A8072-8081.jpg){: .cover role="img" aria-label="Star Rosette with Candleflame and Powdery Companions"}
+[![Star Rosette with Candleflame and Powdery Companions](/gallery/fungi/lichen/assets/candleflame/E21A8072-8081.jpg){: .cover role="img" aria-label="Star Rosette with Candleflame and Powdery Companions"}](/gallery/fungi/lichen/star-rosette/)
 **Star Rosette with Candleflame and Powdery Companions**  
 _Crisp gray Star Rosettes rising over Candleflame, framed by pale blue clusters of Powdery Shield._  
 {: .caption}
@@ -94,7 +94,7 @@ _Bright yellow-orange lobes dusted with parietin, forming radiant patches on bar
 </div>
 
 <div class="grid" role="list">
-[![Candleflame (Candelaria) Lichen](/gallery/fungi/lichen/assets/candleflame/E21A8057.jpg){: .cover role="img" aria-label="Candleflame (Candelaria) Lichen"}](/gallery/fungi/lichen/candelaria/){: .tile role="listitem"}
+[![Candleflame (Candelaria) Lichen](/gallery/fungi/lichen/assets/candleflame/E21A8057.jpg){: .cover role="img" aria-label="Candleflame (Candelaria) Lichen"}](/gallery/fungi/lichen/candleflame/){: .tile role="listitem"}
 **Candleflame (Candelaria) Lichen**  
 _Lemon-yellow cushions of tiny lobules and loose soredia._  
 {: .caption}
@@ -116,6 +116,7 @@ _Tiny gray rosettes with a frosted surface, clustered above bright Candleflame._
 [![Minnesota Lichen Guide](/assets/images/ChatGPT-Image-Lichen.png){: .cover role="img" aria-label="Minnesota Lichen Guide" style="height:300px;"}](/field-notes/minnesota-lichen-guide/){: .tile role="listitem"}
 **Minnesota Lichen Guide**  
 _Field reference collection._  
+{: .caption}
 
 </div>
 
