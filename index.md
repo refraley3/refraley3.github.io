@@ -5,13 +5,13 @@ title: Home
 ### Gallery  
 
 _Browse by category._  
-Animals, Fungi, Insects, Landscapes, Plants.  
+Animals • Fungi • Insects • Landscapes • Plants.  
 {:.caption}
 
 <div class="tile" style="margin: 15px;">
 
-[![Shared Bark - The Living Mosaic](/gallery/fungi/lichen/assets/common-greenshield/E21A8044.jpg){: .cover role="img" aria-label="Shared Bark - The Living Mosaic"}  
-**Shared Bark - The Living Mosaic**  
+[![Candleflame in the Company of Shadows](/gallery/fungi/lichen/assets/candleflame/E21A8057.jpg){: .cover role="img" aria-label="Candleflame in the Company of Shadows"}  
+**Lichen - Candleflame in the Company of Shadows**  
 _A winter bark community of color and form — where four lichens share space, light, and time._  
 ](/gallery/fungi/lichen/)  
 

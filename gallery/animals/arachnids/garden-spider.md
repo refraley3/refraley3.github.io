@@ -84,8 +84,6 @@ Suspended among prairie grasses, the garden spider reinforces its silk architect
 *Image ID: E21A4902* - Female Argiope aurantia repairing web. • Size: 3329x2153
 {:.caption}
 
-</div>
-
 ---
 
 ### Field Reference — Web Repair Behavior

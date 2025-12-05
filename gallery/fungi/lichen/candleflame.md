@@ -39,7 +39,7 @@ Candleflame thrives on **deciduous bark**, old wooden rails, and nutrient-enrich
 
 <div class="tile" style="margin: 15px;">
 
-![Candleflame in the Company of Shadows](/gallery/fungi/lichen/assets/candleflame/E21A8057.jpg){: .cover role="img" aria-label="Candleflame in the Company of Shadows"}
+![Candleflame in the Company of Shadows](/gallery/fungi/lichen/assets/candleflame/E21A8057.jpg){: .cover role="img" aria-label="Candleflame in the Company of Shadows"}  
 **Candleflame in the Company of Shadows**  
 _Bright yellow lobes glowing amid pale Powdery Shield and cool Mealy Shadow lichens._  
 Camera: Canon EOS 5D Mk IV  
