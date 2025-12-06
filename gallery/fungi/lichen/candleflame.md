@@ -6,24 +6,7 @@ description: Close-up observations of *Candelaria concolor* and related yellow f
 
 ## *Candelaria concolor*
 
-### Bright, sorediate yellow cushions on bark and twigs
-
 **Candleflame Lichen** is one of Minnesota’s most vivid yellow lichens—its powdery, lemon-yellow thallus standing out sharply against winter bark. Fine lobules and abundant soredia create a soft, glowing texture that catches light even in deep shade. Mature colonies may develop **tiny yellow apothecia**, but many consist entirely of granular, dust-like propagation structures.
-
-<div class="tile" style="margin: 15px;">
-
-![Candleflame lichen on birch](/gallery/fungi/lichen/assets/candleflame/E21A8072-8081.jpg){: .cover role="img" aria-label="Candleflame lichen on birch"}
-**Candleflame on Birch**  
-_Powdery yellow soredia and clustered lobules hugging the bark surface._  
-A classic patch of *Candelaria concolor*, its granular surface brightened by angled light along birch bark.  
-Camera: Canon EOS 5D Mk IV  
-Lens: EF100mm f/2.8 Macro USM  
-Settings: ISO 800 • Aperture f/11 • Shutter 1/4 s  
-E21A8072–8081 • Size: 4170×2780
-
-</div>
-
----
 
 ## Description
 
@@ -32,10 +15,6 @@ E21A8072–8081 • Size: 4170×2780
 Apothecia, when present, are **tiny flat yellow discs** with matching rims—less common than in rock-dwelling *Xanthoria* species.
 
 Candleflame thrives on **deciduous bark**, old wooden rails, and nutrient-enriched substrates, and frequently appears near greenshield and other foliose lichens. It is especially successful on bark that receives intermittent light and airflow.
-
----
-
-## Key Image
 
 <div class="tile" style="margin: 15px;">
 
@@ -53,26 +32,28 @@ In this close composition, **Candleflame** erupts from the center of a bark holl
 
 ---
 
-## Star Rosette Among Candleflame Dust
-
 In **Star Rosette Among the Gold Dust**, the pale gray lobes of [**Star Rosette Lichen** (*Physcia stellaris*)](/gallery/fungi/lichen/star-rosette/) form a cool counterpoint to scattered Candleflame soredia. The fine yellow dust settles into fissures around the rosettes, highlighting the contrasting propagation strategies between these species—*Candelaria* spreading by powdery granules, *Physcia* by tightly structured lobes and abundant apothecia.
 
 <div class="tile" style="margin: 15px;">
 
 ![Candleflame with Rosettes and Shadow Lichen](/gallery/fungi/lichen/assets/candleflame/E21A8072-8081.jpg){: .cover role="img" aria-label="Candleflame with Rosettes and Shadow Lichen"}
-**Candleflame with Rosettes and Shadow Lichen**  
-_A bright burst of Candleflame framed by Star Rosette, Mealy Shadow, and a touch of Greenshield above._  
+**Star Rosette Among the Gold Dust**  
+_Pale disks and patterned lobes rising through a scatter of yellow fragments on weathered bark._  
 Camera: Canon EOS 5D Mk IV  
 Lens: EF100mm f/2.8L Macro IS USM  
 Settings: ISO 200 • Aperture f/9.0 • Shutter 2.5 s  
-Size: 2208×1472  
+E21A8072-8081 • Size: 2208×1472  
 {: .caption}
 
 </div>
 
 ---
 
-## Morphology
+## Identification
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px; justify-content: left; text-align: left;">
 
 - **Color:** Brilliant lemon-yellow to yellow-green; intensifies when wet  
 - **Lobes:** Minute (0.2–1 mm), overlapping, often fringed  
@@ -80,6 +61,26 @@ Size: 2208×1472
 - **Apothecia:** Small (0.2–1.5 mm), yellow discs; variably present  
 - **Underside:** Pale, lacking strong rhizines  
 - **Growth form:** Squamulose–foliose cushions, irregularly expanding in patches
+
+A compact cushion of **Candleflame Lichen (*Candelaria concolor*)** spreads across the gray bark, its vivid yellow lobules forming a shallow, budding colony only a few millimeters across. The scale beneath the patch highlights just how small these structures are—individual lobules measuring well under a millimeter, yet sharply defined against surrounding fragments of **Star Rosette** and other gray foliose species. This close measurement frame emphasizes the species’ minute growth form and the contrasting pigments that signal its presence even at tiny scales.
+
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/9.0 • Shutter 2.5 s  
+E21A8139 • Size: 918×1377  
+{: .caption}
+
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+![Candleflame Scale Cluster](/gallery/fungi/lichen/assets/candleflame/E21A8139.jpg){: .cover role="img" aria-label="Candleflame Scale Cluster on bark"}
+**Candleflame Scale Cluster**  
+_Bright lemon-yellow lobes measured against the bark’s fine textures._  
+
+</div>
+
+</div>
 
 ---
 
@@ -94,53 +95,28 @@ Size: 2208×1472
 
 ---
 
-## Images
+## Collection
 
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 
 <div class="tile" style="margin: 15px;">
 
-![Community with greenshield and red-fruited Cladonia](/gallery/fungi/lichen/assets/candleflame/D79A3304.jpg){: .cover role="img" aria-label="Community with greenshield and red-fruited Cladonia"}
-**Mixed Lichen Community**  
-_Candleflame beside Greenshield (*Flavoparmelia*) and red-fruited *Cladonia*._  
-Shows how *Candelaria* occupies bright, textured surfaces within larger bark mosaics.  
-Camera: Canon EOS 5D Mk IV  
-Lens: EF100mm f/2.8 Macro USM  
-Settings: ISO 800 • Aperture f/11 • Shutter 1/5 s  
+![Candleflame in the Company of Shadows](/gallery/fungi/lichen/assets/candleflame/E21A8057.jpg){: .cover role="img" aria-label="Candleflame in the Company of Shadows"}  
+_E21A8057_ **Candleflame in the Company of Shadows**
 
 </div>
 
 <div class="tile" style="margin: 15px;">
 
-![Sorediate cushions on twig](/gallery/fungi/lichen/assets/candleflame/D79A3304.jpg){: .cover role="img" aria-label="Sorediate cushions on twig"}
-**Sorediate Cushions on Twig**  
-_Powder-dense lobules forming a soft, matte carpet._  
-A close view of Candleflame’s granular surface texture on a sunlit twig.  
-Camera: Canon EOS 5D Mk IV  
-Lens: EF50mm f/2.5 Compact Macro  
-Settings: ISO 400 • Aperture f/8 • Shutter 1/60 s  
+![Candleflame with Rosettes and Shadow Lichen](/gallery/fungi/lichen/assets/candleflame/E21A8072-8081.jpg){: .cover role="img" aria-label="Candleflame with Rosettes and Shadow Lichen"}
+_E21A8072-8081_ **Candleflame with Rosettes and Shadow Lichen**
 
 </div>
 
 <div class="tile" style="margin: 15px;">
 
-![Tiny apothecia detail](/gallery/fungi/lichen/assets/candleflame/E21A8057.jpg){: .cover role="img" aria-label="Tiny apothecia detail"}
-**Apothecia Detail**  
-_Minute yellow discs rising slightly above the sorediate thallus._  
-A focus-stacked view showing the rarely produced fruiting bodies.  
-Camera: Canon EOS 5D Mk IV  
-Lens: EF100mm f/2.8 Macro USM  
-Settings: ISO 800 • Aperture f/8 • Stacked 8 frames  
-
-</div>
-
-![Habitat context on maple trunk](/gallery/fungi/lichen/assets/candleflame/E21A8072-8081.jpg){: .cover role="img" aria-label="Habitat context on maple trunk"}
-**Habitat Context on Maple**  
-_Scattered yellow cushions along bark fissures in partial sun._  
-A wide frame showing how Candleflame colonizes knot edges and textured surfaces.  
-Camera: Canon EOS 5D Mk IV  
-Lens: EF50mm f/2.5 Compact Macro  
-Settings: ISO 200 • Aperture f/8 • Shutter 1/40 s  
+![Candleflame Scale Cluster](/gallery/fungi/lichen/assets/candleflame/E21A8139.jpg){: .cover role="img" aria-label="Candleflame Scale Cluster on bark"}
+_E21A8139_ **Candleflame Scale Cluster**  
 
 </div>
 

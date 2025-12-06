@@ -17,6 +17,10 @@ Settings: ISO 200 • Aperture f/13.0 • Shutter 3.2 s
 E21A8093-8107 • Size: 3854×5781  
 {: .caption}
 
+---
+
+## Description
+
 [Small sunburst-yellow crustose lichens](/gallery/fungi/lichen/common-sunburst/) scattered nearby emphasize the Greenshield’s quiet dominance. Its thick, overlapping lobes create a three-dimensional presence that stands out among thinner foliose neighbors. This colony exemplifies the species’ reputation as a **clean-air indicator** — thriving only where long-term air quality and stable forest conditions allow uninterrupted growth.
 
 Highly sensitive to airborne pollutants, *F. caperata* persists where forests offer **filtered light, moderate humidity, and mature bark structure**. Large, healthy colonies often signal decades of environmental consistency.
@@ -32,17 +36,6 @@ Camera: Canon EOS 5D Mk IV
 Lens: EF100mm f/2.8L Macro IS USM  
 Settings: ISO 200 • Aperture f/13.0 • Shutter 2.0 s  
 E21A6505 • Size: 6720×4480  
-{: .caption}
-
-**Lobe Detail Study** highlights Greenshield’s overlapping, wrinkled lobes, each with faint translucence at the margins. At macro scale, fine granules and a soft sheen emerge, along with the darkening toward the base where rhizines secure the thallus to the bark.
-
-![Lobe Detail Study](/gallery/fungi/lichen/assets/common-greenshield/E21A6509.jpg){: .cover role="img" aria-label="Lobe Detail Study"}
-**Lobe Detail Study**  
-_Overlapping lobes with faint gloss and tight surface wrinkling._  
-Camera: Canon EOS 5D Mk IV  
-Lens: EF100mm f/2.8L Macro IS USM  
-Settings: ISO 100 • Aperture f/13.0 • Shutter 4.0 s  
-E21A6509 • Size: 2289×3434  
 {: .caption}
 
 ### Twin Colonies
@@ -62,12 +55,62 @@ E21A6518 • Size: 6649×4432
 
 ## Identification
 
+**Lobe Detail Study** highlights Greenshield’s overlapping, wrinkled lobes, each with faint translucence at the margins. At macro scale, fine granules and a soft sheen emerge, along with the darkening toward the base where rhizines secure the thallus to the bark.
+
+![Lobe Detail Study](/gallery/fungi/lichen/assets/common-greenshield/E21A6509.jpg){: .cover role="img" aria-label="Lobe Detail Study"}
+**Lobe Detail Study**  
+_Overlapping lobes with faint gloss and tight surface wrinkling._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 100 • Aperture f/13.0 • Shutter 4.0 s  
+E21A6509 • Size: 2289×3434  
+{: .caption}
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px; justify-content: left; text-align: left;">
+
 - **Color:** Pale green to yellow-green; brightens markedly when wet  
 - **Form:** Foliose, with **broad, wavy lobes** and a softly wrinkled surface  
 - **Surface:** Dull to slightly glossy, with fine pseudocyphellae  
 - **Underside:** Dark brown to black, with pale veins and short rhizines  
 - **Substrate:** Elm, maple, oak, and other hardwoods with medium-textured bark  
 - **Air Quality Indicator:** Strong presence signals **clean, low-pollution air**
+
+The portrait reveals the sculptural folds of *Flavoparmelia caperata*: wide, wrinkled lobes dusted with dark pseudocyphellae and edged by pale, uplifted margins in **Greenshield Lobe Terrain**. Subtle yellow flecks of Sunburst lichen at the base provide natural color contrast, emphasizing the cool, mint-gray palette that defines the species.  
+
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/13 • Shutter 1.0 s  
+E21A8143 • Size: 5892x3928  
+{: .caption}
+
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+![Greenshield Lobe Terrain](/gallery/fungi/lichen/assets/common-greenshield/E21A8143.jpg){: .cover role="img" aria-label="Greenshield Lobe Terrain"}
+**Greenshield Lobe Terrain**  
+_A close study of broad foliose lobes and their speckled pseudocyphellae._  
+
+</div>
+
+</div>
+
+The thallus spreads in wide, overlapping lobes, each dusted with pale pseudocyphellae and slightly uplifted along the margins. The included millimeter scale highlights the generous lobe width that helps distinguish *Flavoparmelia caperata* from smaller Physcia species. Warm flecks of Sunburst lichen add natural contrast for interpreting texture and structure directly on the bark.
+
+![Scaled Greenshield Rosette](/gallery/fungi/lichen/assets/common-greenshield/E21A8142.jpg){: .cover role="img" aria-label="Scaled Greenshield Rosette"}  
+**Scaled Greenshield Rosette**  
+_Wide lobes and pale veining clearly visible at macro scale._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/13 • Shutter 1.0 s  
+E21A8142 • Size: 5892x3928  
+{: .caption}
+
+### **Measured Lobe Size**
+
+A close-scale view (E21A8142) shows **Greenshield lobes measuring roughly 2–5 mm in width**, consistent with the species’ broad, rounded foliose structure. These spacious lobes contrast strongly with the much smaller (0.2–1.5 mm) lobes of *Physcia* species such as Star Rosette, Mealy Shadow, and Powdery Shield. This measurable difference in lobe width—visible even without magnification—is one of the most reliable field markers for confirming *Flavoparmelia caperata* in mixed bark communities.
 
 ---
 
@@ -93,12 +136,18 @@ _E21A6505_ **Greenshield Circle**
 ![Twin Colonies](/gallery/fungi/lichen/assets/common-greenshield/E21A6518.jpg){: .cover role="img" aria-label="Twin Colonies" style="width: 400px;"}
 _E21A6518_ **Twin Colonies**
 
+![Scaled Greenshield Rosette](/gallery/fungi/lichen/assets/common-greenshield/E21A8142.jpg){: .cover role="img" aria-label="Scaled Greenshield Rosette"}
+_E21A8142_ **Scaled Greenshield Rosette**  
+
 </div>
 
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 
 ![Lobe Detail Study](/gallery/fungi/lichen/assets/common-greenshield/E21A6509.jpg){: .cover role="img" aria-label="Lobe Detail Study" style="width: 400px;"}
 _E21A6509_ **Lobe Detail Study**
+
+![Greenshield Lobe Terrain](/gallery/fungi/lichen/assets/common-greenshield/E21A8143.jpg){: .cover role="img" aria-label="Greenshield Lobe Terrain"}
+_E21A8143_ **Greenshield Lobe Terrain**  
 
 ![Greenshield in Winter Light](/gallery/fungi/lichen/assets/common-greenshield/E21A8093-8107.jpg){: .cover role="img" aria-label="Greenshield in Winter Light" style="width: 400px;"}
 _E21A8093-8107_ **Greenshield in Winter Light**
