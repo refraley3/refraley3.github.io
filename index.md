@@ -5,7 +5,7 @@ title: Home
 ### Gallery  
 
 _Browse by category._  
-Animals • Fungi • Insects • Landscapes • Plants.  
+Animals • Fungi • Insects • Landscapes • Macros • Plants.  
 {:.caption}
 
 [![Rain Held Close](/gallery/macros/assets/rain/E21A0028.jpg){: .cover role="img" aria-label="Rain Held Close"}  

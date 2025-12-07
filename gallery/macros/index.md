@@ -3,7 +3,7 @@ layout: photo
 title: Macros
 ---
 
-Rain Held Close reveals the quiet geometry of water gathering on a fallen oak leaf in the moments after a storm. At this scale, raindrops become glassy hemispheres, each holding a miniature reflection of the surrounding grasses and autumn colors. The leaf’s surface, textured and weathered, turns into a landscape of its own—where droplets cling, merge, and create fleeting patterns that shift with the slightest breeze. In the calm that follows heavy weather, the forest floor offers a world of fine details, often missed but full of subtle brilliance.
+Raindrops become glassy hemispheres, each holding a miniature reflection of the surrounding grasses and autumn colors. **Rain Held Close** reveals the quiet geometry of water gathering on a fallen oak leaf in the moments after a storm at this scale. The leaf’s surface, textured and weathered, turns into a landscape of its own—where droplets cling, merge, and create fleeting patterns that shift with the slightest breeze. In the calm that follows heavy weather, the forest floor offers a world of fine details, often missed but full of subtle brilliance.
 
 ![Rain Held Close](/gallery/macros/assets/rain/E21A0028.jpg){: .cover role="img" aria-label="Rain Held Close"}
 **Rain Held Close**  
