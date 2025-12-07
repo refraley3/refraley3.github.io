@@ -36,7 +36,7 @@ In **Star Rosette Among the Gold Dust**, the pale gray lobes of [**Star Rosette 
 
 <div class="tile" style="margin: 15px;">
 
-![Candleflame with Rosettes and Shadow Lichen](/gallery/fungi/lichen/assets/candleflame/E21A8072-8081.jpg){: .cover role="img" aria-label="Candleflame with Rosettes and Shadow Lichen"}
+![Star Rosette Among the Gold Dust](/gallery/fungi/lichen/assets/candleflame/E21A8072-8081.jpg){: .cover role="img" aria-label="Star Rosette Among the Gold Dust"}
 **Star Rosette Among the Gold Dust**  
 _Pale disks and patterned lobes rising through a scatter of yellow fragments on weathered bark._  
 Camera: Canon EOS 5D Mk IV  

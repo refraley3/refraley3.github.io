@@ -89,6 +89,12 @@ _Scenes from Minnesota’s fields and parks._
 Light, horizon, and the quiet geometry of open space.  
 ](/gallery/landscapes/){: .tile role="listitem"}
 
+[![Rain Held Close](/gallery/landscapes/assets/rain/E21A0028.jpg){: .cover role="img" aria-label="Rain Held Close"}  
+**Rain Held Close**  
+_A quiet world distilled into droplets._  
+After the storm, an oak leaf becomes a basin for the smallest reflections. Beads of rain cling to its surface, forming crystal domes that magnify the colors of grass and autumn debris around them.  
+](/gallery/landscapes/rain/){: .tile role="listitem"}
+
 </div>
 
 ---
