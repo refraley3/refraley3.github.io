@@ -8,7 +8,7 @@ _Browse by category._
 Animals • Fungi • Insects • Landscapes • Plants.  
 {:.caption}
 
-[![Rain Held Close](/gallery/landscapes/assets/rain/E21A0028.jpg){: .cover role="img" aria-label="Rain Held Close"}  
+[![Rain Held Close](/gallery/macros/assets/rain/E21A0028.jpg){: .cover role="img" aria-label="Rain Held Close"}  
 **Rain Held Close**  
 _A quiet world distilled into droplets._  
 ](/gallery/){: .tile role="listitem"}

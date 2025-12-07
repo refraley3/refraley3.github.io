@@ -3,7 +3,6 @@ layout: photo
 title: Landscapes
 ---
 
-
 ## Northern Lights
 {:.text-center}
 
@@ -158,16 +157,6 @@ Settings: ISO 200 • Aperture f/18 • Shutter 1 s
 
 </div>
 
-<div class="tile" style="margin: 15px;">
-
-[![Rain Held Close](/gallery/landscapes/assets/rain/E21A0028.jpg){: .cover role="img" aria-label="Rain Held Close"}  
-**Rain Held Close**  
-_A quiet world distilled into droplets._  
-After the storm, an oak leaf becomes a basin for the smallest reflections. Beads of rain cling to its surface, forming crystal domes that magnify the colors of grass and autumn debris around them.  
-](/gallery/landscapes/rain/){: .tile role="listitem"}
-
-</div>
-
 </div>
 
 ---
@@ -315,6 +304,7 @@ Settings: ISO 100 • Aperture f/4 • Shutter 1/160 s
 {:.section-title}
 
 ---
+
 ### Adaptation to climate, culture, and conflict
 
 The Spanish mission at Tumacácori stands as one of the oldest surviving examples of colonial architecture in the American Southwest. Established in the late 1600s by Jesuit missionaries and later expanded under Franciscan supervision, the mission church reflects centuries of adaptation to climate, culture, and conflict. Its unfinished bell tower, weathered plaster, and hand-formed adobe walls retain the quiet dignity of a structure shaped by both faith and frontier life.  

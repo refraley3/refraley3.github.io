@@ -1,6 +1,6 @@
 ---
 layout: photo
-title: Mealy Shadow Lichen
+title: Mealy Shadow
 ---
 
 ## *Phaeophyscia orbicularis*
@@ -9,7 +9,7 @@ A soft gray-green foliose lichen recognized by its **powdered lobes** and **shad
 
 <div class="tile" style="margin: 15px;">
 
-![Mealy Shadow Lichen — E21A8055](/gallery/fungi/lichen/assets/mealy-shadow/E21A8055.jpg){: .cover role="img" aria-label="Mealy Shadow Lichen close-up"}
+![Mealy Shadow Lichen close-up](/gallery/fungi/lichen/assets/mealy-shadow/E21A8055.jpg){: .cover role="img" aria-label="Mealy Shadow Lichen close-up"}
 **Mealy Shadow Lichen**  
 _A matte gray thallus with mealy margins blending into the bark’s coarse texture._  
 The colony forms dense, rounded patches of narrow lobes dusted with pale soredia. Dark-centered apothecia, when present, give the species its characteristic “shadowed” appearance.  

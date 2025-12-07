@@ -47,9 +47,9 @@ Mammals reveal adaptability of woodland life.
 
 <div class="grid" role="list">
 
-[![Lichen](/gallery/fungi/lichen/assets/E21A6505.jpg){: .cover role="img" aria-label="Lichen"}  
-**Lichen**  
-_Indicators of healthy forest and clean air._  
+[![Lichen Ember Cluster](/gallery/fungi/lichen/assets/common-sunburst/E21A6511.jpg){: .cover role="img" aria-label="Lichen Ember Cluster"}
+**Lichen Ember Cluster**  
+_A bright scatter of Sunburst lobes burning through a matrix of gray-green foliose neighbors._  
 Lichens are unique symbiotic organisms composed of fungi and algae.  
 ](/gallery/fungi/lichen/){: .tile role="listitem"}
 
@@ -89,11 +89,17 @@ _Scenes from Minnesota’s fields and parks._
 Light, horizon, and the quiet geometry of open space.  
 ](/gallery/landscapes/){: .tile role="listitem"}
 
-[![Rain Held Close](/gallery/landscapes/assets/rain/E21A0028.jpg){: .cover role="img" aria-label="Rain Held Close"}  
+---
+
+### Macros
+
+<div class="grid" role="list">
+
+[![Rain Held Close](/gallery/macros/assets/rain/E21A0028.jpg){: .cover role="img" aria-label="Rain Held Close"}  
 **Rain Held Close**  
 _A quiet world distilled into droplets._  
 After the storm, an oak leaf becomes a basin for the smallest reflections. Beads of rain cling to its surface, forming crystal domes that magnify the colors of grass and autumn debris around them.  
-](/gallery/landscapes/rain/){: .tile role="listitem"}
+](/gallery/macros/){: .tile role="listitem"}
 
 </div>
 

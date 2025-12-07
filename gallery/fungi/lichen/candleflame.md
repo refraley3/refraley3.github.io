@@ -28,7 +28,7 @@ E21A8057 • Size: 2208×1472
 
 </div>
 
-In this close composition, **Candleflame** erupts from the center of a bark hollow, its warm yellow lobes contrasting with the pale grays of [Powdery Shield](/gallery/fungi/lichen/powdery-shield/) and the muted green-gray tones of [Mealy Shadow](/gallery/fungi/lichen/mealy-shadow/). Each species occupies a different microtexture of the elm bark: Candleflame filling cracks with its fine soredia, Powdery Shield forming crisp-edged tiny rosettes, and Mealy Shadow spreading more loosely across the surface. The three together reveal the complexity of lichen communities at sub-centimeter scales.
+**Candleflame in the Company of a Shadow**, its warm yellow lobes erupt from a shadow of [Common Greenshield](/gallery/fungi/lichen/common-greenshield/). The *Candleflame* contrasting with the pale grays of [Powdery Shield](/gallery/fungi/lichen/powdery-shield/) and the muted green-gray tones of [Mealy Shadow](/gallery/fungi/lichen/mealy-shadow/). Each species occupies a different microtexture of the elm bark: Candleflame filling cracks with its fine soredia, Powdery Shield forming crisp-edged tiny rosettes, and Mealy Shadow spreading more loosely across the surface. The three together reveal the complexity of lichen communities at sub-millimeter scales.
 
 ---
 
