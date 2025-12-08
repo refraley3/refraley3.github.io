@@ -2,6 +2,8 @@
 layout: photo
 title: Star Rosette Lichen
 description: Close-up field observations of *Physcia stellaris* (Star Rosette Lichen) on elm and other hardwoods in Minnesota.
+tags: [lichen, star rosette, Physcia stellaris, lichens, minnesota, bark-lichens, macro-photography, field-notes]
+keywords: "Star Rosette Lichen, Physcia stellaris, lichen photography, Minnesota lichens, bark lichens, macro photography"
 ---
 
 ## *Physcia stellaris*

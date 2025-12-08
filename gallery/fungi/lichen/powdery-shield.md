@@ -2,6 +2,8 @@
 layout: photo
 title: Powdery Shield Lichen
 description: Field observations of *Physcia millegrana* and similar powder-dusted foliose lichens on hardwood bark in Minnesota.
+tags: [lichen, powdery shield, Physcia millegrana, lichens, minnesota, bark-lichens, macro-photography, field-notes]
+keywords: "Powdery Shield lichen, Physcia millegrana, lichen photography, Minnesota lichens, bark lichens, macro photography"
 ---
 
 ## *Physcia millegrana*

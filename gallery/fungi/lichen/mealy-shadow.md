@@ -1,6 +1,8 @@
 ---
 layout: photo
 title: Mealy Shadow
+tags: [lichen, mealy shadow, Phaeophyscia orbicularis, lichens, minnesota, bark-lichens, macro-photography, field-notes]
+keywords: "Mealy Shadow lichen, Phaeophyscia orbicularis, lichen photography, Minnesota lichens, bark lichens, macro photography"
 ---
 
 ## *Phaeophyscia orbicularis*

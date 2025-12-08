@@ -2,6 +2,8 @@
 layout: photo
 title: Common Sunburst Lichen
 description: Close-up observations of *Xanthoria parietina* (Common Sunburst Lichen) on elm and oak bark in Minnesota.
+tags: [lichen, sunburst, Xanthoria parietina, lichens, minnesota, bark-lichens, macro-photography, field-notes]
+keywords: "Common Sunburst Lichen, Xanthoria parietina, lichen photography, Minnesota lichens, bark lichens, macro photography"
 ---
 
 ## *Xanthoria parietina*

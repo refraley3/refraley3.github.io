@@ -2,6 +2,8 @@
 layout: photo
 title: Common Greenshield Lichen
 description: Close-up observations of *Flavoparmelia caperata* (Common Greenshield Lichen) on elm and other hardwoods in Minnesota.
+tags: [lichen, greenshield, Flavoparmelia caperata, lichens, minnesota, bark-lichens, macro-photography, field-notes]
+keywords: "Common Greenshield Lichen, Flavoparmelia caperata, lichen photography, Minnesota lichens, bark lichens, macro photography"
 ---
 
 ## *Flavoparmelia caperata*

@@ -2,6 +2,8 @@
 layout: photo
 title: Candleflame Lichen
 description: Close-up observations of *Candelaria concolor* and related yellow foliose/squamulose lichens on hardwood bark in Minnesota.
+tags: [lichen, candleflame, Candelaria concolor, lichens, minnesota, bark-lichens, macro-photography, field-notes]
+keywords: "Candleflame Lichen, Candelaria concolor, lichen photography, Minnesota lichens, bark lichens, macro photography"
 ---
 
 ## *Candelaria concolor*
