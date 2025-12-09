@@ -6,40 +6,49 @@ title: Lichen
 Lichens map the surfaces of bark in finely tuned patterns—each species occupying the microhabitat it can tolerate.  
 Sunlit ridges, shaded hollows, frost-catching fissures, and nutrient-enriched pockets all host their own specialists.  
 Together they form a quiet, living mosaic stitched into the trunk.
-[![Shared Bark — The Living Mosaic](/gallery/fungi/lichen/assets/common-greenshield/E21A8044.jpg){: .cover role="img" aria-label="Shared Bark — The Living Mosaic"}](/gallery/fungi/lichen/){: .tile role="listitem"}
+
+[![Shared Bark — The Living Mosaic](/gallery/fungi/lichen/assets/eastern-speckled-shield/E21A8044.jpg){: .cover role="img" aria-label="Shared Bark — The Living Mosaic"}](/gallery/fungi/lichen/){: .tile role="listitem"}
 **Shared Bark — The Living Mosaic**  
-_Four lichens—Greenshield, Mealy Shadow, Candleflame, and Star Rosette—anchored together in a winter bark community._  
+_Four lichens—Eastern Speckled Shield, Mealy Shadow, Candleflame, and Star Rosette—anchored together in a winter bark community._  
 {: .caption}
 
 Across this surface, a four-species assembly interacts in miniature:
 
-- the broad, pale-mint lobes of [Common Greenshield](/gallery/fungi/lichen/common-greenshield/)  
-- the soft, gray-green rosettes of [Mealy Shadow](/gallery/fungi/lichen/mealy-shadow/) tucked into sheltered folds  
-- the vivid yellow cushions of [Candleflame](/gallery/fungi/lichen/candelaria/) brightening the hollows  
+- the pale gray-green, speckled lobes of [Eastern Speckled Shield](/gallery/fungi/lichen/eastern-speckled-shield/)  
+- the soft, gray-green rosettes of [Mealy Shadow](/gallery/fungi/lichen/mealy-shadow/)  
+- the vivid yellow cushions of [Candleflame](/gallery/fungi/lichen/candelaria/)  
 - and the crisp white-rimmed rosettes of [Star Rosette](/gallery/fungi/lichen/star-rosette/)  
 
-Together they form a stable, long-lived bark community where contrasting pigments and growth forms meet.
+Together they form a stable bark community where contrasting pigments and growth forms meet.
 
-[![Candleflame with Rosettes and Shadow Lichen](/gallery/fungi/lichen/assets/candleflame/E21A8051-8055.jpg){: .cover role="img" aria-label="Candleflame with Rosettes and Shadow Lichen"}](/gallery/fungi/lichen/candleflame/){: .tile role="listitem"}
-E21A8051-8055 **Candleflame with Rosettes and Shadow Lichen**  
+---
+
+## Bark Community Examples
+
+[![Candleflame with Rosettes and Shadow Lichen](/gallery/fungi/lichen/assets/candleflame/E21A8051-8055.jpg){: .cover role="img" aria-label="Candleflame with Rosettes and Shadow Lichen"}](/gallery/fungi/lichen/candelaria/){: .tile role="listitem"}
+**Candleflame with Rosettes and Shadow Lichen**  
 {: .caption}
 
-In **Candleflame with Rosettes and Shadow Lichen**, a bright flare of *Candelaria concolor* fills the center in a shadow of *Flavoparmelia caperata*, its golden soredia clustered in dense cushions. Around it, the crisp gray rosettes of *Physcia stellaris* arc outward in pale, pruinose patterns, while deeper green-gray patches of *Phaeophyscia orbicularis* settle into more shaded recesses. A trace of Powdery Shield dusts the upper margin, completing a compact four-species community balanced between warm and cool tones.
+In **Candleflame with Rosettes and Shadow Lichen**, a bright flare of *Candelaria concolor* fills a hollow surrounded by the gray rosettes of *Physcia stellaris* and the darker matte patches of *Phaeophyscia orbicularis*. A trace of Powdery Shield appears above, revealing the fine-scale texture changes across the bark.
 
-Where the bark rises into a shallow ridge, pale foliose species gather into a cool-toned band. Star Rosette forms the most defined pattern here, its white-rimmed apothecia scattered across rounded gray lobes. Just below, a warm pocket of Candleflame anchors the composition, its yellow soredia pressed into fissures and spreading outward in fine dust.  
+Where the bark rises into a shallow ridge, pale foliose species gather into a cool-toned band. Star Rosette forms the most defined pattern here, its white-rimmed apothecia scattered across rounded gray lobes. Just below, a warm pocket of Candleflame anchors the composition with fine yellow soredia.
 
-This layered community comes together most clearly in **Star Rosette with Candleflame and Powdery Companions**, where gray rosettes, golden cushions, and the soft blue-green of Powdery Shield settle into a single textured mosaic.
+This layered community appears most clearly in **Star Rosette with Candleflame and Powdery Companions**, where gray rosettes, golden cushions, and the soft blue-green of Powdery Shield settle into a single textured mosaic.
 
 [![Star Rosette with Candleflame and Powdery Companions](/gallery/fungi/lichen/assets/candleflame/E21A8072-8081.jpg){: .cover role="img" aria-label="Star Rosette with Candleflame and Powdery Companions"}](/gallery/fungi/lichen/star-rosette/)
-E21A8072-8081 **Star Rosette with Candleflame and Powdery Companions**  
+**Star Rosette with Candleflame and Powdery Companions**  
 {: .caption}
 
 [![Star Rosette with Candleflame Contrast](/gallery/fungi/lichen/assets/star-rosette/E21A8059-8071.jpg){: .cover role="img" aria-label="Star Rosette with Candleflame Contrast"}](/gallery/fungi/lichen/star-rosette/){: .tile role="listitem"}
-E21A8059-8071 **Star Rosette with Candleflame Contrast**  
+**Star Rosette with Candleflame Contrast**  
 {: .caption}
 
 [![Mealy Shadow Lichen — E21A8055](/gallery/fungi/lichen/assets/mealy-shadow/E21A8055.jpg){: .cover role="img" aria-label="Mealy Shadow Lichen close-up"}](/gallery/fungi/lichen/mealy-shadow/){: .tile role="listitem"}
-E21A8055 **Mealy Shadow Lichen**  
+**Mealy Shadow Lichen**  
+{: .caption}
+
+[![Eastern Speckled Shield](/gallery/fungi/lichen/assets/eastern-speckled-shield/E21A8143.jpg){: .cover role="img" aria-label="Eastern Speckled Shield Lichen"}](/gallery/fungi/lichen/eastern-speckled-shield/){: .tile role="listitem"}
+**Eastern Speckled Shield**  
 {: .caption}
 
 ---
@@ -53,7 +62,7 @@ E21A8055 **Mealy Shadow Lichen**
 _Cladonia cristatella_  
 {: .caption}
 
-[![Candleflame (Candelaria) Lichen](/gallery/fungi/lichen/assets/candleflame/E21A8057.jpg){: .cover role="img" aria-label="Candleflame (Candelaria) Lichen"}](/gallery/fungi/lichen/candleflame/){: .tile role="listitem"}  
+[![Candleflame (Candelaria) Lichen](/gallery/fungi/lichen/assets/candleflame/E21A8057.jpg){: .cover role="img" aria-label="Candleflame (Candelaria) Lichen"}](/gallery/fungi/lichen/candleflame/){: .tile role="listitem"}
 **Candleflame (Candelaria) Lichen**  
 _Candelaria concolor_  
 {: .caption}
@@ -66,6 +75,11 @@ _Flavoparmelia caperata_
 [![Common Sunburst](/gallery/fungi/lichen/assets/common-sunburst/E21A6511.jpg){: .cover role="img" aria-label="Common Sunburst"}](/gallery/fungi/lichen/common-sunburst/){: .tile role="listitem"}
 **Common Sunburst**  
 _Xanthoria parietina_  
+{: .caption}
+
+[![Eastern Speckled Shield](/gallery/fungi/lichen/assets/eastern-speckled-shield/E21A8142.jpg){: .cover role="img" aria-label="Eastern Speckled Shield"}](/gallery/fungi/lichen/eastern-speckled-shield/){: .tile role="listitem"}
+**Eastern Speckled Shield**  
+_Punctelia bolliana_  
 {: .caption}
 
 [![Mealy Shadow Lichen close-up](/gallery/fungi/lichen/assets/mealy-shadow/E21A8055.jpg){: .cover role="img" aria-label="Mealy Shadow Lichen close-up"}](/gallery/fungi/lichen/mealy-shadow/){: .tile role="listitem"}
@@ -86,6 +100,7 @@ _Physcia stellaris_
 </div>
 
 ---
+
 ### [Collection](/gallery/fungi/lichen/collection/)
 
 ---
