@@ -10,6 +10,17 @@ keywords: "Punctelia bolliana, Eastern Speckled Shield Lichen, lichen identifica
 
 **Punctelia bolliana** is a pale gray-green foliose lichen recognized by its **large, rounded lobes**, **distinct white pseudocyphellae**, and **dark brown to black underside** with simple rhizines. It is one of the most common *Punctelia* species on hardwood bark across the central and eastern United States and is frequently mistaken for *Flavoparmelia caperata* or *Physcia* species until the underside and pseudocyphellae are examined closely.
 
+![Eastern Speckled Shield with Sunburst Matrix](/gallery/fungi/lichen/assets/eastern-speckled-shield/E21A8082-8092.jpg){: .cover role="img" aria-label="Eastern Speckled Shield with Sunburst Matrix"}
+**Eastern Speckled Shield with Sunburst Matrix**  
+_Pale mint-gray shields rising through a field of golden Sunburst crusts._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/13.0 • Shutter 3.2 s  
+_E21A8082–8092_ • Size: 5781x3860  
+{: .caption}
+
+Broad, rounded lobes of **Eastern Speckled Shield (*Punctelia bolliana*)** form two clean rosettes at center, their pale surfaces marked with scattered white pseudocyphellae and faint speckling. To the lower left, a small colony of **[Powdery Shield (*Physcia millegrana*)](/gallery/fungi/lichen/powdery-shield/)** appears as fine, dusty gray lobes, highlighting how much smaller and more powder-dusted it is compared to *P. bolliana*. Surrounding the scene, **[Common Sunburst (*Xanthoria parietina*)](/gallery/fungi/lichen/common-sunburst/)** spreads in dense golden clusters, intensifying the cool tones and smooth foliose structure of Eastern Speckled Shield. The strong contrast between yellow crusts, dusty Physcia patches, and mint-gray rosettes makes the diagnostic traits of *P. bolliana* immediately visible at field scale.
+
 ---
 
 ![Eastern Speckled Shield — Winter Rosette](/gallery/fungi/lichen/assets/eastern-speckled-shield/E21A8093-8107.jpg){: .cover role="img" aria-label="Punctelia bolliana rosette on elm bark"}
@@ -26,6 +37,8 @@ This colony shows several diagnostic features of *P. bolliana*:
 - **large lobes** with smooth, rounded edges  
 - **dark interior folds** at the lobe base (confirming a brown-to-black underside)  
 - a subtly mottled gray-green pigmentation rather than the mint-green of *Flavoparmelia*.
+
+The coloration of Punctelia bolliana shifts noticeably with moisture, a trait well illustrated in these observations. In dry conditions the thallus appears pale blue-gray, its cortex scattering light in a cool, silvery tone. When moisture is present—even a thin film from fog, dew, or snowfall—the lobes take on a paler green cast as the wet cortex becomes more translucent and the underlying algal layer shows through. The brighter green thallus seen in **Eastern Speckled Shield - Winter Rosette** was photographed during a light snow shower, when surface moisture momentarily enriched the color. This moisture-driven variation is typical of Eastern Speckled Shield and can change within minutes as conditions shift across the bark surface.
 
 ---
 
@@ -108,11 +121,18 @@ It tolerates more urban and nitrogen-enriched environments compared to more sens
 
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 
-![Eastern Speckled Shield — Winter Rosette](/gallery/fungi/lichen/assets/eastern-speckled-shield/E21A8093-8107.jpg){: style="width: 400px;"}  
-_E21A8093–8107_ **Eastern Speckled Shield — Winter Rosette**
+![Eastern Speckled Shield with Sunburst Matrix](/gallery/fungi/lichen/assets/eastern-speckled-shield/E21A8082-8092.jpg){: style="width: 400px;"}  
+_E21A8082-8092_ **Eastern Speckled Shield with Sunburst Matrix**  
 
 ![Scaled Lobe Study](/gallery/fungi/lichen/assets/eastern-speckled-shield/E21A8142.jpg){: style="width: 400px;"}  
 _E21A8142_ **Scaled Lobe Study**
+
+</div>
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+![Eastern Speckled Shield — Winter Rosette](/gallery/fungi/lichen/assets/eastern-speckled-shield/E21A8093-8107.jpg){: style="width: 400px;"}  
+_E21A8093–8107_ **Eastern Speckled Shield — Winter Rosette**
 
 ![Speckled Shield Lobe Portrait](/gallery/fungi/lichen/assets/eastern-speckled-shield/E21A8143.jpg){: style="width: 400px;"}  
 _E21A8143_ **Speckled Shield Lobe Portrait**

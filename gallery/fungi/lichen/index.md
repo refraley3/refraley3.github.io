@@ -43,7 +43,7 @@ This layered community appears most clearly in **Star Rosette with Candleflame a
 **Star Rosette with Candleflame Contrast**  
 {: .caption}
 
-[![Mealy Shadow Lichen — E21A8055](/gallery/fungi/lichen/assets/mealy-shadow/E21A8055.jpg){: .cover role="img" aria-label="Mealy Shadow Lichen close-up"}](/gallery/fungi/lichen/mealy-shadow/){: .tile role="listitem"}
+[![Mealy Shadow Lichen5](/gallery/fungi/lichen/assets/mealy-shadow/E21A8055.jpg){: .cover role="img" aria-label="Mealy Shadow Lichen5"}](/gallery/fungi/lichen/mealy-shadow/){: .tile role="listitem"}
 **Mealy Shadow Lichen**  
 {: .caption}
 
