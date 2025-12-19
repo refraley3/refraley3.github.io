@@ -95,7 +95,7 @@ It tolerates moderate dryness but grows best where surfaces dry quickly after pr
 
 A close look reveals the delicate architecture of coexisting lichens. Each thrives where light, moisture, and bark chemistry allow, creating a natural mosaic that shifts with season and exposure. Together, they form a study in quiet persistence and shared resilience.
 
-[![Shared Bark — The Living Mosaic](/gallery/fungi/lichen/assets/common-greenshield/E21A8044.jpg){: .cover role="img" aria-label="Shared Bark — The Living Mosaic"}](/gallery/fungi/lichen/){: .tile role="listitem"}
+[![Shared Bark — The Living Mosaic](/gallery/fungi/lichen/assets/american-starburst/E21A8044.jpg){: .cover role="img" aria-label="Shared Bark — The Living Mosaic"}](/gallery/fungi/lichen/){: .tile role="listitem"}
 **Shared Bark — The Living Mosaic**  
 A winter bark community of color and form — where four lichens share space, light, and time.  
 Camera: Canon EOS 5D Mk IV  
@@ -118,7 +118,7 @@ _E21A8059–8071_ **Star Rosette with Candleflame Contrast**
 [![Star Rosette with Candleflame and Powdery Companions](/gallery/fungi/lichen/assets/candleflame/E21A8072-8081.jpg){: .cover role="img" aria-label="Star Rosette with Candleflame and Powdery Companions"}](/gallery/fungi/lichen/star-rosette/)
 _E21A8072-8081_ **Star Rosette with Candleflame and Powdery Companions**  
 
-[![Shared Bark — The Living Mosaic](/gallery/fungi/lichen/assets/common-greenshield/E21A8044.jpg){: .cover role="img" aria-label="Shared Bark — The Living Mosaic"}](/gallery/fungi/lichen/){: .tile role="listitem"}
+[![Shared Bark — The Living Mosaic](/gallery/fungi/lichen/assets/american-starburst/E21A8044.jpg){: .cover role="img" aria-label="Shared Bark — The Living Mosaic"}](/gallery/fungi/lichen/){: .tile role="listitem"}
 _E21A8044_ **Shared Bark — The Living Mosaic**
 
 </div>

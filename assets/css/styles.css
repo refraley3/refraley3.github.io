@@ -232,26 +232,70 @@ a:hover {
 .fade-out {
   opacity: 0;
 }
+/* =========================
+   APA 7 Heading Styles
+   ========================= */
 
+/* Document title (#) */
 h1 {
-      text-align: center;
-      font-weight: bold;
-}
-    
-h2 {
-      text-align: center;
-      font-weight: bold;
-}
-    
-h3 {
-      text-align: center;
-      font-weight: bold;
+  text-align: center;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
 }
 
-h4 {
-      text-align: right;
-      font-weight: bold;
+/* APA Level 1 (##) */
+h2 {
+  text-align: center;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
 }
+
+/* APA Level 2 (###) */
+h3 {
+  text-align: left;
+  font-weight: 700;
+  margin-top: 1.75rem;
+  margin-bottom: 0.75rem;
+}
+
+/* APA Level 3 (####) */
+h4 {
+  text-align: left;
+  font-weight: 700;
+  font-style: italic;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+/* APA Level 4 (#####) – run-in */
+h5 {
+  font-weight: 700;
+  margin-top: 1.25rem;
+  margin-bottom: 0;
+  display: inline;
+}
+
+h5 + p {
+  display: inline;
+  margin-left: 0.5rem;
+}
+
+/* APA Level 5 (######) – run-in italic */
+h6 {
+  font-weight: 700;
+  font-style: italic;
+  margin-top: 1.25rem;
+  margin-bottom: 0;
+  display: inline;
+}
+
+h6 + p {
+  display: inline;
+  margin-left: 0.5rem;
+}
+
 
 .card table {
   background-color: #343a40; /* Slightly lighter than bg-dark */

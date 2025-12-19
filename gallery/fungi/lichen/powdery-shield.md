@@ -58,6 +58,16 @@ Settings: ISO 200 • Aperture f/9.0 • Shutter 2.5 s
 _E21A8051–8055_  
 {: .caption}
 
+![Powdery Shield in a Bark Crevice](/gallery/fungi/lichen/assets/powdery-shield/E21A8187.jpg){: .cover role="img" aria-label="Powdery Shield in a Bark Crevice"}
+**Powdery Shield in a Bark Crevice**  
+_A pale rosette with rimmed apothecia, framed by bright Candleflame._  
+Powdery Shield clings to the ridges while warm yellow crusts and darker foliose patches turn the trunk into a layered, multi-species mosaic.  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/13.0 • Shutter 2.5 s  
+_E21A8187_  
+{: .caption}
+
 ---
 
 ## Description
@@ -192,11 +202,18 @@ In mixed communities, its dusty rosettes often provide the cool counterbalance t
 
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 
-![Shared Bark – The Living Mosaic](/gallery/fungi/lichen/assets/eastern-speckled-shield/E21A8044.jpg)
+![Shared Bark – The Living Mosaic](/gallery/fungi/lichen/assets/american-starburst/E21A8044.jpg)
 _E21A8044_ **Shared Bark – The Living Mosaic**
 
 ![Candleflame, Powdery Shield, and Mealy Shadow](/gallery/fungi/lichen/assets/candleflame/E21A8051-8055.jpg)
 _E21A8051–8055_ **Candleflame,  Powdery Shield + Mealy Shadow**
+
+</div>
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+![Candleflame with Powdery Shield and Mealy Shadow](/gallery/fungi/lichen/assets/candleflame/E21A8057.jpg)
+_E21A8057_ **Candleflame with Powdery Shield and Mealy Shadow**
 
 ![Powdery Shield and Candleflame](/gallery/fungi/lichen/assets/powdery-shield/E21A1081.jpg)
 _E21A1081_ **Powdery Shield and Candleflame**
@@ -205,17 +222,15 @@ _E21A1081_ **Powdery Shield and Candleflame**
 
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 
-
 ![Powdery Shield Among Sunburst and Speckled Shield](/gallery/fungi/lichen/assets/powdery-shield/E21A8088A.jpg){: .cover role="img" aria-label="Powdery Shield Among Sunburst and Speckled Shield"}
 _E21A8088A_ **Powdery Shield Among Sunburst and Speckled Shield**  
 
-![Candleflame with Powdery Shield and Mealy Shadow](/gallery/fungi/lichen/assets/candleflame/E21A8057.jpg)
-_E21A8057_ **Candleflame with Powdery Shield and Mealy Shadow**
-
+![Powdery Shield in a Bark Crevice](/gallery/fungi/lichen/assets/powdery-shield/E21A8187.jpg){: .cover role="img" aria-label="Powdery Shield in a Bark Crevice"}
+_E21A8187_ **Powdery Shield in a Bark Crevice**  
+  
 </div>
 
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
-
 
 ![Soralia & Lobe Detail — Powdery Shield](/gallery/fungi/lichen/assets/powdery-shield/E21A8057A.jpg){: .cover role="img" aria-label="Soralia and Lobe Detail — Powdery Shield"}
 _E21A8057A_ **Soralia & Lobe Detail — Powdery Shield**  

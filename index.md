@@ -2,22 +2,33 @@
 layout: default
 title: Home
 ---
-### Gallery  
+# Gallery  
 
 _Browse by category._  
 Animals • Fungi • Insects • Landscapes • Macros • Plants.  
 {:.caption}
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
 
 [![Rain Held Close](/gallery/macros/assets/rain/E21A0028.jpg){: .cover role="img" aria-label="Rain Held Close"}  
 **Rain Held Close**  
 _A quiet world distilled into droplets._  
 ](/gallery/){: .tile role="listitem"}
 
+</div>
+
+<div class="tile" style="margin: 15px;">
+
 [![Candleflame in the Company of Shadows](/gallery/fungi/lichen/assets/candleflame/E21A8057.jpg){: .cover role="img" aria-label="Candleflame in the Company of Shadows"}  
 **Lichen - Candleflame in the Company of Shadows**  
 _A winter bark community of color and form — where four lichens share space, light, and time._  
 ](/gallery/){: .tile role="listitem"}
 
+</div>
+
+</div>
 
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 
@@ -75,7 +86,7 @@ _Bleeding Bonnet — Day 1, Early Infection._
 
 ---
 
-### Field Notes
+## Field Notes
 
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 
