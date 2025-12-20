@@ -7,14 +7,14 @@ Lichens map the surfaces of bark in finely tuned patterns—each species occupyi
 Sunlit ridges, shaded hollows, frost-catching fissures, and nutrient-enriched pockets all host their own specialists.  
 Together they form a quiet, living mosaic stitched into the trunk.
 
-[![Shared Bark — The Living Mosaic](/gallery/fungi/lichen/assets/american-starburst/E21A8044.jpg){: .cover role="img" aria-label="Shared Bark — The Living Mosaic"}](/gallery/fungi/lichen/){: .tile role="listitem"}
+[![Shared Bark — The Living Mosaic](/gallery/fungi/lichen/assets/rough-speckled-shield/E21A8044.jpg){: .cover role="img" aria-label="Shared Bark — The Living Mosaic"}](/gallery/fungi/lichen/){: .tile role="listitem"}
 **Shared Bark — The Living Mosaic**  
-_Four lichens—American Starburst, Mealy Shadow, Candleflame, and Star Rosette—anchored together in a winter bark community._  
+_Four lichens—Rough Speckled Shield, Mealy Shadow, Candleflame, and Star Rosette—anchored together in a winter bark community._  
 {: .caption}
 
 Across this surface, a four-species assembly interacts in miniature:
 
-- the pale gray-green, speckled lobes of [American Starburst](/gallery/fungi/lichen/american-starburst/)  
+- the pale gray-green, speckled lobes of [Rough Speckled Shield](/gallery/fungi/lichen/rough-speckled-shield/)  
 - the soft, gray-green rosettes of [Mealy Shadow](/gallery/fungi/lichen/mealy-shadow/)  
 - the vivid yellow cushions of [Candleflame](/gallery/fungi/lichen/candelaria/)  
 - and the crisp white-rimmed rosettes of [Star Rosette](/gallery/fungi/lichen/star-rosette/)  
@@ -81,9 +81,9 @@ _Flavoparmelia caperata_
 _Xanthoria parietina_  
 {: .caption}
 
-[![American Starburst](/gallery/fungi/lichen/assets/american-starburst/E21A8142.jpg){: .cover role="img" aria-label="American Starburst"}](/gallery/fungi/lichen/american-starburst/){: .tile role="listitem"}
-**American Starburst**  
-_Punctelia bolliana_  
+[![Rough Speckled Shield](/gallery/fungi/lichen/assets/rough-speckled-shield/E21A8142.jpg){: .cover role="img" aria-label="American Starburst"}](/gallery/fungi/lichen/rough-speckled-shield/){: .tile role="listitem"}
+**Rough Speckled Shield**  
+_Punctelia rudecta_  
 {: .caption}
 
 [![Mealy Shadow Lichen close-up](/gallery/fungi/lichen/assets/mealy-shadow/E21A8055.jpg){: .cover role="img" aria-label="Mealy Shadow Lichen close-up"}](/gallery/fungi/lichen/mealy-shadow/){: .tile role="listitem"}
