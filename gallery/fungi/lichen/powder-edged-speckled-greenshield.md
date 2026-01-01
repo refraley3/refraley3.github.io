@@ -1,6 +1,192 @@
 ---
 layout: photo
 title: Powder-edged Speckled Greenshield
+description: Gallery images of *Flavopunctelia soredica* (Powder-edged Speckled Greenshield), photographed in Minnesota.
+tags: [lichen, Flavopunctelia soredica, speckled-greenshield, lichen-photography]
+---
+
+## Powder-edged Speckled Greenshield  
+[*Flavopunctelia soredica*](/field-notes/lichen/flavopunctelia-soredica/)  
+{: .taxonomy-last}
+
+**Powder-edged Speckled Greenshield (*Flavopunctelia soredica*)** is a common foliose bark lichen with a pale yellow-green thallus, conspicuous white pseudocyphellae, and powdery soralia concentrated along lobe margins. It commonly forms loose rosettes or irregular patches on hardwoods and contributes to mixed-species bark mosaics.
+
+For identification details and comparison with similar species, see the [*Flavopunctelia soredica*](/field-notes/lichen/flavopunctelia-soredica/) Field Notes page.
+
+---
+
+![Powder-edged Speckled Greenshield — Close-up](/gallery/fungi/lichen/assets/powder-edged-speckled-greenshield/E21A8161-8172.jpg){: .cover role="img" aria-label="Powder-edged Speckled Greenshield close-up on bark" id="image-1"}
+**Powder-edged Speckled Greenshield — Close-up**  
+_Close-up emphasizing powdery lobe edges and foliose structure._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/13.0 • Shutter 2.5 s  
+E21A8161–8172  
+{: .caption}
+
+---
+
+![Powder-edged Speckled Greenshield on Bark](/gallery/fungi/lichen/assets/powder-edged-speckled-greenshield/E21A8082-8092.jpg){: .gallery-image role="img" aria-label="Powder-edged Speckled Greenshield on hardwood bark"}
+**Powder-edged Speckled Greenshield on Bark**  
+_With bright crustose associates._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/13.0 • Shutter 3.2 s  
+E21A8082–8092  
+{: .caption}
+
+---
+
+![Powder-edged Speckled Greenshield — Detail](/gallery/fungi/lichen/assets/powder-edged-speckled-greenshield/E21A8093-8107.jpg){: .gallery-image role="img" aria-label="Powder-edged Speckled Greenshield detail showing soralia"}
+**Powder-edged Speckled Greenshield — Detail**  
+_Marginal soralia and white speckling clearly visible._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/13.0 • Shutter 3.2 s  
+E21A8093–8107  
+{: .caption}
+
+---
+
+## Description
+
+**Powder-edged Speckled Greenshield (*Flavopunctelia soredica*)** is a foliose lichen with a pale yellow-green to gray-green thallus, abundant white pseudocyphellae, and powdery soralia typically concentrated along lobe margins. Lobes are broad and rounded, often forming loose rosettes or irregular patches on bark.
+
+---
+
+## Identification
+
+### Key Features
+
+- **Growth form:** Foliose, loosely attached, irregular rosettes or patches  
+- **Color:** Pale yellow-green to gray-green  
+- **Lobes:** Broad, rounded, slightly overlapping  
+- **Pseudocyphellae:** Abundant white speckling on the upper surface  
+- **Soralia:** Powdery, white, typically margin-focused  
+- **Lower surface:** Dark brown to black with simple rhizines
+
+### Distinguishing Notes
+
+- **vs. Flavopunctelia flaventior:** (notes as applicable)  
+- **vs. Powdery Shield:** Powder-edged species shows strongly marginal soralia; Powdery Shield is more uniformly dusted.  
+- **vs. Common Greenshield (Flavoparmelia caperata):** Common Greenshield is smoother and inflated, without white speckling.
+
+---
+
+## Habitat & Ecology
+
+Found primarily on hardwood bark (elm, maple, ash, oak) in well-lit trunks and branches across forests, parks, and urban areas. Tolerant of moderate air pollution and commonly part of mixed-species bark communities.
+
+---
+
+## Photo Notes
+
+Images show marginal soralia and distinctive pseudocyphellae that help separate *Flavopunctelia soredica* from superficially similar green foliose lichens.
+
+---
+
+## References
+
+- **Regional field guide**  
+  <http://www.minnesotaseasons.com/Fungi/>
+- **Flavopunctelia soredica — iNaturalist**  
+  <https://www.inaturalist.org/taxa/>
+---
+layout: photo
+title: Powder-edged Speckled Greenshield
+description: Gallery images of *Flavopunctelia soredica* (Powder-edged Speckled Greenshield), photographed in Minnesota.
+tags: [lichen, Flavopunctelia soredica, speckled-greenshield, lichen-photography]
+---
+
+## Powder-edged Speckled Greenshield  
+[*Flavopunctelia soredica*](/field-notes/lichen/flavopunctelia-soredica/)  
+{: .taxonomy-last}
+
+**Powder-edged Speckled Greenshield (*Flavopunctelia soredica*)** is a common foliose bark lichen with a pale yellow-green thallus, conspicuous white pseudocyphellae, and powdery soralia concentrated along lobe margins. It commonly forms loose rosettes or irregular patches on hardwoods and contributes to mixed-species bark mosaics.
+
+For identification details and comparison with similar species, see the [*Flavopunctelia soredica*](/field-notes/lichen/flavopunctelia-soredica/) Field Notes page.
+
+---
+
+![Powder-edged Speckled Greenshield — Close-up](/gallery/fungi/lichen/assets/powder-edged-speckled-greenshield/E21A8161-8172.jpg){: .cover role="img" aria-label="Powder-edged Speckled Greenshield close-up on bark" id="image-1"}
+**Powder-edged Speckled Greenshield — Close-up**  
+_Close-up emphasizing powdery lobe edges and foliose structure._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/13.0 • Shutter 2.5 s  
+E21A8161–8172  
+{: .caption}
+
+---
+
+![Powder-edged Speckled Greenshield on Bark](/gallery/fungi/lichen/assets/powder-edged-speckled-greenshield/E21A8082-8092.jpg){: .gallery-image role="img" aria-label="Powder-edged Speckled Greenshield on hardwood bark"}
+**Powder-edged Speckled Greenshield on Bark**  
+_With bright crustose associates._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/13.0 • Shutter 3.2 s  
+E21A8082–8092  
+{: .caption}
+
+---
+
+![Powder-edged Speckled Greenshield — Detail](/gallery/fungi/lichen/assets/powder-edged-speckled-greenshield/E21A8093-8107.jpg){: .gallery-image role="img" aria-label="Powder-edged Speckled Greenshield detail showing soralia"}
+**Powder-edged Speckled Greenshield — Detail**  
+_Marginal soralia and white speckling clearly visible._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/13.0 • Shutter 3.2 s  
+E21A8093–8107  
+{: .caption}
+
+---
+
+## Description
+
+**Powder-edged Speckled Greenshield (*Flavopunctelia soredica*)** is a foliose lichen with a pale yellow-green to gray-green thallus, abundant white pseudocyphellae, and powdery soralia typically concentrated along lobe margins. Lobes are broad and rounded, often forming loose rosettes or irregular patches on bark.
+
+---
+
+## Identification
+
+### Key Features
+
+- **Growth form:** Foliose, loosely attached, irregular rosettes or patches  
+- **Color:** Pale yellow-green to gray-green  
+- **Lobes:** Broad, rounded, slightly overlapping  
+- **Pseudocyphellae:** Abundant white speckling on the upper surface  
+- **Soralia:** Powdery, white, typically margin-focused  
+- **Lower surface:** Dark brown to black with simple rhizines
+
+### Distinguishing Notes
+
+- **vs. Flavopunctelia flaventior:** (notes as applicable)  
+- **vs. Powdery Shield:** Powder-edged species shows strongly marginal soralia; Powdery Shield is more uniformly dusted.  
+- **vs. Common Greenshield (Flavoparmelia caperata):** Common Greenshield is smoother and inflated, without white speckling.
+
+---
+
+## Habitat & Ecology
+
+Found primarily on hardwood bark (elm, maple, ash, oak) in well-lit trunks and branches across forests, parks, and urban areas. Tolerant of moderate air pollution and commonly part of mixed-species bark communities.
+
+---
+
+## Photo Notes
+
+Images show marginal soralia and distinctive pseudocyphellae that help separate *Flavopunctelia soredica* from superficially similar green foliose lichens.
+
+---
+
+## References
+
+- **Regional field guide**  
+  <http://www.minnesotaseasons.com/Fungi/>
+- **Flavopunctelia soredica — iNaturalist**  
+  <https://www.inaturalist.org/taxa/>
+---
+layout: photo
+title: Powder-edged Speckled Greenshield
 description: Field observations and diagnostic features of *powder-edged-speckled-greenshield sorediata* (Powder-edged Speckled Greenshield) on hardwood bark in Minnesota.
 tags: [lichen, powder-edged-speckled-greenshield, sorediata, foliose, macro, minnesota]
 keywords: "powder-edged-speckled-greenshield sorediata, Powder-edged Speckled Greenshield, speckled greenshield lichen, foliose bark lichen, Minnesota lichens"

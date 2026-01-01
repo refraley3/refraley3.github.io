@@ -7,98 +7,75 @@ Lichens map the surfaces of bark in finely tuned patterns—each species occupyi
 Sunlit ridges, shaded hollows, frost-catching fissures, and nutrient-enriched pockets all host their own specialists.  
 Together they form a quiet, living mosaic stitched into the trunk.
 
-[![Shared Bark — The Living Mosaic](/gallery/fungi/lichen/assets/rough-speckled-shield/E21A8044.jpg){: .cover role="img" aria-label="Shared Bark — The Living Mosaic"}](/gallery/fungi/lichen/){: .tile role="listitem"}
-**Shared Bark — The Living Mosaic**  
-_Four lichens—Rough Speckled Shield, Mealy Shadow, Candleflame, and Star Rosette—anchored together in a winter bark community._  
-{: .caption}
-
-Across this surface, a four-species assembly interacts in miniature:
-
-- the pale gray-green, speckled lobes of [Rough Speckled Shield](/gallery/fungi/lichen/rough-speckled-shield/)  
-- the soft, gray-green rosettes of [Mealy Shadow](/gallery/fungi/lichen/mealy-shadow/)  
-- the vivid yellow cushions of [Candleflame](/gallery/fungi/lichen/candelaria/)  
-- and the crisp white-rimmed rosettes of [Star Rosette](/gallery/fungi/lichen/star-rosette/)  
-
-Together they form a stable bark community where contrasting pigments and growth forms meet.
-
----
-
-## Bark Community Examples
-
-[![Candleflame with Rosettes and Shadow Lichen](/gallery/fungi/lichen/assets/candleflame/E21A8051-8055.jpg){: .cover role="img" aria-label="Candleflame with Rosettes and Shadow Lichen"}](/gallery/fungi/lichen/candelaria/){: .tile role="listitem"}
-**Candleflame with Rosettes and Shadow Lichen**  
-{: .caption}
-
-In **Candleflame with Rosettes and Shadow Lichen**, a bright flare of *Candelaria concolor* fills a hollow surrounded by the gray rosettes of *Physcia stellaris* and the darker matte patches of *Phaeophyscia orbicularis*. A trace of Powdery Shield appears above, revealing the fine-scale texture changes across the bark.
-
-Where the bark rises into a shallow ridge, pale foliose species gather into a cool-toned band. Star Rosette forms the most defined pattern here, its white-rimmed apothecia scattered across rounded gray lobes. Just below, a warm pocket of Candleflame anchors the composition with fine yellow soredia.
-
-This layered community appears most clearly in **Star Rosette with Candleflame and Powdery Companions**, where gray rosettes, golden cushions, and the soft blue-green of Powdery Shield settle into a single textured mosaic.
-
-[![Star Rosette with Candleflame and Powdery Companions](/gallery/fungi/lichen/assets/candleflame/E21A8072-8081.jpg){: .cover role="img" aria-label="Star Rosette with Candleflame and Powdery Companions"}](/gallery/fungi/lichen/star-rosette/)
-**Star Rosette with Candleflame and Powdery Companions**  
-{: .caption}
-
-[![Star Rosette with Candleflame Contrast](/gallery/fungi/lichen/assets/star-rosette/E21A8059-8071.jpg){: .cover role="img" aria-label="Star Rosette with Candleflame Contrast"}](/gallery/fungi/lichen/star-rosette/){: .tile role="listitem"}
-**Star Rosette with Candleflame Contrast**  
-{: .caption}
-
-[![Mealy Shadow Lichen5](/gallery/fungi/lichen/assets/mealy-shadow/E21A8055.jpg){: .cover role="img" aria-label="Mealy Shadow Lichen5"}](/gallery/fungi/lichen/mealy-shadow/){: .tile role="listitem"}
-**Mealy Shadow Lichen**  
-{: .caption}
-
-[![American Starburst](/gallery/fungi/lichen/assets/american-starburst/E21A8143.jpg){: .cover role="img" aria-label="American Starburst Lichen"}](/gallery/fungi/lichen/american-starburst/){: .tile role="listitem"}
-**American Starburst**  
-{: .caption}
-
-[![Powder-edged Speckled Greenshield on Bark](/gallery/fungi/lichen/assets/powder-edged-speckled-greenshield/E21A8082-8092.jpg){: .cover role="img" aria-label="Powder-edged Speckled Greenshield on hardwood bark"}](/gallery/fungi/lichen/powder-edged-speckled-greenshield/){: .tile role="listitem"}
-**Powder-edged Speckled Greenshield**  
-{: .caption}
-
----
-
 ## Species Pages
+
+For identification notes and comparative study, see the Lichen Field Notes.
 
 <div class="grid" role="list">
 
+[![Bare-bottomed Sunburst](/gallery/fungi/lichen/assets/bare-bottomed-sunburst/E21A8251A-56A-60A.jpg){: .cover role="img" aria-label="Bare-bottomed Sunburst"}](/gallery/fungi/lichen/bare-bottomed-sunburst/){: .tile role="listitem"}
+**Bare-bottomed Sunburst**  
+[*Xanthomendoza fulva*](/field-notes/lichen/xanthomendoza-fulva/)  
+{: .caption}
+
 [![British Soldier Lichen](/gallery/fungi/lichen/assets/british-soldier/D79A3304.jpg){: .cover role="img" aria-label="British Soldier Lichen"}](/gallery/fungi/lichen/british-soldier/){: .tile role="listitem"}
 **British Soldier Lichen**  
-_Cladonia cristatella_  
+[_Cladonia cristatella_](/field-notes/lichen/cladonia-cristatella/)  
 {: .caption}
 
-[![Candleflame (Candelaria) Lichen](/gallery/fungi/lichen/assets/candleflame/E21A8057.jpg){: .cover role="img" aria-label="Candleflame (Candelaria) Lichen"}](/gallery/fungi/lichen/candleflame/){: .tile role="listitem"}
+[![Candleflame (Candelaria) Lichen](/gallery/fungi/lichen/assets/candleflame/E21A8057C.jpg){: .cover role="img" aria-label="Candleflame (Candelaria) Lichen"}](/gallery/fungi/lichen/candleflame/){: .tile role="listitem"}
 **Candleflame (Candelaria) Lichen**  
-_Candelaria concolor_  
+[_Candelaria concolor_](/field-notes/lichen/candelaria-concolor/)  
 {: .caption}
 
-[![Common Greenshield](/gallery/fungi/lichen/assets/common-greenshield/E21A6505.jpg){: .cover role="img" aria-label="Common Greenshield"}](/gallery/fungi/lichen/common-greenshield/){: .tile role="listitem"}
+[![Common Greenshield](/gallery/fungi/lichen/assets/common-greenshield/E21A6505.jpg){: .cover role="img" aria-label="Common Greenshield"}](/gallery/fungi/lichen/common-greenshield/){: .tile role="listitem" style="height: 200px"}
 **Common Greenshield**  
-_Flavoparmelia caperata_  
+[_Flavoparmelia caperata_](/field-notes/lichen/flavoparmelia-caperata/)  
 {: .caption}
 
-[![Common Sunburst](/gallery/fungi/lichen/assets/common-sunburst/E21A6511.jpg){: .cover role="img" aria-label="Common Sunburst"}](/gallery/fungi/lichen/common-sunburst/){: .tile role="listitem"}
-**Common Sunburst**  
-_Xanthoria parietina_  
+[![Powdery Sunburst](/gallery/fungi/lichen/assets/powdery-sunburst/E21A8109-8136.jpg){: .cover role="img" aria-label="Powdery Sunburst"}](/gallery/fungi/lichen/powdery-sunburst/){: .tile role="listitem" style="height: 200px"}
+**Powdery Sunburst**  
+[_Xanthomendoza ulophyllodes_](/field-notes/lichen/xanthomendoza-ulophyllodes/)  
 {: .caption}
 
-[![Rough Speckled Shield](/gallery/fungi/lichen/assets/rough-speckled-shield/E21A8142.jpg){: .cover role="img" aria-label="American Starburst"}](/gallery/fungi/lichen/rough-speckled-shield/){: .tile role="listitem"}
+[![Eastern Speckled Shield](/gallery/fungi/lichen/assets/eastern-speckled-shield/E21A8593.jpg){: .cover role="img" aria-label="Common Sunburst"}](/gallery/fungi/lichen/eastern-speckled-shield/){: .tile role="listitem" style="height: 200px; vertical-align: center;"}
+**Eastern Speckled Shield**  
+[_Punctelia bolliana_](/field-notes/lichen/punctelia-bolliana/)  
+{: .caption}
+
+[![Hoary Rosette](/gallery/fungi/lichen/assets/hoary-rosette/E21A8059-8071.jpg){: .cover role="img" aria-label="Hoary Rosette"}](/gallery/fungi/lichen/hoary-rosette/){: .tile role="listitem" style="height: 200px"}
+**Hoary Rosette**  
+[_Physcia aipolia_](/field-notes/lichen/physcia-aipolia/)  
+{: .caption}
+
+[![Hooded Sunburst](/gallery/fungi/lichen/assets/hooded-sunburst/E21A8141.jpg){: .cover role="img" aria-label="Hooded Sunburst"}](/gallery/fungi/lichen/hooded-sunburst/){: .tile role="listitem" style="height: 200px"}
+**Hooded Sunburst**  
+[*Xanthomendoza fallax*](/field-notes/lichen/xanthomendoza-fallax/)  
+{: .caption}
+
+[![Powdered-Sunshine](/gallery/fungi/lichen/assets/powdered-sunshine/E21A8553.jpg){: .cover role="img" aria-label="Common Sunburst"}](/gallery/fungi/lichen/powdered-sunshine/){: .tile role="listitem" style="height: 200px"}
+**Powdered-Sunshine**  
+[_Vulpicida pinastri_](/field-notes/lichen/vulpicida-pinastri/)  
+{: .caption}
+
+[![Rough Speckled Shield](/gallery/fungi/lichen/assets/rough-speckled-shield/E21A8224.jpg){: .cover role="img" aria-label="American Starburst"}](/gallery/fungi/lichen/rough-speckled-shield/){: .tile role="listitem"}
 **Rough Speckled Shield**  
-_Punctelia rudecta_  
+[*Punctelia rudecta*](/field-notes/lichen/punctelia-rudecta/)
 {: .caption}
 
 [![Mealy Shadow Lichen close-up](/gallery/fungi/lichen/assets/mealy-shadow/E21A8055.jpg){: .cover role="img" aria-label="Mealy Shadow Lichen close-up"}](/gallery/fungi/lichen/mealy-shadow/){: .tile role="listitem"}
 **Mealy Shadow Lichen**  
-_Phaeophyscia orbicularis_  
+[*Phaeophyscia orbicularis*](/field-notes/lichen/phaeophyscia-orbicularis/)
 {: .caption}
 
-[![Powdery Shield and Candleflame](/gallery/fungi/lichen/assets/powdery-shield/E21A1081.jpg){: .cover role="img" aria-label="Powdery Shield and Candleflame"}](/gallery/fungi/lichen/powdery-shield/){: .tile role="listitem"}
+[![Powdery Shield and Candleflame](/gallery/fungi/lichen/assets/powdery-shield/E21A8187.jpg){: .cover role="img" aria-label="Powdery Shield and Candleflame"}](/gallery/fungi/lichen/powdery-shield/){: .tile role="listitem"}
 **Powdery Shield**  
-_Physcia millegrana_  
+[*Physcia millegrana*](/field-notes/lichen/physcia-millegrana/)
 {: .caption}
 
 [![Star Rosette with Candleflame Contrast](/gallery/fungi/lichen/assets/star-rosette/E21A8059-8071.jpg){: .cover role="img" aria-label="Star Rosette with Candleflame Contrast"}](/gallery/fungi/lichen/star-rosette/){: .tile role="listitem"}
 **Star Rosette**  
-_Physcia stellaris_  
+[*Physcia stellaris*](/field-notes/lichen/physcia-stellaris/)
 {: .caption}
 
 [![Powder-edged Speckled Greenshield on Bark](/gallery/fungi/lichen/assets/powder-edged-speckled-greenshield/E21A8082-8092.jpg){: .cover role="img" aria-label="Powder-edged Speckled Greenshield on hardwood bark"}](/gallery/fungi/lichen/powder-edged-speckled-greenshield/){: .tile role="listitem"}
@@ -116,8 +93,17 @@ _Flavopunctelia soredica_
 
 ## Field Notes
 
-- [Lichen Identification](/field-notes/lichen-identification/)
-- [Four Common Bark Lichen Comparison](/field-notes/powdery-hammered-mealy-greenshield-grid/)
-- [Minnesota Lichen Guide](/field-notes/minnesota-lichen-guide/)
+- [Lichen Index](/field-notes/lichen/index/)
+- [Lichen Identification](/field-notes/lichen/lichen-identification/)
+- [Four Common Bark Lichen Comparison](/field-notes/lichen/powdery-hammered-mealy-greenshield-grid/)
+- [Minnesota Lichen Guide](/field-notes/lichen/minnesota-lichen-guide/)
 
 ---
+
+## References
+
+- [Natural Resources Conservation Service - U.S. Department of Agriculture](https://www.nrcs.usda.gov/)
+- [iNaturalist](https://www.inaturalist.org/home)
+- [Minnesota Seasons.com](http://www.minnesotaseasons.com/)
+- [Consortium of Lichen Herbaria](https://lichenportal.org/portal/index.php)
+
