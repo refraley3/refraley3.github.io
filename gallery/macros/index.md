@@ -24,3 +24,32 @@ E21A8057 • Size: 2208×1472
 {: .caption}
 
 ---
+
+[![Apothecium Close-up](/gallery/fungi/lichen/assets/common-greenshield/E21A8248A.jpg){: .cover role="img" aria-label="Apothecium close-up"}
+**Apothecium Close-up**](/gallery/fungi/lichen/common-greenshield/#e21a8248A)  
+_A single, well-developed laminal apothecium._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/13 • Shutter 15 s  
+E21A8248A • Size: 1373x2059  
+{: .caption}
+
+[![Apothecia Among Folded Lobes](/gallery/fungi/lichen/assets/common-greenshield/E21A8248B.jpg){: .cover role="img" aria-label="Apothecia Among Folded Lobes"}
+**Apothecia Among Folded Lobes**](/gallery/fungi/lichen/common-greenshield/#e21a8248B)  
+_Multiple laminal apothecia embedded within rugose lobes._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/13 • Shutter 15 s  
+E21A8248B • Size: 1326x884  
+{: .caption}  
+
+[![Apothecium with Pale Thalline Margin](/gallery/fungi/lichen/assets/common-greenshield/E21A8248C.jpg){: .cover role="img" aria-label="Apothecium with Pale Thalline Margin"}
+**Apothecium with Pale Thalline Margin**](/gallery/fungi/lichen/common-greenshield/#e21a8248C)  
+_Rare laminal apothecia with brown discs and pale thalline margins._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/13 • Shutter 15 s  
+E21A8248C • Size: 1694x1129  
+{: .caption}  
+
+---

@@ -4,9 +4,59 @@ title: Home
 ---
 # Gallery  
 
-_Browse by category._  
-Animals • Fungi • Insects • Landscapes • Macros • Plants.  
-{:.caption}
+## Lichens
+
+This section highlights a small group of visually distinctive and ecologically representative lichens that serve as reliable entry points for identification and comparison. Each species is common enough to encounter, distinctive enough to recognize with practice, and well-documented in the Gallery and Field Notes.
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
+
+[![Common Greenshield](/gallery/fungi/lichen/assets/common-greenshield/E21A6505.jpg){: .cover role="img" aria-label="Common Greenshield Lichen"}](/gallery/fungi/lichen/common-greenshield/){: .tile role="listitem"}
+**Common Greenshield**  
+_Flavoparmelia caperata_  
+{: .caption}
+A large, pale foliose lichen of mature hardwood bark, establishing scale, lobe structure, and laminal apothecia.
+
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+[![Rough Speckled Shield](/gallery/fungi/lichen/assets/rough-speckled-shield/E21A8224.jpg){: .cover role="img" aria-label="Rough Speckled Shield Lichen"}](/gallery/fungi/lichen/rough-speckled-shield/){: .tile role="listitem"}
+**Rough Speckled Shield**  
+_Punctelia rudecta_  
+{: .caption}
+A broad foliose shield marked by punctate pseudocyphellae, introducing surface texture as a key diagnostic feature.
+
+</div>
+
+</div>
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
+
+[![Hooded Sunburst](/gallery/fungi/lichen/assets/hooded-sunburst/E21A8141.jpg){: .cover role="img" aria-label="Hooded Sunburst Lichen"}](/gallery/fungi/lichen/hooded-sunburst/){: .tile role="listitem"}
+**Hooded Sunburst**  
+_Xanthomendoza fallax_  
+{: .caption}
+A vivid orange foliose lichen with frequent apothecia, anchoring color-based identification.
+
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+[![Powdery Shield](/gallery/fungi/lichen/assets/powdery-shield/E21A8187.jpg){: .cover role="img" aria-label="Powdery Shield Lichen"}](/gallery/fungi/lichen/powdery-shield/){: .tile role="listitem"}
+**Powdery Shield**  
+_Physcia millegrana_  
+{: .caption}
+A compact foliose lichen with a matte, powder-dusted surface, defined by abundant soredia rather than prominent apothecia.
+
+</div>
+
+</div>
+
+### _Browse by category._  
 
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 
@@ -15,15 +65,6 @@ Animals • Fungi • Insects • Landscapes • Macros • Plants.
 [![Rain Held Close](/gallery/macros/assets/rain/E21A0028.jpg){: .cover role="img" aria-label="Rain Held Close"}  
 **Rain Held Close**  
 _A quiet world distilled into droplets._  
-](/gallery/){: .tile role="listitem"}
-
-</div>
-
-<div class="tile" style="margin: 15px;">
-
-[![Candleflame in the Company of Shadows](/gallery/fungi/lichen/assets/candleflame/E21A8057.jpg){: .cover role="img" aria-label="Candleflame in the Company of Shadows"}  
-**Lichen - Candleflame in the Company of Shadows**  
-_A winter bark community of color and form — where four lichens share space, light, and time._  
 ](/gallery/){: .tile role="listitem"}
 
 </div>
@@ -100,13 +141,9 @@ Stories and IDs from recent walks.
 
 </div>
 
-</div>
-
-<div class="grid" role="list" style="justify-content: center; text-align: center;">
-
 <div class="tile" style="margin: 15px;">
 
-[![Photography Notes](/gallery/lens-comparison.jpg){: .cover role="img" aria-label="Photography Notes"}  
+[![Photography Notes](/assets/images/under-construction_wht.png){: .cover role="img" aria-label="Photography Notes"}  
 **Photography Notes**  
 _Equipment, tools, and techniques._  
 Cameras, lenses, and software.  

@@ -296,6 +296,18 @@ h6 + p {
   margin-left: 0.5rem;
 }
 
+.taxonomy-heading {
+  text-align: center;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.taxonomy-last {
+  margin-bottom: 1.5rem;
+}
+
 
 .card table {
   background-color: #343a40; /* Slightly lighter than bg-dark */

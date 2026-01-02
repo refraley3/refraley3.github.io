@@ -5,8 +5,7 @@ description: Gallery images of *Flavopunctelia soredica* (Powder-edged Speckled 
 tags: [lichen, Flavopunctelia soredica, speckled-greenshield, lichen-photography]
 ---
 
-## Powder-edged Speckled Greenshield  
-[*Flavopunctelia soredica*](/field-notes/lichen/flavopunctelia-soredica/)  
+## [*Flavopunctelia soredica*](/field-notes/lichen/flavopunctelia-soredica/)  
 {: .taxonomy-last}
 
 **Powder-edged Speckled Greenshield (*Flavopunctelia soredica*)** is a common foliose bark lichen with a pale yellow-green thallus, conspicuous white pseudocyphellae, and powdery soralia concentrated along lobe margins. It commonly forms loose rosettes or irregular patches on hardwoods and contributes to mixed-species bark mosaics.

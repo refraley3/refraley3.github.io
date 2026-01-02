@@ -6,7 +6,7 @@ title: Fungi
 
 <div class="grid" role="list">
 
-[![Lichen](/gallery/fungi/lichen/assets/american-starburst/E21A8044.jpg){: .cover role="img" aria-label="Lichen"}  
+[![Lichen](/gallery/fungi/lichen/assets/common-greenshield/E21A6505.jpg){: .cover role="img" aria-label="Lichen"}  
 **Lichen**  
 _Indicators of healthy forest and clean air._  
 Lichens are unique symbiotic organisms composed of fungi and algae.  

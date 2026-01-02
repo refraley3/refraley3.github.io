@@ -80,7 +80,7 @@ For identification notes and comparative study, see the Lichen Field Notes.
 
 [![Powder-edged Speckled Greenshield on Bark](/gallery/fungi/lichen/assets/powder-edged-speckled-greenshield/E21A8082-8092.jpg){: .cover role="img" aria-label="Powder-edged Speckled Greenshield on hardwood bark"}](/gallery/fungi/lichen/powder-edged-speckled-greenshield/){: .tile role="listitem"}
 **Powder-Edged Speckled Greenshield**
-_Flavopunctelia soredica_ 
+[*Flavopunctelia soredica*](/field-notes/lichen/flavopunctelia-soredica/)
 {: .caption}
 
 </div>

@@ -116,10 +116,15 @@ This guide compares four common or commonly planted pines in Minnesota and the U
 
 <div class="tile" style="margin: 15px;">
 
-[![Lichen Study](/gallery/fungi/lichen/assets/american-starburst/E21A8044-RevA-1.jpg){: .cover role="img" aria-label="Lichen Study" style="height: 200px;"}  
+[![Lichen Study](/gallery/fungi/lichen/assets/eastern-speckled-shield/E21A8044-RevA-1.jpg){: .cover role="img" aria-label="Lichen Study" style="height: 200px;"}  
 **Lichen Study**  
 _Field guides to lichen Study._
 ](/field-notes/lichen/){: .tile role="listitem"}
+
+[![Comparing Four Lichen Species](/gallery/fungi/lichen/assets/candleflame/E21A8051-8055-1.jpg){: .cover role="img" aria-label="Lichen Study" style="height: 200px;"}  
+**Comparing Four Lichen Species**  
+_Field guides to lichen Study._
+](/field-notes/lichen/comparing-four-lichen-species/){: .tile role="listitem"}
 
 </div>
 

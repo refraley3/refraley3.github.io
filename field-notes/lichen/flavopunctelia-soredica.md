@@ -1,5 +1,5 @@
 ---
-layout: detail
+layout: photo
 title: Flavopunctelia soredica
 description: Field notes and identification details for *Flavopunctelia soredica* (Powder-edged Speckled Greenshield) based on regional observations.
 tags: [lichen, Flavopunctelia soredica, speckled-greenshield, Flavopunctelia, foliose, bark-lichen]

@@ -47,7 +47,7 @@ Mammals reveal adaptability of woodland life.
 
 <div class="grid" role="list">
 
-[![Lichen Ember Cluster](/gallery/fungi/lichen/assets/common-sunburst/E21A6511.jpg){: .cover role="img" aria-label="Lichen Ember Cluster"}
+[![Lichen Ember Cluster](/gallery/fungi/lichen/assets/bare-bottomed-sunburst/E21A6511.jpg){: .cover role="img" aria-label="Lichen Ember Cluster"}
 **Lichen Ember Cluster**  
 _A bright scatter of Sunburst lobes burning through a matrix of gray-green foliose neighbors._  
 Lichens are unique symbiotic organisms composed of fungi and algae.  
