@@ -1,6 +1,6 @@
 ---
 layout: photo
-title: Physcia millegrana
+title: Powdery Shield
 description: Gallery images of *Physcia millegrana* (Powdery Shield), photographed in Minnesota.
 tags: [lichen, Physcia millegrana, powdery-shield, lichen-photography]
 ---
@@ -68,60 +68,3 @@ _E21A8187_ • Size: (see original)
 {: .caption}
 
 ---
-
-## Description
-
-**Powdery Shield Lichen** is a small, pale gray foliose species with a characteristic **matte, dusted surface**. This look comes from abundant **soredia**, tiny powder-like reproductive granules that spread easily across bark. It forms small, loosely organized rosettes or diffuse patches, often blending into the bark more subtly than brighter species like [Candleflame](/gallery/fungi/lichen/candleflame/) or [Common Sunburst](/gallery/fungi/lichen/common-sunburst/).
-
-Typical companions on Minnesota hardwoods include:
-
-- [Candleflame (*Candelaria concolor*)](/gallery/fungi/lichen/candleflame/)  
-- [Mealy Shadow (*Phaeophyscia orbicularis*)](/gallery/fungi/lichen/mealy-shadow/)  
-- [Star Rosette (*Physcia stellaris*)](/gallery/fungi/lichen/star-rosette/)  
-- [Common Greenshield (*Flavoparmelia caperata*)](/gallery/fungi/lichen/common-greenshield/)
-
-Powdery Shield is an **air-quality indicator**, thriving in areas with clean, well-circulated air.
-
----
-
-## Identification
-
-### Key Features
-
-- **Color:** Pale gray, blue-gray, or slightly olive  
-- **Surface:** Frosted or powder-dusted appearance from abundant soredia  
-- **Lobes:** Extremely small (0.2–1.0 mm), rounded, tightly overlapping  
-- **Reproduction:** Apothecia rare or absent — dispersal is primarily by soredia  
-- **Underside:** Pale, with short, simple rhizines; edges often slightly uplifted  
-- **Growth Form:** Small foliose rosettes or irregular patches, often intermixing with other bark lichens  
-
-### Distinguishing from Similar Species
-
-- **vs. *Physcia dubia*:** Less uniformly dusted, forms tighter rosettes with slightly shinier surface.  
-- **vs. *Physcia tenella*:** Lobes longer, soredia at tips; may develop apothecia. Powdery Shield lacks apothecia and appears uniformly dusty.  
-- **vs. *Physcia adscendens*:** Never forms hooded lobe tips; consistently powder-dusted surface.  
-- **vs. *Physcia caesia*:** More blue-gray overall; Powdery Shield is paler with softer, more granular surface.  
-- **vs. *Phaeophyscia* species:** Noticeably lighter, finer, and more powder-coated than darker Phaeophyscia.
-
----
-
-## Habitat and Ecology
-
-Powdery Shield grows on:
-
-- **hardwood bark** (maple, elm, ash, oak)  
-- **twigs and young branches**  
-- **old fence rails and posts**  
-- occasionally on weathered outdoor wood  
-
-It prefers **open or lightly shaded habitats** where bark dries intermittently and receives scattered sunlight. Its sensitivity to sulfur and nitrogen pollution makes it a valuable **indicator of clean air**.
-
----
-
-## Related Species & Resources
-
-- [Candleflame (*Candelaria concolor*)](/gallery/fungi/lichen/candleflame/)  
-- [Common Greenshield (*Flavoparmelia caperata*)](/gallery/fungi/lichen/common-greenshield/)  
-- [Star Rosette (*Physcia stellaris*)](/gallery/fungi/lichen/star-rosette/)  
-- [Common Sunburst (*Xanthoria parietina*)](/gallery/fungi/lichen/common-sunburst/)  
-- [Four Common Bark Lichens Comparison](/field-notes/lichen/comparing-four-lichen-species/)

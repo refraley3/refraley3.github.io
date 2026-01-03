@@ -133,7 +133,7 @@ _Bleeding Bonnet — Day 1, Early Infection._
 
 <div class="tile" style="margin: 15px;">
 
-[![Field Notes](/gallery/fungi/mushrooms/assets/slimespike/SporePrint-Slimespike.jpg){: .cover role="img" aria-label="Field Notes" style="width: 500px;"}  
+[![Field Notes](/gallery/fungi/mushrooms/assets/slimespike/SporePrint-Slimespike.jpg){: .cover role="img" aria-label="Field Notes" style="width: 380px;"}  
 **Field Notes**  
 _Seasonal observations._  
 Stories and IDs from recent walks.  
@@ -141,9 +141,19 @@ Stories and IDs from recent walks.
 
 </div>
 
+<div class="tile" style="margin: 15px; text-align: left;">
+
+[![Lichen Field Notes](/gallery/fungi/lichen/assets/eastern-speckled-shield/E21A8044-RevA-1.jpg){: .cover role="img" aria-label="Lichen Field Notes"}  
+**Lichen Field Notes**  
+_Identification details, growth forms, and diagnostic features._  
+](/field-notes/lichen/index/){: .tile role="listitem"}
+Species-level observations focus on growth form, surface features, and substrates, supporting accurate identification alongside the Gallery images.  
+
+</div>
+
 <div class="tile" style="margin: 15px;">
 
-[![Photography Notes](/assets/images/under-construction_wht.png){: .cover role="img" aria-label="Photography Notes"}  
+[![Photography Notes](/assets/images/under-construction_wht.png){: .cover role="img" aria-label="Photography Notes" style="width: 200px;"}  
 **Photography Notes**  
 _Equipment, tools, and techniques._  
 Cameras, lenses, and software.  

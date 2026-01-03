@@ -10,7 +10,7 @@ keywords: "Common Greenshield Lichen, Flavoparmelia caperata, Minnesota lichens,
 
 A common foliose lichen of mature hardwood bark, recognized by its pale yellow-green color and broad, overlapping lobes.
 
-Further identification notes and comparative context for this species are explored in the [Lichen Field Notes](/field-notes/lichen/common-greenshield/).
+Further identification notes and comparative context for this species are explored in the [Lichen Field Notes](/field-notes/lichen/flavoparmelia-caperata).
 
 
 ![Greenshield Circle](/gallery/fungi/lichen/assets/common-greenshield/E21A6505.jpg){: .cover role="img" aria-label="Greenshield Circle" id="e21a6505"}

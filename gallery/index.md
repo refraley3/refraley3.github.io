@@ -47,13 +47,13 @@ Mammals reveal adaptability of woodland life.
 
 <div class="grid" role="list">
 
-[![Lichen Ember Cluster](/gallery/fungi/lichen/assets/bare-bottomed-sunburst/E21A6511.jpg){: .cover role="img" aria-label="Lichen Ember Cluster"}
-**Lichen Ember Cluster**  
-_A bright scatter of Sunburst lobes burning through a matrix of gray-green foliose neighbors._  
-Lichens are unique symbiotic organisms composed of fungi and algae.  
+[![Lichen Community on Tree Bark](/gallery/fungi/lichen/assets/common-greenshield/E21A6505.jpg){: .cover role="img" aria-label="Mixed lichen community on tree bark"}
+**Lichens**  
+_Foliose and crustose lichens forming a layered communities._  
+Lichens are symbiotic organisms growing slowly across bark, stone, and soil.  
 ](/gallery/fungi/lichen/){: .tile role="listitem"}
 
-[![Rust](/gallery/fungi/rust/assets/E21A1588.jpg){: .cover role="img" aria-label="Rust"}  
+[![Rust](/gallery/fungi/rust/assets/E21A1588.jpg){: .cover role="img" aria-label="Rust"}
 **Rust**  
 _Spores carried by wind between hosts._  
 A striking fungal infection that adorns ash leaves and young twigs with vivid orange pustules.  
@@ -89,6 +89,8 @@ _Scenes from Minnesota’s fields and parks._
 Light, horizon, and the quiet geometry of open space.  
 ](/gallery/landscapes/){: .tile role="listitem"}
 
+</div>
+
 ---
 
 ### Macros
@@ -109,13 +111,13 @@ After the storm, an oak leaf becomes a basin for the smallest reflections. Beads
 
 <div class="grid" role="list">
 
-[![Ferns](/assets/images/under-construction_wht.png){: .cover role="img" aria-label="Ferns" style="width: 200px; height=300 px;"}  
+[![Ferns](/gallery/plants/ferns/assets/E21A7941.jpg){: .cover role="img" aria-label="Ferns" style="width: 800px; height=300 px;"}  
 **Ferns**  
 _Fronds in filtered light._  
 Graceful green architecture unfolding through shade.  
 ](/gallery/plants/ferns/){: .tile role="listitem"}
 
-[![Trees](/gallery/plants/trees/assets/red-pine/E21A6945.jpg){: .cover role="img" aria-label="Trees" style="height: 300px;"}  
+[![Trees](/gallery/plants/trees/assets/austrian-pine/E21A7573.jpg){: .cover role="img" aria-label="Trees" style="height: 300px;"}  
 **Trees**  
 _Canopy and character._  
 From bark to crown, stories written in woodgrain.  
