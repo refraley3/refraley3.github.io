@@ -7,6 +7,14 @@ Lichens map the surfaces of bark in finely tuned patterns—each species occupyi
 Sunlit ridges, shaded hollows, frost-catching fissures, and nutrient-enriched pockets all host their own specialists.  
 Together they form a quiet, living mosaic stitched into the trunk.
 
+## Nitrogen-Enriched Bark
+
+When bark becomes enriched with reactive nitrogen — from bird perching, agricultural drift, roadside exposure, or urban air — the lichen community shifts. Bright orange and yellow species thrive, while more sensitive lichens disappear.
+
+[![Nitrogen Bark Community](/gallery/fungi/lichen/assets/nitrogen-bark-community/E21A8928-8941.jpg){: .cover role="img" aria-label="Nitrogen-enriched bark community"}](/gallery/fungi/lichen/nitrogen-bark-community/){: .tile role="listitem"}
+
+This assemblage shows a classic **nitrogen bark community**, where nitrophile and nitrogen-tolerant species coexist on oak bark.
+
 ## Species Pages
 
 For identification notes and comparative study, see the Lichen Field Notes.

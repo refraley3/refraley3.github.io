@@ -4,7 +4,7 @@ title: Home
 ---
 # Gallery  
 
-### _Browse by category._  
+## _Browse by category._  
 
 [![Rain Held Close](/gallery/macros/assets/rain/E21A0028.jpg){: .cover role="img" aria-label="Rain Held Close"}  
 **Macros**  

@@ -26,6 +26,9 @@ For identification details and comparison with other similar species, see the **
 
 ## Gallery
 
+classic nitrogen-enriched oak bark assemblage
+mixed nitrogen-tolerant bark community
+
 ![Hooded Rosette](/gallery/fungi/lichen/assets/hooded-sunburst/E21A8141.jpg)
 {: .cover role="img" aria-label="Hooded Rosette" id="e21a8141"}
 **Hooded Rosette**  
