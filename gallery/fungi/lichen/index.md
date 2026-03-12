@@ -71,7 +71,7 @@ For identification notes and comparative study, see the Lichen Field Notes.
 [*Punctelia rudecta*](/field-notes/lichen/punctelia-rudecta/)
 {: .caption}
 
-[![Mealy Shadow Lichen close-up](/gallery/fungi/lichen/assets/mealy-shadow/E21A8055.jpg){: .cover role="img" aria-label="Mealy Shadow Lichen close-up"}](/gallery/fungi/lichen/mealy-shadow/){: .tile role="listitem"}
+[![Mealy Shadow on Northern Red Oak](/gallery/fungi/lichen/assets/mealy-shadow/E21A9242-45.jpg){: .cover role="img" aria-label="Mealy Shadow on Northern Red Oak"}](/gallery/fungi/lichen/mealy-shadow/){: .tile role="listitem"}
 **Mealy Shadow Lichen**  
 [*Phaeophyscia orbicularis*](/field-notes/lichen/phaeophyscia-orbicularis/)
 {: .caption}

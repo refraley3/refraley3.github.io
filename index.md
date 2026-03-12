@@ -6,6 +6,13 @@ title: Home
 
 ## _Browse by category._  
 
+A selection of images from the Gallery, organized by category. Each image links to a dedicated page with more photos and details about the subject. The categories below represent a range of organisms and landscapes, showcasing the diversity of life and environments captured in the Gallery.
+
+[![Cinnabar Cushions in a Lichen Garden](/gallery/fungi/assets/red-tree-brain-fungus/E21A9617-29-1.jpg){: .cover role="img" aria-label="RCinnabar Cushions in a Lichen Garden" id="e21a9617-29-1"}  
+**Cinnabar Cushions in a Lichen Garden**  
+_Clusters of Peniophora rufa forming cinnabar cushions among foliose and crustose lichens on oak bark._](/gallery/fungi/red-tree-brain-fungus/)  
+{: .caption}
+
 [![Rain Held Close](/gallery/macros/assets/rain/E21A0028.jpg){: .cover role="img" aria-label="Rain Held Close"}  
 **Macros**  
 _A quiet world distilled into droplets._  
@@ -69,30 +76,76 @@ _Bleeding Bonnet — Day 1, Early Infection._
 
 This section highlights a small group of visually distinctive and ecologically representative lichens that serve as reliable entry points for identification and comparison. Each species is common enough to encounter, distinctive enough to recognize with practice, and well-documented in the Gallery and Field Notes.
 
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
 
-[![Hooded Sunburst](/gallery/fungi/lichen/assets/hooded-sunburst/E21A8141.jpg){: .cover role="img" aria-label="Hooded Sunburst Lichen"}](/gallery/fungi/lichen/hooded-sunburst/){: .tile role="listitem"}
+<div class="tile" style="margin: 15px;">
+
+[![Physcia and Sunburst Interaction](/gallery/fungi/lichen/assets/nitrogen-bark-community/E21A8928-8941B.jpg){: .cover role="img" aria-label="Physcia and Hooded Sunburst on enriched bark" id="e21a8928-8941b" style="height: 533px;"}](/gallery/fungi/lichen/){: .tile role="listitem"}
+**Physcia and Sunburst Interaction**  
+_Gray foliose *Physcia* species partially overlapped by vivid Hooded Sunburst._  
+{: .caption}
+
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+[![Hooded Sunburst](/gallery/fungi/lichen/assets/hooded-sunburst/E21A8141.jpg){: .cover role="img" aria-label="Hooded Sunburst Lichen" style="height: 533px;"}](/gallery/fungi/lichen/){: .tile role="listitem"}
 **Hooded Sunburst**  
 _Xanthomendoza fallax_  
 A vivid orange foliose lichen with frequent apothecia, anchoring color-based identification.
 {: .caption}
 
-[![Powdery Shield](/gallery/fungi/lichen/assets/powdery-shield/E21A8187.jpg){: .cover role="img" aria-label="Powdery Shield Lichen"}](/gallery/fungi/lichen/powdery-shield/){: .tile role="listitem"}
+</div>
+
+</div>
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
+
+[![Mealy Shadow on Northern Red Oak](/gallery/fungi/lichen/assets/mealy-shadow/E21A9242-45.jpg){: .cover role="img" aria-label="Mealy Shadow on Northern Red Oak" style="height: 533px;"}](/gallery/fungi/lichen/){: .tile role="listitem"}
+**Mealy Shadow on Northern Red Oak**  
+_Broad gray rosette crowded with brown apothecia_  
+Numerous brown apothecia are scattered across the lobes, while sparse laminal soredia appear as pale granular patches on the upper surface.
+{: .caption}
+
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+[![Powdery Shield](/gallery/fungi/lichen/assets/powdery-shield/E21A8187.jpg){: .cover role="img" aria-label="Powdery Shield Lichen" style="height: 533px; justify-content: right;"}](/gallery/fungi/lichen/){: .tile role="listitem"}
 **Powdery Shield**  
 _Physcia millegrana_  
 A compact foliose lichen with a matte, powder-dusted surface, defined by abundant soredia rather than prominent apothecia.
 {: .caption}
 
-[![Common Greenshield](/gallery/fungi/lichen/assets/common-greenshield/E21A6505.jpg){: .cover role="img" aria-label="Common Greenshield Lichen"}](/gallery/fungi/lichen/common-greenshield/){: .tile role="listitem"}
+</div>
+
+</div>
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
+
+[![Common Greenshield](/gallery/fungi/lichen/assets/common-greenshield/E21A6505.jpg){: .cover role="img" aria-label="Common Greenshield Lichen" style="height: 533px;"}](/gallery/fungi/lichen/){: .tile role="listitem"}
 **Common Greenshield**  
 _Flavoparmelia caperata_  
 A large, pale foliose lichen of mature hardwood bark, establishing scale, lobe structure, and laminal apothecia.
 {: .caption}
 
-[![Rough Speckled Shield](/gallery/fungi/lichen/assets/rough-speckled-shield/E21A8224.jpg){: .cover role="img" aria-label="Rough Speckled Shield Lichen"}](/gallery/fungi/lichen/rough-speckled-shield/){: .tile role="listitem"}
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+[![Rough Speckled Shield](/gallery/fungi/lichen/assets/rough-speckled-shield/E21A8224.jpg){: .cover role="img" aria-label="Rough Speckled Shield Lichen" style="height: 533px;"}](/gallery/fungi/lichen/){: .tile role="listitem"}
 **Rough Speckled Shield**  
 _Punctelia rudecta_  
 A broad foliose shield marked by punctate pseudocyphellae, introducing surface texture as a key diagnostic feature.  
 {: .caption}
+
+</div>
+
+</div>
 
 ---
 

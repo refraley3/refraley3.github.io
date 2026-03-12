@@ -6,6 +6,12 @@ title: Field Notes
 Seasonal observations, IDs, and stories.
 {:.caption}
 
+### [Fungi](/field-notes/fungi/)  
+Observational notes on fungi encountered in the field, including wood-decay fungi, rusts, and other macrofungi documented through photography.
+
+### [Lichens](/field-notes/lichen/)  
+Field notes and identification details for lichens observed during field photography, focusing on visual characters and habitat.
+
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 
 <div class="tile" style="margin: 15px;">

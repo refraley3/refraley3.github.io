@@ -17,6 +17,18 @@ This Gallery page focuses on **visual form, surface texture, and growth habit**.
 
 ## Gallery
 
+### Hoary Rosette — Mature Colony
+
+![Hoary Rosette Lichen mature colony](/gallery/fungi/lichen/assets/hoary-rosette/E21A9145.jpg){: .cover role="img" aria-label="Hoary Rosette Lichen with abundant apothecia on bark"}
+**Hoary Rosette Lichen Mature Colony**
+_Physcia aipolia with abundant apothecia on bark_  
+Camera: Canon EOS 5D Mk IV
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/13 • Shutter 1/200 s
+_E21A9145_ • Size: 1500x1000  
+{: .caption}
+A well-developed colony of **Hoary Rosette Lichen (*Physcia aipolia*)** showing numerous dark apothecia with pale rims scattered across a pale gray, maculate thallus. The compact rosettes contrast strongly with adjacent yellow Teloschistaceae, illustrating how *Physcia aipolia* often occurs within mixed bark communities while remaining readily identifiable by its abundant fruiting bodies.
+
 ![Hoary Rosette Community](/gallery/fungi/lichen/assets/hoary-rosette/E21A8059-8071.jpg){: .cover role="img" aria-label="Hoary Rosette Community" id="e21a8059-8071"}
 **Hoary Rosette Community**  
 _Mature Physcia aipolia among mixed bark lichens_

@@ -1,9 +1,9 @@
 ---
 layout: photo
 title: Phaeophyscia orbicularis
-description: Field notes and identification details for *Phaeophyscia orbicularis* (Brown Rosette Lichen) based on Research Grade observations in Minnesota.
+description: Field notes and identification details for *Phaeophyscia orbicularis* (Mealy Shadow Lichen) based on Research Grade observations in Minnesota.
 tags: [lichen, Phaeophyscia orbicularis, mealy shadow lichen, Phaeophyscia, foliose, bark, Minnesota, field-notes]
-keywords: "Brown Rosette Lichen, Phaeophyscia orbicularis, foliose lichen, bark lichens, Minnesota lichens"
+keywords: "Mealy Shadow Lichen, Phaeophyscia orbicularis, foliose lichen, bark lichens, Minnesota lichens"
 ---
 
 ## *Phaeophyscia orbicularis*
@@ -12,7 +12,7 @@ keywords: "Brown Rosette Lichen, Phaeophyscia orbicularis, foliose lichen, bark 
 ### Family: [Physciaceae](/field-notes/lichen/family/physciaceae/)
 {: .taxonomy-heading .taxonomy-last}
 
-[**Brown Rosette Lichen**](/gallery/fungi/lichen/mealy-shadow/) (*Phaeophyscia orbicularis*) is a small, gray-brown foliose lichen that forms tight rosettes on tree bark and other substrates. Though modest in size, it is widespread and reliable, often appearing as part of mixed bark-lichen communities where subtle color and texture differences reward close inspection.
+[**Mealy Shadow Lichen**](/gallery/fungi/lichen/mealy-shadow/) (*Phaeophyscia orbicularis*) is a small, gray-brown foliose lichen that forms tight rosettes on tree bark and other substrates. Though modest in size, it is widespread and reliable, often appearing as part of mixed bark-lichen communities where subtle color and texture differences reward close inspection.
 
 For representative images and visual context, see the [**Mealy Shadow Lichen**](/gallery/fungi/lichen/mealy-shadow/) in the **Gallery** section.
 
@@ -23,8 +23,8 @@ For representative images and visual context, see the [**Mealy Shadow Lichen**](
 *Phaeophyscia orbicularis* is recognized by:
 
 - **Growth form:** foliose  
-- **Thallus:** gray-brown to olive-brown, thin, closely appressed  
-- **Lobes:** narrow, short, rounded to slightly elongate, often overlapping  
+- **Thallus:** green-gray to olive-brown, thin, closely appressed  
+- **Lobes:** flat to convex at the tips, 0.5 - 1.5 mm  
 - **Surface features:** fine soredia common along lobe margins and surface  
 - **Underside:** pale to dark brown, with simple rhizines  
 - **Attachment:** firmly attached to substrate  

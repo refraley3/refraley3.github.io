@@ -12,6 +12,17 @@ tags: [lichen, Flavopunctelia soredica, speckled-greenshield, lichen-photography
 
 For identification details and comparison with similar species, see the [*Flavopunctelia soredica*](/field-notes/lichen/flavopunctelia-soredica/) Field Notes page.
 
+The rounded lobes of this **Powder-edged Speckled Greenshield** are lined with fine granular **soredia**, giving the colony its dusted appearance. These powdery reproductive structures allow the lichen to spread easily across nutrient-rich bark, where it often grows alongside small foliose *Physcia* species and bright yellow crustose lichens.
+
+![Powdered Greenshield on Weathered Bark](/gallery/fungi/lichen/assets/powder-edged-speckled-greenshield/E21A9257-62.jpg){: .cover role="img" aria-label="Powdered Greenshield on Weathered Bark" id="image-1"}
+**Powdered Greenshield on Weathered Bark**  
+_*Flavopunctelia soredica* forming a pale yellow-green rosette along the curve of a mature oak branch._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/13.0 • Shutter 0.6 s  
+E21A9257-62 • Size: 5453x3628  
+{: .caption}
+
 ---
 
 ![Powder-edged Speckled Greenshield — Close-up](/gallery/fungi/lichen/assets/powder-edged-speckled-greenshield/E21A8161-8172.jpg){: .cover role="img" aria-label="Powder-edged Speckled Greenshield close-up on bark" id="image-1"}

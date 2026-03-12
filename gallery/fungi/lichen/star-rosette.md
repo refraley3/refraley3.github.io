@@ -8,9 +8,22 @@ tags: [lichen, Physcia stellaris, star-rosette, lichen-photography]
 ## [*Physcia stellaris*](/field-notes/lichen/physcia-stellaris/)  
 {: .taxonomy-last}
 
-**Star Rosette Lichen** forms tidy gray foliose rosettes marked by distinctive **white-rimmed apothecia**, giving the thallus a subtle starburst pattern. These pale, elevated rims sharply contrast with the darker disc at the center, making *P. stellaris* one of the most easily recognized bark-dwelling *Physcia* species. Its lobes are small, rounded, and slightly pruinose, giving the thallus a soft, frosted appearance.
+Star Rosette (*Physcia stellaris*) forms pale gray to bluish-gray rosettes with narrow, radiating lobes that create a distinct star-like outline. The foliose rosettes marked by distinctive **white-rimmed apothecia**. These pale, elevated rims sharply contrast with the darker disc at the center, making *P. stellaris* one of the most easily recognized bark-dwelling *Physcia* species. Its lobes are small, rounded, and slightly pruinose, giving the thallus a soft, frosted appearance. 
 
 For identification details and comparison with other similar species, see the [*Physcia stellaris*](/field-notes/lichen/physcia-stellaris/) in the **Field Notes** section.
+
+---
+
+![Star Rosette on Bark](/gallery/fungi/lichen/assets/star-rosette/E21A9140.jpg){: .cover role="img" aria-label="Star Rosette Lichen on bark"}
+**Star Rosette on Bark**  
+_Radiating lobes forming a crisp, star-shaped rosette on bark._   
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+ISO 100 • Aperture f/8.0 • Shutter  1/200 s  
+E21A9140 • 1500×1000
+{: .caption}  
+
+In this image, the evenly spaced lobes and subtle surface pruina are visible with scattered apothecia developing toward the center. The species commonly grows on nutrient-enriched bark and is frequently encountered in urban and suburban settings.  
 
 ---
 

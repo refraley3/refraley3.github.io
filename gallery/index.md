@@ -53,11 +53,11 @@ _Foliose and crustose lichens forming a layered communities._
 Lichens are symbiotic organisms growing slowly across bark, stone, and soil.  
 ](/gallery/fungi/lichen/){: .tile role="listitem"}
 
-[![Rust](/gallery/fungi/rust/assets/E21A1588.jpg){: .cover role="img" aria-label="Rust"}
+[![Rust](/gallery/fungi/assets/ash-rust-fungus/E21A1588.jpg){: .cover role="img" aria-label="Rust"}
 **Rust**  
 _Spores carried by wind between hosts._  
 A striking fungal infection that adorns ash leaves and young twigs with vivid orange pustules.  
-](/gallery/fungi/rust/){: .tile role="listitem"}
+](/gallery/fungi/ash-rust/){: .tile role="listitem"}
 
 </div>
 

@@ -30,8 +30,8 @@ This assemblage shows a classic **nitrogen bark community**, where nitrophile an
 classic nitrogen-enriched oak bark assemblage  
 mixed nitrogen-tolerant bark community  
 
-![Nitrogen Bark Community – Wide View](/gallery/fungi/lichen/assets/nitrogen-bark-community/E21A8928-8941.jpg)
-{: .cover role="img" aria-label="Nitrogen-enriched bark community wide view" id="e21a8928-8941"}
+![Nitrogen-Enriched Oak Bark](/gallery/fungi/lichen/assets/nitrogen-bark-community/E21A8928-8941.jpg)
+{: .cover role="img" aria-label="Nitrogen-Enriched Oak Bark" id="e21a8928-8941"}
 **Nitrogen-Enriched Oak Bark**  
 _A mixed community of orange, yellow, and gray lichens colonizing oak bark enriched with nitrogen._  
 Camera: Canon EOS 5D Mk IV  
