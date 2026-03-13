@@ -8,15 +8,6 @@ description: A field guide to lichen terminology, anatomy, physiology, and ecolo
 	<img src="/assets/images/under-construction_wht.png" class="cover" alt="Under Construction" role="img" aria-label="Under Construction" />
 </p>
 
-![Red Tree Brain Fungus](/field-notes/lichen/assets/E21A9617-29-1.jpg){: .cover role="img" aria-label="Red Tree Brain Fungus"}
-**Red Tree Brain Fungus**  
-_Peniophora rufa_  
-Camera: Canon EOS 5D Mk IV  
-Lens: EF100mm f/2.8L Macro IS USM  
-Settings: ISO 100 • Aperture f/13 • Shutter 1/5 s  
-E21A9617-29-1 • Size: 4884x3256    
-{: .caption}
-
 ![A Sinewed Bushy Lichen Rising from Sunburst Lichen](/field-notes/lichen/assets/E21A9554_Merge.jpg){: .cover role="img" aria-label="A Sinewed Bushy Lichen Rising from Sunburst Lichen"}
 **A Sinewed Bushy Lichen Rising from Sunburst Lichen**  
 _Ramalina americana_  

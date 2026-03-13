@@ -23,7 +23,7 @@ _Small red cushions of *Peniophora rufa* following bark fissures on a fallen oak
 Camera: Canon EOS 5D Mk IV  
 Lens: EF100mm f/2.8L Macro IS USM  
 Settings: ISO 100 • Aperture f/13 • Shutter 1/5 s  
-E21A9617-29-1 • Size: 4884x3256   
+E21A9617-29-1 • Size: 4884x3256  
 Settings: Focus stack, natural light  
 {: .caption}
 

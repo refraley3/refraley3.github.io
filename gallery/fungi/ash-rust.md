@@ -34,6 +34,34 @@ E21A1588 • Size: 2328x1552
 
 A striking fungal infection that adorns ash leaves and young twigs with vivid orange pustules — a visual marker of the complex life cycles hidden in our forests.
 
+---
+
+Aecia are bright orange cups that release large numbers of spores that can spread to an alternate host plant. Each cup often develops a delicate, frilled rim where the outer wall has split open, leaving the leaf surface dotted with what look like miniature orange crowns.
+
+![Ash Rust Aecia on Leaf Surface](/gallery/fungi/assets/ash-rust-fungus/E21A1600.jpg)
+{: .gallery-image role="img" aria-label="Ash Rust Aecia on Leaf Surface"}  
+**Ash Rust Aecia on Leaf Surface**  
+_Close-up view of the spore cups formed by Ash Rust._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/4.5 • Shutter 1/50 s  
+E21A1600 • Size: 1209×806  
+{: .caption}
+
+On thicker plant tissue such as leaf stems, Ash Rust aecia often appear as small rounded pustules rather than open cups. As they mature, the outer wall may split to release spores, but the opening is usually smaller than those formed on the leaf blade.
+
+![Ash Rust Aecia on Leaf Stem](/gallery/fungi//assets/ash-rust-fungus/E21A1602.jpg)
+{: .gallery-image role="img" aria-label="Ash Rust Aecia on Leaf Stem"}  
+**Ash Rust Aecia on Leaf Stem**  
+_Aecia developing along the petiole of a young ash leaf._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/4.5 • Shutter 1/80 s  
+E21A1602 • Size: 1209×806  
+{: .caption}
+
+---
+
 ### Identification
 
 * **Common name:** Ash Rust

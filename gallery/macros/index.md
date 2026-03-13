@@ -8,6 +8,12 @@ Raindrops become glassy hemispheres, each holding a miniature reflection of the 
 ![Rain Held Close](/gallery/macros/assets/rain/E21A0028.jpg){: .cover role="img" aria-label="Rain Held Close"}
 **Rain Held Close**  
 _A quiet world distilled into droplets._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/8 • Shutter 1/125 s  
+E21A0028 • Size: 1558×1039  
+{: .caption}
+
 After the storm, an oak leaf becomes a basin for the smallest reflections. Beads of rain cling to its surface, forming crystal domes that magnify the colors of grass and autumn debris around them.  
 {: .tile role="listitem"}
 
