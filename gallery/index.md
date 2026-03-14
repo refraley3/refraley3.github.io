@@ -3,6 +3,14 @@ layout: photo
 title: Gallery
 ---
 
+## _Browse by category._  
+
+A selection of images from the Gallery, organized by category. Each image links to a dedicated page with more photos and details about the subject. The categories below represent a range of organisms and landscapes, showcasing the diversity of life and environments captured in the Gallery.
+
+[![Rain Held Close](/gallery/macros/assets/rain/E21A0028.jpg){: .cover role="img" aria-label="Rain Held Close" style="width: 800px;"}  
+**Macros**  
+_A quiet world distilled into droplets._](/gallery/macros/){: .tile role="listitem"}
+
 ### Animals
 {:.title .text-center}
 
@@ -45,43 +53,37 @@ Mammals reveal adaptability of woodland life.
 
 ### Fungi
 
-<div class="grid" role="list">
+![Red Tree Brain Fungus on Oak Twig](/gallery/fungi/assets/red-tree-brain-fungus/E21A9617-29.jpg)
+{: .cover role="img" aria-label="Red Tree Brain Fungus on Oak Twig" id="peniophora-rufa-oak-twig"}
+**[Red Tree Brain Fungus](/gallery/fungi/red-tree-brain-fungus/) on Oak Twig**  
+_Small red cushions of *Peniophora rufa* following bark fissures on a fallen oak branch._  
+{: .tile role="listitem"}
 
-[![Lichen Community on Tree Bark](/gallery/fungi/lichen/assets/common-greenshield/E21A6505.jpg){: .cover role="img" aria-label="Mixed lichen community on tree bark"}
-**Lichens**  
-_Foliose and crustose lichens forming a layered communities._  
-Lichens are symbiotic organisms growing slowly across bark, stone, and soil.  
-](/gallery/fungi/lichen/){: .tile role="listitem"}
-
-[![Rust](/gallery/fungi/assets/ash-rust-fungus/E21A1588.jpg){: .cover role="img" aria-label="Rust"}
-**Rust**  
+![Ash Rust](/gallery/fungi/assets/ash-rust-fungus/E21A1588.jpg){: .cover role="img" aria-label="Ash Rust"}
+**[Ash Rust](/gallery/fungi/ash-rust/)**  
 _Spores carried by wind between hosts._  
-A striking fungal infection that adorns ash leaves and young twigs with vivid orange pustules.  
-](/gallery/fungi/ash-rust/){: .tile role="listitem"}
+{: .tile role="listitem"}
 
-</div>
+![Lichen Community on Tree Bark](/gallery/fungi/lichen/assets/common-greenshield/E21A6505.jpg){: .cover role="img" aria-label="Mixed lichen community on tree bark"}
+**[Lichens](/gallery/fungi/lichen/)**  
+_Foliose and crustose lichens forming a layered communities._  
+{: .tile role="listitem"}
 
-<div class="grid" role="list">
-
-[![Brocade Moss](/gallery/fungi/moss/assets/brocade-moss/E21A6624.jpg){: .cover role="img" aria-label="Brocade Moss"}  
-**Moss**  
+![Brocade Moss](/gallery/fungi/moss/assets/brocade-moss/E21A6624.jpg){: .cover role="img" aria-label="Brocade Moss"}  
+**[Moss](/gallery/fungi/moss/)**  
 _A soft, feathery moss that forms lush mats._  
 When illuminated, its overlapping branches create a rippling texture.  
-](/gallery/fungi/moss/){: .tile role="listitem"}
+{: .tile role="listitem"}
 
-[![Mushrooms](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6452.jpg){: .cover role="img" aria-label="Mushrooms"}  
-**Mushrooms**  
+![Mushrooms](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6452.jpg){: .cover role="img" aria-label="Mushrooms"}  
+**[Mushrooms](/gallery/fungi/mushrooms/)**  
 _The forest’s recyclers._  
 A collection of mushrooms and other fungi from Minnesota woodlands.  
-](/gallery/fungi/mushrooms/){: .tile role="listitem"}
-
-</div>
+{: .tile role="listitem"}
 
 ---
 
 ### Landscapes
-
-<div class="grid" role="list">
 
 [![Landscapes](/gallery/landscapes/assets/ritter-farm-park/E21A4658.jpg){: .cover role="img" aria-label="Landscapes"}  
 **Landscapes**  
@@ -89,13 +91,9 @@ _Scenes from Minnesota’s fields and parks._
 Light, horizon, and the quiet geometry of open space.  
 ](/gallery/landscapes/){: .tile role="listitem"}
 
-</div>
-
 ---
 
 ### Macros
-
-<div class="grid" role="list">
 
 [![Rain Held Close](/gallery/macros/assets/rain/E21A0028.jpg){: .cover role="img" aria-label="Rain Held Close"}  
 **Rain Held Close**  
@@ -103,11 +101,21 @@ _A quiet world distilled into droplets._
 After the storm, an oak leaf becomes a basin for the smallest reflections. Beads of rain cling to its surface, forming crystal domes that magnify the colors of grass and autumn debris around them.  
 ](/gallery/macros/){: .tile role="listitem"}
 
-</div>
-
 ---
 
 ### Plants
+
+[![Wildflowers](/gallery/plants/wildflowers/assets/rue-anemone/E21A1443.jpg){: .cover role="img" aria-label="Wildflowers"}  
+**Wildflowers**  
+_Seasonal bursts of color._  
+Ephemeral beauty along paths and prairies.  
+](/gallery/plants/wildflowers/){: .tile role="listitem"}
+
+[![Vines](/gallery/plants/vines/assets/american-bittersweet/E21A7415-7418.jpg){: .cover role="img" aria-label="Vines"}  
+**Vines**  
+_Tenacity and grace._  
+Threads that climb, twist, and anchor to life.  
+](/gallery/plants/vines/){: .tile role="listitem"}
 
 <div class="grid" role="list">
 
@@ -122,21 +130,5 @@ Graceful green architecture unfolding through shade.
 _Canopy and character._  
 From bark to crown, stories written in woodgrain.  
 ](/gallery/plants/trees/){: .tile role="listitem"}
-
-</div>
-
-<div class="grid" role="list">
-
-[![Wildflowers](/gallery/plants/wildflowers/assets/rue-anemone/E21A1443.jpg){: .cover role="img" aria-label="Wildflowers"}  
-**Wildflowers**  
-_Seasonal bursts of color._  
-Ephemeral beauty along paths and prairies.  
-](/gallery/plants/wildflowers/){: .tile role="listitem"}
-
-[![Vines](/gallery/plants/vines/assets/american-bittersweet/E21A7415-7418.jpg){: .cover role="img" aria-label="Vines"}  
-**Vines**  
-_Tenacity and grace._  
-Threads that climb, twist, and anchor to life.  
-](/gallery/plants/vines/){: .tile role="listitem"}
 
 </div>

@@ -1,0 +1,24 @@
+<!-- _includes/slideshow.html -->
+<link rel="stylesheet" href="{{ '/assets/css/slideshow.css' | relative_url }}">
+<div class="slideshow" id="gallery-slideshow" aria-roledescription="carousel">
+  <div class="slides">
+    {% assign slides = include.images | default: page.slideshow_images %}
+    {% for img in slides %}
+    <figure class="slide{% if forloop.first %} active{% endif %}" data-index="{{ forloop.index0 }}">
+      {% assign target = img.link | default: '/gallery/' %}
+      <a href="{{ target | relative_url }}">
+        <img src="{{ img.src | relative_url }}" alt="{{ img.alt }}">
+        {% if img.caption %}<figcaption>{{ img.caption }}</figcaption>{% endif %}
+      </a>
+    </figure>
+    {% endfor %}
+  </div>
+  <button class="prev" aria-label="Previous slide">‹</button>
+  <button class="next" aria-label="Next slide">›</button>
+  <div class="dots" role="tablist">
+    {% for img in slides %}
+      <button class="dot{% if forloop.first %} active{% endif %}" data-index="{{ forloop.index0 }}" aria-label="Slide {{ forloop.index }}"></button>
+    {% endfor %}
+  </div>
+</div>
+<script src="{{ '/assets/js/slideshow.js' | relative_url }}" defer></script>
