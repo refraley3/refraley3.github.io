@@ -6,7 +6,7 @@ title: Gallery
 ### Animals
 {:.title .text-center}
 
-This section gathers the many forms of life that share our fields and woodlands.
+This section gathers the many forms of life that share fields and woodlands.
 {:.text-center}
 
 <div class="grid" role="list">
