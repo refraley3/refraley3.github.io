@@ -8,10 +8,14 @@ title: Home
 
 A selection of images from the Gallery, organized by category. Each image links to a dedicated page with more photos and details about the subject. The categories below represent a range of organisms and landscapes, showcasing the diversity of life and environments captured in the Gallery.
 
+<div class="tile" style="margin: 15px;">
+
 [![Cinnabar Cushions in a Lichen Garden](/gallery/fungi/assets/red-tree-brain-fungus/E21A9617-29-1.jpg){: .cover role="img" aria-label="Cinnabar Cushions in a Lichen Garden" id="e21a9617-29-1"}  
 **Cinnabar Cushions in a Lichen Garden**  
 _Clusters of Peniophora rufa forming cinnabar cushions among foliose and crustose lichens on oak bark._](/gallery/fungi/red-tree-brain-fungus/)  
 {: .caption}
+
+</div>
 
 [![Rain Held Close](/gallery/macros/assets/rain/E21A0028.jpg){: .cover role="img" aria-label="Rain Held Close" style="width: 800px;"}  
 **Macros**  
