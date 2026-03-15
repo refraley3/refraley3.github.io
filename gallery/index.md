@@ -7,17 +7,10 @@ title: Gallery
 
 A selection of images from the Gallery, organized by category. Each image links to a dedicated page with more photos and details about the subject. The categories below represent a range of organisms and landscapes, showcasing the diversity of life and environments captured in the Gallery.
 
-[![Rain Held Close](/gallery/macros/assets/rain/E21A0028.jpg){: .cover role="img" aria-label="Rain Held Close" style="width: 800px;"}  
-**Macros**  
-_A quiet world distilled into droplets._](/gallery/macros/){: .tile role="listitem"}
-
 ### Animals
-{:.title .text-center}
 
 This section gathers the many forms of life that share fields and woodlands.
 {:.text-center}
-
-<div class="grid" role="list">
 
 [![Arachnids](/gallery/animals/arachnids/assets/garden-spider/E21A4882.jpg){: .cover role="img" aria-label="Arachnids"}  
 **Arachnids**  
@@ -31,10 +24,6 @@ _The small architects of movement, color, and change._
 A closer look at the world of wings and exoskeletons.  
 ](/gallery/animals/insects/){: .tile role="listitem"}
 
-</div>
-
-<div class="grid" role="list">
-
 [![Birds](/gallery/animals/birds/assets/perching/song-sparrow/E21A1912.jpg){: .cover role="img" aria-label="Birds"}  
 **Birds**  
 _Grace, flight and song._  
@@ -46,8 +35,6 @@ A collection of avian life — perching, soaring, and singing.
 _Quiet strength and familiar grace in fur and motion._  
 Mammals reveal adaptability of woodland life.  
 ](/gallery/animals/mammals/){: .tile role="listitem"}
-
-</div>
 
 ---
 
