@@ -22,72 +22,72 @@ For identification notes and comparative study, see the Lichen Field Notes.
 <div class="grid" role="list">
 
 [![Bare-bottomed Sunburst](/gallery/fungi/lichen/assets/bare-bottomed-sunburst/E21A8251A-56A-60A.jpg){: .cover role="img" aria-label="Bare-bottomed Sunburst"}](/gallery/fungi/lichen/bare-bottomed-sunburst/){: .tile role="listitem"}
-**Bare-bottomed Sunburst**  
+**[Bare-bottomed Sunburst](/gallery/fungi/lichen/bare-bottomed-sunburst/)**  
 [*Xanthomendoza fulva*](/field-notes/lichen/xanthomendoza-fulva/)  
 {: .caption}
 
 [![British Soldier Lichen](/gallery/fungi/lichen/assets/british-soldier/D79A3304.jpg){: .cover role="img" aria-label="British Soldier Lichen"}](/gallery/fungi/lichen/british-soldier/){: .tile role="listitem"}
-**British Soldier Lichen**  
+**[British Soldier Lichen](/gallery/fungi/lichen/british-soldier/)**  
 [_Cladonia cristatella_](/field-notes/lichen/cladonia-cristatella/)  
 {: .caption}
 
 [![Candleflame (Candelaria) Lichen](/gallery/fungi/lichen/assets/candleflame/E21A8057C.jpg){: .cover role="img" aria-label="Candleflame (Candelaria) Lichen"}](/gallery/fungi/lichen/candleflame/){: .tile role="listitem"}
-**Candleflame (Candelaria) Lichen**  
+**[Candleflame (Candelaria) Lichen](/gallery/fungi/lichen/candleflame/)**  
 [_Candelaria concolor_](/field-notes/lichen/candelaria-concolor/)  
 {: .caption}
 
 [![Common Greenshield](/gallery/fungi/lichen/assets/common-greenshield/E21A6505.jpg){: .cover role="img" aria-label="Common Greenshield"}](/gallery/fungi/lichen/common-greenshield/){: .tile role="listitem" style="height: 200px"}
-**Common Greenshield**  
+**[Common Greenshield](/gallery/fungi/lichen/common-greenshield/)**  
 [_Flavoparmelia caperata_](/field-notes/lichen/flavoparmelia-caperata/)  
 {: .caption}
 
 [![Powdery Sunburst](/gallery/fungi/lichen/assets/powdery-sunburst/E21A8109-8136.jpg){: .cover role="img" aria-label="Powdery Sunburst"}](/gallery/fungi/lichen/powdery-sunburst/){: .tile role="listitem" style="height: 200px"}
-**Powdery Sunburst**  
+**[Powdery Sunburst](/gallery/fungi/lichen/powdery-sunburst/)**  
 [_Xanthomendoza ulophyllodes_](/field-notes/lichen/xanthomendoza-ulophyllodes/)  
 {: .caption}
 
 [![Eastern Speckled Shield](/gallery/fungi/lichen/assets/eastern-speckled-shield/E21A8593.jpg){: .cover role="img" aria-label="Common Sunburst"}](/gallery/fungi/lichen/eastern-speckled-shield/){: .tile role="listitem" style="height: 200px; vertical-align: center;"}
-**Eastern Speckled Shield**  
+**[Eastern Speckled Shield](/gallery/fungi/lichen/eastern-speckled-shield/)**  
 [_Punctelia bolliana_](/field-notes/lichen/punctelia-bolliana/)  
 {: .caption}
 
 [![Hoary Rosette](/gallery/fungi/lichen/assets/hoary-rosette/E21A8059-8071.jpg){: .cover role="img" aria-label="Hoary Rosette"}](/gallery/fungi/lichen/hoary-rosette/){: .tile role="listitem" style="height: 200px"}
-**Hoary Rosette**  
+**[Hoary Rosette](/gallery/fungi/lichen/hoary-rosette/)**  
 [_Physcia aipolia_](/field-notes/lichen/physcia-aipolia/)  
 {: .caption}
 
 [![Hooded Sunburst](/gallery/fungi/lichen/assets/hooded-sunburst/E21A8141.jpg){: .cover role="img" aria-label="Hooded Sunburst"}](/gallery/fungi/lichen/hooded-sunburst/){: .tile role="listitem" style="height: 200px"}
-**Hooded Sunburst**  
+**[Hooded Sunburst](/gallery/fungi/lichen/hooded-sunburst/)**  
 [*Xanthomendoza fallax*](/field-notes/lichen/xanthomendoza-fallax/)  
 {: .caption}
 
 [![Powdered-Sunshine](/gallery/fungi/lichen/assets/powdered-sunshine/E21A8553.jpg){: .cover role="img" aria-label="Common Sunburst"}](/gallery/fungi/lichen/powdered-sunshine/){: .tile role="listitem" style="height: 200px"}
-**Powdered-Sunshine**  
+**[Powdered-Sunshine](/gallery/fungi/lichen/powdered-sunshine/)**  
 [_Vulpicida pinastri_](/field-notes/lichen/vulpicida-pinastri/)  
 {: .caption}
 
 [![Rough Speckled Shield](/gallery/fungi/lichen/assets/rough-speckled-shield/E21A8224.jpg){: .cover role="img" aria-label="American Starburst"}](/gallery/fungi/lichen/rough-speckled-shield/){: .tile role="listitem"}
-**Rough Speckled Shield**  
+**[Rough Speckled Shield](/gallery/fungi/lichen/rough-speckled-shield/)**  
 [*Punctelia rudecta*](/field-notes/lichen/punctelia-rudecta/)
 {: .caption}
 
 [![Mealy Shadow on Northern Red Oak](/gallery/fungi/lichen/assets/mealy-shadow/E21A9242-45.jpg){: .cover role="img" aria-label="Mealy Shadow on Northern Red Oak"}](/gallery/fungi/lichen/mealy-shadow/){: .tile role="listitem"}
-**Mealy Shadow Lichen**  
+**[Mealy Shadow Lichen](/gallery/fungi/lichen/mealy-shadow/)**  
 [*Phaeophyscia orbicularis*](/field-notes/lichen/phaeophyscia-orbicularis/)
 {: .caption}
 
 [![Powdery Shield and Candleflame](/gallery/fungi/lichen/assets/powdery-shield/E21A8187.jpg){: .cover role="img" aria-label="Powdery Shield and Candleflame"}](/gallery/fungi/lichen/powdery-shield/){: .tile role="listitem"}
-**Powdery Shield**  
+**[Powdery Shield](/gallery/fungi/lichen/powdery-shield/)**  
 [*Physcia millegrana*](/field-notes/lichen/physcia-millegrana/)
 {: .caption}
 
 [![Star Rosette with Candleflame Contrast](/gallery/fungi/lichen/assets/star-rosette/E21A8059-8071.jpg){: .cover role="img" aria-label="Star Rosette with Candleflame Contrast"}](/gallery/fungi/lichen/star-rosette/){: .tile role="listitem"}
-**Star Rosette**  
+**[Star Rosette](/gallery/fungi/lichen/star-rosette/)**  
 [*Physcia stellaris*](/field-notes/lichen/physcia-stellaris/)
 {: .caption}
 
 [![Powder-edged Speckled Greenshield on Bark](/gallery/fungi/lichen/assets/powder-edged-speckled-greenshield/E21A8082-8092.jpg){: .cover role="img" aria-label="Powder-edged Speckled Greenshield on hardwood bark"}](/gallery/fungi/lichen/powder-edged-speckled-greenshield/){: .tile role="listitem"}
-**Powder-Edged Speckled Greenshield**
+**[Powder-Edged Speckled Greenshield](/gallery/fungi/lichen/powder-edged-speckled-greenshield/)**
 [*Flavopunctelia soredica*](/field-notes/lichen/flavopunctelia-soredica/)
 {: .caption}
 

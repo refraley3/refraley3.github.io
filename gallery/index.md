@@ -3,42 +3,43 @@ layout: photo
 title: Gallery
 ---
 
-## _Browse by category._  
-
 A selection of images from the Gallery, organized by category. Each image links to a dedicated page with more photos and details about the subject. The categories below represent a range of organisms and landscapes, showcasing the diversity of life and environments captured in the Gallery.
 
-### Animals
+_Browse by category._  
+{:.text-center}
+
+## Animals
 
 This section gathers the many forms of life that share fields and woodlands.
 {:.text-center}
 
-[![Arachnids](/gallery/animals/arachnids/assets/garden-spider/E21A4882.jpg){: .cover role="img" aria-label="Arachnids"}  
-**Arachnids**  
+[![Arachnids](/gallery/animals/arachnids/assets/garden-spider/E21A4882.jpg){: .cover role="img" aria-label="Arachnids"}](/gallery/animals/arachnids/){: .tile role="listitem" style="margin-bottom: 0px"}  
+**[Arachnids](/gallery/animals/arachnids/)**  
 _Hidden Engineers and Patient Hunters._  
 From the balance of waiting to the geometry of a web.  
-](/gallery/animals/arachnids/){: .tile role="listitem"}
+{: .tile role="listitem" style="margin-bottom: 60px"}
 
-[![Insects](/gallery/animals/insects/bees/assets/bald-faced-hornet/D79A0363.jpg){: .cover role="img" aria-label="Insects"}  
-**Insects**  
+[![Insects](/gallery/animals/insects/bees/assets/bald-faced-hornet/D79A0363.jpg){: .cover role="img" aria-label="Insects"}](/gallery/animals/insects/)  
+**[Insects](/gallery/animals/insects/)**  
 _The small architects of movement, color, and change._  
 A closer look at the world of wings and exoskeletons.  
-](/gallery/animals/insects/){: .tile role="listitem"}
+{: .tile role="listitem"}
 
-[![Birds](/gallery/animals/birds/assets/perching/song-sparrow/E21A1912.jpg){: .cover role="img" aria-label="Birds"}  
-**Birds**  
+[![Birds](/gallery/animals/birds/assets/perching/song-sparrow/E21A1912.jpg){: .cover role="img" aria-label="Birds"}](/gallery/animals/birds/)  
+**[Birds](/gallery/animals/birds/)**  
 _Grace, flight and song._  
 A collection of avian life — perching, soaring, and singing.  
-](/gallery/animals/birds/){: .tile role="listitem"}
+{: .tile role="listitem"}
 
-[![Mammals](/gallery/animals/mammals/assets/whitetail-deer/E21A2340.jpg){: .cover role="img" aria-label="Mammals"}  
-**Mammals**  
+[![Mammals](/gallery/animals/mammals/assets/whitetail-deer/E21A2340.jpg){: .cover role="img" aria-label="Mammals"}](/gallery/animals/mammals/)  
+**[Mammals](/gallery/animals/mammals/)**  
 _Quiet strength and familiar grace in fur and motion._  
 Mammals reveal adaptability of woodland life.  
-](/gallery/animals/mammals/){: .tile role="listitem"}
+{: .tile role="listitem"}
 
 ---
 
-### Fungi
+## Fungi
 
 ![Red Tree Brain Fungus on Oak Twig](/gallery/fungi/assets/red-tree-brain-fungus/E21A9617-29.jpg)
 {: .cover role="img" aria-label="Red Tree Brain Fungus on Oak Twig" id="peniophora-rufa-oak-twig"}
@@ -70,7 +71,7 @@ A collection of mushrooms and other fungi from Minnesota woodlands.
 
 ---
 
-### Landscapes
+## Landscapes
 
 [![Landscapes](/gallery/landscapes/assets/ritter-farm-park/E21A4658.jpg){: .cover role="img" aria-label="Landscapes"}  
 **Landscapes**  
@@ -78,9 +79,15 @@ _Scenes from Minnesota’s fields and parks._
 Light, horizon, and the quiet geometry of open space.  
 ](/gallery/landscapes/){: .tile role="listitem"}
 
+[![Aurora Over Lakeville, Minnesota]({{ '/gallery/landscapes/assets/aurora-over-lakeville/E21A7357.jpg' | relative_url }}){: .cover role="img" aria-label="Aurora Over Lakeville, Minnesota"}  
+**Aurora Over Lakeville, Minnesota**  
+_A vivid geomagnetic storm transforms a quiet night sky._  
+Captured from Lakeville, Minnesota, where rare red and green auroral curtains reached far south during an intense solar storm.]({{ '/gallery/landscapes/aurora/' | relative_url }})  
+{:.caption}
+
 ---
 
-### Macros
+## Macros
 
 [![Rain Held Close](/gallery/macros/assets/rain/E21A0028.jpg){: .cover role="img" aria-label="Rain Held Close"}  
 **Rain Held Close**  
@@ -90,7 +97,7 @@ After the storm, an oak leaf becomes a basin for the smallest reflections. Beads
 
 ---
 
-### Plants
+## Plants
 
 [![Wildflowers](/gallery/plants/wildflowers/assets/rue-anemone/E21A1443.jpg){: .cover role="img" aria-label="Wildflowers"}  
 **Wildflowers**  

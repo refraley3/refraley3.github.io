@@ -1,10 +1,12 @@
 <div class="hero-slideshow">
-  <a href="{{ '/gallery/' | relative_url }}" class="hero-slideshow-link" aria-label="{{ slide.alt }}">
+  <a href="{{ '/gallery/' | relative_url }}" class="hero-slideshow-link" aria-label="Enter gallery">
     {% for slide in include.slides %}
-    <img
-      src="{{ slide.src | relative_url }}"
-      alt="{{ slide.alt }}"
-      class="hero-slide{% if forloop.first %} is-active{% endif %}">
+    <div class="hero-slide{% if forloop.first %} is-active{% endif %}">
+      <img
+        src="{{ slide.src | relative_url }}"
+        alt="{{ slide.alt }}"
+        class="hero-slide-image {{ slide.transition }}">
+    </div>
     {% endfor %}
   </a>
 </div>

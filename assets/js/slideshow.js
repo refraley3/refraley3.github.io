@@ -8,7 +8,7 @@
     var dots = Array.from(root.querySelectorAll('.dot'));
     var current = slides.findIndex(s=>s.classList.contains('active'));
     if(current < 0) current = 0;
-    var interval = 5000;
+    var interval = 14000;
     var timer = null;
 
     function show(index){
