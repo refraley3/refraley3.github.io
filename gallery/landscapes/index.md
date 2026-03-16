@@ -144,10 +144,10 @@ Settings: ISO 1250 • Aperture f/13 • Shutter 1/100 s
 
 ![Autumn Reflection](/gallery/landscapes/assets/ritter-farm-park/E21A6817.jpg){: .cover role="img" aria-label="Autumn Reflection"}  
 **Autumn Reflection**  
-Image ID: E21A6817 – Autumn foliage reflected across the pond at Ritter Farm Park, captured in calm morning light • Size: 800x533  
-
+Autumn foliage reflected across the pond at Ritter Farm Park, captured in calm morning light
 Camera: Canon EOS 5D Mk IV • Lens: EF24–70 mm f/2.8L II USM  
 Settings: ISO 200 • Aperture f/18 • Shutter 1 s  
+Image ID: E21A6817 • Size: 6720x3780  
 {:.caption}
 
 </div>
@@ -200,7 +200,6 @@ Captured at sunrise, this view across the wetlands of Murphy-Hanrehan Park Reser
 ![Sunrise over Wetlands](/gallery/landscapes/assets/murphy-hanrehan-mn/E21A5937.jpg){: .cover role="img" aria-label="Sunrise over Wetlands"}  
 **Sunrise over Wetlands**  
 _Morning light over wetlands at Murphy-Hanrehan Park Reserve, reflected in calm water_ • Size: 1365×768  
-
 Camera: Canon EOS 5D Mk IV  Lens: EF24–70 mm f/2.8L II USM  
 Settings: ISO 2000 • Aperture f/4.5 • Shutter 1/200 s  
 {:.caption}

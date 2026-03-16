@@ -334,7 +334,7 @@ title: Families
 ### PYRENULACEAE
 - Pyrenula pseudobufonia  
 
-### RAMALINACEAE
+### [Ramalinaceae](/field-notes/lichen/family/ramalinaceae/)
 - Bacidia bagliettoana
 - Bacidia coprodes
 - Bacidia diffracta
@@ -347,7 +347,7 @@ title: Families
 - Lecania croatica
 - Lecania erysibe
 - Lecania nylanderiana
-- Ramalina americana
+- [**Bushy Sinewed Lichen**](/gallery/fungi/lichen/sinewed-bushy-lichen/) [_(Ramalina americana)_](/field-notes/lichen/ramalina-americana/)
 - Ramalina calicaris
 - Ramalina farinacea
 - Ramalina fraxinea

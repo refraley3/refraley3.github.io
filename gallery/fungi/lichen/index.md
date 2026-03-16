@@ -91,6 +91,11 @@ For identification notes and comparative study, see the Lichen Field Notes.
 [*Flavopunctelia soredica*](/field-notes/lichen/flavopunctelia-soredica/)
 {: .caption}
 
+[![Sinewed Bushy Lichen Rising from Sunburst Lichen](/gallery/fungi/lichen/assets/sinewed-bushy/E21A9554_Merge.jpg){: .cover role="img" aria-label="Sinewed Bushy Lichen Rising from Sunburst Lichen" id="e21a9554"}](/gallery/fungi/lichen/sinewed-bushy-lichen/){: .tile role="listitem"}
+**[Sinewed Bushy Lichen](/gallery/fungi/lichen/sinewed-bushy-lichen/)**  
+[*Ramalina americana*](/field-notes/lichen/ramalina-americana/)
+{: .caption}
+
 </div>
 
 ---
