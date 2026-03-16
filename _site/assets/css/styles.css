@@ -219,60 +219,44 @@ a:hover {
   pointer-events: none;
 }
 
-.hero-slide.is-active .hero-slide-image.pan-left {
-  animation: pan-left 10s ease-out 0.3s forwards;
+.hero-slide-caption {
+  position: absolute;
+  bottom: 12%;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  font-size: 2rem;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+  text-align: center;
+  width: 90%;
+  max-width: 600px;
 }
 
-.hero-slide.is-active .hero-slide-image.pan-right {
-  animation: pan-right 10s ease-out 0.3s forwards;
+.hero-slide.is-active .pan-left {
+  animation: pan-left 10s ease-out forwards;
+}
+
+.hero-slide.is-active .pan-right {
+  animation: pan-right 10s ease-out forwards;
 }
 
 .hero-slide.is-active .hero-slide-image.zoom-in {
-  animation: zoom-in 10s ease-out forwards;
+  animation: zoom-in 10s ease-in forwards;
 }
 
 @keyframes pan-left {
-  from { transform: scale(1.03) translate(2%, 0); }
-  to   { transform: scale(1.03) translate(-2%, 0); }
+  from { transform: scale(1.04) translate(2%, 0); }
+  to   { transform: scale(1.04) translate(-2%, 0); }
 }
 
 @keyframes pan-right {
-  from { transform: scale(1.03) translate(-2%, 0); }
-  to   { transform: scale(1.03) translate(2%, 0); }
+  from { transform: scale(1.04) translate(-2%, 0); }
+  to   { transform: scale(1.04) translate(2%, 0); }
 }
 
 @keyframes zoom-in {
   from { transform: scale(1.03); }
   to   { transform: scale(1.0); }
-}height: 100%;
-  object-fit: cover;
-}
-
-.hero-slide.is-active .hero-slide-image.pan-left {
-  animation: pan-left 6s linear forwards;
-}
-
-.hero-slide.is-active .hero-slide-image.pan-right {
-  animation: pan-right 6s linear forwards;
-}
-
-.hero-slide.is-active .hero-slide-image.zoom-in {
-  animation: zoom-in 6s ease-out forwards;
-}
-
-@keyframes pan-left {
-  from { transform: scale(1.1) translate(3%, 0); }
-  to   { transform: scale(1.1) translate(-3%, 0); }
-}
-
-@keyframes pan-right {
-  from { transform: scale(1.1) translate(-3%, 0); }
-  to   { transform: scale(1.1) translate(3%, 0); }
-}
-
-@keyframes zoom-in {
-  from { transform: scale(1.02); }
-  to   { transform: scale(1.12); }
 }
 
 /* MOBILE RESPONSIVE */
