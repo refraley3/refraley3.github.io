@@ -85,7 +85,6 @@ Settings: ISO 100 • Aperture f/2.8 • Shutter 1/160 s
 ![Bridge Crossing](/gallery/landscapes/assets/ritter-farm-park/E21A4658.jpg){: .cover role="img" aria-label="Bridge Crossing"}  
 **Bridge Crossing**  
 Image ID: E21A4658 – Bridge crossing a stream feeding Lake Marion in morning fog • Size: 2703x1802  
-
 Camera: Canon EOS 5D Mk IV • Lens: EF24–70 mm f/2.8L II USM  
 Settings: ISO 100 • Aperture f/3.2 • Shutter 1/160 s  
 {:.caption}

@@ -218,7 +218,7 @@ title: Families
 - Myelochroa galbina
 - Nephromopsis americana
 - Parmelia squarrosa
-- Parmelia sulcata
+- [**Hammered Shield**](/gallery/fungi/lichen/hammered-shield/) [_(Parmelia sulcata)_](/field-notes/lichen/parmelia-sulcata/)
 - Parmotrema crinitum
 - Parmotrema hypotropum
 - Parmotrema margaritatum

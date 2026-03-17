@@ -51,6 +51,11 @@ For identification notes and comparative study, see the Lichen Field Notes.
 [_Punctelia bolliana_](/field-notes/lichen/punctelia-bolliana/)  
 {: .caption}
 
+[![Hammered Shield](/gallery/fungi/lichen/assets/hammered-shield/E21A9280-86.jpg){: .cover role="img" aria-label="Hammered Shield in a Mosaic of Bark Lichens" id="hammered-shield-1"}](/gallery/fungi/lichen/hammered-shield/){: .tile role="listitem" style="height: 200px; vertical-align: center;"}
+**[Hammered Shield](/gallery/fungi/lichen/hammered-shield/)**  
+[*Parmelia sulcata*](/field-notes/lichen/parmelia-sulcata/)
+{: .caption}
+
 [![Hoary Rosette](/gallery/fungi/lichen/assets/hoary-rosette/E21A8059-8071.jpg){: .cover role="img" aria-label="Hoary Rosette"}](/gallery/fungi/lichen/hoary-rosette/){: .tile role="listitem" style="height: 200px"}
 **[Hoary Rosette](/gallery/fungi/lichen/hoary-rosette/)**  
 [_Physcia aipolia_](/field-notes/lichen/physcia-aipolia/)  
