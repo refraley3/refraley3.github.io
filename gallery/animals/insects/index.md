@@ -14,7 +14,7 @@ Such encounters remind us that the insect world is an intricate web of beauty, p
 <div class="grid" role="list">
 
 [![Bees Title](/gallery/animals/insects/bees/assets/bald-faced-hornet/D79A0422.jpg){: .cover-role="img area-label="Bees"}  
-**Bees**  
+**Bees, Hornets, and Wasps**  
 _The bald-faced hornet is actually a type of wasp._  
 These solcial wasps are hightly protective and can sting repeatedly.  
 ](/gallery/animals/insects/bees){: . tile role="listitem"}
@@ -37,17 +37,16 @@ _Crickets coming soon._
 Crickets description.  
 ](/gallery/animals/insects/){: . tile role="listitem"}
 
-[![Damselflies Title](/assets/images/under-construction_wht.png){: .cover-role="img area-label="Damselflies title"}  
+[![Damselflies Title](/gallery/animals/insects/damselflies/assets/familiar-bluet/E21A1516.jpg){: .cover-role="img area-label="Damselflies title"}
 **Damselflies**  
-_Damselflies coming soon._  
-Damselflies description.  
-](/gallery/animals/insects/){: . tile role="listitem"}
+_Familiar Bluet and Eastern Forktail_  
+](/gallery/animals/insects/damselflies/){: . tile role="listitem"}
 
 [![Dragonflies Title](/assets/images/under-construction_wht.png){: .cover-role="img area-label="Dragonflies title"}  
 **Dragonflies**  
 _Dragonflies coming soon._  
 Dragonflies description.  
-](/gallery/animals/insects/){: . tile role="listitem"}
+](/gallery/animals/insects/dragonflies/){: . tile role="listitem"}
 
 [![Flies Title](/assets/images/under-construction_wht.png){: .cover-role="img area-label="Flies title"}  
 **Flies**  

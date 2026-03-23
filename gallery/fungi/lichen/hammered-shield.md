@@ -10,13 +10,12 @@ tags: [lichen, Parmelia sulcata, hammered-shield, lichen photography]
 
 Hammered Shield forms broad, pale gray rosettes with softly lobed margins and a subtly sculpted surface. The thallus often appears dusted or frosted, especially where powdery reproductive structures collect along ridges and folds. In these images, the lichen grows across weathered bark alongside a mix of bright yellow and granular crusts, creating a layered and textured community typical of mature tree trunks.
 
-For identification details and comparison with other similar species, see the  
-[*Parmelia sulcata*](/field-notes/lichen/parmelia-sulcata/) in the **Field Notes** section.
+For identification details and comparison with other similar species, see the [*Parmelia sulcata*](/field-notes/lichen/parmelia-sulcata/) page in the **Field Notes** section.
 
 ---
 
 ![Hammered Shield in a Mosaic of Bark Lichens](/gallery/fungi/lichen/assets/hammered-shield/E21A9228-33.jpg)
-{: .cover role="img" aria-label="Hammered Shield in a Mosaic of Bark Lichens" id="hammered-shield-1"}
+{: .cover role="img" aria-label="Hammered Shield in a Mosaic of Bark Lichens" id="e21a9228-33"}
 **Hammered Shield in a Mosaic of Bark Lichens**  
 _A pale gray rosette anchors a textured patchwork of yellow and crustose lichens on aging bark._  
 Camera: Canon EOS 5D Mk IV  

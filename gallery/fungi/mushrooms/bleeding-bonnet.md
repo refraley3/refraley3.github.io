@@ -16,7 +16,7 @@ Even here, life gives way to life — a fungus consumed by another, framed in st
 ---
 ### Day 1 – Early Infection
 
-![Bleeding Bonnet mushrooms - Day 1](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5255.jpg){: .cover role="img" aria-label="Bleeding Bonnet mushrooms early infection"}  
+![Bleeding Bonnet — Day 1, Early Infection](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5255.jpg){: .cover role="img" aria-label="Bleeding Bonnet — Day 1, Early Infection"}  
 **Bleeding Bonnet — Day 1, Early Infection**  
 _Fine hyphae appear around the intact caps, marking the onset of mold colonization._  
 The Bleeding Bonnet caps show early colonization. Fine hyphae are visible around the caps, but the structure of the mushrooms remains intact. • Size: 6720x4480  

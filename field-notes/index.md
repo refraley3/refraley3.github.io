@@ -6,11 +6,49 @@ title: Field Notes
 Seasonal observations, IDs, and stories.
 {:.caption}
 
-### [Fungi](/field-notes/fungi/)  
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
+
+## [Damselflies](/field-notes/damselflies/)
+
+[![Damselflies Title](/gallery/animals/insects/damselflies/assets/familiar-bluet/E21A1516.jpg){: .cover role="img" aria-label="Damselflies" style="height: 200px;"}  
+**Damselflies**  
+_Field notes and family guides for damselflies._  
+](/field-notes/damselflies/){: .tile role="listitem"}
+
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+## [Dragonflies](/field-notes/dragonflies/)
+
+[![Dragonflies Title](/gallery/animals/insects/dragonflies/assets/autumn-meadowhawk/D79A0209.jpg){: .cover role="img" aria-label="Dragonflies" style="height: 200px;"}  
+**Dragonflies**  
+_Field notes and family guides for dragonflies._  
+](/field-notes/dragonflies/){: .tile role="listitem"}
+
+</div>
+
+</div>
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
+
+## [Fungi](/field-notes/fungi/)  
 Observational notes on fungi encountered in the field, including wood-decay fungi, rusts, and other macrofungi documented through photography.
 
-### [Lichens](/field-notes/lichen/)  
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+## [Lichens](/field-notes/lichen/)  
 Field notes and identification details for lichens observed during field photography, focusing on visual characters and habitat.
+
+</div>
+
+</div>
 
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 

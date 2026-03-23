@@ -18,7 +18,7 @@ _Grace, flight and song._
 A collection of avian life — perching, soaring, and singing.  
 {: .tile role="listitem" style="margin-bottom: 60px"}
 
-[![Insects](/gallery/animals/insects/damselflies/assets/E21A1520.jpg){: .cover role="img" aria-label="Insects"}](/gallery/animals/insects/){: .tile role="listitem"}
+[![Insects](/gallery/animals/insects/damselflies/assets/familiar-bluet/E21A1516.jpg){: .cover role="img" aria-label="Insects"}](/gallery/animals/insects/){: .tile role="listitem"}
 **[Insects](/gallery/animals/insects/)**  
 _The small architects of movement, color, and change._  
 A closer look at the world of wings and exoskeletons.  
