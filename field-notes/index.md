@@ -6,27 +6,30 @@ title: Field Notes
 Seasonal observations, IDs, and stories.
 {:.caption}
 
+## [Odonata](/field-notes/odonata/)
+Field notes and identification details for dragonflies and damselflies observed during field photography, focusing on visual characters and habitat.
+
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 
 <div class="tile" style="margin: 15px;">
 
-## [Damselflies](/field-notes/damselflies/)
+## [Zygoptera](/field-notes/odonata/zygoptera/)
 
-[![Damselflies Title](/gallery/animals/insects/damselflies/assets/familiar-bluet/E21A1516.jpg){: .cover role="img" aria-label="Damselflies" style="height: 200px;"}  
+[![Damselflies](/gallery/animals/insects/damselflies/assets/familiar-bluet/E21A1516.jpg){: .cover role="img" aria-label="Damselflies" style="height: 200px;"}  
 **Damselflies**  
 _Field notes and family guides for damselflies._  
-](/field-notes/damselflies/){: .tile role="listitem"}
+](/field-notes/odonata/zygoptera/){: .tile role="listitem"}
 
 </div>
 
 <div class="tile" style="margin: 15px;">
 
-## [Dragonflies](/field-notes/dragonflies/)
+## [Anisoptera](/field-notes/odonata/anistoptera/)
 
-[![Dragonflies Title](/gallery/animals/insects/dragonflies/assets/autumn-meadowhawk/D79A0209.jpg){: .cover role="img" aria-label="Dragonflies" style="height: 200px;"}  
+[![Dragonflies](/gallery/animals/insects/dragonflies/assets/autumn-meadowhawk/D79A0209.jpg){: .cover role="img" aria-label="Dragonflies" style="height: 200px;"}  
 **Dragonflies**  
 _Field notes and family guides for dragonflies._  
-](/field-notes/dragonflies/){: .tile role="listitem"}
+](/field-notes/odonata/anistoptera/){: .tile role="listitem"}
 
 </div>
 

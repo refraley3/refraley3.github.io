@@ -5,7 +5,7 @@ description: Gallery images of Familiar Bluet (*Enallagma civile*), photographed
 tags: [insect, damselfly, familiar bluet, enallagma civile, insect photography]
 ---
 
-## [*Enallagma civile*](/field-notes/damselflies/enallagma-civile/)
+## [*Enallagma civile*](/field-notes/odonata/zygoptera/enallagma-civile/)
 {: .taxonomy-last}
 
 The **Familiar Bluet** is one of the most common and adaptable damselflies in open wetlands. Its slender body and narrow, folded wings give it the typical bluet profile, but its abundance and tolerance of disturbed habitats often make it the first species encountered around ponds and marsh edges.
@@ -15,7 +15,7 @@ Individuals perch lightly on grasses, sedges, and broad leaves, making short, fl
 This species is especially associated with **sunlit, still or slow-moving water**, including ponds, ditches, and marsh margins. Its presence across a wide range of habitats makes it a useful reference point when comparing similar bluets.
 
 For identification details and comparison with related species, see  
-the [*Enallagma civile*](/field-notes/damselflies/enallagma-civile/) in the **Field Notes** section.
+the [*Enallagma civile*](/field-notes/odonata/zygoptera/enallagma-civile/) in the **Field Notes** section.
 
 ---
 

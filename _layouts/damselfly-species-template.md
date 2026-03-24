@@ -9,7 +9,7 @@ keywords: "Genus species damselfly, common name damselfly, REGION damselflies, d
 ## *Genus species*
 {: .taxonomy-heading}
 
-### Family: [FamilyName](/field-notes/damselflies/family/familyname/)
+### Family: [FamilyName](/field-notes/odonata/zygoptera/family/familyname/)
 {: .taxonomy-heading .taxonomy-last}
 
 [**Common Name**](/gallery/insects/damselflies/genus-species/) (*Genus species*) is a brief, readable overview of the species in the field—its typical appearance, behavior, and where it is most often encountered. Keep this paragraph image-forward and observational rather than technical.

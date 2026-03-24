@@ -9,7 +9,7 @@ keywords: "Genus damselflies, REGION damselflies, damselfly identification, Zygo
 ## *Genus*
 {: .taxonomy-heading}
 
-### Family: [FamilyName](/field-notes/damselflies/family/familyname/)
+### Family: [FamilyName](/field-notes/odonata/zygoptera/family/familyname/)
 {: .taxonomy-heading .taxonomy-last}
 
 [**COMMON GENUS NAME**](/gallery/animals/insects/damselflies/genus/) (*Genus*) is a brief, orienting overview that explains
@@ -117,8 +117,8 @@ This is also an appropriate place to mention:
 
 List local or expected species here, especially those documented in your field notes.
 
-- [*Genus species*](/field-notes/damselflies/genus-species/)
-- [*Genus species*](/field-notes/damselflies/genus-species/)
+- [*Genus species*](/field-notes/odonata/zygoptera/genus-species/)
+- [*Genus species*](/field-notes/odonata/zygoptera/genus-species/)
 
 ---
 
