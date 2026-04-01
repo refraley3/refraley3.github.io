@@ -15,26 +15,26 @@ the [*Polycauliona polycarpa*](/field-notes/lichen/polycauliona-polycarpa/) in t
 
 ---
 
-![Pin-cushion Sunburst on Birch Twig](/gallery/fungi/lichen/assets/pin-cushion-sunburst/E22A0106.jpg)
-{: .cover role="img" aria-label="Pin-cushion Sunburst on Birch Twig" id="pin-cushion-sunburst-birch-twig"}
-**Pin-cushion Sunburst on Birch Twig**  
-_A dense cluster of vivid orange apothecia rises from a slender birch twig, catching warm light against a backdrop of quiet decay._  
+A vivid cluster of *Polycauliona polycarpa* forms a tightly packed, cushion-like mass along a narrow twig, its surface crowded with bright orange apothecia. The short, flattened lobes are largely obscured by the abundance of fruiting bodies, giving the colony a textured, almost granular appearance from a distance. Unlike fruticose lichens, the structure resolves into compact, overlapping lobes rather than true branching axes. The bright orange contrasts strongly with the pale gray crustose lichens on the bark, emphasizing the species’ tendency to form small, elevated colonies on exposed twigs in nutrient-rich environments.
+
+![Pin-cushion Sunburst on Twig](/gallery/fungi/lichen/assets/pin-cushion-sunburst/E22A0086.jpg)
+{: .cover role="img" aria-label="Pin-cushion Sunburst on Twig" id="e22a0086"}
+**Pin-cushion Sunburst on Twig**  
+_A dense, rounded tuft of orange apothecia forms a compact “pin-cushion” on a slender branch._  
 Camera: Canon EOS 5D Mk IV  
 Lens: EF100mm f/2.8L Macro IS USM  
-Settings: ISO 100 * Aperture f/13 * Shutter 0.5 s  
-E22A0106 • Size: 3198x2132    
+Settings: ISO 800 • Aperture f/16 • Shutter 1/40 s  
+E22A0086 • Size: 2278x1519  
 {: .caption}
 
-A compact burst of orange clings to the curve of a birch twig, its surface crowded with tiny cup-shaped apothecia that glow in low, golden light. The lichen forms a tight, tufted colony, its irregular lobes lifting just enough to create a textured, almost miniature landscape. Pale bracket fungi line the branch below, adding contrast in both color and form, while the smooth gray bark and soft background keep the focus on the vivid, sunlit cluster.
 
-
-![Pin-cushion Sunburst Rising Above _Physcia orbicularis_](/gallery/fungi/lichen/assets/pin-cushion-sunburst/E22A0072.jpg)
+![Pin-cushion Sunburst Rising Above Physcia orbicularis](/gallery/fungi/lichen/assets/pin-cushion-sunburst/E22A0072.jpg)
 {: .cover role="img" aria-label="Pin-cushion Sunburst Rising Above Physcia orbicularis" id="pin-cushion-sunburst-birch-twig"}
-**Pin-cushion Sunburst Rising Above _Physcia orbicularis_**  
+**Pin-cushion Sunburst Rising Above *Physcia orbicularis***  
 _A vivid orange cluster lifts above a patch of blue-gray rosettes, highlighting a classic bark-dwelling lichen community._  
 Camera: Canon EOS 5D Mk IV  
 Lens: EF100mm f/2.8L Macro IS USM  
-Settings: ISO 3200 * Aperture f/8 * Shutter 1/500 s  
+Settings: ISO 3200 • Aperture f/8 • Shutter 1/500 s  
 E22A0106 • Size: 3096x2064  
 {: .caption}
 

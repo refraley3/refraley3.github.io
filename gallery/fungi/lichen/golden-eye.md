@@ -27,5 +27,16 @@ Settings: ISO 100 * Aperture f/13 * Shutter 1.0 s
 E22A0184_85_88 • Size: 5448x3632  
 {: .caption}
 
+![Golden-eye Sunburst on Birch Twig](/gallery/fungi/lichen/assets/golden-eye/E22A0106.jpg)
+{: .cover role="img" aria-label="Golden-eye Sunburst on Birch Twig" id="golden-eye-sunburst-birch-twig"}
+**Golden-eye Sunburst on Birch Twig**  
+_A dense cluster of vivid orange apothecia rises from a slender birch twig, catching warm light against a backdrop of quiet decay._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 100 * Aperture f/13 * Shutter 0.5 s  
+E22A0106 • Size: 3198x2132    
+{: .caption}
+
+A compact burst of orange clings to the curve of a birch twig, its surface crowded with tiny cup-shaped apothecia that glow in low, golden light. The lichen forms a tight, tufted colony, its irregular lobes lifting just enough to create a textured, almost miniature landscape. Pale bracket fungi line the branch below, adding contrast in both color and form, while the smooth gray bark and soft background keep the focus on the vivid, sunlit cluster.
 
 ---
