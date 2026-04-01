@@ -101,6 +101,16 @@ For identification notes and comparative study, see the Lichen Field Notes.
 [*Ramalina americana*](/field-notes/lichen/ramalina-americana/)
 {: .caption}
 
+[![Golden-eye on Twig with Mixed Lichens](/gallery/fungi/lichen/assets/golden-eye/E22A0184_85_88.jpg){: .cover role="img" aria-label="Golden-eye on Twig with Mixed Lichens" id="e22a0184"}](/gallery/fungi/lichen/golden-eye/){: .tile role="listitem"}
+**[Golden-eye Lichen](/gallery/fungi/lichen/golden-eye/)**  
+[*Teloschistes chrysophthalmus*](/field-notes/lichen/teloschistes-chrysophthalmus/)
+{: .caption}
+
+[![Pin-cushion Sunburst Rising Above _Physcia orbicularis_](/gallery/fungi/lichen/assets/pin-cushion-sunburst/E22A0072.jpg){: .cover role="img" aria-label="Pin-cushion Sunburst Rising Above Physcia orbicularis" id="e22a0072"}](/gallery/fungi/lichen/pin-cushion-sunburst/){: .tile role="listitem"}
+**[Pin-cushion Sunburst](/gallery/fungi/lichen/pin-cushion-sunburst/)**  
+[*Polycauliona polycarpa*](/field-notes/lichen/polycauliona-polycarpa/)
+{: .caption}
+
 </div>
 
 ---

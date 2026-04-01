@@ -13,22 +13,18 @@ All odonates are closely tied to freshwater habitats. Their aquatic nymphs devel
 
 ## Suborders
 
-### Zygoptera (Damselflies)
+### [Zygoptera (Damselflies)](/field-notes/odonata/zygoptera/)
 
 Damselflies are typically slender with narrow abdomens and wings that are usually held together above the body at rest.  
 Their eyes are separated, and their flight tends to be lighter and more fluttering.
 
-[View Damselflies](/field-notes/odonata/zygoptera/)
-
 ---
 
-### Anisoptera (Dragonflies)
+### [Anisoptera (Dragonflies)](/field-notes/odonata/anisoptera/)
 
 Dragonflies are generally more robust, with broader wings held open at rest.  
 Their eyes are large and usually meet or nearly meet at the top of the head.  
 They are strong, direct fliers.
-
-[View Dragonflies](/field-notes/odonata/anistoptera/)
 
 ---
 
@@ -48,7 +44,3 @@ Emergence from water marks a dramatic transition to the aerial adult stage.
 ## Notes
 
 Odonates are among the most visually striking insects in freshwater ecosystems and are often used as indicators of habitat quality.
-
-[![Odonata Taxonomy Diagram](/field-notes/odonata/assets/odonata-model.jpg)
-{: .cover role="img" aria-label="Odonata Taxonomy Diagram" style="max-width: 100%; height: auto; filter: invert(1);" }
-](/field-notes/odonata/assets/odonata-model.jpg)

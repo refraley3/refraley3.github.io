@@ -6,9 +6,6 @@ tags: [lichen, Ramalina americana, american-ramalina, Ramalina, fruticose, bark,
 keywords: "American Ramalina, Ramalina americana, fruticose lichen, bark lichen, Minnesota lichens"
 ---
 
-## *Ramalina americana*
-{: .taxonomy-heading}
-
 ### Family: [Ramalinaceae](/field-notes/lichen/family/ramalinaceae/)
 {: .taxonomy-heading .taxonomy-last}
 

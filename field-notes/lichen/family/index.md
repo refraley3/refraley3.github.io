@@ -404,6 +404,7 @@ title: Families
 - Huneckia pollinii
 - Kuettlingeria soralifera
 - Polycauliona candelaria
+- [Pin-cushion Sunburst](/gallery/fungi/lichen/pin-cushion-sunburst/) [_(Polycauliona polycarpa)_](/field-notes/lichen/polycauliona-polycarpa/)
 - Pyrenodesmia atroalba
 - Pyrenodesmia pratensis
 - Pyrenodesmia variabilis
@@ -415,7 +416,7 @@ title: Families
 - Squamulea squamosa
 - Squamulea subsoluta
 - Tayloriellina microphyllina
-- Teloschistes chrysophthalmus
+- [Golden-eye Lichen](/gallery/fungi/lichen/golden-eye/) [_(Teloschistes chrysophthalmus)_](/field-notes/lichen/teloschistes-chrysophthalmus/)
 - Xanthocarpia crenulatella
 - Xanthocarpia feracissima
 - [**Hooded Sunburst**](/gallery/fungi/lichen/hooded-sunburst/) [_(Xanthomendoza fallax)_](/field-notes/lichen/xanthomendoza-fallax/)
