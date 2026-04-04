@@ -1,116 +1,163 @@
 ---
 layout: photo
 title: Red-winged Blackbird
+description: A Red-winged Blackbird perched among cattails during an early spring snowfall in Minnesota.
 ---
 
-### _Agelaius phoeniceus_  
+## [*Agelaius phoeniceus*](/field-notes/birds/passeriformes/icteridae/agelaius-phoeniceus/)  
+{: .taxonomy-last}
 
-![Red-winged Blackbird perched on a bare branch](/gallery/animals/birds/assets/perching/red-winged-blackbird/E21A1114.jpg){: .cover role="img" aria-label="Red-winged Blackbird perched on a bare branch"}  
-**Red-winged Blackbird perched on a bare branch**  
-_A sentinel of the marsh, flashing red and gold against gray skies._  
-Perched upright with bold presence, the male’s glossy black plumage contrasts the fiery epaulets that define the species.  
-Size: 2110 x 1407  
-{:.caption}
+Red-winged Blackbirds perch prominently among reeds and cattails, their glossy black forms set off by flashes of red and gold at the shoulder. In early spring, they arrive before the landscape has fully awakened, calling across marshes still touched by frost or lingering snow. Their upright stance and bold display make them one of the most recognizable presences in wetland habitats, a signal that the season is shifting.
 
+For identification details and comparison with similar species, see  
+the [*Agelaius phoeniceus*](/field-notes/birds/passeriformes/icteridae/agelaius-phoeniceus/) in the **Field Notes** section.
+
+---
+
+![Red-winged Blackbird — First Spring Snow](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0287.jpg){: .cover role="img" aria-label="Red-winged Blackbird — First Spring Snow"}  
+**Red-winged Blackbird — First Spring Snow**  
+_A sentinel of the marsh, holding his ground as winter lingers._  
+Perched high on a bending reed, the male Red-winged Blackbird surveys the wetland, his crimson epaulet glowing against the muted tones of snow and water.  
 Camera: Canon EOS 5D Mk IV  
-Lens: EF70-300mm f/4-5.6 IS USM  
-Settings: ISO 200 • Aperture f/9.0 • Shutter 1/80 s  
-{:.caption}
+Lens: EF100-400mm f/4-5.6L IS USM  
+Settings: ISO 4000 • Aperture f/6.3 • Shutter 1/320 s  
+E22A0287 • Size: 4198x2799  
+{: .caption}
 
 ---
 
 ### Overview
 
-Among the most recognizable North American songbirds, the **Red-winged Blackbird** thrives in wetlands, meadows, and roadside reeds. Males guard territories from high perches, flashing their red-and-yellow shoulder patches to rival males and to attract females. Females, streaked brown and more subdued, weave deep within cattails and grasses to build their nests.
+Among the most recognizable voices of North American wetlands, the **Red-winged Blackbird** returns early in spring—sometimes before winter has fully released its grip. Males establish territories immediately, perching prominently and calling into the cold air, their red-and-yellow shoulder patches flashing as both warning and display.
+
+This sequence captures a brief snowfall at the edge of the season, where the bird’s bold coloration contrasts sharply with the subdued landscape.
 
 ---
 
-### Identification
+### In the Snow
 
-<div class="grid" role="list" style="justify-content: center; text-align: center;">
-
-<div class="tile" style="margin: 15px;">
-
-[![Red-winged Blackbird — Edge of the Wetland](/gallery/animals/birds/assets/perching/red-winged-blackbird/E21A1553.jpg){: .cover role="img" aria-label="Red-winged Blackbird — Edge of the Wetland"}  
-**Red-winged Blackbird — Edge of the Wetland**  
-_A streak of red and gold against the pale sky, marking the borders of his world._  
-Poised on a weathered limb, the Red-winged Blackbird watches over his domain. His bright shoulder patch glows with defiance, a visual echo of his sharp call.  
-](/gallery/animals/birds/red-winged-blackbird/){: .tile role="listitem"}
-
+![Side Profile — Quiet Watch](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0288.jpg){: .cover role="img" aria-label="Side Profile — Quiet Watch"}  
+**Side Profile — Quiet Watch**  
+_Stillness between calls, the marsh held in suspension._  
 Camera: Canon EOS 5D Mk IV  
-Lens: EF70-300mm f/4-5.6 IS USM  
-Settings: ISO 200 • Aperture f/13.0 • Shutter 1/80 s  
-
-</div>
-
-</div>
-
-- **Male:** Glossy black overall with bright red shoulder patches edged in yellow.  
-- **Female:** Brown, heavily streaked, resembling a large sparrow.  
-- **Bill:** Long, sharply pointed, and black.  
-- **Song:** A bold *“conk-la-ree!”* — loud and unmistakable across open wetlands.  
-- **Behavior:** Territorial; males often sing from perches and chase intruders aggressively.
-
----
-### Female Red-winged Blackbird
-
-<div class="grid" role="list" style="justify-content: center; text-align: center;">
-
-<div class="tile" style="margin: 15px;">
-
-![Female Red-winged Blackbird among seed heads](/gallery/animals/birds/assets/perching/red-winged-blackbird/E21A2028.jpg){: .cover role="img" aria-label="Female Red-winged Blackbird among seed heads"}  
-**Female Red-winged Blackbird among seed heads**  
-_Streaked brown and russet, she blends seamlessly into the marshland reeds._  
-Perched lightly on ripened grasses, the female’s intricate patterning provides perfect camouflage among the seed heads.  
+Lens: EF100-400mm f/4-5.6L IS USM  
+Settings: ISO 4000 • Aperture f/6.3 • Shutter 1/320 s  
+E22A0288 • Size: 4198x2799  
 {:.caption}
 
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
+
+![Turning into the Wind](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0289.jpg){: .cover role="img" aria-label="Turning into the Wind"}  
+**Turning into the Wind**  
+_A subtle shift as snow drifts through the reeds._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100-400mm f/4-5.6L IS USM  
+Settings: ISO 4000 • Aperture f/6.3 • Shutter 1/320 s  
+E22A0289 • Size: 4198x2799  
+{:.caption}
+
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+![Balancing Act](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0290.jpg){: .cover role="img" aria-label="Balancing Act"}  
+**Balancing Act**  
+_The reed bends, but the bird remains steady._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100-400mm f/4-5.6L IS USM  
+Settings: ISO 4000 • Aperture f/6.3 • Shutter 1/320 s  
+E22A0290 • Size: 4198x2799  
+{:.caption}
+
+</div>
+
+</div>
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
+
+![Fleeting Flash of Color](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0291.jpg){: .cover role="img" aria-label="Fleeting Flash of Color"}  
+**Fleeting Flash of Color**  
+_A glimpse of red before it disappears again._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100-400mm f/4-5.6L IS USM  
+Settings: ISO 4000 • Aperture f/6.3 • Shutter 1/320 s  
+E22A0291 • Size: 4198x2799  
+{:.caption}
+
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+![Looking Back](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0292.jpg){: .cover role="img" aria-label="Looking Back"}  
+**Looking Back**  
+_A pause, attentive to movement across the marsh._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100-400mm f/4-5.6L IS USM  
+Settings: ISO 4000 • Aperture f/6.3 • Shutter 1/320 s  
+E22A0292 • Size: 4198x2799  
+{:.caption}
+
+</div>
+
+</div>
+
+### Photographer’s Perspective
+
+The snowfall softened the entire scene—muting the background and isolating the bird against a quiet palette of browns and grays. In that stillness, the red epaulet became the focal point, a signal of persistence and territory even as winter briefly returned.
+
+The sequence reveals small shifts in posture and balance—moments that might go unnoticed at a distance, but define the character of the bird at close range.
+
+---
+
+### Female Red-winged Blackbird
+
+While the male commands attention with bold color and display, the female Red-winged Blackbird moves through the marsh with quiet precision. Her streaked brown plumage blends seamlessly into grasses and seed heads, an adaptation that offers protection while nesting low among reeds.
+
+![Among Seed Heads](/gallery/animals/birds/assets/perching/red-winged-blackbird/E21A2028.jpg){: .cover role="img" aria-label="Among Seed Heads"}  
+**Among Seed Heads**  
+_Streaked and subdued, she disappears into the texture of the field._  
 Camera: Canon EOS 5D Mk IV  
 Lens: EF70-200mm f/2.8L IS II USM 2x  
 Settings: ISO 250 • Aperture f/8.0 • Shutter 1/160 s  
+E21A2028 • Size: 1391x927  
+{:.caption}
+
+Perched lightly on ripened grasses, the female’s intricate patterning provides perfect camouflage among the seed heads.
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
+
+![Frontal Presence](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0286.jpg){: .cover role="img" aria-label="Frontal Presence"}  
+**Frontal Presence**  
+_A direct and watchful stance facing forward on cattail, marking territory._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100-400mm f/4-5.6L IS USM  
+Settings: ISO 4000 • Aperture f/6.3 • Shutter 1/320 s  
+E22A0286 • Size: 4198x2799  
 {:.caption}
 
 </div>
 
 <div class="tile" style="margin: 15px;">
 
-![Female Red-winged Blackbird in golden meadow](/gallery/animals/birds/assets/perching/red-winged-blackbird/E21A1864.jpg){: .cover role="img" aria-label="Female Red-winged Blackbird in golden meadow"}  
-**Female Red-winged Blackbird — Marsh Sentinel**  
-_Amid the shimmer of late-summer fields, her sharp gaze surveys the colony._  
-Though less vivid than the male, her song and vigilance are vital to the nest’s defense and the rhythm of the wetland chorus.  
-{:.caption}
-
+![Marsh Camouflage](/gallery/animals/birds/assets/perching/red-winged-blackbird/E21A1864.jpg){: .cover role="img" aria-label="Marsh Camouflage"}  
+**Marsh Camouflage**  
+_In warm light, her pattern echoes the grasses that surround her._  
 Camera: Canon EOS 5D Mk IV  
 Lens: EF70-200mm f/2.8L IS II USM 2x  
-Settings: ISO 160 • Aperture f/13.0 • Shutter 1/250 s  
+Settings: ISO 200 • Aperture f/13.0 • Shutter 1/250 s  
+E21A1864 • Size: 2758x1839  
 {:.caption}
 
 </div>
 
 </div>
 
-### Female Overview
-Female Red-winged Blackbirds are often mistaken for large sparrows due to their streaked brown plumage, but they share the same strong, pointed bill and confident stance as the males. Their coloration provides essential concealment when nesting among cattails and grasses. Females are highly vocal, answering the males’ trills with a series of rapid chattering calls that reinforce pair bonds and warn of predators.
-
-**Key Traits**
-- Brown and buff streaking overall, with a pale eyebrow stripe.  
-- Slightly smaller than the male, averaging 7–8.5&quot; [18–22 cm].  
-- Builds a deep, cup-shaped nest woven from wet vegetation.  
-- Feeds on insects, seeds, and larvae gleaned from reeds and stalks.
+Unlike the male, her presence is often revealed only through movement or soft calls. Together, the contrast between bold display and subtle concealment defines the rhythm of the marsh.
 
 ---
-
-**Photographer’s Note**  
-These females reveal the subtler side of the species — elegance hidden in camouflage. In the soft light of the meadow, their patterns echo the textures of the landscape, reminding us that beauty isn’t always found in bold color, but in the art of blending in.
-
-### Habitat
-Prefers **marshes, wet meadows, and grassy fields**, often nesting near standing water. Outside breeding season, large flocks gather in fields and grain areas, sometimes mixing with grackles and cowbirds.
-
----
-
-### Diet
-Feeds primarily on **insects, seeds, and grains**. In summer, consumes beetles, caterpillars, and other invertebrates; in winter, shifts to foraging for seeds and crop grains.
-
----
-
-### Photographer’s Perspective
-Captured on a muted day, the bird’s black sheen reflects subtle blue and violet tones, while the crimson shoulder patch gleams even under low light. The composition emphasizes its posture — alert, balanced, and defiant — the classic stance of the Red-winged Blackbird.
