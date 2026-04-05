@@ -1,0 +1,36 @@
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+  {% for tile in include.tiles %}
+  <div class="tile" style="margin: 15px; max-width: {{ tile.width | default: '200px' }};">
+
+    {% if tile.image %}
+    <a href="{{ tile.url }}" class="tile" role="listitem">
+      <img
+        src="{{ tile.image }}"
+        class="cover"
+        alt="{{ tile.alt | default: tile.title }}"
+        role="img"
+        aria-label="{{ tile.alt | default: tile.title }}"
+        style="height: {{ tile.height | default: '200px' }}; width: 100%; object-fit: cover; object-position: {{ tile.image_x | default: 'center' }} {{ tile.image_y | default: 'center' }};"
+      />
+
+      <div style="text-align: center;">
+        <strong>{{ tile.title }}</strong>
+      </div>
+
+      {% if tile.kicker %}
+      <div style="text-align: center;">
+        <em>{{ tile.kicker }}</em>
+      </div>
+      {% endif %}
+    </a>
+
+    {% if tile.text %}
+    <div style="text-align: left;">
+      {{ tile.text }}
+    </div>
+    {% endif %}
+  {% endif %}
+
+  </div>
+  {% endfor %}
+</div>

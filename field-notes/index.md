@@ -1,178 +1,118 @@
 ---
 layout: default
 title: Field Notes
+
+field_groups:
+  - title: Odonata
+    url: /field-notes/odonata/
+    image: /gallery/animals/insects/dragonflies/assets/autumn-meadowhawk/D79A0209.jpg
+    alt: Odonata
+    kicker: Dragonflies and damselflies
+    text: Field notes and family guides for odonates.
+    width: 200px
+    height: 200px
+    image_x: right
+    image_y: center
+
+  - title: Fungi
+    url: /field-notes/fungi/
+    image: /gallery/fungi/mushrooms/assets/turkeytail/E21A6273.jpg
+    alt: Fungi
+    kicker: Macrofungi and rusts
+    text: Observational field notes on fungi, emphasizing form, substrate, and seasonal appearance.
+    width: 200px
+    height: 200px
+    image_x: right
+    image_y: center
+
+  - title: Lichens
+    url: /field-notes/lichen/
+    image: /gallery/fungi/lichen/assets/golden-eye/E22A0184_85_88.jpg
+    alt: Lichens
+    kicker: Structure and comparison
+    text: Field notes and identification details for lichens observed during field photography.
+    width: 200px
+    height: 200px
+    image_x: right
+    image_y: center
+
+  - title: Birds
+    url: /field-notes/birds/
+    image: /gallery/animals/birds/assets/perching/american-goldfinch/E21A3395.jpg
+    alt: Birds
+    kicker: Structure, behavior, and season
+    text: Field notes and family guides for birds, emphasizing movement, habitat, and seasonal context.
+    width: 200px
+    height: 200px
+    image_x: right
+    image_y: center
+
+field_essays:
+  - title: First Quiet Voices of Spring
+    url: /field-notes/first-quiet-voices-spring/
+    image: /gallery/plants/wildflowers/assets/rue-anemone/E21A1432.jpg
+    alt: First Quiet Voices of Spring
+    kicker: The first colors beneath bare branches.
+    text: Rue Anemones bloom after rain — fragile, pale, and brief — marking the quiet return of life to the woodland floor.
+    width: 600px
+    height: 400px
+    image_x: right
+    image_y: bottom
+
+  - title: The Day of the Jumping Mushrooms
+    url: /field-notes/jumping-mushrooms/
+    image: /gallery/fungi/mushrooms/assets/slimespike/E21A6312.jpg
+    alt: The Day of the Jumping Mushrooms
+    kicker: Squirrel, Turkeytail, Slimespike.
+    text: A morning story that changed under a spore print.
+    width: 600px
+    height: 400px
+    image_x: left
+    image_y: center
+
+comparative_notes:
+  - title: Comparing Four Pine Species
+    url: /field-notes/comparing-four-pine-species/
+    image: /gallery/plants/trees/assets/austrian-pine/E21A7573.jpg
+    alt: Comparing Four Pine Species
+    kicker: Austrian Pine · Jack Pine · Red Pine · Lodgepole Pine
+    text: This guide compares four common or commonly planted pines in Minnesota and the Upper Midwest.
+    width: 200px
+    height: 200px
+    image_x: center
+    image_y: center
+
+
+  - title: Comparing Four Lichen Species
+    url: /field-notes/lichen/comparing-four-lichen-species/
+    image: /gallery/fungi/lichen/assets/candleflame/E21A8051-8055-1.jpg
+    alt: Comparing Four Lichen Species
+    kicker: Comparative lichen study
+    text: Field comparison of four lichen species using form, surface, and growth habit.
+    width: 200px
+    height: 200px
+    image_x: center
+    image_y: center
+
 ---
 
 Seasonal observations, IDs, and stories.
 {:.caption}
 
-## [Odonata](/field-notes/odonata/)
-Field notes and identification details for dragonflies and damselflies observed during field photography, focusing on visual characters and habitat.
+## Field Groups
 
-<div class="grid" role="list" style="justify-content: center; text-align: center;">
+{::nomarkdown}
+{% include tile-grid.html tiles=page.field_groups %}
+{:/nomarkdown}
 
-<div class="tile" style="margin: 15px;">
+## Field Essays & Observations
 
-## [Zygoptera](/field-notes/odonata/zygoptera/)
+{::nomarkdown}
+{% include tile-grid.html tiles=page.field_essays %}
+{:/nomarkdown}
 
-[![Damselflies](/gallery/animals/insects/damselflies/assets/familiar-bluet/E21A1516.jpg){: .cover role="img" aria-label="Damselflies" style="height: 200px;"}  
-**Damselflies**  
-_Field notes and family guides for damselflies._  
-](/field-notes/odonata/zygoptera/){: .tile role="listitem"}
+## Comparative Notes
 
-</div>
-
-<div class="tile" style="margin: 15px;">
-
-## [Anisoptera](/field-notes/odonata/anistoptera/)
-
-[![Dragonflies](/gallery/animals/insects/dragonflies/assets/autumn-meadowhawk/D79A0209.jpg){: .cover role="img" aria-label="Dragonflies" style="height: 200px;"}  
-**Dragonflies**  
-_Field notes and family guides for dragonflies._  
-](/field-notes/odonata/anistoptera/){: .tile role="listitem"}
-
-</div>
-
-</div>
-
-<div class="grid" role="list" style="justify-content: center; text-align: center;">
-
-<div class="tile" style="margin: 15px;">
-
-## [Fungi](/field-notes/fungi/)  
-Observational notes on fungi encountered in the field, including wood-decay fungi, rusts, and other macrofungi documented through photography.
-
-</div>
-
-<div class="tile" style="margin: 15px;">
-
-## [Lichens](/field-notes/lichen/)  
-Field notes and identification details for lichens observed during field photography, focusing on visual characters and habitat.
-
-</div>
-
-</div>
-
-<div class="grid" role="list" style="justify-content: center; text-align: center;">
-
-<div class="tile" style="margin: 15px;">
-
-[![First Quiet Voices of Spring](/gallery/plants/wildflowers/assets/rue-anemone/E21A1432.jpg){: .cover role="img" aria-label="First Quiet Voices of Spring" style="height: 300px;"}  
-**First Quiet Voices of Spring**  
-_The first colors beneath bare branches._  
-Rue Anemones bloom after rain — fragile, pale, and brief — marking the quiet return of life to the woodland floor.  
-](/field-notes/first-quiet-voices-spring/){: .tile role="listitem"}
-
-</div>
-
-<div class="tile" style="margin: 15px;">
-
-[![The Day of the Jumping Mushrooms](/gallery/fungi/mushrooms/assets/slimespike/E21A6312.jpg){: .cover role="img" aria-label="Jumping Mushrooms" style="height: 300px;"}  
-**The Day of the Jumping Mushrooms**  
-_Squirrel, Turkeytail, Slimespike._  
-A morning story that changed under a spore print.  
-](/field-notes/jumping-mushrooms/){: .tile role="listitem"}
-
-</div>
-
-<div class="tile" style="margin: 15px;">
-
-[![Turkeytail](/gallery/fungi/mushrooms/assets/turkeytail/E21A6273.jpg){: .cover role="img" aria-label="Turkeytail" style="height: 300px;"}  
-**Turkeytail**  
-_Pored underside._  
-Concentric bands and fine pores on dead wood.  
-](/gallery/fungi/mushrooms/turkeytail){: .tile role="listitem"}
-
-</div>
-
-</div>
-
-<div class="grid" role="list" style="justify-content: center; text-align: center;">
-
-<div class="tile" style="margin: 15px;">
-
-[![Blackening Slimespike Spore Print](/gallery/fungi/mushrooms/assets/slimespike/SporePrint-Slimespike.jpg){: .cover role="img" aria-label="Blackening Slimespike Spore Print" style="height: 300px;"}  
-**Blackening Slimespike Spore Print**  
-_Gray/black spore print._  
-A slimy cap and a Douglas-fir “jump.”  
-](/gallery/fungi/mushrooms/blackening-slimespike){: .tile role="listitem"}
-
-</div>
-
-<div class="tile" style="margin: 15px;">
-
-[![Funeral Bell Spore Print](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6462.jpg){: .cover role="img" aria-label="Funeral Bell Spore Print" style="height: 300px;"}  
-**Funeral Bell Spore Print**  
-_Likely the deadly Funeral Bell._  
-Small, caramel-brown gilled mushrooms on moss covered log.  
-](/gallery/fungi/mushrooms/funeral-bell/){: .tile role="listitem"}
-
-</div>
-
-<div class="tile" style="margin: 15px;">
-
-[![Mucous Cort Spore Print](/gallery/fungi/mushrooms/assets/mucous-cort/E21A7054-1.jpg){: .cover role="img" aria-label="Mucous Cort Spore Print" style="height: 300px;"}  
-**Mucous Cort Spore Print**  
-_Cortinarius mucosus_  
-A soft, rusty spore print, its color—neither pale cream nor dark brown—marks.  
-](/gallery/fungi/mushrooms/mucous-cort/){: .tile role="listitem"}
-
-</div>
-
-</div>
-
-<div class="grid" role="list" style="justify-content: center; text-align: center;">
-
-<div class="tile" style="margin: 15px;">
-
-[![Floury Amanita](/gallery/fungi/mushrooms/assets/floury-amanita/E21A6395.jpg){: .cover role="img" aria-label="Floury Amanita" style="height: 200px;"}  
-**Floury Amanita**  
-_Powder-dusted caps._  
-Pale, poised, and photogenic — admired, not handled.  
-](/gallery/fungi/mushrooms/floury-amanita){: .tile role="listitem"}
-
-</div>
-
-<div class="tile" style="margin: 15px;">
-
-[![Bleeding Bonnet](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5422.jpg){: .cover role="img" aria-label="Bleeding Bonnet" style="height: 200px;"}  
-**Bleeding Bonnet**  
-_Mycena haematopus._  
-Three days beneath the trees — a quiet record of the Bleeding Bonnet’s surrender to another fungus.  
-](/gallery/fungi/mushrooms/bleeding-bonnet/){: .tile role="listitem"}
-
-</div>
-
-</div>
-
-<div class="grid" role="list" style="justify-content: center; text-align: center;">
-
-<div class="tile" style="margin: 15px;">
-
-[![Comparing Four Pine Species](/gallery/plants/trees/assets/austrian-pine/E21A7573.jpg){: .cover role="img" aria-label="Comparing Four Pine Species" style="height: 200px;"}  
-**Comparing Four Pine Species**  
-_Austrian Pine · Jack Pine · Red Pine · Lodgepole Pine_  
-This guide compares four common or commonly planted pines in Minnesota and the Upper Midwest.
-](/field-notes/comparing-four-pine-species/){: .tile role="listitem"}
-
-</div>
-
-</div>
-
-<div class="grid" role="list" style="justify-content: center; text-align: center;">
-
-<div class="tile" style="margin: 15px;">
-
-[![Lichen Study](/gallery/fungi/lichen/assets/eastern-speckled-shield/E21A8044-RevA-1.jpg){: .cover role="img" aria-label="Lichen Study" style="height: 200px;"}  
-**Lichen Study**  
-_Field guides to lichen Study._
-](/field-notes/lichen/){: .tile role="listitem"}
-
-[![Comparing Four Lichen Species](/gallery/fungi/lichen/assets/candleflame/E21A8051-8055-1.jpg){: .cover role="img" aria-label="Lichen Study" style="height: 200px;"}  
-**Comparing Four Lichen Species**  
-_Field guides to lichen Study._
-](/field-notes/lichen/comparing-four-lichen-species/){: .tile role="listitem"}
-
-</div>
-
-</div>
+{::nomarkdown}
+{% include tile-grid.html tiles=page.comparative_notes %}
+{:/nomarkdown}

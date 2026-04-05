@@ -3,7 +3,9 @@ layout: photo
 title: Birds
 ---
 
-![Perching Birds](/gallery/animals/birds/assets/perching/song-sparrow/E21A1917_1.jpg)In a series of quick, deliberate movements, a song sparrow shifts, balances, and surveys the clearing — part vigilance, part rhythm.
+![Side Profile — Quiet Watch](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0288.jpg){: .cover role="img" aria-label="Side Profile — Quiet Watch"}  
+**Side Profile — Quiet Watch**  
+_Stillness between calls, the marsh held in suspension._  
 {:.caption}
 
 <div class="grid" role="list">
