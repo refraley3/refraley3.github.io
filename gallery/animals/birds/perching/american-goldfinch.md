@@ -1,113 +1,103 @@
 ---
 layout: photo
-title: "American Goldfinch"
-category: "birds"
-image: /gallery/animals/birds/assets/perching/american-goldfinch/E21A3383.jpg
-tags: [birds, finch, wildlife, Minnesota, photography]
+title: American Goldfinch
+description: A bright summer American Goldfinch perched among late-season greenery in Minnesota.
 ---
 
-## Scientific Name: *Spinus tristis*
+## [*Spinus tristis*](/field-notes/birds/passeriformes/fringillidae/spinus-tristis/)  
+{: .taxonomy-last}
 
-## Description
+American Goldfinches move through late summer fields in flashes of yellow, their color catching the light as they pass between seed heads and flowering plants. Their flight rises and falls in a gentle rhythm, accompanied by soft, musical calls that carry across open ground. In these moments, they feel less like a single bird and more like a shifting presence woven into the landscape.
 
-The American Goldfinch (Spinus tristis) — Minnesota’s vibrant state bird—is a lively, social finch easily recognized by its bright plumage and musical calls. Often seen fluttering among sunflowers and thistles, these birds bring a burst of yellow to meadows and gardens. Males in summer wear dazzling yellow feathers and a black cap, while females and winter birds display softer olive hues.
-
-![American Goldfinch side profile](/gallery/animals/birds/assets/perching/american-goldfinch/E21A3395.jpg)
-{:.caption}
-
-*Image ID: E21A3395* - American Goldfinch side profile • Size: 3517x2345
-{:.caption}
-
-*Camera: Canon EOS 5D Mk IV • Lens:* EF100-400mm f/4.5-5.6L IS USM +1.4x
-*Settings:* ISO 100 • Aperture f/8.0 • Shutter 1/320 s
-{:.caption}
+For identification details and comparison with similar species, see  
+the [*Spinus tristis*](/field-notes/birds/passeriformes/fringillidae/spinus-tristis/) in the **Field Notes** section.
 
 ---
+### Among the Leaves
 
-![Female American Goldfinch peeking through foliage](/gallery/animals/birds/assets/perching/american-goldfinch/E21A3396.jpg)
-{:.caption}
-
-*Image ID: E21A3396* - Female American Goldfinch peeking through foliage • Size: 4310x2873
-{:.caption}
-
-*Camera: Canon EOS 5D Mk IV • Lens:* EF100-400mm f/4.5-5.6L IS USM +1.4x
-*Settings:* ISO 100 • Aperture f/8.0 • Shutter 1/320 s
+![Side Profile — Filtered Light](/gallery/animals/birds/assets/perching/american-goldfinch/E21A3395.jpg){: .cover role="img" aria-label="Side Profile — Filtered Light"}  
+**Side Profile — Filtered Light**  
+_A quiet pause, framed by shifting light._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100-400mm f/4.5-5.6L IS USM +1.4x  
+Settings: ISO 100 • Aperture f/8.0 • Shutter 1/320 s  
+E21A3395 • Size: 3517x2345  
 {:.caption}
 
 ---
 
-![Female American Goldfinch among branches](/gallery/animals/birds/assets/perching/american-goldfinch/E21A3397.jpg)
-{:.caption}
+### Overview
 
-*Image ID: E21A3397* - Female American Goldfinch among branches • Size: 4310x2873
-{:.caption}
+A familiar presence in fields and gardens, the **American Goldfinch** reaches its peak brightness in late summer. Their timing follows the landscape—nesting delayed until seeds are abundant, and movement shaped by the availability of thistle, sunflower, and other composites.
 
-*Camera: Canon EOS 5D Mk IV • Lens:* EF100-400mm f/4.5-5.6L IS USM +1.4x
-*Settings:* ISO 100 • Aperture f/8.0 • Shutter 1/320 s
-{:.caption}
+They are rarely still for long. Even at rest, there is a sense of motion—an awareness of the next perch, the next seed head, the next shift through the field.
 
 ---
 
-![Female American Goldfinch looking through leaves](/gallery/animals/birds/assets/perching/american-goldfinch/E21A3398.jpg)
+![American Goldfinch — Summer Perch](/gallery/animals/birds/assets/perching/american-goldfinch/E21A3383.jpg){: .cover role="img" aria-label="American Goldfinch — Summer Perch"}  
+**American Goldfinch — Summer Perch**  
+_A brief pause among the greens of late summer._  
+Perched lightly within foliage, the male’s bright plumage stands in contrast to the surrounding leaves, a moment of stillness between movements.  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100-400mm f/4.5-5.6L IS USM +1.4x  
+Settings: ISO 100 • Aperture f/8.0 • Shutter 1/320 s  
+E21A3383 • Size: 3517x2345  
+{: .caption}
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
+
+![Female — Peeking Through Leaves](/gallery/animals/birds/assets/perching/american-goldfinch/E21A3396.jpg){: .cover role="img" aria-label="Female — Peeking Through Leaves"}  
+**Female — Peeking Through Leaves**  
+_Subtle, nearly lost within the foliage._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100-400mm f/4.5-5.6L IS USM +1.4x  
+Settings: ISO 100 • Aperture f/8.0 • Shutter 1/320 s  
+E21A3396 • Size: 4310x2873  
 {:.caption}
 
-*Image ID: E21A3398* - Female American Goldfinch looking through leaves • Size: 4310x2873
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+
+![Looking Through Foliage](/gallery/animals/birds/assets/perching/american-goldfinch/E21A3398.jpg){: .cover role="img" aria-label="Looking Through Foliage"}  
+**Looking Through Foliage**  
+_Partially hidden, revealed in layers._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100-400mm f/4.5-5.6L IS USM +1.4x  
+Settings: ISO 100 • Aperture f/8.0 • Shutter 1/320 s  
+E21A3398 • Size: 4310x2873  
 {:.caption}
 
-*Camera: Canon EOS 5D Mk IV • Lens:* EF100-400mm f/4.5-5.6L IS USM +1.4x
-*Settings:* ISO 100 • Aperture f/8.0 • Shutter 1/320 s
-{:.caption}
+</div>
+
+</div>
+
+### Photographer’s Perspective
+
+The surrounding foliage shaped the scene as much as the bird itself—filtering the light and softening the edges. Rather than isolating the subject, the composition holds onto that sense of enclosure, where the goldfinch appears and disappears within the leaves.
+
+What stands out are the transitions: a turn of the head, a shift in footing, a brief alignment with the light before slipping back into cover.
 
 ---
 
-[Additional images...](/gallery/animals/birds/perching/american-goldfinch-extra/) •
+### Female American Goldfinch
 
-## Appearance
+Where the male announces himself in color, the female moves quietly through the same space. Her olive tones blend into leaves and stems, her presence defined more by movement than by contrast.
 
-| Feature | Description |
-|----------|--------------|
-| **Plumage** | Bright yellow, black, and white. Breeding males have vivid yellow bodies with a black cap, wings, and tail. Females and nonbreeding males appear duller, with olive and brown tones. |
-| **Wings** | Pointed with bold white markings, creating a strong contrast during flight. |
-| **Tail** | Short and notched, adding to the bird’s distinctive bounding flight pattern. |
-| **Size** | Approximately 5" (13 cm) in length. |
+![Among Branches](/gallery/animals/birds/assets/perching/american-goldfinch/E21A3397.jpg){: .cover role="img" aria-label="Among Branches"}  
+**Among Branches**  
+_Moving through structure and shadow._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100-400mm f/4.5-5.6L IS USM +1.4x  
+Settings: ISO 100 • Aperture f/8.0 • Shutter 1/320 s  
+E21A3397 • Size: 4310x2873  
+{:.caption}
 
-## Plumage
+Perched within dense leaves, she blends seamlessly into the structure around her—visible only when she shifts or catches the light.
 
-Color: Yellow, black, white. Breeding males bright yellow with black cap, wings, and tail. Nonbreeding and females duller with olive tones.
-
-### Behavior and Feeding
-
-Feeds on seeds while perched; often seen in flocks. Nests late in summer to match seed availability. Primarily seeds from thistle, sunflower, dandelion, and other composites.
-
-Goldfinches remain in flocks until well past the time when other species have formed pairs and are nesting. In the winter they gather in large flocks often with other finches such as redpolls, and Pine Siskins.
-
-## Flight
-
-Undulating flight with a bouncy rhythm
-
-## Nesting
-
-Nests late in summer to match seed availability. Cup of grass, bark strips, and plant down placed in the upright fork of a small sapling or shrub. The nest holds 4 to 5 pale blue eggs.
-
-## Range
-
-Breeds from southern British Columbia east to Newfoundland, and south to California, Utah, southern Colorado, central Oklahoma, Arkansas, and Carolinas. Winters throughout much of the United States.
-
-## Habitat
-
-Weedy fields, gardens, roadsides, orchards
-
-## Audubon Group
-
-* Group Perching Birds
-* Plates 503, 548
-* Page 750
-
-**References:**
-
--National Audubon Society: Field Guide to North American Birds* (1995)
-
-Personal field notes (2025)
-Photographed near Farmington, Minnesota — late summer morning light.
+Together, they reflect a balance between presence and concealment, a rhythm that defines the species across the season.
 
 ---

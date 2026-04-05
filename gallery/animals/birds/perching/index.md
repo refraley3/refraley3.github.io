@@ -8,10 +8,10 @@ title: Perching Birds
 
 <div class="grid" role="list">
 
-[![American Goldfinch](/gallery/animals/birds/assets/perching/american-goldfinch/E21A3395.jpg){: .cover role="img" aria-label="American Goldfinch"}  
-**American Goldfinch**  
-_E21A3395_  
-](/gallery/animals/birds/perching/american-goldfinch/){: .tile role="listitem"}
+[![American Goldfinch](/gallery/animals/birds/assets/perching/american-goldfinch/E21A3395.jpg){: .cover role="img" aria-label="American Goldfinch"}](/gallery/animals/birds/perching/american-goldfinch/)  
+**[American Goldfinch](/gallery/animals/birds/perching/american-goldfinch/)**  
+[_Spinus tristis_](/field-notes/birds/passeriformes/fringillidae/spinus-tristis/)  
+{: .tile role="listitem"}
 
 [![American Robin](/gallery/animals/birds/assets/perching/american-robin/IMG_0007.jpg){: .cover role="img" aria-label="American Robin"}  
 **American Robin**  
@@ -27,9 +27,9 @@ _E21A2654_
 **Blue Jay**  
 _](/gallery/animals/birds/perching/blue-jay/){: .cover role="img" aria-label="Blue Jay"}  
 
-[![Red-winged Blackbird perched on a bare branch](/gallery/animals/birds/assets/perching/red-winged-blackbird/E21A1553.jpg){: .cover role="img" aria-label="Red-winged Blackbird perched on a bare branch"}  
-**Red-winged Blackbird perched on a bare branch**  
-_A sentinel of the marsh, flashing red and gold against gray skies._  
-](/gallery/animals/birds/perching/red-winged-blackbird/){: .cover role="img" aria-label="Red-winged Blackbird perched on a bare branch"}  
+[![Balancing Act](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0290.jpg){: .cover role="img" aria-label="Balancing Act"}](/gallery/animals/birds/perching/red-winged-blackbird/)  
+**[Red-winged Blackbird](/gallery/animals/birds/perching/red-winged-blackbird/)**  
+[_Agelaius phoeniceus_](/field-notes/birds/passeriformes/icteridae/agelaius-phoeniceus/)  
+{: .cover role="img" aria-label="Red-winged Blackbird perched on a bare branch"}  
 
 </div>

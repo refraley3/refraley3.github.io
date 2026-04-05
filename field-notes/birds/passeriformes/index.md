@@ -19,9 +19,7 @@ In the field, passerines are often recognized less by taxonomy and more by **mov
 
 These notes are organized by **family**, emphasizing comparison, behavior, and field recognition rather than a complete species list.
 
-<p style="text-align:center">
-	<img src="/assets/images/under-construction_wht.png" class="cover" alt="Under Construction" role="img" aria-label="Under Construction" />
-</p>
+
 
 ---
 
