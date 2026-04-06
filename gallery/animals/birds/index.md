@@ -8,33 +8,79 @@ title: Birds
 _Stillness between calls, the marsh held in suspension._  
 {:.caption}
 
-<div class="grid" role="list">
+Birds organize the landscape through motion and sound—perched silhouettes, passing shadows, and calls that define space before the eye catches form.  
+Edges of water, open fields, dense understory, and high canopy each host their own assemblages.  
+Together they form a shifting, seasonal structure layered across the same ground.
 
-[![Perching Birds](/gallery/animals/birds/assets/perching/house-wren/E21A2645.jpg){: .photo-tile role="img" aria-label="Perching Birds"}
-**Perching Birds**  
-_The songbirds and sitters of branches and fences._  
-Perching birds - or passerines - bring color and melody to woodlands, fields and backyards.](/gallery/animals/birds/perching/){: .photo-tile role="listitem"}
+## Habitat & Movement Groups
 
-[![Raptors](/gallery/animals/birds/assets/raptors/bald-eagle/IMG_0004.jpg){: .cover role="img" aria-label="Raptors"}  
-**Raptors**  
-_Hunters of the open sky and silent forests._  
-Raptors command the air with precision and power.  
-](/gallery/animals/birds/raptors/){: .tile role="listitem"}
-
-[![Tree Clinging Birds](/assets/images/under-construction_wht.png){: .cover role="img" aria-label="Tree Clinging Birds"}  
-**Tree Clinging**  
-_Specialists of bark and vertical motion._  
-Woodpeckers, nuthatches, and creepers hammering and probing in search of insects.  
-](/gallery/animals/birds/){: .tile role="listitem"}
-
-</div>
+Birds can be approached through how they move and where they spend their time—each group revealing a different relationship to structure, air, and ground.
 
 <div class="grid" role="list">
 
-[![Wading Birds](/gallery/animals/birds/assets/waders/sandhill-crane/E21A2039.jpg){: .cover role="img" aria-label="Wading Birds"}  
-**Wading Birds**  
-_Poise and reflection at the water's edge._  
-Wading birds inhabit the boundaries between land and water.  
-](/gallery/animals/birds/){: .tile role="listitem"}
+[![Perching Birds](/gallery/animals/birds/assets/perching/house-finch/E21A2645.jpg){: .photo-tile role="img" aria-label="Perching Birds"}](/gallery/animals/birds/perching/){: .tile role="listitem"}
+**[Perching Birds](/gallery/animals/birds/perching/)**  
+[*Passeriformes*](/field-notes/birds/passeriformes/) 
+{: .caption}
+
+[![Raptors](/gallery/animals/birds/assets/raptors/bald-eagle/IMG_0004.jpg){: .cover role="img" aria-label="Raptors"}](/gallery/animals/birds/raptors/){: .tile role="listitem"}
+**[Raptors](/gallery/animals/birds/raptors/)**  
+[*Accipitriformes*](/field-notes/birds/accipitriformes/)  
+{: .caption}
+
+[![Woodpeckers](/gallery/animals/birds/assets/woodpeckers/downey-woodpecker/E22A0415.jpg){: .cover role="img" aria-label="Woodpeckers"}](/gallery/animals/birds/woodpeckers/){: .tile role="listitem"}
+**[Woodpeckers](/gallery/animals/birds/woodpeckers/)**  
+[*Piciformes*](/field-notes/birds/piciformes/)  
+{: .caption}
+
+[![Waterfowl](/gallery/animals/birds/assets/waders/sandhill-crane/E21A2039.jpg){: .cover role="img" aria-label="Waterfowl"}](/gallery/animals/birds/waterfowl/){: .tile role="listitem"}
+**[Waterfowl](/gallery/animals/birds/waterfowl/)**  
+[*Anseriformes*](/field-notes/birds/anseriformes/)
+{: .caption}
 
 </div>
+
+## Species Pages
+
+For identification notes, behavior, and seasonal context, see individual species pages and Field Notes.
+
+<div class="grid" role="list">
+
+[![Red-winged Blackbird](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0286.jpg){: .cover role="img" aria-label="Red-winged Blackbird"}](/gallery/animals/birds/perching/red-winged-blackbird/){: .tile role="listitem"}
+**[Red-winged Blackbird](/gallery/animals/birds/perching/red-winged-blackbird/)**  
+[*Agelaius phoeniceus*](/field-notes/birds/passeriformes/icteridae/agelaius-phoeniceus/)  
+{: .caption}
+
+[![American Goldfinch](/gallery/animals/birds/assets/perching/american-goldfinch/E21A3395.jpg){: .cover role="img" aria-label="American Goldfinch"}](/gallery/animals/birds/perching/american-goldfinch/){: .tile role="listitem"}
+**[American Goldfinch](/gallery/animals/birds/perching/american-goldfinch/)**  
+[*Spinus tristis*](/field-notes/birds/passeriformes/fringillidae/spinus-tristis/)  
+{: .caption}
+
+[![House Finch](/gallery/animals/birds/assets/perching/house-finch/E21A2645.jpg){: .cover role="img" aria-label="House Finch"}](/gallery/animals/birds/perching/house-finch/){: .tile role="listitem"}
+**[House Finch](/gallery/animals/birds/perching/house-finch/)**  
+[*haemorhous-mexicanus*](/field-notes/birds/passeriformes/fringillidae/haemorhous-mexicanus/)  
+{: .caption}
+
+[![Downey Woodpecker](/gallery/animals/birds/assets/woodpeckers/downey-woodpecker/E22A0415.jpg){: .cover role="img" aria-label="Downey Woodpecker"}](/gallery/animals/birds/woodpeckers/downey-woodpecker/){: .tile role="listitem"}
+**[Downey Woodpecker](/gallery/animals/birds/woodpeckers/downey-woodpecker/)**  
+[*Dryobates pubescens*](/field-notes/birds/piciformes/picidae/dryobates-pubescens/)  
+{: .caption}
+
+</div>
+
+---
+
+## Field Notes
+
+- [Bird Index](/field-notes/birds/)
+- [Bird Identification](/field-notes/birds/bird-identification/)
+- [Seasonal Observations](/field-notes/birds/seasonal-observations/)
+
+---
+
+## References
+
+- [Cornell Lab of Ornithology](https://www.allaboutbirds.org/)
+- [eBird](https://ebird.org/)
+- [iNaturalist](https://www.inaturalist.org/)
+- [Minnesota Seasons](http://www.minnesotaseasons.com/)

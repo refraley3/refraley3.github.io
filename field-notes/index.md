@@ -77,8 +77,8 @@ comparative_notes:
     alt: Comparing Four Pine Species
     kicker: Austrian Pine · Jack Pine · Red Pine · Lodgepole Pine
     text: This guide compares four common or commonly planted pines in Minnesota and the Upper Midwest.
-    width: 200px
-    height: 200px
+    width: 600px
+    height: 400px
     image_x: center
     image_y: center
 
@@ -89,8 +89,8 @@ comparative_notes:
     alt: Comparing Four Lichen Species
     kicker: Comparative lichen study
     text: Field comparison of four lichen species using form, surface, and growth habit.
-    width: 200px
-    height: 200px
+    width: 600px
+    height: 400px
     image_x: center
     image_y: center
 
