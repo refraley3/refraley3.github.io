@@ -45,6 +45,8 @@ Settings: ISO 4000 • Aperture f/6.3 • Shutter 1/320 s
 E22A0288 • Size: 4198x2799  
 {:.caption}
 
+The snowfall softened the entire scene—muting the background and isolating the bird against a quiet palette of browns and grays. In that stillness, the red epaulet became the focal point, a signal of persistence and territory even as winter briefly returned.
+
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 
 <div class="tile" style="margin: 15px;">
@@ -107,9 +109,34 @@ E22A0292 • Size: 4198x2799
 
 ### Photographer’s Perspective
 
-The snowfall softened the entire scene—muting the background and isolating the bird against a quiet palette of browns and grays. In that stillness, the red epaulet became the focal point, a signal of persistence and territory even as winter briefly returned.
 
 The sequence reveals small shifts in posture and balance—moments that might go unnoticed at a distance, but define the character of the bird at close range.
+
+---
+
+### Territorial Call
+
+Perched high among bare branches, the male Red-winged Blackbird lifts his head and calls into the open air, the red epaulet flashing as both signal and warning. In these moments, posture and voice define the territory as much as the landscape itself.
+
+![Calling from the Branch](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0434.jpg){: .cover role="img" aria-label="Calling from the Branch"}  
+**Calling from the Branch**  
+_Head lifted, voice carried into the open sky._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100-400mm f/4-5.6L IS USM  
+Settings: ISO 800 • Aperture f/8.0 • Shutter 1/500 s  
+E22A0434 • Size: 3659x2439  
+{:.caption}
+
+In a brief pause between calls, the posture shifts. The head lowers, the body settles, and the outward display gives way to something more measured. The gaze turns inward—or perhaps toward the observer—revealing a different aspect of the bird’s presence. No longer projecting across the marsh, he holds his position with quiet certainty, alert and aware within the space he has claimed.
+
+![Direct Gaze](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0444.jpg){: .cover role="img" aria-label="Direct Gaze"}  
+**Direct Gaze**  
+_A brief pause—aware of your presence within his territory._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100-400mm f/4-5.6L IS USM  
+Settings: ISO 800 • Aperture f/5.6 • Shutter 1/1000 s  
+E22A0444 • Size: 3659x2439  
+{:.caption}
 
 ---
 
