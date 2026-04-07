@@ -7,6 +7,12 @@ tags: [birds, FAMILY NAME, bird families, field-notes]
 
 ## FAMILY NAME
 
+### Order: [ORDER NAME](/field-notes/birds/ORDER-NAME/)
+{: .taxonomy-heading}
+
+### Family: FAMILY NAME
+{: .taxonomy-heading .taxonomy-last}
+
 **FAMILY NAME** is a family of **common-group description** birds, recognized by **key structural or behavioral traits** and found in **typical habitats or regions**. Members of this family include **example genera or familiar common groups**, and they occupy a range of ecological roles from **feeding style or habitat use** to **migration or breeding behavior**.
 
 ### Structure and Form

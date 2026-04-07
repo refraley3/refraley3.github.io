@@ -66,6 +66,11 @@ For identification notes, behavior, and seasonal context, see individual species
 [*Dryobates pubescens*](/field-notes/birds/piciformes/picidae/dryobates-pubescens/)  
 {: .caption}
 
+[![Trumpeter Swan](/gallery/animals/birds/assets/waterfowl/trumpeter-swan/E22A0348.jpg){: .cover role="img" aria-label="Trumpeter Swan"}](/gallery/animals/birds/waterfowl/trumpeter-swan/){: .tile role="listitem"}
+**[Trumpeter Swan](/gallery/animals/birds/waterfowl/trumpeter-swan/)**  
+[*Cygnus buccinator*](/field-notes/birds/anseriformes/cygnus-buccinator/)  
+{: .caption}
+
 </div>
 
 ---

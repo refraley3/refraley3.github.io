@@ -49,7 +49,7 @@ In many cases, **sound and movement provide the first clue**, with visual detail
 
 ## Families
 
-### [Picidae](/field-notes/birds/piciformes/picidae/)  
+### Picidae 
 Woodpeckers—specialized climbers with strong bills and bracing tails, including downy woodpeckers, hairy woodpeckers, and flickers. Often identified by drumming patterns, foraging behavior, and contrasting plumage.
 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: photo
-title: downey Woodpecker
+title: Downey Woodpecker
 description: A downey Woodpecker clings to a suet feeder, its patterned plumage standing out against a soft woodland backdrop.
 ---
 
@@ -14,8 +14,8 @@ the [*Dryobates pubescens*](/field-notes/birds/piciformes/picidae/dryobates-pube
 
 ---
 
-![downey Woodpecker — At the Feeder](/gallery/animals/birds/assets/woodpeckers/downey-woodpecker/E22A0415.jpg){: .cover role="img" aria-label="downey Woodpecker — At the Feeder"}  
-**downey Woodpecker — At the Feeder**  
+![Downey Woodpecker — At the Feeder](/gallery/animals/birds/assets/woodpeckers/downey-woodpecker/E22A0415.jpg){: .cover role="img" aria-label="Downey Woodpecker — At the Feeder"}  
+**Downey Woodpecker — At the Feeder**  
 _A steady grip and quiet focus at the edge of winter._  
 Clinging to the wire frame, the downey Woodpecker braces itself with tail and feet, probing the suet with quick, efficient movements.  
 Camera: Canon EOS 5D Mk IV  
