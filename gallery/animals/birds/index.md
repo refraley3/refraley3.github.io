@@ -16,27 +16,49 @@ Together they form a shifting, seasonal structure layered across the same ground
 
 Birds can be approached through how they move and where they spend their time—each group revealing a different relationship to structure, air, and ground.
 
-<div class="grid" role="list">
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
 
 [![Perching Birds](/gallery/animals/birds/assets/perching/house-finch/E21A2645.jpg){: .photo-tile role="img" aria-label="Perching Birds"}](/gallery/animals/birds/perching/){: .tile role="listitem"}
 **[Perching Birds](/gallery/animals/birds/perching/)**  
 [*Passeriformes*](/field-notes/birds/passeriformes/) 
 {: .caption}
 
+</div>
+
+<div class="tile" style="margin: 15px;">
+
 [![Raptors](/gallery/animals/birds/assets/raptors/bald-eagle/IMG_0004.jpg){: .cover role="img" aria-label="Raptors"}](/gallery/animals/birds/raptors/){: .tile role="listitem"}
 **[Raptors](/gallery/animals/birds/raptors/)**  
 [*Accipitriformes*](/field-notes/birds/accipitriformes/)  
 {: .caption}
+
+</div>
+
+</div>
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
 
 [![Woodpeckers](/gallery/animals/birds/assets/woodpeckers/downey-woodpecker/E22A0415.jpg){: .cover role="img" aria-label="Woodpeckers"}](/gallery/animals/birds/woodpeckers/){: .tile role="listitem"}
 **[Woodpeckers](/gallery/animals/birds/woodpeckers/)**  
 [*Piciformes*](/field-notes/birds/piciformes/)  
 {: .caption}
 
-[![Waterfowl](/gallery/animals/birds/assets/waders/sandhill-crane/E21A2039.jpg){: .cover role="img" aria-label="Waterfowl"}](/gallery/animals/birds/waterfowl/){: .tile role="listitem"}
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+[![Waterfowl](/gallery/animals/birds/assets/waterfowl/sandhill-crane/E21A2039.jpg){: .cover role="img" aria-label="Waterfowl"}](/gallery/animals/birds/waterfowl/){: .tile role="listitem"}
 **[Waterfowl](/gallery/animals/birds/waterfowl/)**  
 [*Anseriformes*](/field-notes/birds/anseriformes/)
 {: .caption}
+
+
+</div>
 
 </div>
 
@@ -58,12 +80,17 @@ For identification notes, behavior, and seasonal context, see individual species
 
 [![House Finch](/gallery/animals/birds/assets/perching/house-finch/E21A2645.jpg){: .cover role="img" aria-label="House Finch"}](/gallery/animals/birds/perching/house-finch/){: .tile role="listitem"}
 **[House Finch](/gallery/animals/birds/perching/house-finch/)**  
-[*haemorhous-mexicanus*](/field-notes/birds/passeriformes/fringillidae/haemorhous-mexicanus/)  
+[*Haemorhous-mexicanus*](/field-notes/birds/passeriformes/fringillidae/haemorhous-mexicanus/)  
 {: .caption}
 
 [![Downey Woodpecker](/gallery/animals/birds/assets/woodpeckers/downey-woodpecker/E22A0415.jpg){: .cover role="img" aria-label="Downey Woodpecker"}](/gallery/animals/birds/woodpeckers/downey-woodpecker/){: .tile role="listitem"}
 **[Downey Woodpecker](/gallery/animals/birds/woodpeckers/downey-woodpecker/)**  
 [*Dryobates pubescens*](/field-notes/birds/piciformes/picidae/dryobates-pubescens/)  
+{: .caption}
+
+[![Northern Cardinal](/gallery/animals/birds/assets/perching/northern-cardinal/D79A3424-2.jpg){: .cover role="img" aria-label="Northern Cardinal"}](/gallery/animals/birds/perching/northern-cardinal/){: .tile role="listitem"}
+**[Northern Cardinal](/gallery/animals/birds/perching/northern-cardinal/)**  
+[*Cardinalis cardinalis*](/field-notes/birds/passeriformes/cardinalidae/cardinalis-cardinalis/)  
 {: .caption}
 
 [![Trumpeter Swan](/gallery/animals/birds/assets/waterfowl/trumpeter-swan/E22A0348.jpg){: .cover role="img" aria-label="Trumpeter Swan"}](/gallery/animals/birds/waterfowl/trumpeter-swan/){: .tile role="listitem"}

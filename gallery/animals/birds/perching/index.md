@@ -32,4 +32,9 @@ _](/gallery/animals/birds/perching/blue-jay/){: .cover role="img" aria-label="Bl
 [_Agelaius phoeniceus_](/field-notes/birds/passeriformes/icteridae/agelaius-phoeniceus/)  
 {: .cover role="img" aria-label="Red-winged Blackbird perched on a bare branch"}  
 
+[![Northern Cardinal](/gallery/animals/birds/assets/perching/northern-cardinal/D79A3424-2.jpg){: .cover role="img" aria-label="Northern Cardinal"}](/gallery/animals/birds/perching/northern-cardinal/){: .tile role="listitem"}
+**[Northern Cardinal](/gallery/animals/birds/perching/northern-cardinal/)**  
+[*Cardinalis cardinalis*](/field-notes/birds/passeriformes/cardinalidae/cardinalis-cardinalis/)  
+{: .caption}
+
 </div>

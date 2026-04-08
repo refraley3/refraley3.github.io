@@ -59,6 +59,6 @@ These notes are organized around structure, behavior, and comparison rather than
 
 ### [Families](/field-notes/birds/family/)  
 - Families: 15  
-- Species listed: 55  
-- Species documented: 3   
--- Total Taxa: —
+- Species: 55  
+- Documented: 6  
+- Total Taxa: 55  

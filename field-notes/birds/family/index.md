@@ -28,7 +28,7 @@ title: Bird Families
 
 ### [CARDINALIDAE](/field-notes/birds/passeriformes/cardinalidae/)
 - Indigo Bunting _(Passerina cyanea)_
-- Northern Cardinal _(Cardinalis cardinalis)_
+- [**Northern Cardinal**](/gallery/animals/birds/perching/northern-cardinal/) [_(Cardinalis cardinalis)_](/field-notes/birds/passeriformes/cardinalidae/cardinalis-cardinalis/)
 - Rose-breasted Grosbeak _(Pheucticus ludovicianus)_
 - Scarlet Tanager _(Piranga olivacea)_
 
