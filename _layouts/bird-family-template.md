@@ -1,103 +1,111 @@
 ---
 layout: default
-title: FAMILY NAME
-description: Field notes and identification details for birds in the family FAMILY NAME.
-tags: [birds, FAMILY NAME, bird families, field-notes]
+title: FAMILY NAME (Common Group Name)
+description: Field notes and identification overview for birds in the family FAMILY NAME.
+tags: [birds, FAMILY NAME, common group, field-notes]
 ---
 
-## FAMILY NAME
+## FAMILY NAME (Common Group Name)
 
-### Order: [ORDER NAME](/field-notes/birds/ORDER-NAME/)
-{: .taxonomy-heading}
+**FAMILY NAME** is a family of **brief group description**. Members of this family are recognized by a combination of **key structural traits**, **typical plumage patterns**, and **characteristic behavior or vocalizations**.
 
-### Family: FAMILY NAME
-{: .taxonomy-heading .taxonomy-last}
+They are most often associated with **primary habitat types**, where they may be seen **typical posture or behavior (perching, foraging, flocking, etc.)**.
 
-**FAMILY NAME** is a family of **common-group description** birds, recognized by **key structural or behavioral traits** and found in **typical habitats or regions**. Members of this family include **example genera or familiar common groups**, and they occupy a range of ecological roles from **feeding style or habitat use** to **migration or breeding behavior**.
+In the field, they are frequently identified by **shape, movement, habitat, and voice** as much as by plumage.
 
-### Structure and Form
+---
 
-Birds in this family are typically **small / medium / large**, with **general body shape description**. Useful structural traits may include:
+### Orientation
 
-- **Bill:** **shape and function**
-- **Wings:** **broad / pointed / rounded / long**
-- **Tail:** **short / long / forked / graduated / rounded**
-- **Legs and feet:** **perching / wading / climbing / grasping adaptations**
-- **Plumage:** **general color tendencies, sexual dimorphism, seasonal variation, or juvenile patterning**
+These notes emphasize **field recognition, behavior, and comparison** across species, rather than a complete taxonomic treatment.
 
-Overall appearance may vary widely among species, but members of the family often share a recognizable combination of **shape, posture, flight style, or behavioral traits**.
+<p style="text-align:center">
+	<img src="/assets/images/under-construction_wht.png" class="cover" alt="Under Construction" role="img" aria-label="Under Construction" />
+</p>
+
+---
+
+## General Characteristics
+
+- **Size:** Small / medium / large (typical range)
+- **Bill:** General form and function  
+- **Plumage:** Typical patterns, contrast, dimorphism, or seasonal variation  
+- **Voice:** General description (prominent, subtle, varied, etc.)  
+- **Flight:** Typical style (direct, undulating, bounding, gliding)
 
 ---
 
 ## Habitat and Range
 
-Species in this family occupy **wetlands, forests, grasslands, shorelines, open country, or mixed habitats**, depending on genus and species.
+Members of this family are most often encountered in:
 
-Typical settings may include:
+- **Primary habitat**
+- **Secondary habitat**
+- **Edge or transitional zones**
 
-- **Primary habitat type**
-- **Secondary habitat type**
-- **Breeding or seasonal habitat**
-- **Migration or wintering habitat, if relevant**
+Seasonal patterns may include:
 
-Notes may include:
+- **Breeding habitat or behavior**
+- **Migration tendencies**
+- **Winter distribution or flocking behavior**
 
-- Strong association with **water / trees / reeds / cliffs / open fields / understory**
-- May be **resident, migratory, irruptive, or nomadic**
-- Often encountered in **specific seasons, elevations, or ecological zones**
+Birds are often detected first by **sound, movement, or habitat context**, especially in dense or complex environments.
 
 ---
 
-## Identification
+## Field Recognition
 
-**Key features for field diagnosis:**
+**Key features for identifying this family:**
 
-- **Shape:** **silhouette or structure**
-- **Bill:** **important identification feature**
-- **Plumage:** **dominant field marks**
-- **Wing pattern:** **bars, patches, flashes, or edging**
-- **Tail pattern:** **shape or markings**
-- **Voice:** **song, call, drumming, or other sound type**
-- **Behavior:** **foraging style, posture, flocking, flight pattern, or display**
+- **Shape:** General silhouette and posture  
+- **Bill:** Important identifying trait  
+- **Plumage:** Dominant field marks or patterns  
+- **Movement:** Foraging style, flight behavior, or posture  
+- **Voice:** Song or call characteristics  
+- **Behavior:** Territoriality, flocking, or feeding habits  
 
-This family may be distinguished from similar groups by **diagnostic difference**. In some cases, identification depends on **voice, habitat, molt, sex, or age class**, especially where species are visually similar.
+In many cases, **behavior and habitat are more reliable than color alone**, especially where species show variation between sexes or ages.
 
 ---
 
 ## Movement and Flight
 
-Members of this family often show characteristic movement patterns that are useful for identification:
+- **Flight:** Wingbeat pattern and motion  
+- **Perching:** Typical posture (upright, horizontal, exposed, concealed)  
+- **Foraging:** Gleaning, probing, climbing, wading, or aerial feeding  
+- **Display:** Any characteristic movement tied to breeding or signaling  
 
-- **Flight:** **description of wingbeat pattern and overall motion**
-- **Perching and locomotion:** **hopping, walking, climbing, or wading behavior**
-- **Posture:** **upright, horizontal, tail-flicking, head-bobbing, etc.**
-
-In many cases, birds can be identified at a glance by motion alone.
+Movement patterns are often diagnostic and can allow identification before plumage details are visible.
 
 ---
 
-## Behavior and Ecology
+## Similar Families
 
-Members of this family typically show:
+This family may be confused with:
 
-- **Characteristic feeding behavior**
-- **Breeding or territorial behavior**
-- **Nesting style**
-- **Migration or seasonal movement**
-- **Social behavior such as flocking, pairing, or colonial nesting**
+- **FAMILY NAME:** Key difference  
+- **FAMILY NAME:** Key difference  
+- **FAMILY NAME:** Key difference  
 
-Diet commonly includes **insects, seeds, fruit, nectar, fish, carrion, or mixed foods**, depending on species and season.
+Distinction is often based on **structure, behavior, and voice**, rather than plumage alone.
 
-Ecologically, these birds may serve important roles as **predators, seed dispersers, pollinators, scavengers, insect control agents, or indicators of habitat quality**.
+---
+
+## Species
+
+### [Scientific name (Common Name)](/field-notes/birds/ORDER-NAME/FAMILY-NAME/SCIENTIFIC-NAME/)  
+A brief one- or two-sentence field description—highlighting habitat, posture, or a defining behavior.
+
+<!-- Add additional species below using the same format -->
 
 ---
 
 ## Notes
 
-- **Observation note about seasonality, abundance, or habitat**
-- **Useful reminder about variation between sexes, juveniles, or plumages**
-- **Regional note relevant to Minnesota or your field area**
-- **Optional note about voice, behavior, or photography context**
+- **Observation about seasonality, abundance, or habitat**
+- **Variation between sexes, juveniles, or plumages**
+- **Regional note (e.g., Minnesota context)**
+- **Behavioral or field identification reminder**
 
 ---
 
@@ -106,8 +114,8 @@ Ecologically, these birds may serve important roles as **predators, seed dispers
 - **Cornell Lab of Ornithology – All About Birds**  
   https://www.allaboutbirds.org
 
-- **Audubon Field Guide**  
-  https://www.audubon.org
-
-- **Birds of the World / eBird / regional atlas as needed**  
+- **eBird**  
   https://ebird.org
+
+- **Birds of the World / regional atlas as needed**  
+  https://birdsoftheworld.org

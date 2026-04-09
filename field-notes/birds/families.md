@@ -5,13 +5,13 @@ title: Bird Families
 
 ### [ACCIPITRIDAE](/field-notes/birds/accipitriformes/accipitridae/)
 - Bald Eagle _(Haliaeetus leucocephalus)_
-- Cooper’s Hawk _(Accipiter cooperii)_
+- Cooper's Hawk _(Accipiter cooperii)_
 - Red-tailed Hawk _(Buteo jamaicensis)_
 - Sharp-shinned Hawk _(Accipiter striatus)_
 
 ---
 
-### [ANATIDAE](/field-notes/birds/family/anatidae/)
+### [ANATIDAE](/field-notes/birds/anseriformes/anatidae/)
 - Blue-winged Teal _(Spatula discors)_
 - Canada Goose _(Branta canadensis)_
 - Mallard _(Anas platyrhynchos)_
@@ -58,11 +58,6 @@ title: Bird Families
 
 ---
 
-### [PARIDAE](/field-notes/birds/passeriformes/paridae/)
-- Black-capped Chickadee _(Poecile atricapillus)_
-
----
-
 ### [PARULIDAE](/field-notes/birds/passeriformes/parulidae/)
 - American Redstart _(Setophaga ruticilla)_
 - Black-and-white Warbler _(Mniotilta varia)_
@@ -72,17 +67,22 @@ title: Bird Families
 
 ---
 
+### [PARIDAE](/field-notes/birds/passeriformes/paridae/)
+- Black-capped Chickadee _(Poecile atricapillus)_
+
+---
+
 ### [PASSERELLIDAE](/field-notes/birds/passeriformes/passerellidae/)
 - American Tree Sparrow _(Spizelloides arborea)_
 - Dark-eyed Junco _(Junco hyemalis)_
-- Song Sparrow _(Melospiza melodia)_
+- [**Song Sparrow**](/gallery/animals/birds/perching/song-sparrow/) [_(Melospiza melodia)_](/field-notes/birds/passeriformes/passerellidae/melospiza-melodia/)  
 - Swamp Sparrow _(Melospiza georgiana)_
 - White-throated Sparrow _(Zonotrichia albicollis)_
 
 ---
 
 ### [PICIDAE](/field-notes/birds/piciformes/picidae/)
-- Downy Woodpecker _(Dryobates pubescens)_
+- [**Downy Woodpecker**](/gallery/animals/birds/woodpeckers/downey-woodpecker/) [_(Dryobates pubescens)_](/field-notes/birds/piciformes/picidae/dryobates-pubescens/)_
 - Hairy Woodpecker _(Dryobates villosus)_
 - Northern Flicker _(Colaptes auratus)_
 - Pileated Woodpecker _(Dryocopus pileatus)_
@@ -109,14 +109,8 @@ title: Bird Families
 
 ---
 
-### [TROGLODYTIDAE](/field-notes/birds/passeriformes/troglodytidae/)
-- House Wren _(Troglodytes aedon)_
-- Winter Wren _(Troglodytes hiemalis)_
-
----
-
 ### [TURDIDAE](/field-notes/birds/passeriformes/turdidae/)
 - American Robin _(Turdus migratorius)_
 - Hermit Thrush _(Catharus guttatus)_
-- Swainson’s Thrush _(Catharus ustulatus)_
+- Swainson's Thrush _(Catharus ustulatus)_
 - Wood Thrush _(Hylocichla mustelina)_

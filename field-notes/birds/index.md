@@ -57,7 +57,7 @@ These notes are organized around structure, behavior, and comparison rather than
 ### [Terminology](/field-notes/birds/terminology/)  
 [Definitions used in bird identification and field notes.]
 
-### [Families](/field-notes/birds/family/)  
+### [Families](/field-notes/birds/families/)  
 - Families: 15  
 - Species: 55  
 - Documented: 6  

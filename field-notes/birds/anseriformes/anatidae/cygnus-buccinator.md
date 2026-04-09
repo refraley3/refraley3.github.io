@@ -6,7 +6,7 @@ tags: [bird, Cygnus buccinator, Trumpeter Swan, swan, waterfowl, Minnesota, fiel
 keywords: "Trumpeter Swan, Cygnus buccinator, swan identification, Minnesota waterfowl, wetland birds"
 ---
 
-### Family: [Anatidae](/field-notes/birds/family/anatidae/)
+### Family: [Anatidae](/field-notes/birds/anseriformes/anatidae/)
 {: .taxonomy-heading .taxonomy-last}
 
 [**Trumpeter Swan**](/gallery/animals/birds/waterfowl/trumpeter-swan/) (*Cygnus buccinator*) is the largest native waterfowl species in North America, found in wetlands, lakes, and slow-moving waters. Its long neck, all-white plumage, and large black bill give it a clean, unmistakable profile in open water. In Minnesota, it is a prominent and increasingly common presence in marshes and shallow lakes.

@@ -93,6 +93,11 @@ For identification notes, behavior, and seasonal context, see individual species
 [*Cardinalis cardinalis*](/field-notes/birds/passeriformes/cardinalidae/cardinalis-cardinalis/)  
 {: .caption}
 
+[![Song Sparrow](/gallery/animals/birds/assets/perching/song-sparrow/E21A1917.jpg){: .cover role="img" aria-label="Song Sparrow"}](/gallery/animals/birds/perching/song-sparrow/){: .tile role="listitem"}
+**[Song Sparrow](/gallery/animals/birds/perching/song-sparrow/)**  
+[*Melospiza melodia*](/field-notes/birds/passeriformes/passerellidae/melospiza-melodia/)  
+{: .caption}
+
 [![Trumpeter Swan](/gallery/animals/birds/assets/waterfowl/trumpeter-swan/E22A0348.jpg){: .cover role="img" aria-label="Trumpeter Swan"}](/gallery/animals/birds/waterfowl/trumpeter-swan/){: .tile role="listitem"}
 **[Trumpeter Swan](/gallery/animals/birds/waterfowl/trumpeter-swan/)**  
 [*Cygnus buccinator*](/field-notes/birds/anseriformes/cygnus-buccinator/)  
