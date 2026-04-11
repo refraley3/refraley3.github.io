@@ -7,7 +7,7 @@ description: A brief descriptive sentence about Common Name in Minnesota.
 ## [*Scientific name*](/field-notes/birds/ORDER-NAME/FAMILY-NAME/SCIENTIFIC-NAME/)  
 {: .taxonomy-last}
 
-Common Name are introduced here with a short natural-history paragraph in the same style as the Red-winged Blackbird page—describing appearance, posture, habitat, season, or behavior in a way that feels observational rather than encyclopedic.
+Common Name are introduced here with a short natural-history paragraph—describing appearance, posture, habitat, season, or behavior in an observational, narrative tone rather than encyclopedic detail.
 
 For identification details and comparison with similar species, see  
 the [*Scientific name*](/field-notes/birds/ORDER-NAME/FAMILY-NAME/SCIENTIFIC-NAME/) in the **Field Notes** section.
@@ -28,15 +28,38 @@ IMAGE1 • Size: ____x____
 
 ### Overview
 
-Write a short overview section introducing the species in a slightly more focused way. This can mention seasonal timing, habitat, behavior, or what makes the bird especially distinctive in the field.
+Write a short overview introducing the species—highlighting season, habitat, or what makes it distinctive in the field. Use this to frame the sequences that follow.
 
-Use this paragraph to frame the photo sequence that follows.
+<!--
+Suggested narrative flow (use what fits the species):
+
+1. Environment / season (snow, marsh, woodland, etc.)
+2. Behavior (song, movement, feeding, posture)
+3. Structure (plumage detail, form, anatomy)
+4. Contrast (female, juvenile, seasonal variation)
+
+Not all species need all four, but most pages should include at least 2–3 layers.
+-->
 
 ---
 
 ### Section Title
 
-Introduce the next group of images with a short paragraph tied to a theme—snow, marsh habitat, song posture, feeding, camouflage, seasonal plumage, or another observational thread.
+Introduce the next group of images with a short paragraph tied to a theme—snow, habitat, feeding, display, movement, or seasonal context.
+
+<!--
+Use full-width images for:
+- key moments
+- transitions
+- emphasis
+
+Use grids for:
+- variation within a moment
+- similar poses
+- supporting images
+
+Avoid placing narrative transition images inside grids.
+-->
 
 ![Image Title Two](/gallery/animals/birds/GROUP/SPECIES/assets/IMAGE2.jpg){: .cover role="img" aria-label="Image Title Two"}  
 **Image Title Two**  
@@ -47,7 +70,7 @@ Settings: ISO ___ • Aperture f/__ • Shutter 1/___ s
 IMAGE2 • Size: ____x____  
 {:.caption}
 
-A short prose paragraph can follow here, reflecting on the scene, the light, the bird’s posture, or what became noticeable while photographing it.
+A short prose paragraph can follow here, reflecting on the scene, light, posture, or what became noticeable while photographing it.
 
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 
@@ -79,27 +102,29 @@ IMAGE4 • Size: ____x____
 
 </div>
 
-Optional paragraph to interpret the sequence as a set—small posture changes, shifting light, feeding behavior, territorial stance, or some other unifying idea.
+Optional paragraph to interpret the sequence as a set—posture changes, shifting light, behavior, or another unifying idea.
 
 ---
 
-### Photographer’s Perspective
+<!-- Optional: Micro-sequence (2–3 images)
 
-Use this section for a brief reflective note. Keep it concise and observational. Mention what stood out in the sequence, what the images revealed at close range, or how the bird’s character emerged through posture or setting.
+Use when showing a behavioral progression:
+- action → pause
+- movement → stillness
+- display → awareness
 
----
+Stack images vertically instead of using a grid.
+-->
 
 ### Additional Section Title
 
-Add another thematic section as needed—for example:
+Add another thematic section as needed. Examples:
 
-- Seasonal Plumage  
-- Territorial Display  
+- In the Snow  
+- Territorial Call  
 - Feeding Behavior  
-- In the Reeds  
 - At the Woodland Edge  
-- Female / Male Comparison  
-- Juvenile Plumage  
+- Seasonal Change  
 
 Write a short paragraph introducing that aspect of the bird.
 
@@ -116,14 +141,18 @@ Follow with one or two short paragraphs if the image needs interpretation or tra
 
 ---
 
-### Female Common Name
+### Plumage Detail (optional)
 
-If applicable, include a separate section for female plumage, juvenile plumage, or another contrasting life stage.
+Use for close-range images that reveal:
 
-Introduce the difference in tone and function—camouflage, nesting role, seasonal subtlety, or structure.
+- feather structure  
+- color transitions  
+- anatomical detail not visible at distance  
 
-![Female Image Title](/gallery/animals/birds/GROUP/SPECIES/assets/IMAGE6.jpg){: .cover role="img" aria-label="Female Image Title"}  
-**Female Image Title**  
+This section complements behavior and environment.
+
+![Image Title Six](/gallery/animals/birds/GROUP/SPECIES/assets/IMAGE6.jpg){: .cover role="img"}  
+**Plumage Detail Title**  
 _A short italic subtitle._  
 Camera: Camera Model  
 Lens: Lens Model  
@@ -131,14 +160,34 @@ Settings: ISO ___ • Aperture f/__ • Shutter 1/___ s
 IMAGE6 • Size: ____x____  
 {:.caption}
 
-A short explanatory paragraph goes here.
+---
 
-<div class="grid" role="list" style="justify-content: center; text-align: center;">
+### Photographer’s Perspective
 
-<div class="tile" style="margin: 15px;">
+Use this section to connect the sequences:
 
-![Image Title Seven](/gallery/animals/birds/GROUP/SPECIES/assets/IMAGE7.jpg){: .cover role="img" aria-label="Image Title Seven"}  
-**Image Title Seven**  
+- What changed across the images?  
+- What became noticeable only at close range?  
+- How did the setting influence behavior?  
+
+Keep it concise—this is a bridge, not a conclusion.
+
+---
+
+### Female Common Name (or Contrast Section)
+
+If applicable, include a separate section for female plumage, juvenile plumage, or seasonal variation.
+
+Introduce contrast in function and visibility:
+
+- display vs concealment  
+- presence vs integration  
+- signal vs camouflage  
+
+This section often works best as the final movement of the page.
+
+![Female Image Title](/gallery/animals/birds/GROUP/SPECIES/assets/IMAGE7.jpg){: .cover role="img" aria-label="Female Image Title"}  
+**Female Image Title**  
 _A short italic subtitle._  
 Camera: Camera Model  
 Lens: Lens Model  
@@ -146,7 +195,9 @@ Settings: ISO ___ • Aperture f/__ • Shutter 1/___ s
 IMAGE7 • Size: ____x____  
 {:.caption}
 
-</div>
+A short explanatory paragraph goes here.
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
 
 <div class="tile" style="margin: 15px;">
 
@@ -157,6 +208,19 @@ Camera: Camera Model
 Lens: Lens Model  
 Settings: ISO ___ • Aperture f/__ • Shutter 1/___ s  
 IMAGE8 • Size: ____x____  
+{:.caption}
+
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+![Image Title Nine](/gallery/animals/birds/GROUP/SPECIES/assets/IMAGE9.jpg){: .cover role="img" aria-label="Image Title Nine"}  
+**Image Title Nine**  
+_A short italic subtitle._  
+Camera: Camera Model  
+Lens: Lens Model  
+Settings: ISO ___ • Aperture f/__ • Shutter 1/___ s  
+IMAGE9 • Size: ____x____  
 {:.caption}
 
 </div>

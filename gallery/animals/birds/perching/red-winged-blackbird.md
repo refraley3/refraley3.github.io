@@ -140,6 +140,30 @@ E22A0444 • Size: 3659x2439
 
 ---
 
+### Plumage Detail
+
+At close range, the structure of the plumage becomes more apparent. The glossy black feathers reveal subtle layering and sheen, while the red-and-yellow epaulet sits folded along the shoulder, expanding only during display.
+
+![Red-winged Blackbird plumage detail](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0535.jpg){: .cover role="img"}  
+**Shoulder and Wing Detail**  
+_Layered feathers and the folded epaulet reveal the structure beneath the display._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100-400mm f/4-5.6L IS USM  
+Settings: ISO 800 • Aperture f/6.3 • Shutter 1/1000 s  
+E22A0535 • Size: 3337x2225  
+{:.caption}
+
+![Red-winged Blackbird calling close range](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0531.jpg){: .cover role="img"}  
+**Calling at Close Range**  
+_The voice carries outward, but the detail holds close._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100-400mm f/4-5.6L IS USM  
+Settings: ISO 800 • Aperture f/8.0 • Shutter 1/80 s  
+E22A0531 • Size: 3168x2112  
+{:.caption}
+
+---
+
 ### Female Red-winged Blackbird
 
 While the male commands attention with bold color and display, the female Red-winged Blackbird moves through the marsh with quiet precision. Her streaked brown plumage blends seamlessly into grasses and seed heads, an adaptation that offers protection while nesting low among reeds.
