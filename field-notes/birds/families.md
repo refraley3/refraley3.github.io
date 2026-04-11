@@ -4,7 +4,7 @@ title: Bird Families
 ---
 
 ### [ACCIPITRIDAE](/field-notes/birds/accipitriformes/accipitridae/)
-- Bald Eagle _(Haliaeetus leucocephalus)_
+- [**Bald Eagle**](/gallery/animals/birds/raptors/bald-eagle/) [_(Haliaeetus leucocephalus)_](/field-notes/birds/accipitriformes/accipitridae/haliaeetus-leucocephalus/)
 - Cooper's Hawk _(Accipiter cooperii)_
 - Red-tailed Hawk _(Buteo jamaicensis)_
 - Sharp-shinned Hawk _(Accipiter striatus)_

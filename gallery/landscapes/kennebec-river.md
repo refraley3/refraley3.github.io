@@ -110,7 +110,7 @@ Settings: ISO 200 • Aperture f/9 • Shutter 1/640 s
 
 <div class="tile">
 
-![Bald Eagle in Flight Sequence](/gallery/landscapes/assets/kennebec-river/D79A3617-3623.jpg){: .cover role="img" aria-label="Bald Eagle Flight Sequence"}  
+![Bald Eagle in Flight Sequence](/gallery/animals/birds/assets/raptors/bald-eagle/D79A3617-3623.jpg){: .cover role="img" aria-label="Bald Eagle Flight Sequence"}  
 **Bald Eagle — Kennebec River Flight Study**  
 _Composite of a bald eagle banking over the river._  
 The layered sequence captures the grace and strength of the eagle in motion, a fitting emblem for Maine’s wild rivers. • Size: 2306x3623  

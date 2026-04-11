@@ -103,6 +103,11 @@ For identification notes, behavior, and seasonal context, see individual species
 [*Cygnus buccinator*](/field-notes/birds/anseriformes/cygnus-buccinator/)  
 {: .caption}
 
+[![Bald Eagle](/gallery/animals/birds/assets/raptors/bald-eagle/IMG_0004.jpg){: .cover role="img" aria-label="Bald Eagle"}](/gallery/animals/birds/raptors/bald-eagle/){: .tile role="listitem"}
+**[Bald Eagle](/gallery/animals/birds/raptors/bald-eagle/)**  
+[*Haliaeetus leucocephalus*](/field-notes/birds/accipitriformes/accipitridae/haliaeetus-leucocephalus/)  
+{: .caption}
+
 </div>
 
 ---
