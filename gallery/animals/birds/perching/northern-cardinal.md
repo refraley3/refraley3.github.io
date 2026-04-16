@@ -9,8 +9,7 @@ description: A Northern Cardinal perched among branches and late-season foliage 
 
 Few birds are as immediately recognizable as the **Northern Cardinal**. The male’s vivid red plumage stands in sharp contrast to the muted tones of woodland and suburb alike, while the female’s warm browns and soft reds echo the colors of bark and autumn leaves. Together, they remain year-round residents, bringing color and presence even to the quietest winter days.
 
-For identification details and comparison with similar species, see  
-the [*Cardinalis cardinalis*](/field-notes/birds/passeriformes/cardinalidae/cardinalis-cardinalis/) in the **Field Notes** section.
+For identification details and comparison with similar species, see the [*Cardinalis cardinalis*](/field-notes/birds/passeriformes/cardinalidae/cardinalis-cardinalis/) in the **Field Notes** section.
 
 ---
 
