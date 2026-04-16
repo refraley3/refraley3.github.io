@@ -95,8 +95,28 @@ In contrast to the male’s bold display, the female moves quietly through dense
 
 <div class="tile" style="margin: 15px;">
 
+![Between Bud and Needle](/gallery/animals/birds/assets/perching/northern-cardinal/E22A0732.jpg){: .cover role="img" aria-label="Between Bud and Needle"}  
+**Between Bud and Needle**  
+_Fresh leaves and soft light mark the turning season._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100-400mm f/4.5-5.6L IS USM  
+Settings: ISO 800 • Aperture f/10.0 • Shutter 1/640 s  
+E22A0732 • Size: 2554x1703  
+{:.caption}
+
+</div>
+
+</div>
+
+## High Perch — First Light
+
+Early light reveals a quieter side of the species, where color and form emerge gradually in the open canopy.
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
+
 ![High Perch — First Light](/gallery/animals/birds/assets/perching/northern-cardinal/E22A0722.jpg){: .cover role="img" aria-label="High Perch — First Light"}  
-**High Perch — First Light**  
 _Morning light catches subtle color in an otherwise muted form._  
 Camera: Canon EOS 5D Mk IV  
 Lens: EF100-400mm f/4.5-5.6L IS USM  
@@ -109,7 +129,6 @@ E22A0722 • Size: 2278x1519
 <div class="tile" style="margin: 15px;">
 
 ![High Perch — First Light](/gallery/animals/birds/assets/perching/northern-cardinal/E22A0746.jpg){: .cover role="img" aria-label="High Perch — First Light"}  
-**High Perch — First Light**  
 _In the same light, color resolves into something unmistakable._  
 Camera: Canon EOS 5D Mk IV  
 Lens: EF100-400mm f/4.5-5.6L IS USM  
@@ -118,19 +137,6 @@ E22A0746 • Size: 2278x1519
 {:.caption}
 
 </div>
-
-</div>
-
-<div class="tile" style="margin: 15px;">
-
-![Between Bud and Needle](/gallery/animals/birds/assets/perching/northern-cardinal/E22A0732.jpg){: .cover role="img" aria-label="Between Bud and Needle"}  
-**Between Bud and Needle**  
-_Fresh leaves and soft light mark the turning season._  
-Camera: Canon EOS 5D Mk IV  
-Lens: EF100-400mm f/4.5-5.6L IS USM  
-Settings: ISO 800 • Aperture f/10.0 • Shutter 1/640 s  
-E22A0732 • Size: 2554x1703  
-{:.caption}
 
 </div>
 
