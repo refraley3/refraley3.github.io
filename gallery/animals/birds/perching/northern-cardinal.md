@@ -89,39 +89,53 @@ Settings: ISO 10000 • Aperture f/13.0 • Shutter 1/2000 s
 E21A5539 • Size: 3404x2269  
 {:.caption}
 
-In contrast to the male’s bold display, the female moves quietly through dense branches, often revealed only by motion. Her warm gray-brown plumage carries hints of red in the wings and tail, tying her visually to the male while remaining well-camouflaged.
+In contrast to the male’s bold display, the female moves quietly through dense branches, often revealed only by movement. Her warm gray-brown plumage carries hints of red in the wings and tail, tying her visually to the male while remaining well-camouflaged.
 
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 
 <div class="tile" style="margin: 15px;">
 
-![Among the berries](/gallery/animals/birds/assets/perching/northern-cardinal/E21A5540.jpg){: .cover role="img" aria-label="Among the berries"}  
-**Among the Berries**  
-_Picking carefully through clustered fruit._  
+![High Perch — First Light](/gallery/animals/birds/assets/perching/northern-cardinal/E22A0722.jpg){: .cover role="img" aria-label="High Perch — First Light"}  
+**High Perch — First Light**  
+_Morning light catches subtle color in an otherwise muted form._  
 Camera: Canon EOS 5D Mk IV  
-Lens: EF100-400mm f/4-5.6L IS USM  
-Settings: ISO 10000 • Aperture f/13.0 • Shutter 1/2000 s  
-E21A5540 • Size: 3404x2269  
+Lens: EF100-400mm f/4.5-5.6L IS USM  
+Settings: ISO 800 • Aperture f/8.0 • Shutter 1/640 s  
+E22A0722 • Size: 2278x1519  
 {:.caption}
 
 </div>
 
 <div class="tile" style="margin: 15px;">
 
-![Frontal posture](/gallery/animals/birds/assets/perching/northern-cardinal/E21A5541.jpg){: .cover role="img" aria-label="Frontal posture"}  
-**Frontal Posture**  
-_A brief pause, alert within the tangle of branches._  
+![High Perch — First Light](/gallery/animals/birds/assets/perching/northern-cardinal/E22A0746.jpg){: .cover role="img" aria-label="High Perch — First Light"}  
+**High Perch — First Light**  
+_In the same light, color resolves into something unmistakable._  
 Camera: Canon EOS 5D Mk IV  
-Lens: EF100-400mm f/4-5.6L IS USM  
-Settings: ISO 10000 • Aperture f/13.0 • Shutter 1/2000 s    
-E21A5541 • Size: 3404x2269  
+Lens: EF100-400mm f/4.5-5.6L IS USM  
+Settings: ISO 800 • Aperture f/10.0 • Shutter 1/640 s  
+E22A0746 • Size: 2278x1519  
 {:.caption}
 
 </div>
 
 </div>
 
+<div class="tile" style="margin: 15px;">
+
+![Between Bud and Needle](/gallery/animals/birds/assets/perching/northern-cardinal/E22A0732.jpg){: .cover role="img" aria-label="Between Bud and Needle"}  
+**Between Bud and Needle**  
+_Fresh leaves and soft light mark the turning season._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100-400mm f/4.5-5.6L IS USM  
+Settings: ISO 800 • Aperture f/10.0 • Shutter 1/640 s  
+E22A0732 • Size: 2554x1703  
+{:.caption}
+
+</div>
+
 ---
+
 
 ### Photographer’s Perspective
 
