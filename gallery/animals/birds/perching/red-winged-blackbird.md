@@ -116,7 +116,11 @@ The sequence reveals small shifts in posture and balance—moments that might go
 
 ### Territorial Call
 
-Perched high among bare branches, the male Red-winged Blackbird lifts his head and calls into the open air, the red epaulet flashing as both signal and warning. In these moments, posture and voice define the territory as much as the landscape itself.
+Perched among low branches, the male Red-winged Blackbird lifts his head and calls into the open air, the red epaulet flashing as both signal and warning. In these moments, posture and voice define the territory as much as the landscape itself.
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
 
 ![Calling from the Branch](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0434.jpg){: .cover role="img" aria-label="Calling from the Branch"}  
 **Calling from the Branch**  
@@ -126,6 +130,23 @@ Lens: EF100-400mm f/4-5.6L IS USM
 Settings: ISO 800 • Aperture f/8.0 • Shutter 1/500 s  
 E22A0434 • Size: 3659x2439  
 {:.caption}
+
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+![Close Range — Epaulet Raised](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0784.jpg){: .cover role="img" aria-label="Close Range — Epaulet Raised"}  
+**Close Range — Epaulet Raised**  
+_The red shoulder patch fully displayed during a territorial call._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100-400mm f/4-5.6L IS USM  
+Settings: ISO 800 • Aperture f/10.0 • Shutter 1/640 s  
+E22A0784 • Size: 3175x2117  
+{:.caption}
+
+</div>
+
+</div>
 
 In a brief pause between calls, the posture shifts. The head lowers, the body settles, and the outward display gives way to something more measured. The gaze turns inward—or perhaps toward the observer—revealing a different aspect of the bird’s presence. No longer projecting across the marsh, he holds his position with quiet certainty, alert and aware within the space he has claimed.
 
