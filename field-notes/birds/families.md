@@ -34,6 +34,15 @@ title: Bird Families
 
 ---
 
+### [CORVIDAE](/field-notes/birds/passeriformes/corvidae/)
+- American Crow _(Corvus brachyrhynchos)_
+- Black-billed Magpie _(Pica hudsonia)_
+- [**Blue Jay**](/gallery/animals/birds/perching/blue-jay/) [_(Cyanocitta cristata)_](/field-notes/birds/passeriformes/corvidae/cyanocitta-cristata/)
+- Canada Jay _(Perisoreus canadensis)_
+- Common Raven _(Corvus corax)_
+
+---
+
 ### [FALCONIDAE](/field-notes/birds/falconiformes/falconidae/)
 - American Kestrel _(Falco sparverius)_
 - Merlin _(Falco columbarius)_

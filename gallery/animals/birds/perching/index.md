@@ -23,9 +23,10 @@ _IMG_0007_
 _E21A2654_  
 ](/gallery/animals/birds/perching/black-capped-chickadee/){: .tile role="listitem"}
 
-[![Blue Jay](/gallery/animals/birds/assets/perching/blue-jay/E21A4699.jpg){: .cover role="img" aria-label="Blue Jay"}  
-**Blue Jay**  
-_](/gallery/animals/birds/perching/blue-jay/){: .cover role="img" aria-label="Blue Jay"}  
+[![Pine-Top Watch](/gallery/animals/birds/assets/perching/blue-jay/E21A4708.jpg){: .cover role="img" aria-label="Blue Jay perched near the top of a pine against a pale sky"}](/gallery/animals/birds/perching/blue-jay/)  
+**[Blue Jay](/gallery/animals/birds/perching/blue-jay/)**  
+[_Cyanocitta cristata_](/field-notes/birds/passeriformes/corvidae/cyanocitta-cristata/)  
+{: .cover role="img" aria-label="Blue Jay"}  
 
 [![Balancing Act](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0290.jpg){: .cover role="img" aria-label="Balancing Act"}](/gallery/animals/birds/perching/red-winged-blackbird/)  
 **[Red-winged Blackbird](/gallery/animals/birds/perching/red-winged-blackbird/)**  
@@ -36,5 +37,10 @@ _](/gallery/animals/birds/perching/blue-jay/){: .cover role="img" aria-label="Bl
 **[Northern Cardinal](/gallery/animals/birds/perching/northern-cardinal/)**  
 [*Cardinalis cardinalis*](/field-notes/birds/passeriformes/cardinalidae/cardinalis-cardinalis/)  
 {: .caption}
+
+[![Perched Among the Stems](/gallery/animals/birds/assets/perching/song-sparrow/E21A1917.jpg){: .cover role="img" aria-label="Perched Among the Stems"}](/gallery/animals/birds/perching/song-sparrow/)  
+**[Song Sparrow](/gallery/animals/birds/perching/song-sparrow/)**  
+[_Melospiza melodia_](/field-notes/birds/passeriformes/passerellidae/melospiza-melodia/)  
+{: .cover role="img" aria-label="Song Sparrow perched on a dried stem"}  
 
 </div>
