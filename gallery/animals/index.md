@@ -24,7 +24,7 @@ _The small architects of movement, color, and change._
 A closer look at the world of wings and exoskeletons.  
 {: .tile role="listitem" style="margin-bottom: 60px"}
 
-[![Mammals](/gallery/animals/mammals/assets/whitetail-deer/E21A2340.jpg){: .cover role="img" aria-label="Mammals"}](/gallery/animals/mammals/){: .tile role="listitem"}
+[![Mammals](/gallery/animals/mammals/assets/deer/whitetail-deer/E21A2340.jpg){: .cover role="img" aria-label="Mammals"}](/gallery/animals/mammals/){: .tile role="listitem"}
 **[Mammals](/gallery/animals/mammals/)**  
 _Quiet strength and familiar grace in fur and motion._  
 Mammals reveal the subtle intelligence and adaptability of woodland life.  
