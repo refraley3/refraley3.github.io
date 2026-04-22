@@ -20,8 +20,8 @@ _A clear song carried above the fresh leaves of spring._
 Perched near the tip of a slender branch, the Field Sparrow seems almost suspended between the emerging canopy and the open blue sky. The exposed perch, lifted voice, and soft colors all fit the species at its most characteristic in spring.  
 Camera: Canon EOS 5D Mk IV  
 Lens: EF100-400mm f/4.5-5.6L IS II USM  
-Settings: ISO ___ • Aperture f/__ • Shutter 1/___ s  
-E22A1035 • Size: ____x____  
+Settings: ISO 640 • Aperture f/6.3 • Shutter 1/1600 s  
+E22A1035 • Size: 2773x1849  
 {: .caption}
 
 ---
@@ -41,8 +41,8 @@ Many of these photographs show the Field Sparrow in its typical spring posture: 
 _A brief pause between phrases in early light._  
 Camera: Canon EOS 5D Mk IV  
 Lens: EF100-400mm f/4.5-5.6L IS II USM  
-Settings: ISO ___ • Aperture f/__ • Shutter 1/___ s  
-E22A1026 • Size: ____x____  
+Settings: ISO 640 • Aperture f/6.3 • Shutter 1/1600 s  
+E22A1026 • Size: 2773x1849  
 {:.caption}
 
 In this kind of open perch, the bird’s soft face, pink bill, and warm crown become more apparent. The simplicity of the pattern is part of what makes the species distinctive.
@@ -56,8 +56,8 @@ In this kind of open perch, the bird’s soft face, pink bill, and warm crown be
 _Partly hidden, but still held in song posture._  
 Camera: Canon EOS 5D Mk IV  
 Lens: EF100-400mm f/4.5-5.6L IS II USM  
-Settings: ISO ___ • Aperture f/__ • Shutter 1/___ s  
-E22A1036 • Size: ____x____  
+Settings: ISO 640 • Aperture f/6.3 • Shutter 1/1600 s  
+E22A1036 • Size: 2773x1849  
 {:.caption}
 
 </div>
@@ -69,8 +69,8 @@ E22A1036 • Size: ____x____
 _A small singer rising from the late-season field._  
 Camera: Canon EOS 5D Mk IV  
 Lens: EF100-400mm f/4.5-5.6L IS II USM  
-Settings: ISO ___ • Aperture f/__ • Shutter 1/___ s  
-E21A3942 • Size: ____x____  
+Settings: ISO 100 • Aperture f/8.0 • Shutter 1/60 s  
+E21A3942 • Size: 4039x2693  
 {:.caption}
 
 </div>
@@ -89,9 +89,9 @@ As foliage thickens, the Field Sparrow becomes less obvious, but not necessarily
 **Among the New Leaves**  
 _A quiet pause in fresh spring foliage._  
 Camera: Canon EOS 5D Mk IV  
-Lens: EF100-400mm f/4.5-5.6L IS II USM  
-Settings: ISO ___ • Aperture f/__ • Shutter 1/___ s  
-E21A2053 • Size: ____x____  
+Lens: EF70-200mm f/4.5-5.6L IS II USM +2x Extender 
+Settings: ISO 3200 • Aperture f/8.0 • Shutter 1/250 s  
+E21A2053 • Size: 2618x1745  
 {:.caption}
 
 Here the bird appears less like a distant singer and more like part of the living structure around it. The setting softens everything—edges, contrast, and even the bird’s already understated plumage.
@@ -104,9 +104,9 @@ Here the bird appears less like a distant singer and more like part of the livin
 **Singing from the Green**  
 _The song resumes from within the canopy._  
 Camera: Canon EOS 5D Mk IV  
-Lens: EF100-400mm f/4.5-5.6L IS II USM  
-Settings: ISO ___ • Aperture f/__ • Shutter 1/___ s  
-E21A2055 • Size: ____x____  
+Lens: EF70-200mm f/4.5-5.6L IS II USM +2x Extender 
+Settings: ISO 3200 • Aperture f/8.0 • Shutter 1/250 s  
+E21A2055 • Size: 2618x1745  
 {:.caption}
 
 </div>
@@ -117,9 +117,9 @@ E21A2055 • Size: ____x____
 **High Leafy Perch**  
 _Subtle colors held in warm evening light._  
 Camera: Canon EOS 5D Mk IV  
-Lens: EF100-400mm f/4.5-5.6L IS II USM  
-Settings: ISO ___ • Aperture f/__ • Shutter 1/___ s  
-E21A2056 • Size: ____x____  
+Lens: EF70-200mm f/4.5-5.6L IS II USM +2x Extender 
+Settings: ISO 400 • Aperture f/10.0 • Shutter 1/250 s  
+E21A2056 • Size: 2280x1520  
 {:.caption}
 
 </div>
@@ -138,9 +138,9 @@ Even in fuller foliage, the Field Sparrow often chooses elevated, exposed positi
 **Warm Light Perch**  
 _A small form lit softly above the leaves._  
 Camera: Canon EOS 5D Mk IV  
-Lens: EF100-400mm f/4.5-5.6L IS II USM  
-Settings: ISO ___ • Aperture f/__ • Shutter 1/___ s  
-E21A2061 • Size: ____x____  
+Lens: EF70-200mm f/4.5-5.6L IS II USM +2x Extender 
+Settings: ISO 800 • Aperture f/13.0 • Shutter 1/250 s  
+E21A2061 • Size: 2618x1745  
 {:.caption}
 
 The more time spent watching Field Sparrows, the more their appeal comes from restraint. They do not depend on bright contrast or heavy patterning. Instead, the species holds together through proportion, posture, and a face that remains open and uncomplicated in nearly every view.
@@ -155,9 +155,9 @@ Most photographs of Field Sparrows show them perched, singing, or pausing. A fli
 **Leaving the Perch**  
 _A brief crossing between one song post and the next._  
 Camera: Canon EOS 5D Mk IV  
-Lens: EF100-400mm f/4.5-5.6L IS II USM  
-Settings: ISO ___ • Aperture f/__ • Shutter 1/___ s  
-E21A2940B • Size: ____x____  
+Lens: EF70-200mm f/4.5-5.6L IS II USM +2x Extender
+Settings: ISO 3200 • Aperture f/9.0 • Shutter 1/3200 s  
+E21A2940B • Size: 2295x1530  
 {:.caption}
 
 Even blurred by motion and distance, the impression remains slight and graceful. The species seems built for these short movements through shrubs, field edges, and scattered trees.
