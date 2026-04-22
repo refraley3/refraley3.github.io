@@ -84,6 +84,7 @@ title: Bird Families
 ### [PASSERELLIDAE](/field-notes/birds/passeriformes/passerellidae/)
 - American Tree Sparrow _(Spizelloides arborea)_
 - Dark-eyed Junco _(Junco hyemalis)_
+- [**Field Sparrow**](/gallery/animals/birds/perching/field-sparrow/) [_(Spizella pusilla)_](/field-notes/birds/passeriformes/passerellidae/spizella-pusilla/)
 - [**Song Sparrow**](/gallery/animals/birds/perching/song-sparrow/) [_(Melospiza melodia)_](/field-notes/birds/passeriformes/passerellidae/melospiza-melodia/)  
 - Swamp Sparrow _(Melospiza georgiana)_
 - White-throated Sparrow _(Zonotrichia albicollis)_
@@ -118,8 +119,13 @@ title: Bird Families
 
 ---
 
+### [TACHYCINETA](/field-notes/birds/passeriformes/hirundinidae/tachycineta/)
+- Tree Swallow _(Tachycineta bicolor)_
+
+---
+
 ### [TURDIDAE](/field-notes/birds/passeriformes/turdidae/)
-- American Robin _(Turdus migratorius)_
+- [**American Robin**](/gallery/animals/birds/perching/american-robin/) [_(Turdus migratorius)_](/field-notes/birds/passeriformes/turdidae/turdus-migratorius/)
 - Hermit Thrush _(Catharus guttatus)_
 - Swainson's Thrush _(Catharus ustulatus)_
 - Wood Thrush _(Hylocichla mustelina)_

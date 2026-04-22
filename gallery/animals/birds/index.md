@@ -93,6 +93,11 @@ For identification notes, behavior, and seasonal context, see individual species
 [*Cardinalis cardinalis*](/field-notes/birds/passeriformes/cardinalidae/cardinalis-cardinalis/)  
 {: .caption}
 
+[![Field Sparrow](/gallery/animals/birds/assets/perching/field-sparrow/E21A3942.jpg){: .cover role="img" aria-label="Field Sparrow"}](/gallery/animals/birds/perching/field-sparrow/){: .tile role="listitem"}
+**[Field Sparrow](/gallery/animals/birds/perching/field-sparrow/)**  
+[*Spizella pusilla*](/field-notes/birds/passeriformes/passerellidae/spizella-pusilla/)  
+{: .caption}
+
 [![Song Sparrow](/gallery/animals/birds/assets/perching/song-sparrow/E21A1917.jpg){: .cover role="img" aria-label="Song Sparrow"}](/gallery/animals/birds/perching/song-sparrow/){: .tile role="listitem"}
 **[Song Sparrow](/gallery/animals/birds/perching/song-sparrow/)**  
 [*Melospiza melodia*](/field-notes/birds/passeriformes/passerellidae/melospiza-melodia/)  
@@ -107,6 +112,22 @@ For identification notes, behavior, and seasonal context, see individual species
 **[Bald Eagle](/gallery/animals/birds/raptors/bald-eagle/)**  
 [*Haliaeetus leucocephalus*](/field-notes/birds/accipitriformes/accipitridae/haliaeetus-leucocephalus/)  
 {: .caption}
+
+[![Sandhill Crane](/gallery/animals/birds/assets/waterfowl/sandhill-crane/E21A2039.jpg){: .cover role="img" aria-label="Sandhill Crane"}](/gallery/animals/birds/waterfowl/sandhill-crane/){: .tile role="listitem"}
+**[Sandhill Crane](/gallery/animals/birds/waterfowl/sandhill-crane/)**  
+[*Antigone canadensis*](/field-notes/birds/anseriformes/gruidae/antigone-canadensis/)  
+{: .caption}
+
+[![Blue Jay](/gallery/animals/birds/assets/perching/blue-jay/E21A4708.jpg){: .cover role="img" aria-label="Blue Jay"}](/gallery/animals/birds/perching/blue-jay/){: .tile role="listitem"}
+**[Blue Jay](/gallery/animals/birds/perching/blue-jay/)**  
+[*Cyanocitta cristata*](/field-notes/birds/passeriformes/corvidae/cyanocitta-cristata/)  
+{: .caption}
+
+[![American Robin](/gallery/animals/birds/assets/perching/american-robin/IMG_0007.jpg){: .cover role="img" aria-label="American Robin"}](/gallery/animals/birds/perching/american-robin/){: .tile role="listitem"}
+**[American Robin](/gallery/animals/birds/perching/american-robin/)**  
+[*Turdus migratorius*](/field-notes/birds/passeriformes/turdidae/turdus-migratorius/)  
+{: .caption}
+
 
 </div>
 

@@ -14,7 +14,7 @@ the [*Scientific name*](/field-notes/birds/ORDER-NAME/FAMILY-NAME/SCIENTIFIC-NAM
 
 ---
 
-![Primary Image Title](/gallery/animals/birds/GROUP/SPECIES/assets/IMAGE1.jpg){: .cover role="img" aria-label="Primary Image Title"}  
+![Primary Image Title](/gallery/animals/birds/assets/GROUP/SPECIES/IMAGE1.jpg){: .cover role="img" aria-label="Primary Image Title"}  
 **Primary Image Title**  
 _A short italic subtitle with mood or behavior._  
 A one- or two-sentence caption describing the scene, posture, habitat, or significance of the image.  
@@ -61,7 +61,7 @@ Use grids for:
 Avoid placing narrative transition images inside grids.
 -->
 
-![Image Title Two](/gallery/animals/birds/GROUP/SPECIES/assets/IMAGE2.jpg){: .cover role="img" aria-label="Image Title Two"}  
+![Image Title Two](/gallery/animals/birds/assets/GROUP/SPECIES/IMAGE2.jpg){: .cover role="img" aria-label="Image Title Two"}  
 **Image Title Two**  
 _A short italic subtitle._  
 Camera: Camera Model  
@@ -76,7 +76,7 @@ A short prose paragraph can follow here, reflecting on the scene, light, posture
 
 <div class="tile" style="margin: 15px;">
 
-![Image Title Three](/gallery/animals/birds/GROUP/SPECIES/assets/IMAGE3.jpg){: .cover role="img" aria-label="Image Title Three"}  
+![Image Title Three](/gallery/animals/birds/assets/GROUP/SPECIES/IMAGE3.jpg){: .cover role="img" aria-label="Image Title Three"}  
 **Image Title Three**  
 _A short italic subtitle._  
 Camera: Camera Model  
@@ -89,7 +89,7 @@ IMAGE3 • Size: ____x____
 
 <div class="tile" style="margin: 15px;">
 
-![Image Title Four](/gallery/animals/birds/GROUP/SPECIES/assets/IMAGE4.jpg){: .cover role="img" aria-label="Image Title Four"}  
+![Image Title Four](/gallery/animals/birds/assets/GROUP/SPECIES/IMAGE4.jpg){: .cover role="img" aria-label="Image Title Four"}  
 **Image Title Four**  
 _A short italic subtitle._  
 Camera: Camera Model  
@@ -128,7 +128,7 @@ Add another thematic section as needed. Examples:
 
 Write a short paragraph introducing that aspect of the bird.
 
-![Image Title Five](/gallery/animals/birds/GROUP/SPECIES/assets/IMAGE5.jpg){: .cover role="img" aria-label="Image Title Five"}  
+![Image Title Five](/gallery/animals/birds/assets/GROUP/SPECIES/IMAGE5.jpg){: .cover role="img" aria-label="Image Title Five"}  
 **Image Title Five**  
 _A short italic subtitle._  
 Camera: Camera Model  
@@ -151,7 +151,7 @@ Use for close-range images that reveal:
 
 This section complements behavior and environment.
 
-![Image Title Six](/gallery/animals/birds/GROUP/SPECIES/assets/IMAGE6.jpg){: .cover role="img"}  
+![Image Title Six](/gallery/animals/birds/assets/GROUP/SPECIES/IMAGE6.jpg){: .cover role="img"}  
 **Plumage Detail Title**  
 _A short italic subtitle._  
 Camera: Camera Model  
@@ -186,7 +186,7 @@ Introduce contrast in function and visibility:
 
 This section often works best as the final movement of the page.
 
-![Female Image Title](/gallery/animals/birds/GROUP/SPECIES/assets/IMAGE7.jpg){: .cover role="img" aria-label="Female Image Title"}  
+![Female Image Title](/gallery/animals/birds/assets/GROUP/SPECIES/IMAGE7.jpg){: .cover role="img" aria-label="Female Image Title"}  
 **Female Image Title**  
 _A short italic subtitle._  
 Camera: Camera Model  
@@ -201,7 +201,7 @@ A short explanatory paragraph goes here.
 
 <div class="tile" style="margin: 15px;">
 
-![Image Title Eight](/gallery/animals/birds/GROUP/SPECIES/assets/IMAGE8.jpg){: .cover role="img" aria-label="Image Title Eight"}  
+![Image Title Eight](/gallery/animals/birds/assets/GROUP/SPECIES/IMAGE8.jpg){: .cover role="img" aria-label="Image Title Eight"}  
 **Image Title Eight**  
 _A short italic subtitle._  
 Camera: Camera Model  
@@ -214,7 +214,7 @@ IMAGE8 • Size: ____x____
 
 <div class="tile" style="margin: 15px;">
 
-![Image Title Nine](/gallery/animals/birds/GROUP/SPECIES/assets/IMAGE9.jpg){: .cover role="img" aria-label="Image Title Nine"}  
+![Image Title Nine](/gallery/animals/birds/assets/GROUP/SPECIES/IMAGE9.jpg){: .cover role="img" aria-label="Image Title Nine"}  
 **Image Title Nine**  
 _A short italic subtitle._  
 Camera: Camera Model  

@@ -93,6 +93,9 @@ Distinction is often based on **structure, behavior, and voice**, rather than pl
 
 ## Species
 
+### [*Spizella pusilla* (Field Sparrow)](/field-notes/birds/passeriformes/passerellidae/spizella-pusilla/)  
+A small, soft-faced sparrow of brushy edges and open fields in Minnesota, often noticed first by its clear song from exposed spring perches.
+
 ### [*Melospiza melodia* (Song Sparrow)](/field-notes/birds/passeriformes/passerellidae/melospiza-melodia/)  
 A widespread and highly variable sparrow, often found at wetland edges and brushy fields, frequently singing from low perches.
 
