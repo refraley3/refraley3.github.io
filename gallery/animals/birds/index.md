@@ -93,7 +93,7 @@ For identification notes, behavior, and seasonal context, see individual species
 [*Cardinalis cardinalis*](/field-notes/birds/passeriformes/cardinalidae/cardinalis-cardinalis/)  
 {: .caption}
 
-[![Field Sparrow](/gallery/animals/birds/assets/perching/field-sparrow/E21A3942.jpg){: .cover role="img" aria-label="Field Sparrow"}](/gallery/animals/birds/perching/field-sparrow/){: .tile role="listitem"}
+[![Field Sparrow](/gallery/animals/birds/assets/perching/field-sparrow/E21A2053.jpg){: .cover role="img" aria-label="Field Sparrow"}](/gallery/animals/birds/perching/field-sparrow/){: .tile role="listitem"}
 **[Field Sparrow](/gallery/animals/birds/perching/field-sparrow/)**  
 [*Spizella pusilla*](/field-notes/birds/passeriformes/passerellidae/spizella-pusilla/)  
 {: .caption}
@@ -128,6 +128,10 @@ For identification notes, behavior, and seasonal context, see individual species
 [*Turdus migratorius*](/field-notes/birds/passeriformes/turdidae/turdus-migratorius/)  
 {: .caption}
 
+[![Tree Swallow](/gallery/animals/birds/assets/perching/tree-swallow/E22A0971.jpg){: .cover role="img" aria-label="Tree Swallow"}](/gallery/animals/birds/perching/tree-swallow/){: .tile role="listitem"}
+**[Tree Swallow](/gallery/animals/birds/perching/tree-swallow/)**  
+[*Tachycineta bicolor*](/field-notes/birds/passeriformes/hirundinidae/tachycineta-bicolor/)  
+{: .caption}
 
 </div>
 
