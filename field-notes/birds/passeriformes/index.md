@@ -50,23 +50,26 @@ In many cases, **behavior and sound are as important as visual field marks**.
 
 ## Families
 
+### [Cardinalidae](/field-notes/birds/passeriformes/cardinalidae/)  
+Cardinals, grosbeaks, and buntings—robust, often colorful birds with strong bills and clear, whistled songs.
+
+### [Corvidae](/field-notes/birds/passeriformes/corvidae/)  
+Crows, ravens, and jays—large, intelligent passerines with complex behavior and social structures.
+
+### [Fringillidae](/field-notes/birds/passeriformes/fringillidae/)  
+Finches—seed-eating birds with conical bills, often found in flocks and variable in plumage.
+
+### [Hirundinidae](/field-notes/birds/passeriformes/hirundinidae/)  
+Swallows and martins—small, agile aerial insectivores with streamlined bodies and long pointed wings.
+
 ### [Icteridae](/field-notes/birds/passeriformes/icteridae/)  
 Blackbirds, orioles, and meadowlarks—often associated with open habitats and wetlands, known for strong vocalizations and social behavior.
 
 ### [Parulidae](/field-notes/birds/passeriformes/parulidae/)  
 Wood-warblers—small, active insectivores of woodland and edge habitats, often identified by movement and song.
 
-### [Cardinalidae](/field-notes/birds/passeriformes/cardinalidae/)  
-Cardinals, grosbeaks, and buntings—robust, often colorful birds with strong bills and clear, whistled songs.
-
-### [Fringillidae](/field-notes/birds/passeriformes/fringillidae/)  
-Finches—seed-eating birds with conical bills, often found in flocks and variable in plumage.
-
 ### [Passerellidae](/field-notes/birds/passeriformes/passerellidae/)  
 New World sparrows—ground-oriented birds of grasslands, brush, and woodland edges, often subtle in appearance but distinctive in song.
-
-### [Corvidae](/field-notes/birds/passeriformes/corvidae/)  
-Crows, ravens, and jays—large, intelligent passerines with complex behavior and social structures.
 
 ### [Turdidae](/field-notes/birds/passeriformes/turdidae/)  
 Thrushes—upright, often ground-feeding birds with spotted plumage and rich, musical songs.
