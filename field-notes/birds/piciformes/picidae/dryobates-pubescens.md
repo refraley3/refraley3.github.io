@@ -12,9 +12,9 @@ keywords: "Downy Woodpecker, Dryobates pubescens, woodpecker identification, Min
 ### Family: [Picidae](/field-notes/birds/piciformes/#picidae)
 {: .taxonomy-heading .taxonomy-last}
 
-[**Downy Woodpecker**](/gallery/animals/birds/woodpeckers/downey-woodpecker/) (*Dryobates pubescens*) is the smallest woodpecker in North America and a frequent visitor to backyard feeders. It is commonly found in woodlands, parks, and residential areas, where it forages along branches and trunks or feeds on suet.
+[**Downy Woodpecker**](/gallery/animals/birds/woodpeckers/downy-woodpecker/) (*Dryobates pubescens*) is the smallest woodpecker in North America and a frequent visitor to backyard feeders. It is commonly found in woodlands, parks, and residential areas, where it forages along branches and trunks or feeds on suet.
 
-For representative images and visual context, see the page: [**Downy Woodpecker**](/gallery/animals/birds/woodpeckers/downey-woodpecker/) in the **Gallery** section.
+For representative images and visual context, see the page: [**Downy Woodpecker**](/gallery/animals/birds/woodpeckers/downy-woodpecker/) in the **Gallery** section.
 
 ---
 

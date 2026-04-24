@@ -34,6 +34,11 @@ title: Bird Families
 
 ---
 
+### [CATHARTIDAE](/field-notes/birds/cathartiformes/cathartidae/)
+- [**Turkey Vulture**](/gallery/animals/birds/vultures/turkey-vulture/) [_(Cathartes aura)_](/field-notes/birds/cathartiformes/cathartidae/cathartes-aura/)
+
+---
+
 ### [CORVIDAE](/field-notes/birds/passeriformes/corvidae/)
 - American Crow _(Corvus brachyrhynchos)_
 - Black-billed Magpie _(Pica hudsonia)_
@@ -55,6 +60,11 @@ title: Bird Families
 - [**House Finch**](/gallery/animals/birds/perching/house-finch/) [_(Haemorhous mexicanus)_](/field-notes/birds/passeriformes/fringillidae/haemorhous-mexicanus/)
 - Pine Siskin _(Spinus pinus)_
 - Purple Finch _(Haemorhous purpureus)_
+
+---
+
+### [HIRUNDINIDAE](/field-notes/birds/passeriformes/hirundinidae/)
+- [**Tree Swallow**](/gallery/animals/birds/perching/tree-swallow/) [_(Tachycineta bicolor)_](/field-notes/birds/passeriformes/hirundinidae/tachycineta-bicolor/)
 
 ---
 
@@ -116,11 +126,6 @@ title: Bird Families
 - Barred Owl _(Strix varia)_
 - Eastern Screech-Owl _(Megascops asio)_
 - Great Horned Owl _(Bubo virginianus)_
-
----
-
-### [TACHYCINETA](/field-notes/birds/passeriformes/hirundinidae/tachycineta/)
-- [**Tree Swallow**](/gallery/animals/birds/perching/tree-swallow/) [_(Tachycineta bicolor)_](/field-notes/birds/passeriformes/hirundinidae/tachycineta-bicolor/)
 
 ---
 

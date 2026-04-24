@@ -57,6 +57,14 @@ Birds can be approached through how they move and where they spend their time—
 [*Anseriformes*](/field-notes/birds/anseriformes/)
 {: .caption}
 
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+[![Vultures](/gallery/animals/birds/assets/vultures/turkey-vulture/E22A1088.jpg){: .cover role="img" aria-label="Vultures"}](/gallery/animals/birds/vultures/){: .tile role="listitem"}
+**[Vultures](/gallery/animals/birds/vultures/)**  
+[*Cathartiformes*](/field-notes/birds/cathartiformes/)  
+{: .caption}
 
 </div>
 
@@ -83,8 +91,8 @@ For identification notes, behavior, and seasonal context, see individual species
 [*Haemorhous-mexicanus*](/field-notes/birds/passeriformes/fringillidae/haemorhous-mexicanus/)  
 {: .caption}
 
-[![Downey Woodpecker](/gallery/animals/birds/assets/woodpeckers/downey-woodpecker/E22A0415.jpg){: .cover role="img" aria-label="Downey Woodpecker"}](/gallery/animals/birds/woodpeckers/downey-woodpecker/){: .tile role="listitem"}
-**[Downey Woodpecker](/gallery/animals/birds/woodpeckers/downey-woodpecker/)**  
+[![Downy Woodpecker](/gallery/animals/birds/assets/woodpeckers/downy-woodpecker/E22A0415.jpg){: .cover role="img" aria-label="Downy Woodpecker"}](/gallery/animals/birds/woodpeckers/downy-woodpecker/){: .tile role="listitem"}
+**[Downy Woodpecker](/gallery/animals/birds/woodpeckers/downy-woodpecker/)**  
 [*Dryobates pubescens*](/field-notes/birds/piciformes/picidae/dryobates-pubescens/)  
 {: .caption}
 
@@ -131,6 +139,11 @@ For identification notes, behavior, and seasonal context, see individual species
 [![Tree Swallow](/gallery/animals/birds/assets/perching/tree-swallow/E22A0971.jpg){: .cover role="img" aria-label="Tree Swallow"}](/gallery/animals/birds/perching/tree-swallow/){: .tile role="listitem"}
 **[Tree Swallow](/gallery/animals/birds/perching/tree-swallow/)**  
 [*Tachycineta bicolor*](/field-notes/birds/passeriformes/hirundinidae/tachycineta-bicolor/)  
+{: .caption}
+
+[![Turkey Vulture](/gallery/animals/birds/assets/vultures/turkey-vulture/E22A1088.jpg){: .cover role="img" aria-label="Turkey Vulture"}](/gallery/animals/birds/raptors/turkey-vulture/){: .tile role="listitem"}
+**[Turkey Vulture](/gallery/animals/birds/vultures/turkey-vulture/)**  
+[*Cathartes aura*](/field-notes/birds/cathartiformes/cathartidae/cathartes-aura/)  
 {: .caption}
 
 </div>
