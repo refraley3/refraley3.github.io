@@ -96,6 +96,9 @@ Distinction is often based on **flight style, activity period, and structure**, 
 ### [Haliaeetus leucocephalus (Bald Eagle)](/field-notes/birds/accipitriformes/accipitridae/haliaeetus-leucocephalus/)  
 A large, unmistakable raptor most often found near water, recognized by its white head and tail and steady soaring flight.
 
+### [Buteo platypterus (Broad-winged Hawk)](/field-notes/birds/accipitriformes/accipitridae/buteo-platypterus/)  
+A compact woodland hawk with rounded wings and a banded tail, often seen perched quietly or soaring during migration.
+
 <!-- Add additional species below using the same format -->
 
 ---

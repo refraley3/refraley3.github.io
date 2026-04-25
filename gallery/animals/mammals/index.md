@@ -6,7 +6,7 @@ title: Mammals
 
   <div class="grid" role="list">
   
-[![Eastern Gray Squirrel](/gallery/animals/mammals/assets/squirrels/eastern-gray-squirrel/IMG_3027-3.jpg){: .cover role="img" aria-label="Eastern Gray Squirrel"}  
+[![Eastern Gray Squirrel](/gallery/animals/mammals/assets/squirrels/eastern-gray-squirrel/E22A0616-1.jpg){: .cover role="img" aria-label="Eastern Gray Squirrel"}  
 **Eastern Gray Squirrel**  
 _Adaptable foragers of forest and suburb alike._  
 Gray squirrels embody versatility — equally at home in dense woodland or among city oaks.  

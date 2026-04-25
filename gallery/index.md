@@ -31,7 +31,7 @@ _Grace, flight and song._
 A collection of avian life — perching, soaring, and singing.  
 {: .tile role="listitem"}
 
-[![Mammals](/gallery/animals/mammals/assets/whitetail-deer/E21A2340.jpg){: .cover role="img" aria-label="Mammals"}](/gallery/animals/mammals/)  
+[![Mammals](/gallery/animals/mammals/assets/deer/whitetail-deer/E21A2340.jpg){: .cover role="img" aria-label="Mammals"}](/gallery/animals/mammals/)  
 **[Mammals](/gallery/animals/mammals/)**  
 _Quiet strength and familiar grace in fur and motion._  
 Mammals reveal adaptability of woodland life.  
