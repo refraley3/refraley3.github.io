@@ -7,8 +7,29 @@ At close range, the familiar dissolves into pattern and structure. Macros reveal
 
 ## Plants
 
-![Bur Oak](/gallery/macros/assets/plants/E22A0537-551.jpg){: .cover role="img" aria-label="Bur Oak"}
+![Not Yet Open](/gallery/macros/assets/plants/E22A1136.jpg){: .cover role="img" aria-label="Not Yet Open"}
+**Not Yet Open**  
+_Crab apple blossoms waiting in their green cups._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/13 • Shutter 0.3 s  
+E22A1136 • Size: 6160x4107
+{: .caption}
 
+A cluster of crab apple buds rises above the new leaves, still wrapped in green sepals and edged with pink. The blossoms have not yet opened, but the color is already gathering at their tips, marking the brief pause between spring growth and full bloom.
+
+![Common Apple](/gallery/macros/assets/plants/E22A1140-48.jpg){: .cover role="img" aria-label="Common Apple"}
+**Common Apple**  
+_Malus domestica buds in early spring._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/13 • Shutter 0.3 s  
+E22A1140-48 • Size: 6160x4107
+{: .caption}
+
+A tight cluster of apple buds emerges from the center of a leaf rosette, each one wrapped in green sepals and edged with pink. The buds are still closed, but the color is already gathering at their tips, marking the brief pause between spring growth and full bloom.
+
+![Bur Oak](/gallery/macros/assets/plants/E22A0537-551.jpg){: .cover role="img" aria-label="Bur Oak"}
 **Bur Oak**  
 _Early spring bud break with emerging male catkins._  
 Camera: Canon EOS 5D Mk IV  

@@ -30,7 +30,7 @@ Birds can be approached through how they move and where they spend their time—
 
 <div class="tile" style="margin: 15px;">
 
-[![Raptors](/gallery/animals/birds/assets/raptors/bald-eagle/IMG_0004.jpg){: .cover role="img" aria-label="Raptors"}](/gallery/animals/birds/raptors/){: .tile role="listitem"}
+[![Raptors](/gallery/animals/birds/assets/raptors/broad-winged-hawk/E22A1116.jpg){: .cover role="img" aria-label="Raptors"}](/gallery/animals/birds/raptors/){: .tile role="listitem"}
 **[Raptors](/gallery/animals/birds/raptors/)**  
 [*Accipitriformes*](/field-notes/birds/accipitriformes/)  
 {: .caption}
@@ -43,7 +43,7 @@ Birds can be approached through how they move and where they spend their time—
 
 <div class="tile" style="margin: 15px;">
 
-[![Woodpeckers](/gallery/animals/birds/assets/woodpeckers/downey-woodpecker/E22A0415.jpg){: .cover role="img" aria-label="Woodpeckers"}](/gallery/animals/birds/woodpeckers/){: .tile role="listitem"}
+[![Woodpeckers](/gallery/animals/birds/assets/woodpeckers/downy-woodpecker/E22A0415.jpg){: .cover role="img" aria-label="Woodpeckers"}](/gallery/animals/birds/woodpeckers/){: .tile role="listitem"}
 **[Woodpeckers](/gallery/animals/birds/woodpeckers/)**  
 [*Piciformes*](/field-notes/birds/piciformes/)  
 {: .caption}
@@ -75,6 +75,11 @@ Birds can be approached through how they move and where they spend their time—
 For identification notes, behavior, and seasonal context, see individual species pages and Field Notes.
 
 <div class="grid" role="list">
+
+[![Broad-winged Hawk](/gallery/animals/birds/assets/raptors/broad-winged-hawk/E22A1122A.jpg){: .cover role="img" aria-label="Broad-winged Hawk"}](/gallery/animals/birds/raptors/broad-winged-hawk/){: .tile role="listitem"}
+**[Broad-winged Hawk](/gallery/animals/birds/raptors/broad-winged-hawk/)**  
+[*Buteo platypterus*](/field-notes/birds/accipitriformes/accipitridae/buteo-platypterus/)  
+{: .caption}
 
 [![Red-winged Blackbird](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0286.jpg){: .cover role="img" aria-label="Red-winged Blackbird"}](/gallery/animals/birds/perching/red-winged-blackbird/){: .tile role="listitem"}
 **[Red-winged Blackbird](/gallery/animals/birds/perching/red-winged-blackbird/)**  
