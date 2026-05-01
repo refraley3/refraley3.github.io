@@ -37,15 +37,24 @@ Birds can be approached through how they move and where they spend their time—
 
 </div>
 
+<div class="tile" style="margin: 15px;">
+
+[![Shorebirds](/gallery/animals/birds/assets/shorebirds/solitary-sandpiper/E22A1353.jpg){: .cover role="img" aria-label="Shorebirds"}](/gallery/animals/birds/shorebirds/){: .tile role="listitem"}
+**[Shorebirds](/gallery/animals/birds/shorebirds/)**  
+[*Charadriiformes*](/field-notes/birds/charadriiformes/)  
+{: .caption}
+
+</div>
+
 </div>
 
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 
 <div class="tile" style="margin: 15px;">
 
-[![Woodpeckers](/gallery/animals/birds/assets/woodpeckers/downy-woodpecker/E22A0415.jpg){: .cover role="img" aria-label="Woodpeckers"}](/gallery/animals/birds/woodpeckers/){: .tile role="listitem"}
-**[Woodpeckers](/gallery/animals/birds/woodpeckers/)**  
-[*Piciformes*](/field-notes/birds/piciformes/)  
+[![Vultures](/gallery/animals/birds/assets/vultures/turkey-vulture/E22A1088.jpg){: .cover role="img" aria-label="Vultures"}](/gallery/animals/birds/vultures/){: .tile role="listitem"}
+**[Vultures](/gallery/animals/birds/vultures/)**  
+[*Cathartiformes*](/field-notes/birds/cathartiformes/)  
 {: .caption}
 
 </div>
@@ -61,9 +70,9 @@ Birds can be approached through how they move and where they spend their time—
 
 <div class="tile" style="margin: 15px;">
 
-[![Vultures](/gallery/animals/birds/assets/vultures/turkey-vulture/E22A1088.jpg){: .cover role="img" aria-label="Vultures"}](/gallery/animals/birds/vultures/){: .tile role="listitem"}
-**[Vultures](/gallery/animals/birds/vultures/)**  
-[*Cathartiformes*](/field-notes/birds/cathartiformes/)  
+[![Woodpeckers](/gallery/animals/birds/assets/woodpeckers/downy-woodpecker/E22A0415.jpg){: .cover role="img" aria-label="Woodpeckers"}](/gallery/animals/birds/woodpeckers/){: .tile role="listitem"}
+**[Woodpeckers](/gallery/animals/birds/woodpeckers/)**  
+[*Piciformes*](/field-notes/birds/piciformes/)  
 {: .caption}
 
 </div>
@@ -119,6 +128,11 @@ For identification notes, behavior, and seasonal context, see individual species
 [![Trumpeter Swan](/gallery/animals/birds/assets/waterfowl/trumpeter-swan/E22A0348.jpg){: .cover role="img" aria-label="Trumpeter Swan"}](/gallery/animals/birds/waterfowl/trumpeter-swan/){: .tile role="listitem"}
 **[Trumpeter Swan](/gallery/animals/birds/waterfowl/trumpeter-swan/)**  
 [*Cygnus buccinator*](/field-notes/birds/anseriformes/cygnus-buccinator/)  
+{: .caption}
+
+[![Solitary Sandpiper](/gallery/animals/birds/assets/shorebirds/solitary-sandpiper/E22A1353.jpg){: .cover role="img" aria-label="Solitary Sandpiper"}](/gallery/animals/birds/shorebirds/solitary-sandpiper/){: .tile role="listitem"}
+**[Solitary Sandpiper](/gallery/animals/birds/shorebirds/solitary-sandpiper/)**  
+[*Tringa solitaria*](/field-notes/birds/charadriiformes/scolopacidae/tringa-solitaria/)  
 {: .caption}
 
 [![Bald Eagle](/gallery/animals/birds/assets/raptors/bald-eagle/IMG_0004.jpg){: .cover role="img" aria-label="Bald Eagle"}](/gallery/animals/birds/raptors/bald-eagle/){: .tile role="listitem"}

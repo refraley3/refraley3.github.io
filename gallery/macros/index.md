@@ -7,7 +7,11 @@ At close range, the familiar dissolves into pattern and structure. Macros reveal
 
 ## Plants
 
-![Not Yet Open](/gallery/macros/assets/plants/E22A1136.jpg){: .cover role="img" aria-label="Not Yet Open"}
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
+
+![Not Yet Open](/gallery/plants/trees/assets/crab-apple/E22A1136.jpg){: .cover role="img" aria-label="Not Yet Open"}
 **Not Yet Open**  
 _Crab apple blossoms waiting in their green cups._  
 Camera: Canon EOS 5D Mk IV  
@@ -17,6 +21,25 @@ E22A1136 • Size: 6160x4107
 {: .caption}
 
 A cluster of crab apple buds rises above the new leaves, still wrapped in green sepals and edged with pink. The blossoms have not yet opened, but the color is already gathering at their tips, marking the brief pause between spring growth and full bloom.
+
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+![The First to Unfold](/gallery/plants/trees/assets/crab-apple/E22A1285.jpg){: .cover role="img" aria-label="The First to Unfold"}
+**The First to Unfold**  
+_White petals emerge from a cluster of rose-colored buds._  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 800 • Aperture f/13 • Shutter 1/80 s  
+E22A1285 • Size: 5842x3895
+{: .caption}
+
+A single crab apple blossom has opened ahead of the surrounding buds, its white petals catching the sunlight while the rest of the cluster remains tightly wrapped in rose-pink. The leaves are fresh and bright, framing the flower against a soft spring background and showing the brief transition from bud to bloom.
+
+</div>
+
+</div>
 
 ![Common Apple](/gallery/macros/assets/plants/E22A1140-48.jpg){: .cover role="img" aria-label="Common Apple"}
 **Common Apple**  

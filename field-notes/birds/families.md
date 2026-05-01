@@ -40,6 +40,17 @@ title: Bird Families
 
 ---
 
+### [CHARADRIIDAE](/field-notes/birds/charadriiformes/charadriidae/)
+- Killdeer _(Charadrius vociferus)_
+- Piping Plover _(Charadrius melodus)_
+- Semipalmated Plover _(Charadrius semipalmatus)_
+- [**Solitary Sandpiper**](/gallery/animals/birds/shorebirds/solitary-sandpiper/) [_(Tringa solitaria)_](/field-notes/birds/charadriiformes/scolopacidae/tringa-solitaria/)
+- Snowy Plover _(Charadrius nivosus)_
+- Wilson's Plover _(Charadrius wilsonia)_
+- Solitary Sandpiper _(Tringa solitaria)_
+
+---
+
 ### [CORVIDAE](/field-notes/birds/passeriformes/corvidae/)
 - American Crow _(Corvus brachyrhynchos)_
 - Black-billed Magpie _(Pica hudsonia)_
