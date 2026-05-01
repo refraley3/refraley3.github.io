@@ -1,71 +1,149 @@
 ---
 layout: photo
 title: Tree Swallow
-description: A Tree Swallow pauses on a white rail in cool spring light, its blue-green back and bright white underparts glowing against a soft Minnesota background.
+description: A Tree Swallow in fresh morning light shows the polished blue-green sheen, compact posture, and poised energy that define the species in spring.
 ---
 
 ## [*Tachycineta bicolor*](/field-notes/birds/passeriformes/hirundinidae/tachycineta-bicolor/)  
 {: .taxonomy-last}
 
-Tree Swallows are often noticed first in motion—cutting low over open water, fields, and marsh edges with quick, buoyant flight. When one stops long enough to perch, the species takes on a different character: compact, bright, and finely balanced, with dark glossy upperparts set against a clean white breast.
+Tree Swallows are usually encountered in motion, sweeping over open water and field edges with quick, buoyant flight. When morning light catches one at rest, the species becomes something else as well: polished, alert, and unexpectedly delicate, with iridescent upperparts set sharply against a bright white underside.
 
-For identification details and comparison with similar species, see  
-the [*Tachycineta bicolor*](/field-notes/birds/passeriformes/hirundinidae/tachycineta-bicolor/) in the **Field Notes** section.
+For identification details and comparison with similar species, see the [*Tachycineta bicolor*](/field-notes/birds/passeriformes/hirundinidae/tachycineta-bicolor/) in the **Field Notes** section.
 
 ---
 
-![Railside Pause](/gallery/animals/birds/assets/perching/tree-swallow/E22A0972-1.jpg){: .cover role="img" aria-label="Railside Pause"}  
-**Railside Pause**  
-_A brief stillness between flights._  
-Perched on a pale rail, this Tree Swallow holds a rounded posture in cool light, its white underparts bright against a soft, blurred background. The pause is short, but long enough to show the species in a quieter, more settled form than it usually presents in the air.  
+![Morning Perch](/gallery/animals/birds/assets/perching/tree-swallow/E22A1661.jpg){: .cover role="img" aria-label="Morning Perch"}  
+**Morning Perch**  
+_A clean pause in early light._  
+Perched along a white rail beneath a clear blue sky, this Tree Swallow shows the crisp contrast of the species at rest: bright white below, dark above, and a polished blue-green sheen across the head and back. The stillness is brief, but it reveals how elegant the bird is even between flights.  
 Camera: Canon EOS 5D Mark IV  
 Lens: EF100-400mm f/4.5-5.6L IS II USM  
-Settings: ISO 320 • Aperture f/9.0 • Shutter 1/400 s  
-E22A0972 • Size: 2966x1977  
+Settings: ISO 800, f/8.0, 1/3200 sec  
+E22A1661 • Size: 5417x3611  
 {: .caption}
 
 ---
 
 ### Overview
 
-Tree Swallows are among the most graceful of Minnesota’s spring and summer birds, usually seen in motion over wetlands, ponds, fields, and open edges where flying insects are abundant. At rest, their sleek shape gives way to something softer and rounder, especially in cool conditions when the feathers lift and the body seems almost puffed with air.
+Tree Swallows belong as much to the open air as to any perch, but quiet moments like these make their structure and color easier to appreciate. In spring, they often gather around open fields, wetlands, and nesting areas, where they alternate between fast insect-hunting flights and short, watchful pauses on wires, rails, and posts.
 
 ---
 
-### Perched Between Flights
+### In the Morning Light
 
-Even a simple perch can reveal what constant flight often hides: the deep sheen of the head and back, the crisp division between dark upperparts and white below, and the delicate balance of the bird’s stance. These moments of stillness make the Tree Swallow feel less like a passing streak and more like a presence in the landscape.
+Fresh morning sun gives the upperparts a metallic quality that can shift from blue to green depending on angle and feather position. At close range, the species appears both sleek and soft: streamlined in outline, but lightly puffed in the cool air.
 
-![Blue-Green Sheen](/gallery/animals/birds/assets/perching/tree-swallow/E22A0974-1.jpg){: .cover role="img" aria-label="Blue-Green Sheen"}  
-**Blue-Green Sheen**  
-_Metallic color held in soft light._  
+![Blue-Green Gloss](/gallery/animals/birds/assets/perching/tree-swallow/E22A1655.jpg){: .cover role="img" aria-label="Blue-Green Gloss"}  
+**Blue-Green Gloss**  
+_Metallic color against open sky._  
 Camera: Canon EOS 5D Mark IV  
 Lens: EF100-400mm f/4.5-5.6L IS II USM  
-Settings: ISO 320 • Aperture f/9.0 • Shutter 1/400 s 
-E22A0971 • Size: 1975x1317  
+Settings: ISO 800, f/8.0, 1/3200 sec  
+E22A1655 • Size: 5417x3611  
 {:.caption}
 
-The side angle brings out the subtle gloss of the plumage, shifting between blue and green depending on the light. Against the bird’s bright underside, that darker upper color gives Tree Swallows their clean, unmistakable contrast.
+The clean sky isolates the bird and lets the surface color do the work. In this light, the back and crown take on the smooth, reflective quality that makes Tree Swallows stand out even before they move.
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
+
+![Ruffled Feathers](/gallery/animals/birds/assets/perching/tree-swallow/E22A1664.jpg){: .cover role="img" aria-label="Ruffled Feathers"}  
+**Ruffled Feathers**  
+_A cool start to the day._  
+Camera: Canon EOS 5D Mark IV  
+Lens: EF100-400mm f/4.5-5.6L IS II USM  
+Settings: ISO 800, f/8.0, 1/3200 sec  
+E22A1664 • Size: 5417x3611  
+{:.caption}
+
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+![Feathers Lifted](/gallery/animals/birds/assets/perching/tree-swallow/E22A1666.jpg){: .cover role="img" aria-label="Feathers Lifted"}  
+**Feathers Lifted**  
+_Morning air caught in the plumage._  
+Camera: Canon EOS 5D Mark IV  
+Lens: EF100-400mm f/4.5-5.6L IS II USM  
+Settings: ISO 800, f/8.0, 1/3200 sec  
+E22A1666 • Size: 5417x3611  
+{:.caption}
+
+</div>
+
+</div>
+
+These ruffled frames add a different kind of detail: less aerodynamic, more intimate. The swallow looks momentarily softened by the morning air, showing a fuller shape than the narrow, darting silhouette seen in flight.
 
 ---
 
-### Quiet Watch
+### Pair on the Rail
 
-Though they are built for speed and motion, Tree Swallows often pause to watch the open space around them before taking flight again. In these short intervals, posture does as much as plumage to define the bird: alert, upright, and lightly poised above the perch.
+Tree Swallows are often encountered not as isolated individuals, but as part of a loose, active presence over a habitat. A pair on the rail suggests that wider setting: shared space, alert watchfulness, and the quick readiness to leave the perch at any moment.
 
-![Watching the Open Air](/gallery/animals/birds/assets/perching/tree-swallow/E22A0977-1.jpg){: .cover role="img" aria-label="Watching the Open Air"}  
-**Watching the Open Air**  
-_A compact form against open sky._  
+![Paired in Morning Light](/gallery/animals/birds/assets/perching/tree-swallow/E22A1743.jpg){: .cover role="img" aria-label="Paired in Morning Light"}  
+**Paired in Morning Light**  
+_Two birds, one bright perch._  
 Camera: Canon EOS 5D Mark IV  
 Lens: EF100-400mm f/4.5-5.6L IS II USM  
-Settings: ISO 320 • Aperture f/8.0 • Shutter 1/400 s 
-E22A0977 • Size: 3092x2061  
+Settings: ISO 400, f/8.0, 1/640 sec  
+E22A1743 • Size: 4992x3328  
 {:.caption}
 
-With the background opening into softer greens and sky tones, the swallow appears even more self-contained—small, bright, and perfectly shaped for the air it is about to reenter.
+The second bird broadens the page from portrait to behavior. Even while resting, both swallows remain poised and attentive, as though the air itself continues to hold their focus.
+
+---
+
+### Lift Before Flight
+
+One of the most revealing moments comes just before departure, when the still form begins to open back into motion. The body leans, the wing rises, and the perched bird briefly becomes the flying bird again.
+
+![Wing Lift](/gallery/animals/birds/assets/perching/tree-swallow/E22A1657.jpg){: .cover role="img" aria-label="Wing Lift"}  
+**Wing Lift**  
+_Stillness breaking into motion._  
+Camera: Canon EOS 5D Mark IV  
+Lens: EF100-400mm f/4.5-5.6L IS II USM  
+Settings: ISO 800, f/8.0, 1/3200 sec  
+E22A1657 • Size: 5571x3714  
+{:.caption}
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" style="margin: 15px;">
+
+![Half Open Wing](/gallery/animals/birds/assets/perching/tree-swallow/E22A1658.jpg){: .cover role="img" aria-label="Half Open Wing"}  
+**Half Open Wing**  
+_A poised transition._  
+Camera: Canon EOS 5D Mark IV  
+Lens: EF100-400mm f/4.5-5.6L IS II USM  
+Settings: ISO 800, f/8.0, 1/3200 sec  
+E22A1658 • Size: 5417x3611  
+{:.caption}
+
+</div>
+
+<div class="tile" style="margin: 15px;">
+
+![Quiet Return](/gallery/animals/birds/assets/perching/tree-swallow/E22A1654.jpg){: .cover role="img" aria-label="Quiet Return"}  
+**Quiet Return**  
+_Composed again on the rail._  
+Camera: Canon EOS 5D Mark IV  
+Lens: EF100-400mm f/4.5-5.6L IS II USM  
+Settings: ISO 800, f/8.0, 1/3200 sec  
+E22A1654 • Size: 5417x3611  
+{:.caption}
+
+</div>
+
+</div>
+
+Together, these frames work as a small progression: rest, motion, and composure regained. They suit Tree Swallows especially well, since the species is defined not just by appearance, but by the tension between stillness and immediate flight.
 
 ---
 
 ### Photographer’s Perspective
 
-These images work as a small study in stillness from a species more often appreciated in motion. What stands out is how much character appears once the flight pauses: the fullness of the chest, the polished dark head, and the sharp elegance of the white underside. Tree Swallows may be aerial birds first, but a moment on the rail shows that they are just as striking when quiet.
+This newer set gives the Tree Swallow page a stronger center. The portraits are cleaner, the color is richer, and the sequence now shows more than a bird on a perch: it shows texture, pair behavior, and the transition back into motion. That combination feels truer to the species itself—sleek and aerial, yet briefly luminous when the morning asks it to be still.

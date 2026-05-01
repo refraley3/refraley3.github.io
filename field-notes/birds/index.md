@@ -31,17 +31,17 @@ These notes are organized around structure, behavior, and comparison rather than
 
 <div class="grid" role="list">
 
-[![Accipitriformes](/gallery/animals/birds/assets/raptors/broad-winged-hawk/E22A1116.jpg){: .cover role="img" aria-label="Raptors" style="height: 200px"}](/field-notes/birds/accipitriformes/){: .tile role="listitem"}
+[![Accipitriformes](/gallery/animals/birds/assets/raptors/broad-winged-hawk/E22A1116.jpg){: .cover role="img" aria-label="Accipitriformes" style="height: 200px"}](/field-notes/birds/accipitriformes/){: .tile role="listitem"}
 **[Accipitriformes](/field-notes/birds/accipitriformes/)**  
 [*Raptors*](/gallery/animals/birds/raptors/)  
 {: .caption}
 
-[![Anseriformes](/gallery/animals/birds/assets/waterfowl/sandhill-crane/E21A2039.jpg){: .cover role="img" aria-label="Waterfowl" style="height: 200px"}](/field-notes/birds/anseriformes/){: .tile role="listitem"  style="height: 200px"}
+[![Anseriformes](/gallery/animals/birds/assets/waterfowl/sandhill-crane/E21A2039.jpg){: .cover role="img" aria-label="Anseriformes" style="height: 200px"}](/field-notes/birds/anseriformes/){: .tile role="listitem"  style="height: 200px"}
 **[Anseriformes](/field-notes/birds/anseriformes/)**  
 [*Waterfowl*](/gallery/animals/birds/waterfowl/)  
 {: .caption}
 
-[![Cathartiformes](/gallery/animals/birds/assets/vultures/turkey-vulture/E22A1088.jpg){: .cover role="img" aria-label="Vultures" style="height: 200px"}](/field-notes/birds/cathartiformes/){: .tile role="listitem" style="height: 200px"}
+[![Cathartiformes](/gallery/animals/birds/assets/vultures/turkey-vulture/E22A1088.jpg){: .cover role="img" aria-label="Cathartiformes" style="height: 200px"}](/field-notes/birds/cathartiformes/){: .tile role="listitem" style="height: 200px"}
 **[Cathartiformes](/field-notes/birds/cathartiformes/)**  
 [*Vultures*](/gallery/animals/birds/vultures/)  
 {: .caption}
@@ -55,12 +55,12 @@ These notes are organized around structure, behavior, and comparison rather than
 [*Shorebirds*](/gallery/animals/birds/shorebirds/)  
 {: .caption}
 
-[![Passeriformes](/gallery/animals/birds/assets/perching/house-finch/E21A2645.jpg){: .cover role="img" aria-label="Perching Birds" style="height: 200px"}](/field-notes/birds/passeriformes/){: .tile role="listitem"}
+[![Passeriformes](/gallery/animals/birds/assets/perching/house-finch/E21A2645.jpg){: .cover role="img" aria-label="Passeriformes" style="height: 200px"}](/field-notes/birds/passeriformes/){: .tile role="listitem"}
 [**Passeriformes**](/field-notes/birds/passeriformes/)  
 *[Perching Birds](/gallery/animals/birds/perching/)*  
 {: .caption}
 
-[![Piciformes](/gallery/animals/birds/assets/woodpeckers/downy-woodpecker/E22A0415.jpg){: .cover role="img" aria-label="Woodpeckers" style="height: 200px"}](/field-notes/birds/piciformes/){: .tile role="listitem" style="height: 200px"}
+[![Piciformes](/gallery/animals/birds/assets/woodpeckers/downy-woodpecker/E22A0415.jpg){: .cover role="img" aria-label="Piciformes" style="height: 200px"}](/field-notes/birds/piciformes/){: .tile role="listitem" style="height: 200px"}
 **[Piciformes](/field-notes/birds/piciformes/)**  
 [*Woodpeckers*](/gallery/animals/birds/woodpeckers/)  
 {: .caption}
