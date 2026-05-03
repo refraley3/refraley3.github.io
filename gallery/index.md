@@ -25,7 +25,7 @@ _The small architects of movement, color, and change._
 A closer look at the world of wings and exoskeletons.  
 {: .tile role="listitem"}
 
-[![Birds](/gallery/animals/birds/assets/perching/song-sparrow/E21A1912.jpg){: .cover role="img" aria-label="Birds"}](/gallery/animals/birds/)  
+[![Backward Glance](/gallery/animals/birds/assets/perching/tree-swallow/E22A1679.jpg){: .cover role="img" aria-label="Backward Glance"}](/gallery/animals/birds/)  
 **[Birds](/gallery/animals/birds/)**  
 _Grace, flight and song._  
 A collection of avian life — perching, soaring, and singing.  

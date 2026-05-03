@@ -63,6 +63,8 @@ The combination of the white eye-ring, spotted dark upperparts, greenish legs, s
 
 **Similar species:**
 
+
+- **Wood Sandpiper (*Tringa glareola*):** very similar in size, structure, and spotted upperparts, but Wood Sandpiper usually lacks the bold, complete white eye-ring of Solitary Sandpiper. Instead, it shows a stronger pale eyebrow or supercilium that extends behind the eye. Wood Sandpiper would be unusual in Minnesota, but it is worth noting because of the close resemblance.  
 - **Spotted Sandpiper:** often shorter-legged and more teetering in behavior; breeding birds show bold spots across the underparts. Solitary Sandpiper usually shows a stronger white eye-ring and darker spotted upperparts.  
 - **Lesser Yellowlegs:** taller and slimmer, with brighter yellow legs and a longer bill; often more open in posture and habitat use.  
 - **Pectoral Sandpiper:** usually shows a heavier breast pattern with a sharper boundary between streaked breast and white belly.  

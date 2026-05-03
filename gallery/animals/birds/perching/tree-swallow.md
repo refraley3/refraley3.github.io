@@ -76,7 +76,7 @@ E22A1666 • Size: 5417x3611
 
 </div>
 
-![Backward Glance](/gallery/animals/birds/assets/perching/tree-swallow/E22A1679.jpg){: .cover role="img" aria-label="Backward Glance"}  
+![Backward Glance](/gallery/animals/birds/assets/perching/tree-swallow/E22A1679.jpg){: .cover role="img" aria-label="Backward Glance"}
 **Backward Glance**  
 _A turned pose in cool morning light._  
 Camera: Canon EOS 5D Mark IV  
@@ -149,6 +149,35 @@ E22A1654 • Size: 5417x3611
 </div>
 
 Together, these frames work as a small progression: rest, motion, and composure regained. They suit Tree Swallows especially well, since the species is defined not just by appearance, but by the tension between stillness and immediate flight.
+
+---
+### Nest Box and Pair Behavior
+
+Around the nest box, Tree Swallows seem less like passing aerial birds and more like residents of a particular place. Perches become watch posts, brief gestures take on meaning, and even a small feather adjustment suggests the alert, social energy that gathers around an active nesting site.
+
+![Ruffling at the Nest Box](/gallery/animals/birds/assets/perching/tree-swallow/E22A1870.jpg){: .cover role="img" aria-label="Ruffling at the Nest Box"}
+**Ruffling at the Nest Box**  
+_A brief adjustment beside the box._  
+Camera: Canon EOS 5D Mark IV  
+Lens: EF100-400mm f/4.5-5.6L IS II USM  
+Settings: ISO 800 • f/8.0 • 1/1000 s  
+E22A1870 • Size: 2285x1523  
+{:.caption}
+
+This moment feels less like departure than readjustment. With one wing lowered and the feathers loosened, the bird appears to be settling itself at the edge of the nest box, a small but expressive gesture within the shared activity of the site.
+
+![Vocal Interaction](/gallery/animals/birds/assets/perching/tree-swallow/E22A1860.jpg){: .cover role="img" aria-label="Vocal Interaction"}
+**Vocal Interaction**  
+_A brief exchange above the nest box._  
+Camera: Canon EOS 5D Mark IV  
+Lens: EF100-400mm f/4.5-5.6L IS II USM  
+Settings: ISO 800 • f/8.0 • 1/1000 s  
+E22A1860 • Size: 1643x1095  
+{:.caption}
+
+With both birds calling across the roofline, the scene feels more animated than a simple shared perch. The nest box becomes a center of attention, and the open beaks suggest the quick, social exchanges that often accompany pair activity at an active site.
+
+The pair’s behavior around the box is a reminder that Tree Swallows are not just transient visitors to a place, but active participants in a shared environment. The nest box is a focal point for their interactions, and even small moments there can reveal the species’ social nature.
 
 ---
 

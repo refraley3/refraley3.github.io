@@ -3,10 +3,10 @@ layout: photo
 title: Birds
 ---
 
-![Side Profile — Quiet Watch](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0288.jpg){: .cover role="img" aria-label="Side Profile — Quiet Watch"}  
-**Side Profile — Quiet Watch**  
-_Stillness between calls, the marsh held in suspension._  
-{:.caption}
+![Wing Lift](/gallery/animals/birds/assets/perching/tree-swallow/E22A1657.jpg){: .cover role="img" aria-label="Wing Lift"}
+**Wing Lift**  
+_Stillness breaking into motion._  
+{: .caption}
 
 Birds organize the landscape through motion and sound—perched silhouettes, passing shadows, and calls that define space before the eye catches form.  
 Edges of water, open fields, dense understory, and high canopy each host their own assemblages.  
