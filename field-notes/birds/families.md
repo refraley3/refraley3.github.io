@@ -143,6 +143,7 @@ title: Bird Families
 
 ### [TURDIDAE](/field-notes/birds/passeriformes/turdidae/)
 - [**American Robin**](/gallery/animals/birds/perching/american-robin/) [_(Turdus migratorius)_](/field-notes/birds/passeriformes/turdidae/turdus-migratorius/)
+- [**Eastern Bluebird**](/gallery/animals/birds/perching/eastern-bluebird/) [_(Sialia sialis)_](/field-notes/birds/passeriformes/turdidae/sialia-sialis/)
 - Hermit Thrush _(Catharus guttatus)_
 - Swainson's Thrush _(Catharus ustulatus)_
 - Wood Thrush _(Hylocichla mustelina)_

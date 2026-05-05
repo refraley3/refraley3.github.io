@@ -21,7 +21,7 @@ Birds can be approached through how they move and where they spend their time—
 
 <div class="tile" style="margin: 15px;">
 
-[![Perching Birds](/gallery/animals/birds/assets/perching/house-finch/E21A2645.jpg){: .photo-tile role="img" aria-label="Perching Birds"}](/gallery/animals/birds/perching/){: .tile role="listitem"}
+[![Perching Birds](/gallery/animals/birds/assets/perching/tree-swallow/E22A1657-1.jpg){: .photo-tile role="img" aria-label="Perching Birds"}](/gallery/animals/birds/perching/){: .tile role="listitem"}
 **[Perching Birds](/gallery/animals/birds/perching/)**  
 [*Passeriformes*](/field-notes/birds/passeriformes/) 
 {: .caption}
@@ -100,9 +100,24 @@ For identification notes, behavior, and seasonal context, see individual species
 [*Spinus tristis*](/field-notes/birds/passeriformes/fringillidae/spinus-tristis/)  
 {: .caption}
 
-[![House Finch](/gallery/animals/birds/assets/perching/house-finch/E21A2645.jpg){: .cover role="img" aria-label="House Finch"}](/gallery/animals/birds/perching/house-finch/){: .tile role="listitem"}
-**[House Finch](/gallery/animals/birds/perching/house-finch/)**  
-[*Haemorhous-mexicanus*](/field-notes/birds/passeriformes/fringillidae/haemorhous-mexicanus/)  
+[![American Robin](/gallery/animals/birds/assets/perching/american-robin/IMG_0007.jpg){: .cover role="img" aria-label="American Robin"}](/gallery/animals/birds/perching/american-robin/){: .tile role="listitem"}
+**[American Robin](/gallery/animals/birds/perching/american-robin/)**  
+[*Turdus migratorius*](/field-notes/birds/passeriformes/turdidae/turdus-migratorius/)  
+{: .caption}
+
+[![Bald Eagle](/gallery/animals/birds/assets/raptors/bald-eagle/IMG_0004.jpg){: .cover role="img" aria-label="Bald Eagle"}](/gallery/animals/birds/raptors/bald-eagle/){: .tile role="listitem"}
+**[Bald Eagle](/gallery/animals/birds/raptors/bald-eagle/)**  
+[*Haliaeetus leucocephalus*](/field-notes/birds/accipitriformes/accipitridae/haliaeetus-leucocephalus/)  
+{: .caption}
+
+[![Blue Jay](/gallery/animals/birds/assets/perching/blue-jay/E21A4708.jpg){: .cover role="img" aria-label="Blue Jay"}](/gallery/animals/birds/perching/blue-jay/){: .tile role="listitem"}
+**[Blue Jay](/gallery/animals/birds/perching/blue-jay/)**  
+[*Cyanocitta cristata*](/field-notes/birds/passeriformes/corvidae/cyanocitta-cristata/)  
+{: .caption}
+
+[![Eastern Bluebird](/gallery/animals/birds/assets/perching/eastern-bluebird/E22A2126.jpg){: .cover role="img" aria-label="Eastern Bluebird"}](/gallery/animals/birds/perching/eastern-bluebird/){: .tile role="listitem"}
+**[Eastern Bluebird](/gallery/animals/birds/perching/eastern-bluebird/)**  
+[*Sialia sialis*](/field-notes/birds/passeriformes/turdidae/sialia-sialis/)  
 {: .caption}
 
 [![Downy Woodpecker](/gallery/animals/birds/assets/woodpeckers/downy-woodpecker/E22A0415.jpg){: .cover role="img" aria-label="Downy Woodpecker"}](/gallery/animals/birds/woodpeckers/downy-woodpecker/){: .tile role="listitem"}
@@ -135,27 +150,12 @@ For identification notes, behavior, and seasonal context, see individual species
 [*Tringa solitaria*](/field-notes/birds/charadriiformes/scolopacidae/tringa-solitaria/)  
 {: .caption}
 
-[![Bald Eagle](/gallery/animals/birds/assets/raptors/bald-eagle/IMG_0004.jpg){: .cover role="img" aria-label="Bald Eagle"}](/gallery/animals/birds/raptors/bald-eagle/){: .tile role="listitem"}
-**[Bald Eagle](/gallery/animals/birds/raptors/bald-eagle/)**  
-[*Haliaeetus leucocephalus*](/field-notes/birds/accipitriformes/accipitridae/haliaeetus-leucocephalus/)  
-{: .caption}
-
 [![Sandhill Crane](/gallery/animals/birds/assets/waterfowl/sandhill-crane/E21A2039.jpg){: .cover role="img" aria-label="Sandhill Crane"}](/gallery/animals/birds/waterfowl/sandhill-crane/){: .tile role="listitem"}
 **[Sandhill Crane](/gallery/animals/birds/waterfowl/sandhill-crane/)**  
 [*Antigone canadensis*](/field-notes/birds/anseriformes/gruidae/antigone-canadensis/)  
 {: .caption}
 
-[![Blue Jay](/gallery/animals/birds/assets/perching/blue-jay/E21A4708.jpg){: .cover role="img" aria-label="Blue Jay"}](/gallery/animals/birds/perching/blue-jay/){: .tile role="listitem"}
-**[Blue Jay](/gallery/animals/birds/perching/blue-jay/)**  
-[*Cyanocitta cristata*](/field-notes/birds/passeriformes/corvidae/cyanocitta-cristata/)  
-{: .caption}
-
-[![American Robin](/gallery/animals/birds/assets/perching/american-robin/IMG_0007.jpg){: .cover role="img" aria-label="American Robin"}](/gallery/animals/birds/perching/american-robin/){: .tile role="listitem"}
-**[American Robin](/gallery/animals/birds/perching/american-robin/)**  
-[*Turdus migratorius*](/field-notes/birds/passeriformes/turdidae/turdus-migratorius/)  
-{: .caption}
-
-[![Tree Swallow](/gallery/animals/birds/assets/perching/tree-swallow/E22A0971.jpg){: .cover role="img" aria-label="Tree Swallow"}](/gallery/animals/birds/perching/tree-swallow/){: .tile role="listitem"}
+[![Tree Swallow](/gallery/animals/birds/assets/perching/tree-swallow/E22A1655-1.jpg){: .cover role="img" aria-label="Tree Swallow"}](/gallery/animals/birds/perching/tree-swallow/){: .tile role="listitem"}
 **[Tree Swallow](/gallery/animals/birds/perching/tree-swallow/)**  
 [*Tachycineta bicolor*](/field-notes/birds/passeriformes/hirundinidae/tachycineta-bicolor/)  
 {: .caption}
