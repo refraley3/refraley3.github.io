@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{% if page.slides %}
+  {% include hero-slideshow.html slides=page.slides %}
+{% endif %}
+
+{{ content }}
+
+<script src="{{ '/assets/js/hero-slideshow.js' | relative_url }}"></script>
