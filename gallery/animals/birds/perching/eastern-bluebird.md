@@ -16,12 +16,13 @@ For identification details and comparison with similar species, see the [*Sialia
 ![Male Eastern Bluebird in Spring Leaves](/gallery/animals/birds/assets/perching/eastern-bluebird/E22A2126-1.jpg){: .cover role="img" aria-label="Male Eastern Bluebird perched among fresh green leaves"}
 **Male Eastern Bluebird in Spring Leaves**  
 _Bright blue against new foliage._  
-A male Eastern Bluebird pauses on an open branch beneath fresh spring leaves. His blue upperparts and rusty breast catch the sun clearly, making the bird stand out even in a busy pattern of twigs and foliage.  
-Camera: Canon EOS 5D Mk IV  
+Camera: Canon EOS 5D Mark IV  
 Lens: EF100-400mm f/4.5-5.6L IS II USM  
 Settings: ISO 400 • Aperture f/9.0 • Shutter 1/640 s  
 E22A2126 • Size: 2362x1575  
 {: .caption}
+
+A male Eastern Bluebird pauses on an open branch beneath fresh spring leaves. His blue upperparts and rusty breast catch the sun clearly, making the bird stand out even in a busy pattern of twigs and foliage.  
 
 ---
 
@@ -38,7 +39,7 @@ The wider view places both birds in the tree at once, with the female lower on t
 ![Eastern Bluebird Pair in Spring Tree](/gallery/animals/birds/assets/perching/eastern-bluebird/E22A2096-1.jpg){: .cover role="img" aria-label="Male and female Eastern Bluebirds perched apart in a spring tree"}
 **Eastern Bluebird Pair in Spring Tree**  
 _A quiet pair among opening leaves._  
-Camera: Canon EOS 5D Mk IV  
+Camera: Canon EOS 5D Mark IV  
 Lens: EF100-400mm f/4.5-5.6L IS II USM  
 Settings: ISO 400 • Aperture f/9.0 • Shutter 1/640 s  
 E22A2096 • Size: 4093x3129  
@@ -55,7 +56,7 @@ The female’s plumage is quieter but still distinctly bluebird. Her blue wings 
 ![Female Eastern Bluebird on Branch](/gallery/animals/birds/assets/perching/eastern-bluebird/E22A2102-1.jpg){: .cover role="img" aria-label="Female Eastern Bluebird perched on a branch among green leaves"}
 **Female Eastern Bluebird on Branch**  
 _Softer color in the same spring light._  
-Camera: Canon EOS 5D Mk IV  
+Camera: Canon EOS 5D Mark IV  
 Lens: EF100-400mm f/4.5-5.6L IS II USM  
 Settings: ISO 400 • Aperture f/9.0 • Shutter 1/640 s  
 E22A2102 • Size: 2362x1575  
