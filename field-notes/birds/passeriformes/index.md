@@ -50,6 +50,9 @@ In many cases, **behavior and sound are as important as visual field marks**.
 
 ## Families
 
+### [Bombycillidae](/field-notes/birds/passeriformes/bombycillidae/)  
+Waxwings—sleek, social birds with silky plumage, often found in flocks and known for their fondness for fruit.
+
 ### [Cardinalidae](/field-notes/birds/passeriformes/cardinalidae/)  
 Cardinals, grosbeaks, and buntings—robust, often colorful birds with strong bills and clear, whistled songs.
 

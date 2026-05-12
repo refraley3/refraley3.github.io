@@ -27,6 +27,12 @@ title: Bird Families
 
 ---
 
+### [BOMBYCILLIDAE](/field-notes/birds/passeriformes/bombycillidae/)
+- [**Cedar Waxwing**](/gallery/animals/birds/perching/cedar-waxwing/) [_(Bombycilla cedrorum)_](/field-notes/birds/passeriformes/bombycillidae/bombycilla-cedrorum/)  
+- Bohemian Waxwing_(Bombycilla garrulus)_
+
+--
+
 ### [CARDINALIDAE](/field-notes/birds/passeriformes/cardinalidae/)
 - Indigo Bunting _(Passerina cyanea)_
 - [**Northern Cardinal**](/gallery/animals/birds/perching/northern-cardinal/) [_(Cardinalis cardinalis)_](/field-notes/birds/passeriformes/cardinalidae/cardinalis-cardinalis/)
