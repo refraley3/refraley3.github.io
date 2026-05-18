@@ -47,6 +47,51 @@ field_groups:
     image_x: right
     image_y: center
 
+checklists:
+  - title: lichen checklist
+    url: /field-notes/lichen/lichen-checklist/
+    image: /gallery/fungi/lichen/assets/candleflame/E21A8051-8055-1.jpg
+    alt: lichen checklist
+    kicker: Lichen checklist
+    text: A checklist of lichens observed during field photography, organized by family and growth habit.
+    width: 200px
+    height: 200px
+    image_x: center
+    image_y: center
+
+  - title: bird checklist
+    url: /field-notes/birds/bird-checklist/
+    image: /gallery/animals/birds/assets/perching/american-goldfinch/E21A3395.jpg
+    alt: bird checklist
+    kicker: Bird checklist
+    text: A checklist of birds observed during field photography, organized by family and seasonal appearance.
+    width: 200px
+    height: 200px
+    image_x: center
+    image_y: center
+    
+  - title: dragonfly checklist
+    url: /field-notes/odonata/dragonfly-checklist/
+    image: /gallery/animals/insects/dragonflies/assets/autumn-meadowhawk/D79A0209.jpg
+    alt: dragonfly checklist
+    kicker: Dragonfly checklist
+    text: A checklist of dragonflies observed during field photography, organized by family and seasonal appearance.
+    width: 200px
+    height: 200px
+    image_x: center
+    image_y: center
+
+  - title: damselfly checklist
+    url: /field-notes/odonata/damselfly-checklist/
+    image: /gallery/animals/insects/damselflies/assets/familiar-bluet/E21A1520.jpg
+    alt: damselfly checklist
+    kicker: Damselfly checklist
+    text: A checklist of damselflies observed during field photography, organized by family and seasonal appearance.
+    width: 200px
+    height: 200px
+    image_x: center
+    image_y: center
+
 field_essays:
   - title: First Quiet Voices of Spring
     url: /field-notes/first-quiet-voices-spring/
@@ -96,14 +141,44 @@ comparative_notes:
 
 ---
 
-Seasonal observations, IDs, and stories.
-{:.caption}
+{::nomarkdown}
+<section class="field-notes-hero animalia-hero">
+  <div class="hero-image">
+    <h2>Animalia: A Reference and Orientation Chart</h2>
+    <img
+      src="/field-notes/assets/animalia-model.jpg"
+      alt="Animalia taxonomy reference chart showing major branches of the animal kingdom"
+      class="cover"
+      style="max-width: 100%; height: auto; filter: invert(1);"
+    >
+    <br />
+    <p>
+      The animal kingdom, <strong>Animalia</strong>, includes an extraordinary range of living forms,
+      from familiar birds and mammals to insects, spiders, mollusks, worms, and other invertebrates.
+      This chart provides a broad reference and orientation point for the animal section of the Field Notes,
+      showing how major animal groups relate to one another at a high level. It is not intended as a complete
+      scientific classification, but as a practical guide for placing photographed species into context. As new
+      animal subjects are added, this framework can help connect individual observations to the larger branches
+      of animal life.
+    </p>
+  </div>
+</section>
+{:/nomarkdown}
 
-## Field Groups
+
+## Animal Groups
 
 {::nomarkdown}
 {% include tile-grid.html tiles=page.field_groups %}
 {:/nomarkdown}
+
+## Checklists & ID Guides
+
+{::nomarkdown}
+{% include tile-grid.html tiles=page.checklists %}
+{:/nomarkdown}
+
+## Seasonal observations, IDs, and stories.
 
 ## Field Essays & Observations
 

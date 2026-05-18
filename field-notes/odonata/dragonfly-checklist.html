@@ -1,0 +1,153 @@
+---
+layout: default
+title: Dragonfly Checklist 
+---
+
+<form class="photo-checklist dragonfly-checklist">
+  <h2>Dragonfly Photographic Checklist</h2>
+
+  <fieldset>
+    <legend>Basic Information</legend>
+
+    <label for="dragonfly-date">Date</label>
+    <input type="date" id="dragonfly-date" name="date">
+
+    <label for="dragonfly-location">Location</label>
+    <input type="text" id="dragonfly-location" name="location" placeholder="Park, trail, pond, county, etc.">
+
+    <label for="dragonfly-habitat">Habitat</label>
+    <input type="text" id="dragonfly-habitat" name="habitat" placeholder="Pond edge, stream, prairie, woodland, etc.">
+  </fieldset>
+
+  <fieldset>
+    <legend>Dragonfly ID Needs</legend>
+
+    <label>
+      <input type="checkbox" name="needs" value="abdominal-segments">
+      Abdominal segments photographed
+    </label>
+
+    <label>
+      <input type="checkbox" name="needs" value="appendages">
+      Appendages photographed
+    </label>
+
+    <label>
+      <input type="checkbox" name="needs" value="thoracic-pattern">
+      Thoracic stripes or side pattern photographed
+    </label>
+
+    <label>
+      <input type="checkbox" name="needs" value="wing-markings">
+      Wing markings photographed
+    </label>
+
+    <label>
+      <input type="checkbox" name="needs" value="face-eye-color">
+      Face and eye color photographed
+    </label>
+
+    <label>
+      <input type="checkbox" name="needs" value="body-shape">
+      Overall body shape photographed
+    </label>
+  </fieldset>
+
+  <fieldset>
+    <legend>Helpful Photo Angles</legend>
+
+    <label>
+      <input type="checkbox" name="angles" value="top-view">
+      Top view
+    </label>
+
+    <label>
+      <input type="checkbox" name="angles" value="side-view">
+      Side view
+    </label>
+
+    <label>
+      <input type="checkbox" name="angles" value="front-view">
+      Front / face view
+    </label>
+
+    <label>
+      <input type="checkbox" name="angles" value="wing-closeup">
+      Wing close-up
+    </label>
+
+    <label>
+      <input type="checkbox" name="angles" value="tail-closeup">
+      Tail / appendage close-up
+    </label>
+
+    <label>
+      <input type="checkbox" name="angles" value="habitat-shot">
+      Habitat shot
+    </label>
+  </fieldset>
+
+  <fieldset>
+    <legend>Field Notes</legend>
+
+    <label for="dragonfly-behavior">Behavior</label>
+    <br />
+    <textarea id="dragonfly-behavior" name="behavior" rows="3" placeholder="Perching, flying patrols, mating, ovipositing, feeding, etc."></textarea>
+
+    <label for="dragonfly-notes">Additional notes</label>
+    <textarea id="dragonfly-notes" name="notes" rows="4" placeholder="Size, colors, nearby water, plants, weather, or other observations."></textarea>
+  </fieldset>
+
+  <button type="submit">Download Checklist</button>
+</form>
+
+<script>
+  document.querySelector(".dragonfly-checklist").addEventListener("submit", function (event) {
+    event.preventDefault();
+
+    const form = event.target;
+
+    const checklistData = {
+      checklist: "Dragonfly Photographic Checklist",
+      date: form.querySelector("#dragonfly-date").value,
+      location: form.querySelector("#dragonfly-location").value,
+      habitat: form.querySelector("#dragonfly-habitat").value,
+
+      needs: Array.from(form.querySelectorAll('input[name="needs"]:checked'))
+        .map(item => item.value),
+
+      angles: Array.from(form.querySelectorAll('input[name="angles"]:checked'))
+        .map(item => item.value),
+
+      behavior: form.querySelector("#dragonfly-behavior").value,
+      notes: form.querySelector("#dragonfly-notes").value,
+
+      savedAt: new Date().toISOString()
+    };
+
+    const fileContents = JSON.stringify(checklistData, null, 2);
+
+    const blob = new Blob([fileContents], {
+      type: "application/json"
+    });
+
+    const saveDate = checklistData.date || new Date().toISOString().slice(0, 10);
+
+    const safeLocation = (checklistData.location || "unknown-location")
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-|-$/g, "");
+
+    const fileName = `dragonfly-checklist-${saveDate}-${safeLocation}.json`;
+    
+    const link = document.createElement("a");
+    link.href = URL.createObjectURL(blob);
+    link.download = fileName;
+
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+
+    URL.revokeObjectURL(link.href);
+  });
+</script>

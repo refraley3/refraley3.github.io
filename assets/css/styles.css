@@ -260,6 +260,23 @@ main h2 {
   box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
 }
 
+.gallery-section {
+  margin-top: 3rem;
+}
+
+.gallery-section h2 {
+  margin-bottom: 1rem;
+  border-bottom: 1px solid rgba(255,255,255,0.2);
+  padding-bottom: 0.4rem;
+}
+
+.gallery-grid {
+  gap: 2rem;
+}
+
+.tile {
+  margin-bottom: 1rem;
+}
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
@@ -391,4 +408,84 @@ table.exif-table {
 
 .text-muted {
   color: #537070;
+}
+/* =========================
+   8. CHECKLISTS / FORMS
+   ========================= */
+.photo-checklist {
+  max-width: 700px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  background: #1a1a1a;
+  color: #d6d6d6;
+  font-family: Arial, sans-serif;
+}
+
+.photo-checklist h2 {
+  margin-top: 0;
+  color: #ffffff;
+}
+
+.photo-checklist fieldset {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  border: 1px solid #555;
+  border-radius: 8px;
+  background: #111;
+}
+
+.photo-checklist legend {
+  font-weight: bold;
+  padding: 0 0.5rem;
+  color: #ffffff;
+}
+
+.photo-checklist label {
+  display: block;
+  margin: 0.6rem 0;
+}
+
+.photo-checklist input[type="checkbox"] {
+  margin-right: 0.4rem;
+}
+
+.photo-checklist input[type="text"],
+.photo-checklist input[type="date"],
+.photo-checklist textarea {
+  width: 100%;
+  box-sizing: border-box;
+  margin-top: 0.25rem;
+  padding: 0.5rem;
+  border: 1px solid #777;
+  border-radius: 6px;
+  background: #222;
+  color: #f0f0f0;
+}
+
+.photo-checklist input::placeholder,
+.photo-checklist textarea::placeholder {
+  color: #999;
+}
+
+.photo-checklist input:focus,
+.photo-checklist textarea:focus {
+  outline: none;
+  border-color: #8178bd;
+  box-shadow: 0 0 0 2px rgba(129, 120, 189, 0.35);
+}
+
+.photo-checklist button {
+  padding: 0.75rem 1.25rem;
+  border: none;
+  border-radius: 8px;
+  background: #1a1919;
+  color: rgb(163, 163, 163);
+  cursor: pointer;
+}
+
+.photo-checklist button:hover {
+  background: #443d6b;
+  color: #ffffff;
 }

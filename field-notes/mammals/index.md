@@ -30,7 +30,7 @@ Both perspectives inform one another.
 These notes are organized around structure, behavior, and comparison rather than a complete species list.
 
 <p style="text-align:center">
-	<img src="/assets/images/under-construction_wht.png" class="cover" alt="Under Construction" role="img" aria-label="Under Construction" />
+	<img src="/gallery/animals/mammals/assets/deer/white-tailed-deer/E21A2340.jpg" class="cover" alt="Mammals" role="img" aria-label="Under Construction" />
 </p>
 
 ### [Description](/field-notes/mammals/description/)  

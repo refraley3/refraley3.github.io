@@ -1,0 +1,142 @@
+---
+layout: default
+title: Damselfly Checklist
+---
+
+<form class="photo-checklist damselfly-checklist">
+  <h2>Damselfly Photographic Checklist</h2>
+
+  <fieldset>
+    <legend>Basic Information</legend>
+
+    <label for="damselfly-date">Date</label>
+    <input type="date" id="damselfly-date" name="date">
+
+    <label for="damselfly-location">Location</label>
+    <input type="text" id="damselfly-location" name="location" placeholder="Park, trail, pond, wetland, county, etc.">
+
+    <label for="damselfly-habitat">Habitat</label>
+    <input type="text" id="damselfly-habitat" name="habitat" placeholder="Pond edge, marsh, stream, meadow, woodland opening, etc.">
+  </fieldset>
+
+  <fieldset>
+    <legend>Damselfly ID Needs</legend>
+
+    <label>
+      <input type="checkbox" name="needs" value="abdominal-segments">
+      Abdominal segments photographed
+    </label>
+
+    <label>
+      <input type="checkbox" name="needs" value="appendages">
+      Appendages photographed
+    </label>
+
+    <label>
+      <input type="checkbox" name="needs" value="thoracic-stripes">
+      Thoracic stripes or side pattern photographed
+    </label>
+
+    <label>
+      <input type="checkbox" name="needs" value="wing-position-pterostigma">
+      Wing position and pterostigma photographed
+    </label>
+  </fieldset>
+
+  <fieldset>
+    <legend>Helpful Photo Angles</legend>
+
+    <label>
+      <input type="checkbox" name="angles" value="top-view">
+      Top view
+    </label>
+
+    <label>
+      <input type="checkbox" name="angles" value="side-view">
+      Side view
+    </label>
+
+    <label>
+      <input type="checkbox" name="angles" value="front-view">
+      Front / face view
+    </label>
+
+    <label>
+      <input type="checkbox" name="angles" value="wing-closeup">
+      Wing close-up
+    </label>
+
+    <label>
+      <input type="checkbox" name="angles" value="tail-closeup">
+      Tail / appendage close-up
+    </label>
+
+    <label>
+      <input type="checkbox" name="angles" value="habitat-shot">
+      Habitat shot
+    </label>
+  </fieldset>
+
+  <fieldset>
+    <legend>Field Notes</legend>
+
+    <label for="damselfly-behavior">Behavior</label>
+    <textarea id="damselfly-behavior" name="behavior" rows="3" placeholder="Perching, flying low over vegetation, mating, ovipositing, feeding, etc."></textarea>
+
+    <label for="damselfly-notes">Additional notes</label>
+    <textarea id="damselfly-notes" name="notes" rows="4" placeholder="Working ID, size, colors, nearby water, plants, weather, or other observations."></textarea>
+  </fieldset>
+
+  <button type="submit">Download Checklist</button>
+</form>
+
+<script>
+  document.querySelector(".damselfly-checklist").addEventListener("submit", function (event) {
+    event.preventDefault();
+
+    const form = event.target;
+
+    const checklistData = {
+      checklist: "Damselfly Photographic Checklist",
+      date: form.querySelector("#damselfly-date").value,
+      location: form.querySelector("#damselfly-location").value,
+      habitat: form.querySelector("#damselfly-habitat").value,
+
+      needs: Array.from(form.querySelectorAll('input[name="needs"]:checked'))
+        .map(item => item.value),
+
+      angles: Array.from(form.querySelectorAll('input[name="angles"]:checked'))
+        .map(item => item.value),
+
+      behavior: form.querySelector("#damselfly-behavior").value,
+      notes: form.querySelector("#damselfly-notes").value,
+
+      savedAt: new Date().toISOString()
+    };
+
+    const fileContents = JSON.stringify(checklistData, null, 2);
+
+    const blob = new Blob([fileContents], {
+      type: "application/json"
+    });
+
+    const saveDate = checklistData.date || new Date().toISOString().slice(0, 10);
+
+    const safeLocation = (checklistData.location || "unknown-location")
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-|-$/g, "");
+
+    const fileName = `damselfly-checklist-${saveDate}-${safeLocation}.json`;
+
+    const link = document.createElement("a");
+    link.href = URL.createObjectURL(blob);
+    link.download = fileName;
+
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+
+    URL.revokeObjectURL(link.href);
+  });
+</script>

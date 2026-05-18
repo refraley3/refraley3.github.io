@@ -44,3 +44,8 @@ Emergence from water marks a dramatic transition to the aerial adult stage.
 ## Notes
 
 Odonates are among the most visually striking insects in freshwater ecosystems and are often used as indicators of habitat quality.
+
+## Checklists
+
+- [Dragonfly Photography Checklist](/field-notes/odonata/dragonfly-checklist/)
+- [Damselfly Photography Checklist](/field-notes/odonata/damselfly-checklist/)

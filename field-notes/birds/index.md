@@ -60,6 +60,11 @@ These notes are organized around structure, behavior, and comparison rather than
 *[Perching Birds](/gallery/animals/birds/perching/)*  
 {: .caption}
 
+[![Pelecaniformes](/gallery/animals/birds/assets/wading/great-egret/E22A2272.jpg){: .cover role="img" aria-label="Pelecaniformes" style="height: 200px"}](/field-notes/birds/pelecaniformes/){: .tile role="listitem" style="height: 200px"}
+**[Pelecaniformes](/field-notes/birds/pelecaniformes/)**  
+[*Wading Birds*](/gallery/animals/birds/wading/)  
+{: .caption}
+
 [![Piciformes](/gallery/animals/birds/assets/woodpeckers/downy-woodpecker/E22A0415.jpg){: .cover role="img" aria-label="Piciformes" style="height: 200px"}](/field-notes/birds/piciformes/){: .tile role="listitem" style="height: 200px"}
 **[Piciformes](/field-notes/birds/piciformes/)**  
 [*Woodpeckers*](/gallery/animals/birds/woodpeckers/)  

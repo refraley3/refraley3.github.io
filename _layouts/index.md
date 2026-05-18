@@ -5,7 +5,7 @@ title: Title
 
 [![Hero title](/gallery/folder/folder/assets/folder/hero-image.jpg){: .cover role="img" aria-label="Hero Title"}  
 **Hero Title**  
-_An orb-weaver web glistens with the mist in a prairie meadow._  
+_Hero kicker._  
 Image description.  
 ](/gallery/folder/folder/folder){: .tile role="listitem"}
 
