@@ -3,9 +3,31 @@ layout: default
 title: Field Notes
 
 field_groups:
+  - title: Arachnids
+    url: /field-notes/arachnids/
+    image: /gallery/animals/arachnids/assets/garden-spider/E21A4882.jpg
+    alt: Arachnids
+    kicker: Spiders, scorpions, and more
+    text: Field notes and family guides for arachnids, emphasizing form, behavior, and seasonal context.
+    width: 200px
+    height: 200px
+    image_x: left
+    image_y: center
+
+  - title: Insects
+    url: /field-notes/insects/
+    image: /gallery/animals/insects/dragonflies/assets/autumn-meadowhawk/D79A0209.jpg
+    alt: Insects
+    kicker: Insects of all kinds
+    text: Field notes and family guides for insects, emphasizing form, behavior, and seasonal context.
+    width: 200px
+    height: 200px
+    image_x: right
+    image_y: center
+    
   - title: Odonata
     url: /field-notes/odonata/
-    image: /gallery/animals/insects/dragonflies/assets/autumn-meadowhawk/D79A0209.jpg
+    image: /gallery/animals/insects/damselflies/assets/familiar-bluet/E21A1516.jpg
     alt: Odonata
     kicker: Dragonflies and damselflies
     text: Field notes and family guides for odonates.
@@ -47,29 +69,18 @@ field_groups:
     image_x: right
     image_y: center
 
-checklists:
-  - title: lichen checklist
-    url: /field-notes/lichen/lichen-checklist/
-    image: /gallery/fungi/lichen/assets/candleflame/E21A8051-8055-1.jpg
-    alt: lichen checklist
-    kicker: Lichen checklist
-    text: A checklist of lichens observed during field photography, organized by family and growth habit.
+  - title: Mammals
+    url: /field-notes/mammals/
+    image: /gallery/animals/mammals/assets/deer/white-tailed-deer/E22A2154.jpg
+    alt: Mammals
+    kicker: Mammals of all kinds
+    text: Field notes and family guides for mammals, emphasizing form, behavior, and seasonal context.
     width: 200px
     height: 200px
-    image_x: center
+    image_x: left
     image_y: center
 
-  - title: bird checklist
-    url: /field-notes/birds/bird-checklist/
-    image: /gallery/animals/birds/assets/perching/american-goldfinch/E21A3395.jpg
-    alt: bird checklist
-    kicker: Bird checklist
-    text: A checklist of birds observed during field photography, organized by family and seasonal appearance.
-    width: 200px
-    height: 200px
-    image_x: center
-    image_y: center
-    
+checklists:
   - title: dragonfly checklist
     url: /field-notes/odonata/dragonfly-checklist/
     image: /gallery/animals/insects/dragonflies/assets/autumn-meadowhawk/D79A0209.jpg
@@ -91,6 +102,39 @@ checklists:
     height: 200px
     image_x: center
     image_y: center
+
+  - title: lichen checklist
+    url: /field-notes/lichen/lichen-checklist/
+    image: /gallery/fungi/lichen/assets/candleflame/E21A8051-8055-1.jpg
+    alt: lichen checklist
+    kicker: Lichen checklist
+    text: A checklist of lichens observed during field photography, organized by family and growth habit.
+    width: 200px
+    height: 200px
+    image_x: center
+    image_y: center
+
+  - title: bird checklist
+    url: /field-notes/birds/bird-checklist/
+    image: /gallery/animals/birds/assets/perching/american-goldfinch/E21A3395.jpg
+    alt: bird checklist
+    kicker: Bird checklist
+    text: A checklist of birds observed during field photography, organized by family and seasonal appearance.
+    width: 200px
+    height: 200px
+    image_x: center
+    image_y: center
+
+  - title: spider checklist
+    url: /field-notes/arachnids/spiders/spider-checklist/
+    image: /gallery/animals/arachnids/assets/crab-spider/D79A0270.jpg
+    alt: spider checklist
+    kicker: Spider checklist
+    text: A checklist of spiders observed during field photography, organized by family and seasonal appearance.
+    width: 200px
+    height: 200px
+    image_x: center
+    image_y: center    
 
 field_essays:
   - title: First Quiet Voices of Spring

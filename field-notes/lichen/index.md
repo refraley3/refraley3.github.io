@@ -3,8 +3,6 @@ layout: default
 title: Lichen Field Notes
 ---
 
-## Lichen Field Notes
-
 This section is a working field notebook focused on the observation and identification of lichens through photography, comparison, and repeated field encounters.
 
 The emphasis here is on **genus-level recognition** and **diagnostic patterns**—growth form, substrate, color, and reproductive structures—rather than definitive species determination. In many cases, species-level identification from photographs alone is uncertain, and that uncertainty is preserved rather than resolved prematurely.

@@ -1,0 +1,220 @@
+---
+layout: default
+title: Spider Checklist
+---
+
+<form class="photo-checklist spider-checklist">
+  <h2>Spider Photographic Checklist</h2>
+
+  <fieldset>
+    <legend>Basic Information</legend>
+
+    <label for="spider-date">Date</label>
+    <input type="date" id="spider-date" name="date">
+
+    <label for="spider-location">Location</label>
+    <input type="text" id="spider-location" name="location" placeholder="Park, trail, garden, county, etc.">
+
+    <label for="spider-habitat">Habitat</label>
+    <input type="text" id="spider-habitat" name="habitat" placeholder="Flower, shrub, grass, bark, leaf litter, web, building, etc.">
+  </fieldset>
+
+  <fieldset>
+    <legend>Spider ID Needs</legend>
+
+    <label>
+      <input type="checkbox" name="needs" value="eye-arrangement">
+      Eye arrangement photographed
+    </label>
+
+    <label>
+      <input type="checkbox" name="needs" value="abdomen-pattern">
+      Abdomen shape and pattern photographed
+    </label>
+
+    <label>
+      <input type="checkbox" name="needs" value="cephalothorax-markings">
+      Cephalothorax shape and markings photographed
+    </label>
+
+    <label>
+      <input type="checkbox" name="needs" value="leg-spination">
+      Leg spines, banding, or posture photographed
+    </label>
+
+    <label>
+      <input type="checkbox" name="needs" value="spinnerets">
+      Spinnerets or rear view photographed
+    </label>
+
+    <label>
+      <input type="checkbox" name="needs" value="pedipalps-epigyne">
+      Pedipalps or epigyne photographed, if visible
+    </label>
+
+    <label>
+      <input type="checkbox" name="needs" value="web-type">
+      Web type, retreat, burrow, or hunting position photographed
+    </label>
+
+    <label>
+      <input type="checkbox" name="needs" value="overall-body-shape">
+      Overall body shape photographed
+    </label>
+  </fieldset>
+
+  <fieldset>
+    <legend>Helpful Photo Angles</legend>
+
+    <label>
+      <input type="checkbox" name="angles" value="top-view">
+      Top / dorsal view
+    </label>
+
+    <label>
+      <input type="checkbox" name="angles" value="side-view">
+      Side view
+    </label>
+
+    <label>
+      <input type="checkbox" name="angles" value="front-view">
+      Front / face view
+    </label>
+
+    <label>
+      <input type="checkbox" name="angles" value="rear-view">
+      Rear view showing spinnerets
+    </label>
+
+    <label>
+      <input type="checkbox" name="angles" value="leg-closeup">
+      Leg close-up
+    </label>
+
+    <label>
+      <input type="checkbox" name="angles" value="eye-closeup">
+      Eye close-up
+    </label>
+
+    <label>
+      <input type="checkbox" name="angles" value="web-or-retreat">
+      Web, retreat, burrow, or egg sac
+    </label>
+
+    <label>
+      <input type="checkbox" name="angles" value="habitat-shot">
+      Habitat shot
+    </label>
+  </fieldset>
+
+  <fieldset>
+    <legend>Web, Habitat, and Behavior</legend>
+
+    <label>
+      <input type="checkbox" name="behaviorChecks" value="orb-web">
+      Orb web present
+    </label>
+
+    <label>
+      <input type="checkbox" name="behaviorChecks" value="sheet-web">
+      Sheet web present
+    </label>
+
+    <label>
+      <input type="checkbox" name="behaviorChecks" value="funnel-web">
+      Funnel web or retreat present
+    </label>
+
+    <label>
+      <input type="checkbox" name="behaviorChecks" value="cobweb">
+      Irregular cobweb present
+    </label>
+
+    <label>
+      <input type="checkbox" name="behaviorChecks" value="ambush-hunting">
+      Ambush hunting
+    </label>
+
+    <label>
+      <input type="checkbox" name="behaviorChecks" value="active-hunting">
+      Active hunting
+    </label>
+
+    <label>
+      <input type="checkbox" name="behaviorChecks" value="jumping">
+      Jumping or stalking behavior
+    </label>
+
+    <label>
+      <input type="checkbox" name="behaviorChecks" value="egg-sac">
+      Egg sac, spiderlings, or maternal behavior observed
+    </label>
+  </fieldset>
+
+  <fieldset>
+    <legend>Field Notes</legend>
+
+    <label for="spider-behavior">Behavior</label>
+    <br />
+    <textarea id="spider-behavior" name="behavior" rows="3" placeholder="Resting posture, hunting, web tending, carrying egg sac, guarding young, movement style, etc."></textarea>
+
+    <label for="spider-notes">Additional notes</label>
+    <textarea id="spider-notes" name="notes" rows="4" placeholder="Size, colors, web type, nearby plants, prey, weather, microhabitat, or other observations."></textarea>
+  </fieldset>
+
+  <button type="submit">Download Checklist</button>
+</form>
+
+<script>
+  document.querySelector(".spider-checklist").addEventListener("submit", function (event) {
+    event.preventDefault();
+
+    const form = event.target;
+
+    const checklistData = {
+      checklist: "Spider Photographic Checklist",
+      date: form.querySelector("#spider-date").value,
+      location: form.querySelector("#spider-location").value,
+      habitat: form.querySelector("#spider-habitat").value,
+
+      needs: Array.from(form.querySelectorAll('input[name="needs"]:checked'))
+        .map(item => item.value),
+
+      angles: Array.from(form.querySelectorAll('input[name="angles"]:checked'))
+        .map(item => item.value),
+
+      behaviorChecks: Array.from(form.querySelectorAll('input[name="behaviorChecks"]:checked'))
+        .map(item => item.value),
+
+      behavior: form.querySelector("#spider-behavior").value,
+      notes: form.querySelector("#spider-notes").value,
+
+      savedAt: new Date().toISOString()
+    };
+
+    const fileContents = JSON.stringify(checklistData, null, 2);
+
+    const blob = new Blob([fileContents], {
+      type: "application/json"
+    });
+
+    const saveDate = checklistData.date || new Date().toISOString().slice(0, 10);
+
+    const safeLocation = (checklistData.location || "unknown-location")
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-|-$/g, "");
+
+    const fileName = `spider-checklist-${saveDate}-${safeLocation}.json`;
+
+    const link = document.createElement("a");
+    link.href = URL.createObjectURL(blob);
+    link.download = fileName;
+
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+
+    URL.revokeObjectURL(link.href);
+  });
+</script>

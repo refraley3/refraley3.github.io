@@ -1,154 +1,122 @@
 ---
 layout: default
-title: Spiders
-description: Overview and field identification notes for spiders, order Araneae, with links to family-level notes and photographic references.
-tags: [spider, spiders, arachnid, Araneae, field-notes, spider-identification]
-keywords: "spiders, Araneae, arachnids, spider identification, spider field notes, Minnesota spiders"
+title: Spider Families
+description: Field-notes index for spider families, with links to family-level identification pages and photographic reference notes.
+tags: [spider, arachnid, spider-families, field-notes, identification]
+keywords: "spider families, arachnids, spider identification, field notes, family-level spider ID"
 ---
 
-## Spiders
+## Spider Families
 
-**Spiders** are arachnids in the order **Araneae**, characterized by two main body sections, eight legs, silk-producing spinnerets, and predatory behavior. They are among the most familiar arachnids in gardens, forests, prairies, wetlands, buildings, and leaf litter.
+Spiders are often easiest to approach first by **family** rather than by species. Family-level identification uses broad field-visible traits such as body shape, eye arrangement, leg posture, web type, hunting behavior, habitat, and overall appearance.
 
-This section collects field notes for spider families, genera, and species, with emphasis on traits that can be observed or photographed in the field.
+This index collects family-level field notes for spiders and related arachnid observations. These pages are intended for photographic reference and field study, especially when a spider cannot be confidently identified to genus or species.
 
-For representative images and visual context, see the page: [**Spiders**](/gallery/animals/arachnids/spiders/) in the **Gallery** section.
+### How to Use These Family Pages
 
-### General Appearance
+Start with the most visible traits in the photo or observation:
 
-Spiders vary widely in form, but most can be recognized by a combination of:
+- **Web type:** orb web, sheet web, funnel web, cobweb, retreat, burrow, or no web visible
+- **Body shape:** round, flattened, long-bodied, compact, robust, slender, crab-like, or long-legged
+- **Leg posture:** forward-facing, sideways, spread, curled, jumping stance, or held in pairs
+- **Eye arrangement:** when close views are available
+- **Habitat:** flowers, shrubs, grasses, bark, leaf litter, water margins, buildings, gardens, or woodland edges
+- **Behavior:** ambush hunting, jumping, active ground hunting, web tending, retreat building, egg sac guarding, or fishing behavior
 
-- two main body sections: cephalothorax and abdomen
-- eight walking legs
-- no antennae
-- no wings
-- chelicerae near the mouthparts
-- spinnerets at or near the rear of the abdomen
-- simple eyes, usually arranged in family-specific patterns
+Family identification is often possible from good photographs, but genus or species identification may require additional views, mature individuals, or close inspection of reproductive structures.
 
-Common field appearances include:
+### Family-Level Identification Characters
 
-- orb-weavers sitting at the center of circular webs
-- jumping spiders moving in short, alert bursts
-- crab spiders waiting on flowers or leaves with front legs held outward
-- wolf spiders running on the ground or carrying egg sacs
-- funnel weavers retreating into sheet-like webs
-- cobweb spiders in irregular tangle webs
-- sheetweb spiders in low vegetation, grass, or leaf litter
+Useful field characters may include:
 
-### Habitat and Behavior
+- **Body shape and size:** overall proportions, flattened or rounded form, abdomen shape
+- **Cephalothorax shape and markings:** color, stripes, central bands, lateral markings
+- **Abdomen shape and pattern:** spots, chevrons, leaf-like markings, humps, bands, or mottling
+- **Eye arrangement:** size and placement of front, side, and rear eyes
+- **Leg length, banding, spines, or posture:** especially useful in crab spiders, jumping spiders, orb-weavers, and wolf spiders
+- **Pedipalps or epigyne, when visible:** useful for mature individuals
+- **Spinnerets or posterior features:** especially helpful in some ground spiders and funnel weavers
+- **Color pattern:** dorsal and lateral markings, contrast, camouflage, or warning-like colors
+- **Hair, setae, spines, or surface texture:** smooth, hairy, bristly, spiny, or flattened
+- **Web type, retreat, burrow, or hunting style:** often one of the strongest family clues
+- **Behavior or habitat association:** flowers, bark, leaf litter, grass, water, buildings, or garden vegetation
 
-Spiders occur in a wide range of habitats, including:
+### Representative Spider Families
 
-- prairies, meadows, gardens, and old fields
-- forests, woodland edges, bark, logs, and leaf litter
-- wetlands, shorelines, marsh edges, and stream margins
-- flowers, grasses, shrubs, trees, and stems
-- soil, rocks, walls, fences, buildings, bridges, and porches
-- basements, sheds, garages, windows, and other sheltered structures
+These are common or photographically useful families that may be included in this section of the field notes.
 
-Typical behaviors may include:
+#### Orb-Weavers
 
-- building orb, sheet, funnel, cobweb, or retreat webs
-- hunting actively without a prey-capture web
-- ambushing prey from flowers, bark, leaves, or ground cover
-- wrapping prey in silk
-- carrying egg sacs or guarding young
-- hiding in retreats during the day and hunting at night
-- dispersing as spiderlings by ballooning on silk threads
-- using vibration, posture, or movement during courtship
+- [**Araneidae**](/field-notes/arachnids/spiders/araneidae/) – Typical orb-weavers. Often build circular orb webs; many have rounded abdomens, strong markings, and conspicuous garden or woodland webs.
+- **Tetragnathidae** – Long-jawed orb-weavers. Often slender-bodied with long legs; many rest stretched along stems, grasses, or vegetation near water.
 
-### Identification Characters
+#### Ambush and Flower Spiders
 
-Key field characters may include:
+- [**Thomisidae**](/field-notes/arachnids/spiders/thomisidae/) – Crab spiders. Usually flattened or crab-like, with the front legs held outward or sideways; many are ambush hunters on flowers, leaves, bark, or low vegetation.
 
-- **Body shape and size:**
-- **Cephalothorax shape and markings:**
-- **Abdomen shape and pattern:**
-- **Eye arrangement:**
-- **Leg length, banding, spines, or posture:**
-- **Pedipalps or epigyne, when visible:**
-- **Spinnerets or posterior features:**
-- **Color pattern:**
-- **Hair, setae, spines, or surface texture:**
-- **Web type, retreat, burrow, or hunting style:**
-- **Behavior or habitat association:**
+#### Jumping and Active Hunters
 
-Close inspection may be required for confident genus or species identification. In many spider groups, mature specimens, detailed views of reproductive structures, or expert review may be needed.
+- **Salticidae** – Jumping spiders. Compact-bodied spiders with large forward-facing eyes, alert behavior, and active visual hunting.
+- **Lycosidae** – Wolf spiders. Active ground hunters, often robust and well camouflaged; females may carry egg sacs or spiderlings.
+- **Gnaphosidae** – Ground spiders. Usually fast-moving hunters found under debris, leaf litter, stones, bark, or on open ground.
 
-Field photographs are most useful when they include:
+#### Web Builders and Retreat Spiders
 
-- dorsal view
-- side view
-- front view showing eyes when possible
-- leg posture and leg banding
-- web or retreat structure
-- habitat context
-- scale or nearby plant structure
-- underside view when safely possible
+- **Agelenidae** – Funnel weavers and grass spiders. Often build sheet-like webs with a funnel retreat; many have long spinnerets.
+- **Theridiidae** – Cobweb spiders. Often build irregular three-dimensional cobwebs; body shape varies from rounded to small and delicate.
+- **Linyphiidae** – Sheetweb and dwarf spiders. Often small, delicate spiders associated with sheet webs in grasses, shrubs, leaf litter, and low vegetation.
+- **Dictynidae** – Meshweb spiders. Small spiders often associated with irregular mesh-like webs on vegetation, walls, bark, or structures.
 
-### Similar Arachnid Groups and Distinguishing Features
+#### Nursery Web, Fishing, and Long-Legged Spiders
 
-Compare spiders with other arachnids that may appear in the same habitats.
+- **Pisauridae** – Nursery web and fishing spiders. Often long-legged hunters; some occur near water, and females may carry egg sacs or guard nursery webs.
+- **Pholcidae** – Cellar spiders. Long-legged, delicate spiders often found in buildings, basements, caves, and sheltered corners.
 
-- **Harvestmen:** Have one apparent oval body section rather than a distinct cephalothorax and abdomen; lack silk-producing spinnerets; often have very long, thin legs.
-- **Mites:** Usually much smaller, often with compact bodies; many are difficult to identify without magnification.
-- **Ticks:** Flattened, blood-feeding arachnids with compact bodies; no webs or silk structures.
-- **Pseudoscorpions:** Small arachnids with pincer-like pedipalps and no tail; often found under bark, stones, leaf litter, or indoors.
-- **Scorpions:** Have large pincers and a segmented tail with a stinger; not expected in many northern regions but useful for broader arachnid comparison.
+#### Sac and Foliage Spiders
 
-Focus on traits visible in field photographs whenever possible, such as body segmentation, leg count, eye arrangement, spinnerets, web use, and behavior.
+- **Clubionidae** – Sac spiders. Often found in folded leaves, retreats, bark crevices, or sheltered vegetation.
+- **Anyphaenidae** – Ghost spiders. Active hunters often found on foliage, shrubs, trees, and human-made structures.
+
+### Similar Families and Distinguishing Features
+
+Many spider families overlap in size, color, and general appearance. The following comparisons are often useful in field photographs.
+
+- **Araneidae vs. Tetragnathidae:** both may build orb webs, but tetragnathids are often more elongated and long-legged, while many araneids are more rounded or robust.
+- **Thomisidae vs. Salticidae:** crab spiders often hold the front legs sideways and rely on ambush, while jumping spiders usually have large forward-facing eyes and active visual behavior.
+- **Lycosidae vs. Agelenidae:** wolf spiders are active ground hunters and usually not found sitting in funnel webs; grass spiders often remain on or near funnel-shaped sheet webs.
+- **Theridiidae vs. Linyphiidae:** both may be small web builders, but theridiid webs are often irregular cobwebs, while linyphiid webs are commonly sheet-like.
+- **Pisauridae vs. Lycosidae:** both can be large active hunters, but pisaurids are often longer-legged and may be associated with water, vegetation, or nursery webs.
 
 ### Life Cycle and Ecology
 
-Include notes on:
+Spiders are important predators in gardens, woodlands, wetlands, grasslands, and human-made habitats. Family-level behavior often gives strong clues about ecology.
 
-- egg sacs and juvenile development
-- overwintering stage
-- adult seasonality
+Common ecological notes to record include:
+
+- egg sacs and whether the female carries or guards them
+- juvenile development and seasonal appearance
+- adult activity period
 - prey capture strategy
 - web placement, retreat structure, burrow use, or hunting behavior
-- ecological role as predators
-- predator/prey associations
-- habitat specialization or local occurrence patterns
+- association with flowers, bark, grass, leaf litter, water, buildings, or garden plants
+- overwintering stage when known
+- predator/prey interactions
+- local habitat preferences
 
-Spiders are important predators of insects and other small arthropods. Some use webs to intercept prey, while others hunt by stalking, jumping, ambushing, or running prey down. Many species are highly seasonal, with adults appearing most often during specific parts of the year.
+### Photographing Spiders for Identification
 
-### Representative Families
+For better family, genus, or species identification, try to photograph:
 
-- **[Araneidae](/field-notes/arachnids/spiders/araneidae/)** – Orb-weavers; often build circular orb webs. Includes garden spiders such as [*Argiope aurantia*](/field-notes/arachnids/spiders/araneidae/argiope-aurantia/).
-- **Salticidae** – Jumping spiders; compact, alert spiders with large forward-facing eyes and active hunting behavior.
-- **Thomisidae** – Crab spiders; often ambush prey on flowers, leaves, or bark with front legs held outward.
-- **Lycosidae** – Wolf spiders; active ground hunters, often seen running in leaf litter, grass, soil, or open ground.
-- **Agelenidae** – Funnel weavers; build sheet-like webs with funnel retreats.
-- **Theridiidae** – Cobweb spiders; build irregular tangle webs, often in vegetation, structures, or sheltered corners.
-- **Tetragnathidae** – Long-jawed orb-weavers; often slender spiders associated with vegetation and wet habitats.
-- **Linyphiidae** – Sheetweb and dwarf spiders; often small, delicate spiders in grass, leaf litter, and low vegetation.
-- **Pisauridae** – Nursery web and fishing spiders; active hunters, often associated with vegetation or water edges.
-- **Gnaphosidae** – Ground spiders; mostly nocturnal hunters found under stones, bark, logs, and ground cover.
+- dorsal view of the whole spider
+- side view showing body height and leg posture
+- front view showing eyes and face
+- close view of abdomen markings
+- leg banding, spines, and relative leg length
+- web, retreat, burrow, egg sac, or surrounding habitat
+- behavior, such as hunting, carrying young, guarding eggs, or tending a web
 
----
-
-*Spider overview intended for field study and photographic reference. Some identifications may require close inspection, multiple views, mature specimens, microscopic characters, or specialist references.*
+Use the [Spider Photographic Checklist](/field-notes/arachnids/spiders/spider-checklist) to record useful identification views and field notes.
 
 ---
 
-## References
-
-- **BugGuide — Order Araneae: Spiders**  
-  https://bugguide.net/node/view/1954
-
-- **iNaturalist taxon page — Spiders**  
-  https://www.inaturalist.org/taxa/47118-Araneae
-
-- **World Spider Catalog**  
-  https://wsc.nmbe.ch/
-
-- **Bradley, Richard A.**  
-  *Common Spiders of North America*. University of California Press.
-
-- **Ubick, D., Paquin, P. E., Cushing, P. E., and Roth, V., eds.**  
-  *Spiders of North America: An Identification Manual*. American Arachnological Society.
-
-- **Weber, Larry.**  
-  *Spiders of the North Woods*. Kollath-Stensaas Publishing.
+*Family overview intended for field study and photographic reference. Some identifications may require close inspection, multiple views, mature specimens, microscopic characters, or specialist references.*
