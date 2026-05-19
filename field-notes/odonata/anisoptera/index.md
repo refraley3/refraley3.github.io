@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dragonflies Field Notes
+title: Anisoptera Field Notes
 ---
 
 This section is a working field notebook focused on the observation and identification of **dragonflies** through photography, comparison, and repeated field encounters.
