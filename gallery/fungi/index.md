@@ -17,32 +17,56 @@ Settings: Focus stack, natural light
 
 <div class="grid" role="list">
 
-[![Ash Rust](/gallery/fungi/assets/ash-rust-fungus/E21A1588.jpg){: .cover role="img" aria-label="Ash Rust"}  
+[![Rust](/gallery/fungi/assets/cedar-apple-rust/E22A1290.jpg){: .cover role="img" aria-label="Cedar Apple Rust"}
+**Cedar-apple Rust**  
+_Spores are carried by wind between hosts._
+A common fungal disease that affects cedar and apple trees, causing distinctive yellow and orange lesions on leaves and fruits.  
+](/gallery/fungi/cedar-apple-rust){: .tile role="listitem"}
+
+[![Ash Rust](/gallery/fungi/assets/ash-rust-fungus/E21A1588.jpg){: .cover role="img" aria-label="Ash Rust"}
 **Ash Rust**  
 _Spores are carried by wind between hosts._  
 A striking fungal infection that adorns ash leaves and young twigs with vivid orange pustules.  
 ](/gallery/fungi/ash-rust/){: .tile role="listitem"}
 
-[![Lichen](/gallery/fungi/lichen/assets/common-greenshield/E21A6505.jpg){: .cover role="img" aria-label="Lichen"}  
+</div>
+
+<div class="grid" role="list">
+
+[![Lichen](/gallery/fungi/lichen/assets/common-greenshield/E21A6505.jpg){: .cover role="img" aria-label="Lichen"}
 **Lichen**  
 _Indicators of healthy forest and clean air._  
 Lichens are unique symbiotic organisms composed of fungi and algae.  
 ](/gallery/fungi/lichen/){: .tile role="listitem"}
 
+[![Golden-eyed Lichen](/gallery/fungi/lichen/assets/golden-eye/E22A0106.jpg){: .cover role="img" aria-label="Golden-eye Lichen"}
+**Golden-eye Lichen**  
+_A distinctive lichen with golden-yellow apothecia._  
+](/gallery/fungi/lichen/golden-eye/){: .tile role="listitem"}
+
 </div>
 
 <div class="grid" role="list">
 
-[![Moss](/gallery/fungi/moss/assets/brocade-moss/E21A6426.jpg){: .cover role="img" aria-label="Moss"}  
+[![Moss](/gallery/fungi/moss/assets/brocade-moss/E21A6426.jpg){: .cover role="img" aria-label="Moss"}
 **Moss**  
 _A soft, feathery moss that forms lush mats._  
 When illuminated, its overlapping branches create a rippling texture.  
 ](/gallery/fungi/moss/){: .tile role="listitem"}
 
-[![Mushrooms](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6452.jpg){: .cover role="img" aria-label="Mushrooms"}  
-**Mushrooms**  
+</div>
+
+<div class="grid" role="list">
+
+[![Bleeding Bonnet](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6452.jpg){: .cover role="img" aria-label="Bleeding Bonnet"}
+**Bleeding Bonnet**  
 _The forest’s recyclers._  
 A collection of mushrooms and other fungi from Minnesota woodlands.  
 ](/gallery/fungi/mushrooms/){: .tile role="listitem"}
+
+[![Funeral Bell](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6452.jpg){: .cover role="img" aria-label="Funeral Bell"}  
+**Funeral Bell**  
+_A distinctive mushroom with a bell-shaped cap._  
+](/gallery/fungi/mushrooms/funeral-bell/){: .tile role="listitem"}
 
 </div>
