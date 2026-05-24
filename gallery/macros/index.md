@@ -83,7 +83,7 @@ Raindrops become glassy hemispheres, each holding miniature reflections of surro
 
 ## Lichens
 
-[![Candleflame in the Company of Shadows](/gallery/fungi/lichen/assets/candleflame/E21A8057.jpg){: .cover role="img" aria-label="Candleflame in the Company of Shadows"}](/gallery/fungi/lichen/candleflame/){: .tile role="listitem"}
+[![Candleflame in the Company of Shadows](/gallery/fungi/lichens/assets/candleflame/E21A8057.jpg){: .cover role="img" aria-label="Candleflame in the Company of Shadows"}](/gallery/fungi/lichens/candleflame/){: .tile role="listitem"}
 
 **Candleflame in the Company of Shadows**  
 Camera: Canon EOS 5D Mk IV  
@@ -92,11 +92,11 @@ Settings: ISO 200 • Aperture f/13 • Shutter 5 s
 E21A8057 • Size: 2208×1472  
 {: .caption}
 
-Warm yellow lobes of Candleflame rise from a shadow of [Common Greenshield](/gallery/fungi/lichen/common-greenshield/), alongside the pale grays of [Powdery Shield](/gallery/fungi/lichen/powdery-shield/) and the muted tones of [Mealy Shadow](/gallery/fungi/lichen/mealy-shadow/). Together they reveal the complexity of lichen communities at sub-millimeter scales.
+Warm yellow lobes of Candleflame rise from a shadow of [Common Greenshield](/gallery/fungi/lichens/common-greenshield/), alongside the pale grays of [Powdery Shield](/gallery/fungi/lichens/powdery-shield/) and the muted tones of [Mealy Shadow](/gallery/fungi/lichens/mealy-shadow/). Together they reveal the complexity of lichen communities at sub-millimeter scales.
 
 ---
 
-[![Apothecium Close-up](/gallery/fungi/lichen/assets/common-greenshield/E21A8248A.jpg){: .cover role="img" aria-label="Apothecium close-up"}](/gallery/fungi/lichen/common-greenshield/#e21a8248A)
+[![Apothecium Close-up](/gallery/fungi/lichens/assets/common-greenshield/E21A8248A.jpg){: .cover role="img" aria-label="Apothecium close-up"}](/gallery/fungi/lichens/common-greenshield/#e21a8248A)
 
 **Apothecium Close-up**  
 _A single, well-developed laminal apothecium._  
@@ -108,7 +108,7 @@ E21A8248A • Size: 1373×2059
 
 ---
 
-[![Apothecia Among Folded Lobes](/gallery/fungi/lichen/assets/common-greenshield/E21A8248B.jpg){: .cover role="img" aria-label="Apothecia Among Folded Lobes"}](/gallery/fungi/lichen/common-greenshield/#e21a8248B)
+[![Apothecia Among Folded Lobes](/gallery/fungi/lichens/assets/common-greenshield/E21A8248B.jpg){: .cover role="img" aria-label="Apothecia Among Folded Lobes"}](/gallery/fungi/lichens/common-greenshield/#e21a8248B)
 
 **Apothecia Among Folded Lobes**  
 _Multiple laminal apothecia embedded within rugose lobes._  
@@ -120,7 +120,7 @@ E21A8248B • Size: 1326×884
 
 ---
 
-[![Apothecium with Pale Thalline Margin](/gallery/fungi/lichen/assets/common-greenshield/E21A8248C.jpg){: .cover role="img" aria-label="Apothecium with Pale Thalline Margin"}](/gallery/fungi/lichen/common-greenshield/#e21a8248C)
+[![Apothecium with Pale Thalline Margin](/gallery/fungi/lichens/assets/common-greenshield/E21A8248C.jpg){: .cover role="img" aria-label="Apothecium with Pale Thalline Margin"}](/gallery/fungi/lichens/common-greenshield/#e21a8248C)
 
 **Apothecium with Pale Thalline Margin**  
 _Rare laminal apothecia with brown discs and pale thalline margins._  

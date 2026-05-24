@@ -14,7 +14,7 @@ keywords: "Powdery Sunburst Lichen, Xanthomendoza ulophyllodes, rhizinate sunbur
 
 **Powdery Sunburst Lichen** (*Xanthomendoza ulophyllodes*) is a bright yellow to orange foliose lichen distinguished from other Minnesota sunbursts by its **well-developed lower surface with conspicuous white rhizines**. These attachment structures are the most reliable field character separating it from superficially similar species.
 
-This page documents **Research Grade observations** on iNaturalist using photos **E21A8109-8136** and **E21A8111A**. Visual presentation and artistic interpretation are handled separately in the [Gallery](/gallery/fungi/lichen/powdery-sunburst/).
+This page documents **Research Grade observations** on iNaturalist using photos **E21A8109-8136** and **E21A8111A**. Visual presentation and artistic interpretation are handled separately in the [Gallery](/gallery/fungi/lichens/powdery-sunburst/).
 
 This species is less frequently encountered than *Xanthomendoza fulva* but can form robust, visually striking colonies where conditions are favorable.
 
@@ -60,3 +60,4 @@ Confirmed observations in Minnesota are less common than those of *X. fulva*, ma
 - Consortium of Lichen Herbaria  
 - iNaturalist (Research Grade observations)  
 - Brodo, I. M., Sharnoff, S. D., & Sharnoff, S. (2001). *Lichens of North America*
+

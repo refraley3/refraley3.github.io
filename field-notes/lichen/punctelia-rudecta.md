@@ -14,7 +14,7 @@ keywords: "Rough Speckled Shield, Punctelia rudecta, foliose lichen, bark lichen
 **Rough Speckled Shield** (*Punctelia rudecta*) is a **common foliose lichen** found on tree bark throughout much of eastern and central North America. It forms **loosely attached rosettes** with **broad, rounded lobes** and a **gray to blue-gray thallus**, often contributing significantly to mature bark-lichen communities.
 
 
-This page documents field observations used for identification. Visual presentation and artistic interpretation are handled separately in the **Gallery** section, [**Rough Speckled Shield**](/gallery/fungi/lichen/rough-speckled-shield/).
+This page documents field observations used for identification. Visual presentation and artistic interpretation are handled separately in the **Gallery** section, [**Rough Speckled Shield**](/gallery/fungi/lichens/rough-speckled-shield/).
 
 ---
 
@@ -67,4 +67,5 @@ Because *Punctelia rudecta* commonly grows in **mixed-species colonies**, carefu
 
 Representative photographs of this species can be found in the Gallery section:
 
-→ [/gallery/fungi/lichen/rough-speckled-shield/](/gallery/fungi/lichen/rough-speckled-shield/)
+→ [/gallery/fungi/lichens/rough-speckled-shield/](/gallery/fungi/lichens/rough-speckled-shield/)
+

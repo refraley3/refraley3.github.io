@@ -27,9 +27,9 @@ This guide highlights several common lichens you can spot during walks in Minnes
 ## **Common Greenshield Lichen** 
 ### _(Flavoparmelia caperata)_
 
-[![Greenshield Circle](/gallery/fungi/lichen/assets/common-greenshield/E21A6505.jpg){: .cover role="img" aria-label="Greenshield Circle"}  
+[![Greenshield Circle](/gallery/fungi/lichens/assets/common-greenshield/E21A6505.jpg){: .cover role="img" aria-label="Greenshield Circle"}  
 **Greenshield Circle** - _A rounded foliose colony anchored firmly to aging elm bark._  
-](/gallery/fungi/lichen/common-greenshield/){: .tile role="listitem"}
+](/gallery/fungi/lichens/common-greenshield/){: .tile role="listitem"}
 
 - **Appearance:** Pale green to yellowish-green, round, and leaf-like (foliose) with smooth lobes.
 - **Underside:** Black with pale veins and short, root-like rhizines.
@@ -39,10 +39,10 @@ This guide highlights several common lichens you can spot during walks in Minnes
 
 ---
 
-[![Powdery Shield and Candleflame Lichen on branch](/gallery/fungi/lichen/assets/powdery-shield/E21A1081.jpg){: .cover role="img" aria-label="Powdery Shield and Candleflame Lichen on branch"}  
+[![Powdery Shield and Candleflame Lichen on branch](/gallery/fungi/lichens/assets/powdery-shield/E21A1081.jpg){: .cover role="img" aria-label="Powdery Shield and Candleflame Lichen on branch"}  
 **Powdery Shield and Candleflame Lichen on branch**  
 _A mixed lichen community._  
-](/gallery/fungi/lichen/powdery-shield/){: .tile role="listitem"}
+](/gallery/fungi/lichens/powdery-shield/){: .tile role="listitem"}
 
 ## ⚪ **Physcia millegrana (Powdery Shield Lichen)**
 - **Appearance:** Grayish-white, forming small rosettes with powdery edges.
@@ -100,3 +100,4 @@ Minnesota’s **North Shore and Boundary Waters** host over **500 lichen species
 
 ---
 _Compiled by [Ray Fraley](https://www.rayfraley.com), 2025._
+

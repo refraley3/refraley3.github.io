@@ -49,7 +49,7 @@ field_groups:
 
   - title: Lichens
     url: /field-notes/lichen/
-    image: /gallery/fungi/lichen/assets/golden-eye/E22A0184_85_88.jpg
+    image: /gallery/fungi/lichens/assets/golden-eye/E22A0184_85_88.jpg
     alt: Lichens
     kicker: Structure and comparison
     text: Field notes and identification details for lichens observed during field photography.
@@ -105,7 +105,7 @@ checklists:
 
   - title: lichen checklist
     url: /field-notes/lichen/lichen-checklist/
-    image: /gallery/fungi/lichen/assets/candleflame/E21A8051-8055-1.jpg
+    image: /gallery/fungi/lichens/assets/candleflame/E21A8051-8055-1.jpg
     alt: lichen checklist
     kicker: Lichen checklist
     text: A checklist of lichens observed during field photography, organized by family and growth habit.
@@ -174,7 +174,7 @@ comparative_notes:
 
   - title: Comparing Four Lichen Species
     url: /field-notes/lichen/comparing-four-lichen-species/
-    image: /gallery/fungi/lichen/assets/candleflame/E21A8051-8055-1.jpg
+    image: /gallery/fungi/lichens/assets/candleflame/E21A8051-8055-1.jpg
     alt: Comparing Four Lichen Species
     kicker: Comparative lichen study
     text: Field comparison of four lichen species using form, surface, and growth habit.
@@ -235,3 +235,4 @@ comparative_notes:
 {::nomarkdown}
 {% include tile-grid.html tiles=page.comparative_notes %}
 {:/nomarkdown}
+

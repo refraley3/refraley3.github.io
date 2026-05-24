@@ -9,11 +9,11 @@ keywords: "American Ramalina, Ramalina americana, fruticose lichen, bark lichen,
 ### Family: [Ramalinaceae](/field-notes/lichen/family/ramalinaceae/)
 {: .taxonomy-heading .taxonomy-last}
 
-[**Sinewed Bushy Lichen**](/gallery/fungi/lichen/sinewed-bushy-lichen/) (*Ramalina americana*) is a small fruticose lichen forming pale gray-green tufts of flattened branching ribbons on tree bark. The branches often appear slightly twisted and sinewy, giving the lichen a delicate shrubby appearance when viewed closely. Fine powdery soredia frequently dust the surface of the branches, creating a soft matte texture that distinguishes it from smoother fruticose lichens.
+[**Sinewed Bushy Lichen**](/gallery/fungi/lichens/sinewed-bushy-lichen/) (*Ramalina americana*) is a small fruticose lichen forming pale gray-green tufts of flattened branching ribbons on tree bark. The branches often appear slightly twisted and sinewy, giving the lichen a delicate shrubby appearance when viewed closely. Fine powdery soredia frequently dust the surface of the branches, creating a soft matte texture that distinguishes it from smoother fruticose lichens.
 
 In eastern North America, *Ramalina americana* represents the common bark-dwelling member of the *Ramalina farinacea* complex. It is typically encountered on exposed tree trunks and branches where good air circulation and moderate light allow the small tufted colonies to develop among other bark lichens.
 
-For representative images and visual context, see the page: [**Sinewed Bushy Lichen**](/gallery/fungi/lichen/sinewed-bushy-lichen/) in the **Gallery** section.
+For representative images and visual context, see the page: [**Sinewed Bushy Lichen**](/gallery/fungi/lichens/sinewed-bushy-lichen/) in the **Gallery** section.
 
 
 ## Description

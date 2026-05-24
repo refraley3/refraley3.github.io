@@ -12,9 +12,9 @@ keywords: "Candleflame Lichen, Candelaria concolor, yellow lichen, foliose liche
 ### Family: [Candelariaceae](/field-notes/lichen/family/candelariaceae/)
 {: .taxonomy-heading .taxonomy-last}
 
-[**Candleflame**](/gallery/fungi/lichen/candleflame/) (*Candelaria concolor*) is a small, vivid yellow foliose lichen forming scattered patches or loose clusters on tree bark. Its powdery surface and soft, glowing color give it a flame-like appearance, especially noticeable in winter or under moist conditions.
+[**Candleflame**](/gallery/fungi/lichens/candleflame/) (*Candelaria concolor*) is a small, vivid yellow foliose lichen forming scattered patches or loose clusters on tree bark. Its powdery surface and soft, glowing color give it a flame-like appearance, especially noticeable in winter or under moist conditions.
 
-This page documents field observations used for identification. Visual presentation and artistic interpretation are handled separately in the **Gallery** section, [**Candleflame**](/gallery/fungi/lichen/candleflame/).
+This page documents field observations used for identification. Visual presentation and artistic interpretation are handled separately in the **Gallery** section, [**Candleflame**](/gallery/fungi/lichens/candleflame/).
 
 ---
 
@@ -73,3 +73,4 @@ Research Grade observations are common across Minnesota, reflecting the speciesâ
 - **Consortium of North American Lichen Herbaria**  
 - **iNaturalist â€” *Candelaria concolor***  
 - Brodo, I. M., Sharnoff, S. D., & Sharnoff, S. *Lichens of North America*
+

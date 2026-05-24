@@ -4,10 +4,7 @@ title: Argill Milkcap (Lactarius argillaceifolius)
 description: Clay-colored milkcap found under pines.
 ---
 
-{% include breadcrumbs.html %}
-{% include children-list.html %}
-
-![Argill Milkcap](/gallery/fungi/mushrooms/assets/agrill-milkcap/E21A6290.jpg)
+![Argill Milkcap](/gallery/fungi/mushrooms/assets/argill-milkcap/E21A6290.jpg)
 
 **Habitat:** Pine duff and grass near Lakeville, MN  
 **Cap:** Smooth, clay-colored to tan  

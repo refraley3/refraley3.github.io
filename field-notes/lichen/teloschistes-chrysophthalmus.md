@@ -12,9 +12,9 @@ keywords: "Golden-eye Lichen, Teloschistes chrysophthalmus, fruticose lichen, ba
 ### Family: [Teloschistaceae](/field-notes/lichen/family/teloschistaceae/)
 {: .taxonomy-heading .taxonomy-last}
 
-[**Golden-eye Lichen**](/gallery/fungi/lichen/golden-eye/) (*Teloschistes chrysophthalmus*) is a bright orange to yellow-green, shrubby lichen that grows on bark in open, sunlit habitats. It is distinctive for its upright, branching form and the abundant, vivid orange apothecia that resemble tiny eyes scattered across the thallus.
+[**Golden-eye Lichen**](/gallery/fungi/lichens/golden-eye/) (*Teloschistes chrysophthalmus*) is a bright orange to yellow-green, shrubby lichen that grows on bark in open, sunlit habitats. It is distinctive for its upright, branching form and the abundant, vivid orange apothecia that resemble tiny eyes scattered across the thallus.
 
-For representative images and visual context, see the page: [**Golden-eye Lichen**](/gallery/fungi/lichen/golden-eye/) in the **Gallery** section.
+For representative images and visual context, see the page: [**Golden-eye Lichen**](/gallery/fungi/lichens/golden-eye/) in the **Gallery** section.
 
 
 ## Description

@@ -52,13 +52,13 @@ _Small red cushions of *Peniophora rufa* following bark fissures on a fallen oak
 _Spores carried by wind between hosts._  
 {: .tile role="listitem"}
 
-![Lichen Community on Tree Bark](/gallery/fungi/lichen/assets/common-greenshield/E21A6505.jpg){: .cover role="img" aria-label="Mixed lichen community on tree bark"}
-**[Lichens](/gallery/fungi/lichen/)**  
+![Lichen Community on Tree Bark](/gallery/fungi/lichens/assets/common-greenshield/E21A6505.jpg){: .cover role="img" aria-label="Mixed lichen community on tree bark"}
+**[Lichens](/gallery/fungi/lichens/)**  
 _Foliose and crustose lichens forming a layered communities._  
 {: .tile role="listitem"}
 
-![Brocade Moss](/gallery/fungi/moss/assets/brocade-moss/E21A6624.jpg){: .cover role="img" aria-label="Brocade Moss"}  
-**[Moss](/gallery/fungi/moss/)**  
+![Brocade Moss](/gallery/plants/moss/assets/brocade-moss/E21A6624.jpg){: .cover role="img" aria-label="Brocade Moss"}  
+**[Moss](/gallery/plants/moss/)**  
 _A soft, feathery moss that forms lush mats._  
 When illuminated, its overlapping branches create a rippling texture.  
 {: .tile role="listitem"}
@@ -126,3 +126,5 @@ From bark to crown, stories written in woodgrain.
 ](/gallery/plants/trees/){: .tile role="listitem"}
 
 </div>
+
+

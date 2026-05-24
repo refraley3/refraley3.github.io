@@ -12,9 +12,9 @@ keywords: "Bare-bottomed Sunburst Lichen, Xanthomendoza fulva, sunburst lichen, 
 ### Family: [Teloschistaceae](/field-notes/lichen/family/teloschistaceae/)
 {: .taxonomy-heading .taxonomy-last}
 
-[**Bare-bottomed Sunburst**](/gallery/fungi/lichen/bare-bottomed-sunburst/) (*Xanthomendoza fulva*) is a vivid yellow to orange foliose lichen commonly found on tree bark in Minnesota. It is distinguished by its **narrow, often ascending lobes**, **granular soredia produced from the lower surface**, and a **white, nearly bare underside lacking true rhizines**.
+[**Bare-bottomed Sunburst**](/gallery/fungi/lichens/bare-bottomed-sunburst/) (*Xanthomendoza fulva*) is a vivid yellow to orange foliose lichen commonly found on tree bark in Minnesota. It is distinguished by its **narrow, often ascending lobes**, **granular soredia produced from the lower surface**, and a **white, nearly bare underside lacking true rhizines**.
 
-This page documents field observations used for identification. Visual presentation and artistic interpretation are handled separately in the **Gallery** section, [**Bare-bottomed Sunburst**](/gallery/fungi/lichen/bare-bottomed-sunburst/).
+This page documents field observations used for identification. Visual presentation and artistic interpretation are handled separately in the **Gallery** section, [**Bare-bottomed Sunburst**](/gallery/fungi/lichens/bare-bottomed-sunburst/).
 
 ---
 

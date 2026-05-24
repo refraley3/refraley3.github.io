@@ -14,7 +14,7 @@ keywords: "Flavopunctelia soredica, Powder-edged Speckled Greenshield, foliose l
 
 **Powder-edged Speckled Greenshield** (*Flavopunctelia soredica*) is a pale yellow-green to gray-green foliose lichen notable for abundant white pseudocyphellae (speckling) and powdery soralia concentrated along lobe margins. It commonly colonizes hardwood bark and contributes to mixed-species bark mosaics in a range of light exposures.
 
-For representative images and visual context, see the **Gallery** page: [**Powder-edged Speckled Greenshield**](/gallery/fungi/lichen/powder-edged-speckled-greenshield/).
+For representative images and visual context, see the **Gallery** page: [**Powder-edged Speckled Greenshield**](/gallery/fungi/lichens/powder-edged-speckled-greenshield/).
 
 ---
 
@@ -84,3 +84,4 @@ Notes:
 
 - **Flavopunctelia soredica — iNaturalist**  
   <https://www.inaturalist.org/taxa/>
+

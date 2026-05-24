@@ -29,7 +29,7 @@ Desciption of the subject.
 
 <div class="tile" style="margin: 15px;">
 
-![Image #2 description](/gallery/fungi/moss/assets/feather-moss/E21A6664-6684_1.jpg){: .cover role="img" aria-label="Image #2 description"}
+![Image #2 description](/gallery/plants/moss/assets/feather-moss/E21A6664-6684_1.jpg){: .cover role="img" aria-label="Image #2 description"}
 **Image #2 description**  
 _Image #2 kicker._  
 The description of Image #2.  
@@ -122,3 +122,4 @@ Settings: ISO 4000 • Aperture f/4.5 • Shutter 1/250 s
 
 
 </div>
+

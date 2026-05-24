@@ -19,7 +19,7 @@ For identification details...  ...see the **Field Notes** section, [*Genus speci
 
 ---
 
-![IMAGE TITLE](/gallery/fungi/lichen/assets/SPECIES-FOLDER/FILENAME.jpg)
+![IMAGE TITLE](/gallery/fungi/lichens/assets/SPECIES-FOLDER/FILENAME.jpg)
 {: .cover role="img" aria-label="IMAGE TITLE" id="unique-id"}
 **IMAGE TITLE**  
 _IMAGE KICKER LINE._  
@@ -31,7 +31,7 @@ FILENAME • Size: DIMENSIONS
 
 ---
 
-![IMAGE TITLE](/gallery/fungi/lichen/assets/SPECIES-FOLDER/FILENAME.jpg)
+![IMAGE TITLE](/gallery/fungi/lichens/assets/SPECIES-FOLDER/FILENAME.jpg)
 {: .gallery-image role="img" aria-label="IMAGE TITLE"}
 **IMAGE TITLE**  
 _IMAGE KICKER LINE._  
@@ -42,3 +42,4 @@ FILENAME • Size: DIMENSIONS
 {: .caption}
 
 ---
+

@@ -12,9 +12,9 @@ keywords: "Hammered Shield, Parmelia sulcata, foliose lichen, bark lichen, Minne
 ### Family: [Parmeliaceae](/field-notes/lichen/family/parmeliaceae/)
 {: .taxonomy-heading .taxonomy-last}
 
-[**Hammered Shield**](/gallery/fungi/lichen/hammered-shield/) (*Parmelia sulcata*) is one of the most widespread and easily recognized foliose lichens, forming pale gray rosettes on bark and wood. Its subtly ridged, “hammered” surface and powdery reproductive structures give it a textured, frosted appearance. It is commonly encountered on trees in both natural and developed landscapes and often occurs as part of mixed lichen communities.
+[**Hammered Shield**](/gallery/fungi/lichens/hammered-shield/) (*Parmelia sulcata*) is one of the most widespread and easily recognized foliose lichens, forming pale gray rosettes on bark and wood. Its subtly ridged, “hammered” surface and powdery reproductive structures give it a textured, frosted appearance. It is commonly encountered on trees in both natural and developed landscapes and often occurs as part of mixed lichen communities.
 
-For representative images and visual context, see the page: [**Hammered Shield**](/gallery/fungi/lichen/hammered-shield/) in the **Gallery** section.
+For representative images and visual context, see the page: [**Hammered Shield**](/gallery/fungi/lichens/hammered-shield/) in the **Gallery** section.
 
 
 ## Description

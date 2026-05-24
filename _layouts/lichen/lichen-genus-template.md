@@ -12,11 +12,11 @@ keywords: "Common Name, Genus species, growth form, substrate, REGION lichens"
 ### Family: [FamilyName](/field-notes/lichen/family/familyname/)
 {: .taxonomy-heading .taxonomy-last}
 
-[**COMMON NAME**](/gallery/fungi/lichen/common-name/) (*Genus species*) is a brief, orienting overview that establishes
+[**COMMON NAME**](/gallery/fungi/lichens/common-name/) (*Genus species*) is a brief, orienting overview that establishes
 what the species is, why it is distinctive, and where it is typically encountered.
 This paragraph should be readable without prior lichen knowledge.
 
-For representative images and visual context, see the page: [**COMMON NAME**](/gallery/fungi/lichen/common-name/) in the **Gallery** section.
+For representative images and visual context, see the page: [**COMMON NAME**](/gallery/fungi/lichens/common-name/) in the **Gallery** section.
 
 
 ## Description
@@ -95,3 +95,4 @@ This is also an appropriate place to mention:
 
 - **iNaturalist taxon page**  
   LINK
+

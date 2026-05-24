@@ -4,7 +4,7 @@ title: Comparing Four Lichen Species
 description: A field guide to lichen anatomy.
 ---
 
-![Four Lichens](/gallery/fungi/lichen/assets/candleflame/E21A8057-1.jpg)
+![Four Lichens](/gallery/fungi/lichens/assets/candleflame/E21A8057-1.jpg)
 **Four Lichens**
 {: .caption}
 
@@ -12,7 +12,7 @@ description: A field guide to lichen anatomy.
 
 <div class="tile" style="margin: 15px; text-align: left">
 
-![Bare-bottomed Sunburst](/gallery/fungi/lichen/assets/bare-bottomed-sunburst/E21A8057-1.jpg)
+![Bare-bottomed Sunburst](/gallery/fungi/lichens/assets/bare-bottomed-sunburst/E21A8057-1.jpg)
 _E21A8057-1_ **Bare-bottomed-Sunburst** (*Xanthomendoza fulva*)  
 {: .caption}
 
@@ -38,7 +38,7 @@ COMMENTS:
 
 <div class="tile" style="margin: 15px;">
 
-![Powdery Shield](/gallery/fungi/lichen/assets/powdery-shield/E21A8057B-1.jpg)
+![Powdery Shield](/gallery/fungi/lichens/assets/powdery-shield/E21A8057B-1.jpg)
 _E21A8057B-1_ **Powdery Shield** (*Physcia millegrana*)  
 {: .caption}
 
@@ -46,7 +46,7 @@ _E21A8057B-1_ **Powdery Shield** (*Physcia millegrana*)
 
 <div class="tile" style="margin: 15px;">
 
-![Powdery Shield with Apothecia](/gallery/fungi/lichen/assets/powdery-shield/E21A8057A-1.jpg)
+![Powdery Shield with Apothecia](/gallery/fungi/lichens/assets/powdery-shield/E21A8057A-1.jpg)
 _E21A8057A-1_ **Powdery Shield with Apothecia** (*Physcia millegrana*)  
 {: .caption}
 
@@ -58,7 +58,7 @@ _E21A8057A-1_ **Powdery Shield with Apothecia** (*Physcia millegrana*)
 
 <div class="tile" style="margin: 15px; text-align: left">
 
-![Candelaria concolor](/gallery/fungi/lichen/assets/candleflame/E21A8057C-1.jpg)
+![Candelaria concolor](/gallery/fungi/lichens/assets/candleflame/E21A8057C-1.jpg)
 _E21A8057C-1_ **Candleflame (Candelaria concolor)**
 {: .caption}
 
@@ -83,7 +83,7 @@ _E21A8057C-1_ **Candleflame (Candelaria concolor)**
 
 <div class="tile" style="margin: 15px;">
 
-![Mealy Shadow](/gallery/fungi/lichen/assets/mealy-shadow/E21A8057D-1.jpg)
+![Mealy Shadow](/gallery/fungi/lichens/assets/mealy-shadow/E21A8057D-1.jpg)
 _E21A8057D-1_ **Mealy Shadow (*Phaeophyscia orbicularis*)**
 {: .caption}
 
@@ -104,12 +104,13 @@ _E21A8057D-1_ **Mealy Shadow (*Phaeophyscia orbicularis*)**
 
 </div>
 
-![Stack Full Focus](/gallery/fungi/lichen/assets/candleflame/E21A8274-8280.jpg)
+![Stack Full Focus](/gallery/fungi/lichens/assets/candleflame/E21A8274-8280.jpg)
 _E21A8274-8280_ **Stack Full Focus**
 {: .caption}
 
-![Stack Full Focus](/gallery/fungi/lichen/assets/candleflame/E21A8281-8289.jpg)
+![Stack Full Focus](/gallery/fungi/lichens/assets/candleflame/E21A8281-8289.jpg)
 _E21A8281-8289_ **Stack 0.3M - 0.5M Focus**
 {: .caption}
 
 ---
+

@@ -250,6 +250,7 @@ main h2 {
    ========================= */
 .gallery-img {
   cursor: pointer;
+  max-width: fit-content;
   transition: transform 0.3s, box-shadow 0.3s;
   border-radius: 4px;
   box-shadow: 0 0 6px rgba(255, 255, 255, 0.05);
@@ -296,6 +297,47 @@ main h2 {
 .tile:hover {
   transform: translateY(-2px);
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.tile h3 {
+  position: absolute;
+  bottom: 25%;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+  width: 90%;
+  max-width: 600px;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+}
+
+.tile .image-card {
+  position: relative;
+  display: block;
+  overflow: hidden;
+}
+
+.tile .image-card img {
+  display: block;
+  width: 100%;
+}
+
+.tile .image-title {
+  position: absolute;
+  left: 50%;
+  bottom: 12%;
+  transform: translateX(-50%);
+  z-index: 2;
+
+  width: 90%;
+  text-align: center;
+  color: white;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.85);
+  pointer-events: none;
 }
 
 .cover {

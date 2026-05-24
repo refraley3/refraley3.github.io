@@ -14,7 +14,7 @@ keywords: "Star Rosette, Physcia stellaris, foliose lichen, bark lichen, Minneso
 
 **Star Rosette Lichen** (*Physcia stellaris*) is a compact, distinctive foliose lichen commonly forming gray rosettes marked by characteristic **white-rimmed apothecia**. These pale, elevated margins sharply contrast with darker disc centers, creating a subtle starburst pattern that makes *P. stellaris* one of the most easily recognized bark-dwelling *Physcia* species. It thrives in areas with clean to moderately clean air and frequently co-occurs with related foliose lichens.
 
-For representative images and visual context, see the **Gallery** page: [**Star Rosette Lichen**](/gallery/fungi/lichen/star-rosette/).
+For representative images and visual context, see the **Gallery** page: [**Star Rosette Lichen**](/gallery/fungi/lichens/star-rosette/).
 
 ---
 
@@ -43,11 +43,11 @@ Typical substrates and settings include:
 - Occasionally on rock with bark lichen communities  
 
 *Physcia stellaris* prefers **open or partially shaded habitats** with good air circulation. It is commonly associated with moderately clean atmospheric conditions and often co-occurs with:
-- [Candleflame (*Candelaria concolor*)](/gallery/fungi/lichen/candleflame/)  
-- [Common Greenshield (*Flavoparmelia caperata*)](/gallery/fungi/lichen/common-greenshield/)  
-- [Common Sunburst (*Xanthoria parietina*)](/gallery/fungi/lichen/common-sunburst/)  
-- [Physcia millegrana (Powdery Shield)](/gallery/fungi/lichen/powdery-shield/)  
-- [Phaeophyscia species (Mealy Shadow)](/gallery/fungi/lichen/mealy-shadow/)
+- [Candleflame (*Candelaria concolor*)](/gallery/fungi/lichens/candleflame/)  
+- [Common Greenshield (*Flavoparmelia caperata*)](/gallery/fungi/lichens/common-greenshield/)  
+- [Common Sunburst (*Xanthoria parietina*)](/gallery/fungi/lichens/common-sunburst/)  
+- [Physcia millegrana (Powdery Shield)](/gallery/fungi/lichens/powdery-shield/)  
+- [Phaeophyscia species (Mealy Shadow)](/gallery/fungi/lichens/mealy-shadow/)
 
 ---
 
@@ -120,3 +120,4 @@ The apothecia are visible year-round and become especially prominent during peri
 
 - **Physcia stellaris – iNaturalist Taxon Page**  
   <https://www.inaturalist.org/taxa/133476-Physcia-stellaris>
+

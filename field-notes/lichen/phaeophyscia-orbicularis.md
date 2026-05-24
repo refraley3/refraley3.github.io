@@ -12,9 +12,9 @@ keywords: "Mealy Shadow Lichen, Phaeophyscia orbicularis, foliose lichen, bark l
 ### Family: [Physciaceae](/field-notes/lichen/family/physciaceae/)
 {: .taxonomy-heading .taxonomy-last}
 
-[**Mealy Shadow Lichen**](/gallery/fungi/lichen/mealy-shadow/) (*Phaeophyscia orbicularis*) is a small, gray-brown foliose lichen that forms tight rosettes on tree bark and other substrates. Though modest in size, it is widespread and reliable, often appearing as part of mixed bark-lichen communities where subtle color and texture differences reward close inspection.
+[**Mealy Shadow Lichen**](/gallery/fungi/lichens/mealy-shadow/) (*Phaeophyscia orbicularis*) is a small, gray-brown foliose lichen that forms tight rosettes on tree bark and other substrates. Though modest in size, it is widespread and reliable, often appearing as part of mixed bark-lichen communities where subtle color and texture differences reward close inspection.
 
-For representative images and visual context, see the [**Mealy Shadow Lichen**](/gallery/fungi/lichen/mealy-shadow/) in the **Gallery** section.
+For representative images and visual context, see the [**Mealy Shadow Lichen**](/gallery/fungi/lichens/mealy-shadow/) in the **Gallery** section.
 
 ---
 
@@ -83,3 +83,4 @@ In Minnesota, it is widespread and regularly reaches **Research Grade** on iNatu
 
 - **iNaturalist taxon page**  
   https://www.inaturalist.org/taxa/Phaeophyscia-orbicularis
+

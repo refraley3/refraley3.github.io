@@ -49,6 +49,28 @@ Fronds unfurl through shade and moisture, tracing ancient geometries beneath the
 
 ---
 
+<section class="mosses">
+
+    <a href="/gallery/fungi/mosses/">
+        <h2 class="section-title">Mosses</h2>
+    </a>
+
+    <p class="section-description">
+        Mosses are non-vascular plants that often form dense green mats in moist environments. They play important roles in water retention and habitat creation for other organisms.
+    </p>
+
+    <a href="/gallery/fungi/mosses/brocade-moss/">
+        <img src="/gallery/plants/moss/assets/brocade-moss/E21A6426.jpg" class="cover" alt="Brocade Moss">
+        <p class="caption">
+            <strong>Brocade Moss</strong><br>
+            <em>A soft, feathery moss that forms lush mats. When illuminated, its overlapping branches create a rippling texture.</em>
+        </p>
+    </a>
+
+</section>
+
+---
+
 ## Vines
 
 <div class="grid" role="list">
@@ -98,3 +120,4 @@ A small colony of Rue Anemones opens beneath the forest canopy — the morning a
 ](/gallery/plants/wildflowers/){: .tile role="listitem"}
 
 </div>
+

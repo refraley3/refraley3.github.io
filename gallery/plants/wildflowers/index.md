@@ -28,19 +28,17 @@ A lone stem crowned with pale seed tufts catches the morning light — its quiet
 
 </div>
 
-<div class="grid" role="list" style="justify-content: center; text-align: center;">
-
-<div class="tile" style="margin: 15px;">
+[![Buds and Bell](/gallery/plants/wildflowers/assets/columbine/D79A0518.jpg){: .cover role="img" aria-label="Buds and Bell"}
+**Buds and Bell**  
+_Aquilegia canadensis_  
+The open blossom hangs beside unopened buds, showing the plant's arching stems and delicate spring growth.  
+](/gallery/plants/wildflowers/columbine/){: .tile role="listitem"}
 
 [![Dame’s Rocket](/gallery/plants/wildflowers/assets/dames-rocket/E21A1563.jpg){: .cover role="img" aria-label="Dame’s Rocket"}  
 **Dame’s Rocket**  
 _*Hesperis matronalis*_  
 Pale four-petaled blossoms brighten shaded woodland edges and early-summer meadows.  
 ](/gallery/plants/wildflowers/dames-rocket/){: .tile role="listitem"}
-
-</div>
-
-</div>
 
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 

@@ -11,25 +11,25 @@ description: Field Notes comparing Common Greenshield, Hammered Shield, Mealy Sh
       <th>Trait</th>
 
       <th>
-        <a href="/gallery/fungi/lichen/powdery-shield/" class="text-dark fw-bold">
+        <a href="/gallery/fungi/lichens/powdery-shield/" class="text-dark fw-bold">
           Powdery Shield<br><em>Parmeliopsis ambigua</em>
         </a>
       </th>
 
       <th>
-        <a href="/gallery/fungi/lichen/hammered-shield/" class="text-dark fw-bold">
+        <a href="/gallery/fungi/lichens/hammered-shield/" class="text-dark fw-bold">
           Hammered Shield<br><em>Parmelia sulcata</em>
         </a>
       </th>
 
       <th>
-        <a href="/gallery/fungi/lichen/mealy-shadow/" class="text-dark fw-bold">
+        <a href="/gallery/fungi/lichens/mealy-shadow/" class="text-dark fw-bold">
           Mealy Shadow<br><em>Phaeophyscia orbicularis</em>
         </a>
       </th>
 
       <th>
-        <a href="/gallery/fungi/lichen/common-greenshield/" class="text-dark fw-bold">
+        <a href="/gallery/fungi/lichens/common-greenshield/" class="text-dark fw-bold">
           Common Greenshield<br><em>Flavoparmelia caperata</em>
         </a>
       </th>
@@ -112,25 +112,26 @@ description: Field Notes comparing Common Greenshield, Hammered Shield, Mealy Sh
 
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 
-![Hammered Shield and Candleflame Lichen on branch](/gallery/fungi/lichen/assets/powdery-shield/E21A1081.jpg){: style="photo-content; height: 200px;"}
+![Hammered Shield and Candleflame Lichen on branch](/gallery/fungi/lichens/assets/powdery-shield/E21A1081.jpg){: style="photo-content; height: 200px;"}
 _E21A1081_ **Hammered Shield and Candleflame Lichen on branch**  
 
-![Common Greenshield Lichen](/gallery/fungi/lichen/assets/common-greenshield/E21A6505.jpg){: style="photo-content; height: 200px;"}
+![Common Greenshield Lichen](/gallery/fungi/lichens/assets/common-greenshield/E21A6505.jpg){: style="photo-content; height: 200px;"}
 _E21A6505_ **Common Greenshield Lichen**  
 
-![Star Rosette + Candleflame (with Powdery Shield)](/gallery/fungi/lichen/assets/candleflame/E21A8072-8081.jpg){: style="photo-content; height: 200px;"}
+![Star Rosette + Candleflame (with Powdery Shield)](/gallery/fungi/lichens/assets/candleflame/E21A8072-8081.jpg){: style="photo-content; height: 200px;"}
 _E21A8072-8081_ **Star Rosette + Candleflame (with Powdery Shield)**
 
-![Candleflame with Powdery Shield and Mealy Shadow](/gallery/fungi/lichen/assets/candleflame/E21A8057.jpg){: style="photo-content; height: 200px;"}
+![Candleflame with Powdery Shield and Mealy Shadow](/gallery/fungi/lichens/assets/candleflame/E21A8057.jpg){: style="photo-content; height: 200px;"}
 _E21A8057_ **Candleflame with Powdery Shield and Mealy Shadow**
 
-![Shared Bark – The Living Mosaic](/gallery/fungi/lichen/assets/powdery-shield/E21A8044.jpg){: style="photo-content; height: 200px;"}
+![Shared Bark – The Living Mosaic](/gallery/fungi/lichens/assets/powdery-shield/E21A8044.jpg){: style="photo-content; height: 200px;"}
 _E21A8044_ **Shared Bark – The Living Mosaic**
 
-![Lichen Ember Cluster](/gallery/fungi/lichen/assets/common-sunburst/E21A6511.jpg){: style="photo-content; height: 200px;"}
+![Lichen Ember Cluster](/gallery/fungi/lichens/assets/common-sunburst/E21A6511.jpg){: style="photo-content; height: 200px;"}
 _E21A6511_ **Lichen Ember Cluster**
 
-![Softfield Scatter](/gallery/fungi/lichen/assets/common-sunburst/E21A6562-67.jpg){: style="photo-content; height: 200px;"}
+![Softfield Scatter](/gallery/fungi/lichens/assets/common-sunburst/E21A6562-67.jpg){: style="photo-content; height: 200px;"}
 _E21A6562–67_ **Softfield Scatter**
 
 </div>
+

@@ -1,0 +1,74 @@
+---
+layout: photo
+title: Fungi
+---
+
+Clusters of *Peniophora rufa* form small cinnabar-colored cushions along the fissures of a weathered oak twig. The fungus grows directly on the bark, where its wrinkled surface contrasts with the surrounding community of lichens. Gray foliose lichens and tiny yellow crusts share the same patch of bark, creating a miniature landscape of color and texture. Such bark microhabitats often support several organisms at once, with fungi and lichens occupying different niches on the same piece of wood.
+
+[![Cinnabar Cushions in a Lichen Garden](/gallery/fungi/assets/red-tree-brain-fungus/E21A9617-29-1.jpg){: .cover role="img" aria-label="RCinnabar Cushions in a Lichen Garden" id="e21a9617-29-1"}
+**Cinnabar Cushions in a Lichen Garden**  
+_Clusters of Peniophora rufa forming cinnabar cushions among foliose and crustose lichens on oak bark._](/gallery/fungi/red-tree-brain-fungus/)  
+Camera: Canon EOS 5D Mk IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 100 • Aperture f/13 • Shutter 1/5 s  
+E21A9617-29-1 • Size: 4884x3256   
+Settings: Focus stack, natural light  
+{: .caption}
+
+<div class="grid" role="list">
+
+[![Rust](/gallery/fungi/assets/cedar-apple-rust/E22A1290.jpg){: .cover role="img" aria-label="Cedar Apple Rust"}
+**Cedar-apple Rust**  
+_Spores are carried by wind between hosts._
+A common fungal disease that affects cedar and apple trees, causing distinctive yellow and orange lesions on leaves and fruits.  
+](/gallery/fungi/cedar-apple-rust){: .tile role="listitem"}
+
+[![Ash Rust](/gallery/fungi/assets/ash-rust-fungus/E21A1588.jpg){: .cover role="img" aria-label="Ash Rust"}
+**Ash Rust**  
+_Spores are carried by wind between hosts._  
+A striking fungal infection that adorns ash leaves and young twigs with vivid orange pustules.  
+](/gallery/fungi/ash-rust/){: .tile role="listitem"}
+
+</div>
+
+<div class="grid" role="list">
+
+[![Lichen](/gallery/fungi/lichens/assets/common-greenshield/E21A6505.jpg){: .cover role="img" aria-label="Lichen"}
+**Lichen**  
+_Indicators of healthy forest and clean air._  
+Lichens are unique symbiotic organisms composed of fungi and algae.  
+](/gallery/fungi/lichens/){: .tile role="listitem"}
+
+[![Golden-eyed Lichen](/gallery/fungi/lichens/assets/golden-eye/E22A0106.jpg){: .cover role="img" aria-label="Golden-eye Lichen"}
+**Golden-eye Lichen**  
+_A distinctive lichen with golden-yellow apothecia._  
+](/gallery/fungi/lichens/golden-eye/){: .tile role="listitem"}
+
+</div>
+
+<div class="grid" role="list">
+
+[![Moss](/gallery/plants/moss/assets/brocade-moss/E21A6426.jpg){: .cover role="img" aria-label="Moss"}
+**Moss**  
+_A soft, feathery moss that forms lush mats._  
+When illuminated, its overlapping branches create a rippling texture.  
+](/gallery/plants/moss/){: .tile role="listitem"}
+
+</div>
+
+<div class="grid" role="list">
+
+[![Bleeding Bonnet](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5255.jpg){: .cover role="img" aria-label="Bleeding Bonnet"}
+**Bleeding Bonnet**  
+_The forest’s recyclers._  
+A collection of mushrooms and other fungi from Minnesota woodlands.  
+](/gallery/fungi/mushrooms/){: .tile role="listitem"}
+
+[![Funeral Bell](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6452.jpg){: .cover role="img" aria-label="Funeral Bell"}  
+**Funeral Bell**  
+_A distinctive mushroom with a bell-shaped cap._  
+](/gallery/fungi/mushrooms/funeral-bell/){: .tile role="listitem"}
+
+</div>
+
+

@@ -46,7 +46,7 @@ title: Families
 - Pyxine sorediata  
 
 ### [CANDELARIACEAE](/field-notes/lichen/family/candelariaceae/)
-- [**Candleflame**](/gallery/fungi/lichen/candleflame/) [_(Candelaria concolor)_](/field-notes/lichen/candelaria-concolor/)
+- [**Candleflame**](/gallery/fungi/lichens/candleflame/) [_(Candelaria concolor)_](/field-notes/lichen/candelaria-concolor/)
 - Candelaria fibrosa
 - Candelariella aurella
 - Candelariella efflorescens
@@ -66,7 +66,7 @@ title: Families
 - Cladonia chlorophaea
 - Cladonia coniocraea
 - Cladonia crispata
-- [**British Soldier**](/gallery/fungi/lichen/british-soldier/) [_(Cladonia cristatella)_](/field-notes/lichen/cladonia-cristatella/)
+- [**British Soldier**](/gallery/fungi/lichens/british-soldier/) [_(Cladonia cristatella)_](/field-notes/lichen/cladonia-cristatella/)
 - Cladonia cryptochlorophaea
 - Cladonia cyanipes
 - Cladonia cylindrica
@@ -207,9 +207,9 @@ title: Families
 - Dactylina arctica
 - Evernia mesomorpha
 - Flavoparmelia baltimorensis
-- [**Common Greenshield**](/gallery/fungi/lichen/common-greenshield/) [_(Flavoparmelia caperata)_](/field-notes/lichen/flavoparmelia-caperata/)
+- [**Common Greenshield**](/gallery/fungi/lichens/common-greenshield/) [_(Flavoparmelia caperata)_](/field-notes/lichen/flavoparmelia-caperata/)
 - Flavopunctelia flaventior
-- [**Powder Edged Speckled Greenshield**](/gallery/fungi/lichen/powder-edged-speckled-greenshield/) [_(Flavopunctelia soredica)_](/field-notes/lichen/flavopunctelia-soredica/)
+- [**Powder Edged Speckled Greenshield**](/gallery/fungi/lichens/powder-edged-speckled-greenshield/) [_(Flavopunctelia soredica)_](/field-notes/lichen/flavopunctelia-soredica/)
 - Hypogymnia physodes
 - Melanelixia subargentifera
 - Melanelixia subaurifera
@@ -218,19 +218,19 @@ title: Families
 - Myelochroa galbina
 - Nephromopsis americana
 - Parmelia squarrosa
-- [**Hammered Shield**](/gallery/fungi/lichen/hammered-shield/) [_(Parmelia sulcata)_](/field-notes/lichen/parmelia-sulcata/)
+- [**Hammered Shield**](/gallery/fungi/lichens/hammered-shield/) [_(Parmelia sulcata)_](/field-notes/lichen/parmelia-sulcata/)
 - Parmotrema crinitum
 - Parmotrema hypotropum
 - Parmotrema margaritatum
 - Parmotrema stuppeum
 - Parmotrema subtinctorium
-- [**Eastern Speckled Shield**](/gallery/fungi/lichen/eastern-speckled-shield/) [_(Punctelia bolliana)_](/field-notes/lichen/punctelia-bolliana/)
+- [**Eastern Speckled Shield**](/gallery/fungi/lichens/eastern-speckled-shield/) [_(Punctelia bolliana)_](/field-notes/lichen/punctelia-bolliana/)
 - Punctelia caseana
 - Punctelia graminicola
 - Punctelia hypoleucites
 - Punctelia missouriensis
 - Punctelia punctilla
-- [**Rough Speckled Shield**](/gallery/fungi/lichen/rough-speckled-shield) [_Punctelia rudecta_](/field-notes/lichen/punctelia-rudecta/)
+- [**Rough Speckled Shield**](/gallery/fungi/lichens/rough-speckled-shield) [_Punctelia rudecta_](/field-notes/lichen/punctelia-rudecta/)
 - Punctelia subrudecta
 - Usnea angulata
 - Usnea mutabilis
@@ -283,21 +283,21 @@ title: Families
 - Phaeophyscia hispidula
 - Phaeophyscia insignis
 - Phaeophyscia nigricans
-- [**Mealy Shadow**](/gallery/fungi/lichen/mealy-shadow/) [_(Phaeophyscia orbicularis)_](/field-notes/lichen/phaeophyscia-orbicularis/)
+- [**Mealy Shadow**](/gallery/fungi/lichens/mealy-shadow/) [_(Phaeophyscia orbicularis)_](/field-notes/lichen/phaeophyscia-orbicularis/)
 - Phaeophyscia pusilloides
 - Phaeophyscia rubropulchra
 - Phaeophyscia sciastra
 - Phaeophyscia squarrosa
 - Physcia adscendens
-- [**Hoary Rosette**](/gallery/fungi/lichen/hoary-rosette/) [_(Physcia aipolia)_](/field-notes/lichen/physcia-aipolia/)
+- [**Hoary Rosette**](/gallery/fungi/lichens/hoary-rosette/) [_(Physcia aipolia)_](/field-notes/lichen/physcia-aipolia/)
 - Physcia americana
 - Physcia biziana
 - Physcia caesia
 - Physcia dubia
 - Physcia halei
-- [**Powdery shield**](/gallery/fungi/lichen/powdery-shield/) [_(Physcia millegrana)_](/field-notes/lichen/physcia-millegrana/)
+- [**Powdery shield**](/gallery/fungi/lichens/powdery-shield/) [_(Physcia millegrana)_](/field-notes/lichen/physcia-millegrana/)
 - Physcia phaea
-- [**Star Rosette**](/gallery/fungi/lichen/star-rosette/) [_(Physcia stellaris)_](/field-notes/lichen/physcia-stellaris/)
+- [**Star Rosette**](/gallery/fungi/lichens/star-rosette/) [_(Physcia stellaris)_](/field-notes/lichen/physcia-stellaris/)
 - Physcia subtilis
 - Physciella chloantha
 - Physciella melanchra
@@ -347,7 +347,7 @@ title: Families
 - Lecania croatica
 - Lecania erysibe
 - Lecania nylanderiana
-- [**Bushy Sinewed Lichen**](/gallery/fungi/lichen/sinewed-bushy-lichen/) [_(Ramalina americana)_](/field-notes/lichen/ramalina-americana/)
+- [**Bushy Sinewed Lichen**](/gallery/fungi/lichens/sinewed-bushy-lichen/) [_(Ramalina americana)_](/field-notes/lichen/ramalina-americana/)
 - Ramalina calicaris
 - Ramalina farinacea
 - Ramalina fraxinea
@@ -404,7 +404,7 @@ title: Families
 - Huneckia pollinii
 - Kuettlingeria soralifera
 - Polycauliona candelaria
-- [Pin-cushion Sunburst](/gallery/fungi/lichen/pin-cushion-sunburst/) [_(Polycauliona polycarpa)_](/field-notes/lichen/polycauliona-polycarpa/)
+- [Pin-cushion Sunburst](/gallery/fungi/lichens/pin-cushion-sunburst/) [_(Polycauliona polycarpa)_](/field-notes/lichen/polycauliona-polycarpa/)
 - Pyrenodesmia atroalba
 - Pyrenodesmia pratensis
 - Pyrenodesmia variabilis
@@ -416,11 +416,11 @@ title: Families
 - Squamulea squamosa
 - Squamulea subsoluta
 - Tayloriellina microphyllina
-- [Golden-eye Lichen](/gallery/fungi/lichen/golden-eye/) [_(Teloschistes chrysophthalmus)_](/field-notes/lichen/teloschistes-chrysophthalmus/)
+- [Golden-eye Lichen](/gallery/fungi/lichens/golden-eye/) [_(Teloschistes chrysophthalmus)_](/field-notes/lichen/teloschistes-chrysophthalmus/)
 - Xanthocarpia crenulatella
 - Xanthocarpia feracissima
-- [**Hooded Sunburst**](/gallery/fungi/lichen/hooded-sunburst/) [_(Xanthomendoza fallax)_](/field-notes/lichen/xanthomendoza-fallax/)
-- [**Bare-bottomed Sunburst**](/gallery/fungi/lichen/bare-bottomed-sunburst/) [_(Xanthomendoza fulva)_](/field-notes/lichen/xanthomendoza-fulva/)
+- [**Hooded Sunburst**](/gallery/fungi/lichens/hooded-sunburst/) [_(Xanthomendoza fallax)_](/field-notes/lichen/xanthomendoza-fallax/)
+- [**Bare-bottomed Sunburst**](/gallery/fungi/lichens/bare-bottomed-sunburst/) [_(Xanthomendoza fulva)_](/field-notes/lichen/xanthomendoza-fulva/)
 - Xanthomendoza hasseana
 - Xanthomendoza ulophyllodes
 - Xanthomendoza weberi  
@@ -477,3 +477,4 @@ title: Families
 - Verrucaria nigrescentoidea
 - Verrucaria sorbinea
 - Willeya diffractella
+

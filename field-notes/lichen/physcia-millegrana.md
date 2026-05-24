@@ -14,7 +14,7 @@ keywords: "Powdery Shield, Physcia millegrana, foliose lichen, bark lichen, Minn
 
 **Powdery Shield Lichen** (*Physcia millegrana*) is one of Minnesota's most common small foliose lichens, recognized by its soft, powder-dusted surface and compact growth form. Its fine **soredia** give the thallus a matte, frosted look that distinguishes it from darker, more textured Physcia relatives. The species thrives in areas with clean, well-circulated air and often grows in mixed lichen communities on hardwood bark.
 
-For representative images and visual context, see the **Gallery** page: [**Powdery Shield Lichen**](/gallery/fungi/lichen/powdery-shield/).
+For representative images and visual context, see the **Gallery** page: [**Powdery Shield Lichen**](/gallery/fungi/lichens/powdery-shield/).
 
 ---
 
@@ -42,10 +42,10 @@ Typical substrates and settings include:
 - **Occasionally weathered outdoor wood**
 
 *Physcia millegrana* prefers **open or lightly shaded habitats** where bark dries intermittently and receives scattered sunlight. It commonly occurs in mixed communities with:
-- [Candleflame (*Candelaria concolor*)](/gallery/fungi/lichen/candleflame/)  
-- [Mealy Shadow (*Phaeophyscia orbicularis*)](/gallery/fungi/lichen/mealy-shadow/)  
-- [Star Rosette (*Physcia stellaris*)](/gallery/fungi/lichen/star-rosette/)  
-- [Common Greenshield (*Flavoparmelia caperata*)](/gallery/fungi/lichen/common-greenshield/)
+- [Candleflame (*Candelaria concolor*)](/gallery/fungi/lichens/candleflame/)  
+- [Mealy Shadow (*Phaeophyscia orbicularis*)](/gallery/fungi/lichens/mealy-shadow/)  
+- [Star Rosette (*Physcia stellaris*)](/gallery/fungi/lichens/star-rosette/)  
+- [Common Greenshield (*Flavoparmelia caperata*)](/gallery/fungi/lichens/common-greenshield/)
 
 ---
 
@@ -119,3 +119,4 @@ The species reproduces primarily by **soredia**, which are dispersed readily by 
 
 - **Lichens – Missouri Department of Conservation**  
   <https://mdc.mo.gov/discover-nature/field-guide/lichens>
+

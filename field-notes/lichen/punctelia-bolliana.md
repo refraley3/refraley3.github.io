@@ -12,9 +12,9 @@ keywords: "Eastern Speckled Shield, Punctelia bolliana, Minnesota lichens, speck
 ### Family: [Parmeliaceae](/field-notes/lichen/family/parmeliaceae/)
 {: .taxonomy-heading .taxonomy-last}
 
-[**Eastern Speckled Shield**](/gallery/fungi/lichen/eastern-speckled-shield/) (*Punctelia bolliana*) is a medium-sized foliose lichen recognized by its **distinct white maculae (speckles)** scattered across a **gray-green to olive thallus**. It is a frequent and often overlooked inhabitant of **hardwood bark** in eastern North America, including much of Minnesota. When fresh and hydrated, colonies can appear vividly green, especially in cool, humid conditions.
+[**Eastern Speckled Shield**](/gallery/fungi/lichens/eastern-speckled-shield/) (*Punctelia bolliana*) is a medium-sized foliose lichen recognized by its **distinct white maculae (speckles)** scattered across a **gray-green to olive thallus**. It is a frequent and often overlooked inhabitant of **hardwood bark** in eastern North America, including much of Minnesota. When fresh and hydrated, colonies can appear vividly green, especially in cool, humid conditions.
 
-This page documents field observations used for identification. Visual presentation and artistic interpretation are handled separately in the **Gallery** section, [**Eastern Speckled Shield**](/gallery/fungi/lichen/eastern-speckled-shield/).
+This page documents field observations used for identification. Visual presentation and artistic interpretation are handled separately in the **Gallery** section, [**Eastern Speckled Shield**](/gallery/fungi/lichens/eastern-speckled-shield/).
 
 ---
 
@@ -91,3 +91,4 @@ Fresh, hydrated specimens may appear greener and more vibrant than expected from
 - **Minnesota Lichen Guide**  
 - **Consortium of North American Lichen Herbaria**  
 - Brodo, I. M., Sharnoff, S. D., & Sharnoff, S. *Lichens of North America*
+

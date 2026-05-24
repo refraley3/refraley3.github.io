@@ -12,9 +12,9 @@ keywords: "Hooded Sunburst Lichen, Xanthomendoza fallax, sunburst lichen, folios
 ### Family: [Teloschistaceae](/field-notes/lichen/family/teloschistaceae/)
 {: .taxonomy-heading .taxonomy-last}
 
-[**Hooded Sunburst Lichen (*Xanthomendoza fallax*)**](/gallery/fungi/lichen/hooded-sunburst/) is a bright yellow to orange foliose lichen characterized by small, appressed rosettes and distinctive hooded or upturned lobe tips. It is part of the sunburst lichen group and is most often encountered on bark, where its saturated coloration contrasts strongly with winter substrates.
+[**Hooded Sunburst Lichen (*Xanthomendoza fallax*)**](/gallery/fungi/lichens/hooded-sunburst/) is a bright yellow to orange foliose lichen characterized by small, appressed rosettes and distinctive hooded or upturned lobe tips. It is part of the sunburst lichen group and is most often encountered on bark, where its saturated coloration contrasts strongly with winter substrates.
 
-This page documents **Research Grade observations** on iNaturalist using photos [**E21A8139**](/gallery/fungi/lichen/hooded-sunburst#e21a8139) and [**E21A8141**](/gallery/fungi/lichen/hooded-sunburst#e21a8141). Visual presentation and artistic interpretation are on the [**Hooded Sunburst**](/gallery/fungi/lichen/hooded-sunburst/) in the **Gallery** section.
+This page documents **Research Grade observations** on iNaturalist using photos [**E21A8139**](/gallery/fungi/lichens/hooded-sunburst#e21a8139) and [**E21A8141**](/gallery/fungi/lichens/hooded-sunburst#e21a8141). Visual presentation and artistic interpretation are on the [**Hooded Sunburst**](/gallery/fungi/lichens/hooded-sunburst/) in the **Gallery** section.
 
 ---
 
@@ -69,3 +69,4 @@ These specimens were photographed under winter conditions, where moisture and lo
 - **iNaturalist** — Research Grade observations (E21A8139, E21A8141)  
 - **Minnesota Lichen Guide**  
 - **Consortium of North American Lichen Herbaria**
+

@@ -12,7 +12,7 @@ keywords: "Common Greenshield Lichen, Flavoparmelia caperata, foliose lichen, Mi
 ### Family: [Parmeliaceae](/field-notes/lichen/family/parmeliaceae/)
 {: .taxonomy-heading .taxonomy-last}
 
-[**Common Greenshield**](/gallery/fungi/lichen/common-greenshield/) (*Flavoparmelia caperata*) is a pale yellow-green foliose lichen forming rounded rosettes on hardwood bark. It is one of the most frequently encountered members of *Flavoparmelia* in Minnesota and serves as a useful reference species for recognizing the genus as a whole.
+[**Common Greenshield**](/gallery/fungi/lichens/common-greenshield/) (*Flavoparmelia caperata*) is a pale yellow-green foliose lichen forming rounded rosettes on hardwood bark. It is one of the most frequently encountered members of *Flavoparmelia* in Minnesota and serves as a useful reference species for recognizing the genus as a whole.
 
 ---
 
@@ -66,7 +66,7 @@ The presence of apothecia is uncommon and provides valuable documentation of sex
 
 <div class="tile" style="padding: 10px;">
 
-![Apothecium with Pale Thalline Margin](/gallery/fungi/lichen/assets/common-greenshield/E21A8248C.jpg)
+![Apothecium with Pale Thalline Margin](/gallery/fungi/lichens/assets/common-greenshield/E21A8248C.jpg)
 {: .cover role="img" aria-label="Apothecium with Pale Thalline Margin" style="width: 60%;"}  
 
 **Apothecium with Pale Thalline Margin**  
@@ -126,3 +126,4 @@ This species represents a typical expression of *Flavoparmelia* in Minnesota and
 
 - **Minnesota Seasons — Common Greenshield Lichen**  
   http://www.minnesotaseasons.com/Fungi/Common_Greenshield_Lichen.html
+

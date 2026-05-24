@@ -12,9 +12,9 @@ keywords: "Pin-cushion Sunburst, Polycauliona polycarpa, foliose lichen, bark li
 ### Family: [Teloschistaceae](/field-notes/lichen/family/teloschistaceae/)
 {: .taxonomy-heading .taxonomy-last}
 
-[**Pin-cushion Sunburst**](/gallery/fungi/lichen/pin-cushion-sunburst/) (*Polycauliona polycarpa*) is a small, bright orange foliose lichen commonly found on nutrient-enriched bark and twigs. It is especially distinctive for its dense clusters of orange, disc-shaped reproductive structures, which often dominate the thallus. This species frequently appears in mixed lichen communities and is a reliable indicator of nitrogen-rich conditions.
+[**Pin-cushion Sunburst**](/gallery/fungi/lichens/pin-cushion-sunburst/) (*Polycauliona polycarpa*) is a small, bright orange foliose lichen commonly found on nutrient-enriched bark and twigs. It is especially distinctive for its dense clusters of orange, disc-shaped reproductive structures, which often dominate the thallus. This species frequently appears in mixed lichen communities and is a reliable indicator of nitrogen-rich conditions.
 
-For representative images and visual context, see the page: [**Pin-cushion Sunburst**](/gallery/fungi/lichen/pin-cushion-sunburst/) in the **Gallery** section.
+For representative images and visual context, see the page: [**Pin-cushion Sunburst**](/gallery/fungi/lichens/pin-cushion-sunburst/) in the **Gallery** section.
 
 
 ## Description
@@ -56,7 +56,7 @@ Notes may include:
 - **Reproductive structures:** abundant, crowded apothecia (diagnostic)  
 - **Chemistry:** typically K+ purple (anthraquinones), though field testing is rarely necessary  
 
-![K Test Reaction on Pin-cushion Sunburst](/gallery/fungi/lichen/assets/pin-cushion-sunburst/E22A0253.jpg)
+![K Test Reaction on Pin-cushion Sunburst](/gallery/fungi/lichens/assets/pin-cushion-sunburst/E22A0253.jpg)
 {: .cover role="img" aria-label="K Test Reaction on Pin-cushion Sunburst" id="e22a0253"}
 **K Test Reaction on Pin-cushion Sunburst**  
 _A tiny fragment reveals a deep purple reaction, confirming the presence of anthraquinone pigments._  

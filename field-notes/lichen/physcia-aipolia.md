@@ -14,7 +14,7 @@ keywords: "Hoary Rosette Lichen, Physcia aipolia, foliose lichen, Minnesota lich
 
 **Hoary Rosette Lichen (*Physcia aipolia*)** is a common and easily recognized foliose lichen of bark and wood, notable for its pale gray thallus marked with distinct white maculae and abundant dark apothecia. It forms compact rosettes that often occur alongside other Physcia species, requiring attention to surface texture and reproductive structures for confident identification.
 
-This page documents **Research Grade observations** on iNaturalist using photos [**E21A8059–8071**](/gallery/fungi/lichen/hoary-rosette#e21a8059-8071). Visual presentation and artistic interpretation are handled separately in the **Gallery** section, [Hoary Rosette](/gallery/fungi/lichen/hoary-rosette/) page.
+This page documents **Research Grade observations** on iNaturalist using photos [**E21A8059–8071**](/gallery/fungi/lichens/hoary-rosette#e21a8059-8071). Visual presentation and artistic interpretation are handled separately in the **Gallery** section, [Hoary Rosette](/gallery/fungi/lichens/hoary-rosette/) page.
 
 ---
 
@@ -51,7 +51,7 @@ It can be confused with other Physcia species, particularly **Powdered Rosette (
 
 A close-up view of **Hoary Rosette Lichen (*Physcia aipolia*)** showing the characteristic **dark apothecia with pale rims**. These black-centered fruiting bodies are a key diagnostic feature, separating *P. aipolia* from similar *Physcia* species that are sorediate or produce fewer apothecia. Winter moisture enhances contrast between the discs, thallus, and bark, making this one of the most reliable field characters for confirmation.
 
-![Hoary Rosette Apothecia Detail](/gallery/fungi/lichen/assets/hoary-rosette/E21A8187.jpg){: .cover role="img" aria-label="Hoary Rosette Lichen apothecia detail"}
+![Hoary Rosette Apothecia Detail](/gallery/fungi/lichens/assets/hoary-rosette/E21A8187.jpg){: .cover role="img" aria-label="Hoary Rosette Lichen apothecia detail"}
 
 ---
 
@@ -74,3 +74,4 @@ These observations were made during winter conditions, where elevated humidity e
 - **iNaturalist** — Research Grade observation set (E21A8059–8071)  
 - **Minnesota Lichen Guide**  
 - **Consortium of North American Lichen Herbaria**
+

@@ -12,9 +12,9 @@ keywords: "Powdered Sunshine Lichen, Vulpicida pinastri, yellow foliose lichen, 
 ### Family: [Parmeliaceae](/field-notes/lichen/family/parmeliaceae/)
 {: .taxonomy-heading .taxonomy-last}
 
-[**Powdered Sunshine**](/gallery/fungi/lichen/powdered-sunshine/) (*Vulpicida pinastri*) is a bright yellow foliose lichen most easily recognized by its **intense lemon-yellow color** and **powdery, sorediate margins**. In Minnesota, it commonly occurs on twigs and small branches, where its vivid pigmentation makes it stand out even in winter.
+[**Powdered Sunshine**](/gallery/fungi/lichens/powdered-sunshine/) (*Vulpicida pinastri*) is a bright yellow foliose lichen most easily recognized by its **intense lemon-yellow color** and **powdery, sorediate margins**. In Minnesota, it commonly occurs on twigs and small branches, where its vivid pigmentation makes it stand out even in winter.
 
-This page documents field observations used for identification. Visual presentation and artistic interpretation are handled separately in the **Gallery** section, [**Powdered Sunshine**](/gallery/fungi/lichen/powdered-sunshine/).
+This page documents field observations used for identification. Visual presentation and artistic interpretation are handled separately in the **Gallery** section, [**Powdered Sunshine**](/gallery/fungi/lichens/powdered-sunshine/).
 
 ---
 
@@ -73,3 +73,4 @@ Research Grade observations in Minnesota are frequent, reflecting both its consp
 - **Consortium of North American Lichen Herbaria — *Vulpicida pinastri***  
 - **iNaturalist — *Vulpicida pinastri***  
 - Brodo, I. M., Sharnoff, S. D., & Sharnoff, S. *Lichens of North America*
+
