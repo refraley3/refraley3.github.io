@@ -26,7 +26,7 @@ keywords: "Wild Columbine, Red Columbine, Aquilegia canadensis, Ranunculaceae, R
 
 [**Wild Columbine**](/gallery/plants/wildflowers/wild-columbine/) (*Aquilegia canadensis*) is a native perennial wildflower in the buttercup family, recognized by its nodding red and yellow flowers, long backward-pointing nectar spurs, and dangling yellow stamens. In bloom, the flower often hangs like a small lantern beneath a curved stem, with unopened buds held nearby on slender stalks.
 
-For representative images and visual context, see the page: [**Wild Columbine**](/gallery/plants/wildflowers/columbine/) in the **Gallery** section.
+For representative images and visual context, see the page: [**Wild Columbine**](/gallery/plants/wildflowers/wild-columbine/) in the **Gallery** section.
 
 ## Description
 

@@ -2,25 +2,36 @@
 layout: gallery-slideshow
 title: Wildflowers
 slides:
+
+  - src: /gallery/plants/wildflowers/assets/sundial-lupine/E22A3676.jpg
+    alt: Sundial Lupine flower spikes rising from grasses with a soft green and purple background
+    caption: Among the Grasses
+    link: /gallery/plants/wildflowers/sundial-lupine/
+    transition: pan-left
+
   - src: /gallery/plants/wildflowers/assets/wild-columbine/D79A0518.jpg
     alt: Buds and Bell
     caption: Aquilegia canadensis with an open blossom and unopened buds.
     link: /gallery/plants/wildflowers/wild-columbine/
+    transition: pan-left
 
   - src: /gallery/plants/wildflowers/assets/dames-rocket/E21A1563.jpg
     alt: Dame's Rocket
     caption: Pale four-petaled blossoms brightening woodland edges and early-summer meadows.
     link: /gallery/plants/wildflowers/dames-rocket/
+    transition: pan-left
 
   - src: /gallery/plants/wildflowers/assets/black-eyed-susan/E21A1653.jpg
     alt: Black-eyed Susan
     caption: A bright prairie coneflower catching the summer light.
     link: /gallery/plants/wildflowers/black-eyed-susan/
+    transition: pan-left
 
   - src: /gallery/plants/wildflowers/assets/canada-goldenrod/E21A7276.jpg
     alt: Canada Goldenrod
     caption: A resilient bloom standing tall through the frost.
     link: /gallery/plants/wildflowers/canada-goldenrod/
+    transition: pan-left
 ---
 
 <section class="wildflowers-page">
@@ -45,20 +56,34 @@ slides:
         <a href="/gallery/plants/wildflowers/wild-columbine/">
             <strong>Buds and Bell</strong>
         </a><br>
-        <a href="/field-notes/plants/angiosperms/eudicots/ranunculales/ranunculaceae/aquilegia/aquilegia-canadensis/"><em>Aquilegia canadensis</em>
+        <a href="/field-notes/plants/angiosperms/eudicots/ranunculales/ranunculaceae/aquilegia/aquilegia-canadensis/">
             <em>Aquilegia canadensis</em>
         </a><br>
         The open blossom hangs beside unopened buds, showing the plant's arching stems, delicate spring growth, and quiet woodland color.
     </p>
 
+    <a href="/gallery/plants/wildflowers/dames-rocket/">
+        <img src="/gallery/plants/wildflowers/assets/dames-rocket/E21A1563.jpg" class="cover" alt="Dame's Rocket">
+    </a>
+
+    <p class="caption">
+        <a href="/gallery/plants/wildflowers/dames-rocket/">
+            <strong>Dame's Rocket</strong>
+        </a><br>
+        <a href="/field-notes/plants/angiosperms/eudicots/rosales/caprulaceae/hesperis/hesperis-matronalis/">
+            <em>Hesperis matronalis</em>
+        </a><br>
+        Pale four-petaled blossoms brighten shaded woodland edges and early-summer meadows.
+    </p>
+
     <div class="grid" role="list">
 
-        <a href="/gallery/plants/wildflowers/dames-rocket/" role="listitem">
-            <img src="/gallery/plants/wildflowers/assets/dames-rocket/E21A1563.jpg" class="cover" alt="Dame's Rocket">
+        <a href="/gallery/plants/wildflowers/sundial-lupine/" role="listitem">
+            <img src="/gallery/plants/wildflowers/assets/sundial-lupine/D79A0548.jpg" class="cover" alt="Sundial Lupine">
             <p class="caption">
-                <strong>Dame's Rocket</strong><br>
-                <em>Hesperis matronalis</em><br>
-                Pale four-petaled blossoms brighten shaded woodland edges and early-summer meadows.
+                <strong>Sundial Lupine</strong><br>
+                <em>Lupinus perennis</em><br>
+                Tall spikes of purple and white flowers rise above the forest floor in early summer.
             </p>
         </a>
 
@@ -118,4 +143,7 @@ slides:
 
 </section>
 
+{% include hero-slideshow.html slides=page.slides %}
+
 <script src="{{ '/assets/js/hero-slideshow.js' | relative_url }}"></script>
+

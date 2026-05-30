@@ -14,6 +14,17 @@ eudicot_groups:
     image_x: right
     image_y: center
 
+  - title: Fabales
+    url: /field-notes/plants/angiosperms/eudicots/fabales/
+    image: /gallery/plants/wildflowers/assets/sundial-lupine/E22A3676.jpg
+    alt: Fabales
+    kicker: Legumes, Milkworts, and Allies
+    text: Field notes and family guides for Fabales, emphasizing visible structure, habitat, and seasonal context.
+    width: 200px
+    height: 200px
+    image_x: right
+    image_y: center 
+
   - title: Proteales
     url: /field-notes/plants/angiosperms/eudicots/proteales/
     image: /assets/images/under-construction_wht.png
