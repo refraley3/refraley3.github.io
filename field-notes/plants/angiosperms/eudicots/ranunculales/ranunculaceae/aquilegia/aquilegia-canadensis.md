@@ -28,7 +28,6 @@ keywords: "Wild Columbine, Red Columbine, Aquilegia canadensis, Ranunculaceae, R
 
 For representative images and visual context, see the page: [**Wild Columbine**](/gallery/plants/wildflowers/columbine/) in the **Gallery** section.
 
-
 ## Description
 
 *Aquilegia canadensis* is recognized by:
@@ -42,6 +41,8 @@ For representative images and visual context, see the page: [**Wild Columbine**]
 - **Fruit:** upright follicles that split open when mature to release small dark seeds  
 
 The flowers are the most distinctive feature. From the side, the red spurs sweep upward while the yellow stamens hang below, giving the flower its bell-like or lantern-like form.
+
+Common names: Wild Columbine, Red Columbine, Eastern Red Columbine, Canada Columbine, Canadian Columbine.
 
 ---
 
