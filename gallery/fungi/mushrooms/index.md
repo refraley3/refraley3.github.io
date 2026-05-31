@@ -5,17 +5,49 @@ title: Mushrooms
 
 <div class="grid" role="list">
 
-[![Argill Milkcap](/gallery/fungi/mushrooms/assets/agrill-milkcap/E21A6290.jpg){: .cover role="img" aria-label="Argill Milkcap"}  
+[![Argill Milkcap](/gallery/fungi/mushrooms/assets/argill-milkcap/E21A6290.jpg){: .cover role="img" aria-label="Argill Milkcap"}
 **Argill Milkcap**  
 _*Lactarius argillaceifolius*_  
 Clay-colored milkcap found under pines.  
 ](/gallery/fungi/mushrooms/argill-milkcap/){: .tile role="listitem"}
 
-[![Blackening Slimespike](/gallery/fungi/mushrooms/assets/slimespike/E21A6391.jpg){: .cover role="img" aria-label="Blackening Slimespike"}  
+[![Blackening Slimespike](/gallery/fungi/mushrooms/assets/slimespike/E21A6391.jpg){: .cover role="img" aria-label="Blackening Slimespike"}
 **Blackening Slimespike**  
 _Slimy and sticky._  
 Symbiotic with pine trees, especially Douglas-Fir.  
 ](/gallery/fungi/mushrooms/blackening-slimespike/){: .tile role="listitem"}
+
+</div>
+
+<div class="grid" role="list">
+
+[![Oyster](/gallery/fungi/mushrooms/assets/oyster/E21A0294.jpg){: .cover role="img" aria-label="Oyster" style="height: 500px;"}
+**Oyster**  
+_*Pleurotus ostreatus*_  
+Oyster mushrooms unfolding through mist and decay.  
+](/gallery/fungi/mushrooms/oyster/){: .tile role="listitem"}
+
+[![Bleeding Bonnet](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5422.jpg){: .cover role="img" aria-label="Bleeding Bonnet"}
+**Bleeding Bonnet**  
+_*Mycena haematopus*_  
+Three days — a record of the Bleeding Bonnet’s surrender to another fungus.  
+](/gallery/fungi/mushrooms/bleeding-bonnet/){: .tile role="listitem"}
+
+</div>
+
+<div class="grid" role="list">
+
+[![Funeral Bell](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6452.jpg){: .cover role="img" aria-label="Funeral Bell"}
+**Funeral Bell**  
+_Likely the deadly Funeral Bell._  
+Small, caramel-brown gilled mushrooms on mossy wood.  
+](/gallery/fungi/mushrooms/funeral-bell/){: .tile role="listitem"}
+
+[![Mica Cap Cluster](/gallery/fungi/mushrooms/assets/mica-cap/E22A3732.jpg){: .cover role="img" aria-label="Mica Cap Cluster"}
+**Mica Cap Cluster**  
+_Coprinellus micaceus_  
+A small group rises from mossy soil and leaf litter, their slender stems supporting fragile, pleated caps.
+](/gallery/fungi/mushrooms/mica-cap/){: .tile tole="listitem"}
 
 </div>
 
@@ -28,37 +60,12 @@ Dry-capped and brittle, found beneath Red Pines.
 This species thrives in the acidic litter where few others fruit.  
 ](/gallery/fungi/mushrooms/mucous-cort/){: .tile role="listitem"}
 
-[![Bleeding Bonnet](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5422.jpg){: .cover role="img" aria-label="Bleeding Bonnet"}  
-**Bleeding Bonnet**  
-_*Mycena haematopus*_  
-Three days — a record of the Bleeding Bonnet’s surrender to another fungus.  
-](/gallery/fungi/mushrooms/bleeding-bonnet/){: .tile role="listitem"}
-
-</div>
-
-<div class="grid" role="list">
-
 [![Floury Amanita](/gallery/fungi/mushrooms/assets/floury-amanita/E21A6395.jpg){: .cover role="img" aria-label="Floury Amanita"}  
 **Floury Amanita**  
 _Some *Amanita* species are dangerously toxic._  
 Pale cap with white free gills near birch edge.  
 ](/gallery/fungi/mushrooms/floury-amanita/){: .tile role="listitem"}
 
-[![Funeral Bell](/gallery/fungi/mushrooms/assets/funeral-bell/E21A6452.jpg){: .cover role="img" aria-label="Funeral Bell"}  
-**Funeral Bell**  
-_Likely the deadly Funeral Bell._  
-Small, caramel-brown gilled mushrooms on mossy wood.  
-](/gallery/fungi/mushrooms/funeral-bell/){: .tile role="listitem"}
-
-</div>
-
-<div class="grid" role="list">
-
-[![Oyster](/gallery/fungi/mushrooms/assets/oyster/E21A0294.jpg){: .cover role="img" aria-label="Oyster" style="height: 500px;"}  
-**Oyster**  
-_*Pleurotus ostreatus*_  
-Oyster mushrooms unfolding through mist and decay.  
-](/gallery/fungi/mushrooms/oyster/){: .tile role="listitem"}
 
 </div>
 
@@ -80,10 +87,10 @@ Violet-toothed polypore growing on a cut oak log, showing distinct purple margin
 
 <div class="grid" role="list">
 
-[![Pear-shaped Puffball](/gallery/fungi/mushrooms/assets/pear-shaped-puffball/E21A6643.jpg){: .cover role="img" aria-label="Pear-shaped Puffball" style="width: 500px;"}  
+[![Pear-shaped Puffball](/gallery/fungi/puffballs/assets/pear-shaped-puffball/E21A6643.jpg){: .cover role="img" aria-label="Pear-shaped Puffball" style="width: 500px;"}  
 **Pear-shaped Puffball**  
 _A tiny woodland puff that releases clouds of spores with a gentle tap._  
 The pear-shaped puffball is a small woodland fungus found on decaying wood or moss-covered surfaces.  
-](/gallery/fungi/mushrooms/pear-shaped-puffball/){: .tile role="listitem"}
+](/gallery/fungi/puffballs/pear-shaped-puffball/){: .tile role="listitem"}
 
 </div>
