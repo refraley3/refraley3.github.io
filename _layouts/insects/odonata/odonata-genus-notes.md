@@ -1,4 +1,4 @@
----
+﻿---
 layout: photo
 title: Genus
 description: Field notes and identification details for genus *Genus* based on field observations and regional references in REGION.
@@ -9,7 +9,7 @@ keywords: "Genus odonates, REGION dragonflies and damselflies, Odonata identific
 ## *Genus*
 {: .taxonomy-heading}
 
-### Family: [FamilyName](/field-notes/odonata/suborder-name/family-name/)
+### Family: [FamilyName](/field-notes/insects/odonata/suborder-name/family-name/)
 {: .taxonomy-heading .taxonomy-last}
 
 [**COMMON GENUS NAME**](/gallery/animals/insects/damselflies/genus/) (*Genus*) is a brief, orienting overview that explains
@@ -72,7 +72,7 @@ Include:
 - Whether identification usually requires close views, side views, dorsal views, or terminal appendages
 
 This section may reference:
-- Segment 8–10 coloration
+- Segment 8â€“10 coloration
 - Antehumeral stripes
 - Clubbed or tapered abdomen
 - Pterostigma color or wing tint
@@ -123,8 +123,8 @@ This is also an appropriate place to mention:
 
 List local or expected species here, especially those documented in your field notes.
 
-- [*Genus species*](/field-notes/odonata/zygoptera/genus-species/)
-- [*Genus species*](/field-notes/odonata/zygoptera/genus-species/)
+- [*Genus species*](/field-notes/insects/odonata/zygoptera/genus-species/)
+- [*Genus species*](/field-notes/insects/odonata/zygoptera/genus-species/)
 
 ---
 

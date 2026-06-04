@@ -5,7 +5,7 @@ title: Coenonympha tullia
 description: Field notes and identification details for *Coenonympha tullia* (Common Ringlet) based on field observations and regional references in Minnesota.
 tags: [insect, Coenonympha tullia, common-ringlet, lepidoptera, nymphalidae, satyrinae, Minnesota, field-notes]
 keywords: "Coenonympha tullia insect, Common Ringlet butterfly, Minnesota butterflies, satyr butterfly identification"
-----------------------------------------------------------------------------------------------------------------------
+---
 
 ## *Coenonympha tullia*
 {: .taxonomy-heading}

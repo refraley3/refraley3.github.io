@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Genus species
 description: Field notes and identification details for *Genus species* (Common Name) based on field observations and regional references in REGION.
@@ -9,10 +9,10 @@ keywords: "Genus species odonate, common name dragonfly or damselfly, REGION odo
 ## *Genus species*
 {: .taxonomy-heading}
 
-### Family: [FamilyName](/field-notes/odonata/suborder-name/family-name/)
+### Family: [FamilyName](/field-notes/insects/odonata/suborder-name/family-name/)
 {: .taxonomy-heading .taxonomy-last}
 
-[**Common Name**](/gallery/animals/insects/group-name/genus-species/) (*Genus species*) is a brief, readable overview of the species in the field—its typical appearance, behavior, flight style, and where it is most often encountered. Keep this paragraph image-forward and observational rather than overly technical.
+[**Common Name**](/gallery/animals/insects/group-name/genus-species/) (*Genus species*) is a brief, readable overview of the species in the fieldâ€”its typical appearance, behavior, flight style, and where it is most often encountered. Keep this paragraph image-forward and observational rather than overly technical.
 
 For representative images and visual context, see the page: [**Common Name**](/gallery/animals/insects/group-name/genus-species/) in the **Gallery** section.
 

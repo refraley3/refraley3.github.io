@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Genus species
 description: Field notes and identification details for *Genus species* (Common Name) based on field observations and regional references in REGION.
@@ -9,10 +9,10 @@ keywords: "Genus species damselfly, common name damselfly, REGION damselflies, d
 ## *Genus species*
 {: .taxonomy-heading}
 
-### Family: [FamilyName](/field-notes/odonata/zygoptera/family/familyname/)
+### Family: [FamilyName](/field-notes/insects/odonata/zygoptera/family/familyname/)
 {: .taxonomy-heading .taxonomy-last}
 
-[**Common Name**](/gallery/insects/damselflies/genus-species/) (*Genus species*) is a brief, readable overview of the species in the field—its typical appearance, behavior, and where it is most often encountered. Keep this paragraph image-forward and observational rather than technical.
+[**Common Name**](/gallery/insects/damselflies/genus-species/) (*Genus species*) is a brief, readable overview of the species in the fieldâ€”its typical appearance, behavior, and where it is most often encountered. Keep this paragraph image-forward and observational rather than technical.
 
 For representative images and visual context, see the page: [**Common Name**](/gallery/insects/damselflies/genus-species/) in the **Gallery** section.
 
@@ -26,7 +26,7 @@ For representative images and visual context, see the page: [**Common Name**](/g
 - **Size:** approximate length or relative size  
 - **Color pattern:** typical male and female coloration  
 - **Thorax:** stripes, shoulder pattern, pruinosity  
-- **Abdomen:** key segment markings (especially segments 2 and 8–10)  
+- **Abdomen:** key segment markings (especially segments 2 and 8â€“10)  
 - **Wings:** clear or tinted; posture at rest  
 - **Eyes:** color and separation  
 - **Sex differences:** major differences between males and females  

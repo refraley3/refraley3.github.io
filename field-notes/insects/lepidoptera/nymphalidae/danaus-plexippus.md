@@ -5,7 +5,7 @@ title: Danaus plexippus
 description: Field notes and identification details for *Danaus plexippus* (Monarch) based on field observations and regional references in Minnesota and the Upper Midwest.
 tags: [insect, Danaus plexippus, monarch, monarch butterfly, lepidoptera, nymphalidae, butterfly, milkweed, Minnesota, field-notes]
 keywords: "Danaus plexippus insect, Monarch butterfly, Monarch caterpillar, Minnesota butterflies, milkweed butterfly, butterfly identification"
-------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## *Danaus plexippus*
 {: .taxonomy-heading}

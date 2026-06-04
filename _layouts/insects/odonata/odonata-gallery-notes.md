@@ -1,4 +1,4 @@
----
+﻿---
 layout: photo
 title: COMMON NAME
 description: Gallery images of *Genus species* (Common Name), photographed in REGION.
@@ -6,7 +6,7 @@ tags: [odonate, Genus species, Odonata, suborder-name, family-name, region, fiel
 keywords: "Genus species odonate, common name dragonfly or damselfly, REGION odonates"
 ---
 
-## [*Genus species*](/field-notes/odonata/suborder-name/family-name/)
+## [*Genus species*](/field-notes/insects/odonata/suborder-name/family-name/)
 {: .taxonomy-last}
 
 DESCRIPTIVE PARAGRAPH GOES HERE. This should emphasize habitat, behavior,
@@ -27,7 +27,7 @@ _IMAGE KICKER LINE._
 Camera: CAMERA MODEL  
 Lens: LENS  
 Settings: SETTINGS  
-FILENAME • Size: DIMENSIONS  
+FILENAME â€¢ Size: DIMENSIONS  
 {: .caption}
 
 ---
@@ -39,7 +39,7 @@ _IMAGE KICKER LINE._
 Camera: CAMERA MODEL  
 Lens: LENS  
 Settings: SETTINGS  
-FILENAME • Size: DIMENSIONS  
+FILENAME â€¢ Size: DIMENSIONS  
 {: .caption}
 
 ---
@@ -51,7 +51,8 @@ _IMAGE KICKER LINE._
 Camera: CAMERA MODEL  
 Lens: LENS  
 Settings: SETTINGS  
-FILENAME • Size: DIMENSIONS  
+FILENAME â€¢ Size: DIMENSIONS  
 {: .caption}
 
 ---
+
