@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Field Notes
 
@@ -81,10 +81,10 @@ fungi_and_lichens:
     image_x: right
     image_y: center
 
-plant_groups_:
+plant_groups:
   - title: Plants
     url: /field-notes/plants/
-    image: /gallery/plants/wildflowers/assets/columbine/E22A3559-68-1.jpg
+    image: /gallery/plants/wildflowers/assets/wild-columbine/E22A3559-68-1.jpg
     alt: Plants
     kicker: Plant field notes
     text: Field notes and family guides for plants, emphasizing form, habitat, and seasonal context
@@ -155,7 +155,7 @@ field_essays:
     image: /gallery/plants/wildflowers/assets/rue-anemone/E21A1432.jpg
     alt: First Quiet Voices of Spring
     kicker: The first colors beneath bare branches.
-    text: Rue Anemones bloom after rain â€” fragile, pale, and brief â€” marking the quiet return of life to the woodland floor.
+    text: Rue Anemones bloom after rain — fragile, pale, and brief — marking the quiet return of life to the woodland floor.
     width: 600px
     height: 400px
     image_x: right
@@ -177,7 +177,7 @@ comparative_notes:
     url: /field-notes/comparing-four-pine-species/
     image: /gallery/plants/trees/assets/austrian-pine/E21A7573.jpg
     alt: Comparing Four Pine Species
-    kicker: Austrian Pine Â· Jack Pine Â· Red Pine Â· Lodgepole Pine
+    kicker: Austrian Pine · Jack Pine · Red Pine · Lodgepole Pine
     text: This guide compares four common or commonly planted pines in Minnesota and the Upper Midwest.
     width: 600px
     height: 400px
@@ -216,7 +216,6 @@ comparative_notes:
 </section>
 {:/nomarkdown}
 
-
 ## Animal Groups
 
 {::nomarkdown}
@@ -232,7 +231,7 @@ comparative_notes:
 ## Plant groups
 
 {::nomarkdown}
-{% include tile-grid.html tiles=page.plant_groups_ %}
+{% include tile-grid.html tiles=page.plant_groups %}
 {:/nomarkdown}
 
 ## Checklists & ID Guides
@@ -254,5 +253,3 @@ comparative_notes:
 {::nomarkdown}
 {% include tile-grid.html tiles=page.comparative_notes %}
 {:/nomarkdown}
-
-
