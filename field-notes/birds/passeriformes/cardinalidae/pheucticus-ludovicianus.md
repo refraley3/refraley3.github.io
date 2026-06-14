@@ -4,14 +4,12 @@ title: Pheucticus ludovicianus
 description: Field notes and identification details for *Pheucticus ludovicianus* (Rose-breasted Grosbeak) based on observations in Minnesota.
 tags: [bird, Pheucticus ludovicianus, rose-breasted grosbeak, grosbeak, Cardinalidae, woodland birds, Minnesota, field-notes]
 keywords: "Rose-breasted Grosbeak, Pheucticus ludovicianus, Minnesota birds, grosbeak identification, woodland songbirds"
--------------------------------------------------------------------------------------------------------------------------
+---
 
 ## *Pheucticus ludovicianus*
-
 {: .taxonomy-heading}
 
 ### Family: [Cardinalidae](/field-notes/birds/passeriformes/cardinalidae/)
-
 {: .taxonomy-heading .taxonomy-last}
 
 [**Rose-breasted Grosbeak**](/gallery/animals/birds/perching/rose-breasted-grosbeak/) (*Pheucticus ludovicianus*) is a striking woodland songbird known for the male’s black-and-white plumage, heavy pale bill, and vivid rose-red breast patch. In Minnesota, it is a warm-season species often seen in leafy woodlands, parks, woodland edges, and yards during spring and summer.
