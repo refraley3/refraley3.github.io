@@ -6,7 +6,7 @@ description: Field observations of pear-shaped puffball.
 
 ###  (*Lycoperdon pyriforme*)
 
-![Pear-shaped Puffball on mossy white oak](/gallery/fungi/mushrooms/assets/pear-shaped-puffball/E21A6643.jpg)
+![Pear-shaped Puffball on mossy white oak](/gallery/fungi/puffballs/assets/pear-shaped-puffball/E21A6643.jpg)
 
 ---
 
@@ -24,7 +24,7 @@ The pear-shaped puffball (*Lycoperdon pyriforme*) is a small woodland fungus fou
 * **Interior (Gleba):** White and firm when young, turning olive-brown and powdery at maturity.
 * **Spore Release:** Occurs through a small pore at the top — releasing a visible brown puff when touched.
 
-![Close-up of mature puffball releasing spores](/gallery/fungi/mushrooms/assets/pear-shaped-puffball/E21A6627.jpg)
+![Close-up of mature puffball releasing spores](/gallery/fungi/puffballs/assets/pear-shaped-puffball/E21A6627.jpg)
 
 ---
 
@@ -34,7 +34,7 @@ The pear-shaped puffball (*Lycoperdon pyriforme*) is a small woodland fungus fou
 * **Environment:** Moist, shaded forests — often beneath oaks or maples.
 * **Season:** Late summer through autumn, occasionally persisting into early winter.
 
-![Cluster of pear-shaped puffballs on a decaying log](/gallery/fungi/mushrooms/assets/pear-shaped-puffball/E21A6629-41.jpg)
+![Cluster of pear-shaped puffballs on a decaying log](/gallery/fungi/puffballs/assets/pear-shaped-puffball/E21A6629-41.jpg)
 
 ---
 

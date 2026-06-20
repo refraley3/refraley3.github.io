@@ -14,20 +14,45 @@
 </head>
 <body>
   <header class="border-bottom">
-    <nav class="container d-flex gap-3 py-3 align-items-center">
+    <nav class="container d-flex gap-3 py-3 align-items-center navbar">
       <a class="fw-bold text-decoration-none" href="/">
         <img src="/assets/logo/R_Fraley_Logo_Wht.png" 
           alt="R. Fraley" 
-          style="height:28px; vertical-align:middle; margin-right:14px;">
+          style="height:36px; vertical-align:middle; margin-right:14px;">
         </a>
-      <a href="/gallery/">Gallery</a>
-<a href="/gallery/animals/">Animals</a>
-<a href="/gallery/fungi/">Fungi</a>
-<a href="/gallery/animals/insects/">Insects</a>
-<a href="/gallery/landscapes/">Landscapes</a>
-<a href="/gallery/macros/">Macros</a>
-<a href="/gallery/plants/">Plants</a>
-<a href="/field-notes/">Field Notes</a>
+      
+<ul class="nav-menu">
+    <li>
+        <a href="/gallery/">Gallery</a>
+    </li>
+    <li class="dropdown">
+        <button class="dropdown-toggle" type="button" area-expanded="false">Animals</button>
+
+        <ul class="dropdown-content">
+            <li><a href="/gallery/animals/">Animals</a></li>
+            <li><a href="/gallery/animals/arachnids/">Arachnids</a></li>
+            <li><a href="/gallery/animals/birds/">Birds</a></li>
+            <li><a href="/gallery/animals/insects/">Insects</a></li>
+            <li><a href="/gallery/animals/mammals/">Mammals</a></li>
+        </ul>
+    </li>
+    <li class="dropdown">
+        <button class="dropdown-toggle" type="button" area-expanded="false">Fungi</button>
+
+        <ul class="dropdown-content">
+            <li><a href="/gallery/fungi/">Fungi</a></li>
+            <li><a href="/gallery/fungi/crusts">Crust</a></li>
+            <li><a href="/gallery/fungi/lichens">Lichen</a></li>
+            <li><a href="/gallery/fungi/mushrooms">Mushrooms</a></li>
+            <li><a href="/gallery/fungi/puffballs/pear-shaped-puffball/">Puffballs</a></li>
+            <li><a href="/gallery/fungi/rusts/ash-rust/">Rusts</a></li>
+        </ul>
+    </li>
+    <li><a href="/gallery/landscapes/">Landscapes</a></li>
+    <li><a href="/gallery/macros/">Macros</a></li>
+    <li><a href="/gallery/plants/">Plants</a></li>
+    <li><a href="/field-notes/">Field Notes</a></li>
+</ul>
 
     </nav>
   </header>
@@ -190,5 +215,32 @@ Dame’s Rocket thrives where sun meets shade and soil stays moist. Its blooms g
       </a>
     </div>
   </footer>
+  <script>
+    document.querySelectorAll(".dropdown-toggle").forEach(function (button) {
+      button.addEventListener("click", function (event) {
+        event.stopPropagation();
+
+        const dropdown = button.closest(".dropdown");
+        const isOpen = dropdown.classList.contains("open");
+
+        document.querySelectorAll(".dropdown.open").forEach(function (openDropdown) {
+          openDropdown.classList.remove("open");
+          openDropdown.querySelector(".dropdown-toggle").setAttribute("aria-expanded", "false");
+        });
+
+        if (!isOpen) {
+          dropdown.classList.add("open");
+          button.setAttribute("aria-expanded", "true");
+        }
+      });
+    });
+
+    document.addEventListener("click", function () {
+      document.querySelectorAll(".dropdown.open").forEach(function (dropdown) {
+        dropdown.classList.remove("open");
+        dropdown.querySelector(".dropdown-toggle").setAttribute("aria-expanded", "false");
+      });
+    });
+  </script>
 </body>
 </html>

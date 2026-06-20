@@ -14,20 +14,45 @@
 </head>
 <body>
   <header class="border-bottom">
-    <nav class="container d-flex gap-3 py-3 align-items-center">
+    <nav class="container d-flex gap-3 py-3 align-items-center navbar">
       <a class="fw-bold text-decoration-none" href="/">
         <img src="/assets/logo/R_Fraley_Logo_Wht.png" 
           alt="R. Fraley" 
-          style="height:28px; vertical-align:middle; margin-right:14px;">
+          style="height:36px; vertical-align:middle; margin-right:14px;">
         </a>
-      <a href="/gallery/">Gallery</a>
-<a href="/gallery/animals/">Animals</a>
-<a href="/gallery/fungi/">Fungi</a>
-<a href="/gallery/animals/insects/">Insects</a>
-<a href="/gallery/landscapes/">Landscapes</a>
-<a href="/gallery/macros/">Macros</a>
-<a href="/gallery/plants/">Plants</a>
-<a href="/field-notes/">Field Notes</a>
+      
+<ul class="nav-menu">
+    <li>
+        <a href="/gallery/">Gallery</a>
+    </li>
+    <li class="dropdown">
+        <button class="dropdown-toggle" type="button" area-expanded="false">Animals</button>
+
+        <ul class="dropdown-content">
+            <li><a href="/gallery/animals/">Animals</a></li>
+            <li><a href="/gallery/animals/arachnids/">Arachnids</a></li>
+            <li><a href="/gallery/animals/birds/">Birds</a></li>
+            <li><a href="/gallery/animals/insects/">Insects</a></li>
+            <li><a href="/gallery/animals/mammals/">Mammals</a></li>
+        </ul>
+    </li>
+    <li class="dropdown">
+        <button class="dropdown-toggle" type="button" area-expanded="false">Fungi</button>
+
+        <ul class="dropdown-content">
+            <li><a href="/gallery/fungi/">Fungi</a></li>
+            <li><a href="/gallery/fungi/crusts">Crust</a></li>
+            <li><a href="/gallery/fungi/lichens">Lichen</a></li>
+            <li><a href="/gallery/fungi/mushrooms">Mushrooms</a></li>
+            <li><a href="/gallery/fungi/puffballs/pear-shaped-puffball/">Puffballs</a></li>
+            <li><a href="/gallery/fungi/rusts/ash-rust/">Rusts</a></li>
+        </ul>
+    </li>
+    <li><a href="/gallery/landscapes/">Landscapes</a></li>
+    <li><a href="/gallery/macros/">Macros</a></li>
+    <li><a href="/gallery/plants/">Plants</a></li>
+    <li><a href="/field-notes/">Field Notes</a></li>
+</ul>
 
     </nav>
   </header>
@@ -217,12 +242,12 @@
         <img src="/gallery/animals/insects/dragonflies/assets/twelve-spotted-skimmer/D79A3834.jpg" class="cover" alt="Twelve-spotted Skimmer in flight with wings spread">
       </a>
       <p class="caption">
-        <strong>Twelve-spotted Skimmer</strong><br>
-        <em>A dynamic shot of a Twelve-spotted Skimmer captured mid-flight, showcasing its distinctive wing pattern and vibrant colors.</em><br>
-        Camera: Canon EOS 5D Mark IV<br>
-        Lens: EF100-400mm f/4.5-5.6L IS USM<br>
-        Settings: ISO 800 * Aperture f/14.0 * Shutter 1/640 s<br>
-        D79A3834 &bull; Size: 800 x 533
+        <a href="/gallery/animals/insects/dragonflies/twelve-spotted-skimmer/">
+          <strong>Twelve-spotted Skimmer</strong>
+        </a><br>
+        <a href="/field-notes/insects/odonata/anisoptera/libellulidae/libellula-puylchella/">
+          <em>Libellula puylchella</em>
+        </a>
       </p>
     </div>
 
@@ -231,26 +256,26 @@
         <img src="/gallery/animals/insects/dragonflies/assets/common-green-darner/E21A5010.jpg" class="cover" alt="Common Green Darner perched on a leaf with wings folded back">
       </a>
       <p class="caption">
-        <strong>Common Green Darner</strong><br>
-        <em>A serene image of a Common Green Darner perched on a leaf, its wings folded back and body displaying its characteristic green coloration.</em><br>
-        Camera: Canon EOS 5D Mark IV<br>
-        Lens: EF100-400mm f/4.5-5.6L IS USM<br>
-        Settings: ISO 800 * Aperture f/14.0 * Shutter 1/640 s<br>
-        E21A5010 &bull; Size: 800 x 533
+        <a href="/gallery/animals/insects/dragonflies/common-green-darner/">
+          <strong>Common Green Darner</strong>
+        </a><br>
+        <a href="/field-notes/insects/odonata/anisoptera/libellulidae/libellula-commonis/">
+          <em>Libellula commonis</em>
+        </a>
       </p>
     </div>
 
     <div class="tile" role="listitem">
       <a href="/gallery/animals/insects/dragonflies/blue-dasher/">
-        <img src="/gallery/animals/insects/dragonflies/assets/blue-dasher/E22A5250.jpg" class="cover" alt="Blue Dasher perched on a rock near water">
+        <img src="/gallery/animals/insects/dragonflies/assets/blue-dasher/E22A5251.jpg" class="cover" alt="Blue Dasher perched on a rock near water">
       </a>
       <p class="caption">
-        <strong>Blue Dasher</strong><br>
-        <em>A Blue Dasher rests on a rock near the water's edge, its vibrant blue body contrasting with the natural surroundings.</em><br>
-        Camera: Canon EOS 5D Mark IV<br>
-        Lens: EF100-400mm f/4.5-5.6L IS USM<br>
-        Settings: ISO 800 * Aperture f/14.0 * Shutter 1/640 s<br>
-        E22A5250 &bull; Size: 800 x 533
+        <a href="/gallery/animals/insects/dragonflies/blue-dasher/">
+          <strong>Blue Dasher</strong>
+        </a><br>
+        <a href="/field-notes/insects/odonata/anisoptera/libellulidae/libellula-azurea/">
+          <em>Libellula azurea</em>
+        </a>
       </p>
     </div>
 
@@ -259,12 +284,12 @@
         <img src="/gallery/animals/insects/dragonflies/assets/autumn-meadowhawk/D79A0209.jpg" class="cover" alt="Autumn Meadowhawk perched on a blade of grass">
       </a>
       <p class="caption">
-        <strong>Autumn Meadowhawk</strong><br>
-        <em>An Autumn Meadowhawk is captured perched on a blade of grass, its reddish body and delicate wings highlighted in the soft light.</em><br>
-        Camera: Canon EOS 5D Mark IV<br>
-        Lens: EF100-400mm f/4.5-5.6L IS USM<br>
-        Settings: ISO 800 * Aperture f/14.0 * Shutter 1/640 s<br>
-        D79A0209 &bull; Size: 800 x 533
+        <a href="/gallery/animals/insects/dragonflies/autumn-meadowhawk/">
+          <strong>Autumn Meadowhawk</strong>
+        </a><br>
+        <a href="/field-notes/insects/odonata/anisoptera/libellulidae/libellula-autumnalis/">
+          <em>Libellula autumnalis</em>
+        </a>
       </p>
     </div>
 
@@ -273,12 +298,12 @@
         <img src="/gallery/animals/insects/dragonflies/assets/dot-tailed-whiteface/E22A4646.jpg" class="cover" alt="Dot-tailed Whiteface perched on a twig with metallic green body visible">
       </a>
       <p class="caption">
-        <strong>Dot-tailed Whiteface</strong><br>
-        <em>Dot-tailed Whiteface</em><br>
-        Camera: Canon EOS 5D Mark IV<br>
-        Lens: EF100-400mm f/4.5-5.6L IS USM<br>
-        Settings: ISO 800 * Aperture f/14.0 * Shutter 1/640 s<br>
-        E22A4646 &bull; Size: 800 x 533
+        <a href="/gallery/animals/insects/dragonflies/dot-tailed-whiteface/">
+          <strong>Dot-tailed Whiteface</strong>
+        </a><br>
+        <a href="/field-notes/insects/odonata/anisoptera/libellulidae/libellula-dotata/">
+          <em>Libellula dotata</em>
+        </a>
       </p>
     </div>
 
@@ -287,12 +312,12 @@
         <img src="/gallery/animals/insects/dragonflies/assets/halloween-pennant/E21A2116-1.jpg" class="cover" alt="Halloween Pennant perched on a branch with wings spread">
       </a>
       <p class="caption">
-        <strong>Halloween Pennant</strong><br>
-        <em>A Halloween Pennant is perched on a branch with its wings spread, showcasing its vibrant orange and black pattern.</em><br>
-        Camera: Canon EOS 5D Mark IV<br>
-        Lens: EF100-400mm f/4.5-5.6L IS USM<br>
-        Settings: ISO 800 * Aperture f/14.0 * Shutter 1/640 s<br>
-        E21A2116 &bull; Size: 2400 x 
+        <a href="/gallery/animals/insects/dragonflies/halloween-pennant/">
+          <strong>Halloween Pennant</strong>
+        </a><br>
+        <a href="/field-notes/insects/odonata/anisoptera/libellulidae/libellula-halloweeni/">
+          <em>Libellula halloweeni</em>
+        </a>
       </p>
     </div>
 
@@ -301,12 +326,12 @@
         <img src="/gallery/animals/insects/dragonflies/assets/white-faced-meadowhawk/E21A3927.jpg" class="cover" alt="White-faced Meadowhawk perched on a leaf with wings folded back">
       </a>
       <p class="caption">
-        <strong>White-faced Meadowhawk</strong><br>
-        <em>A White-faced Meadowhawk is captured perched on a leaf, its wings folded back and distinctive white face clearly visible.</em><br>
-        Camera: Canon EOS 5D Mark IV<br>
-        Lens: EF100-400mm f/4.5-5.6L IS USM<br>
-        Settings: ISO 800 * Aperture f/14.0 * Shutter 1/640 s<br>
-        E21A3927 &bull; Size: 800 x 533
+        <a href="/gallery/animals/insects/dragonflies/white-faced-meadowhawk/">
+          <strong>White-faced Meadowhawk</strong>
+        </a><br>
+        <a href="/field-notes/insects/odonata/anisoptera/libellulidae/libellula-albifacies/">
+          <em>Libellula albifacies</em>
+        </a>
       </p>
     </div>
 
@@ -315,12 +340,12 @@
         <img src="/gallery/animals/insects/dragonflies/assets/widdow-skimmer/E21A1832.jpg" class="cover" alt="Widdow Skimmer perched on a twig with wings spread">
       </a>
       <p class="caption">
-        <strong>Widdow Skimmer</strong><br>
-        <em>A Widdow Skimmer is perched on a twig with its wings spread, displaying its distinctive black and white wing pattern.</em><br>
-        Camera: Canon EOS 5D Mark IV<br>
-        Lens: EF100-400mm f/4.5-5.6L IS USM<br>
-        Settings: ISO 800 * Aperture f/14.0 * Shutter 1/640 s<br>
-        E21A1832 &bull; Size: 800 x 533
+        <a href="/gallery/animals/insects/dragonflies/widdow-skimmer/">
+          <strong>Widdow Skimmer</strong>
+        </a><br>
+        <a href="/field-notes/insects/odonata/anisoptera/libellulidae/libellula-widdowii/">
+          <em>Libellula widdowii</em>
+        </a>
       </p>
     </div>
 
@@ -351,5 +376,32 @@
       </a>
     </div>
   </footer>
+  <script>
+    document.querySelectorAll(".dropdown-toggle").forEach(function (button) {
+      button.addEventListener("click", function (event) {
+        event.stopPropagation();
+
+        const dropdown = button.closest(".dropdown");
+        const isOpen = dropdown.classList.contains("open");
+
+        document.querySelectorAll(".dropdown.open").forEach(function (openDropdown) {
+          openDropdown.classList.remove("open");
+          openDropdown.querySelector(".dropdown-toggle").setAttribute("aria-expanded", "false");
+        });
+
+        if (!isOpen) {
+          dropdown.classList.add("open");
+          button.setAttribute("aria-expanded", "true");
+        }
+      });
+    });
+
+    document.addEventListener("click", function () {
+      document.querySelectorAll(".dropdown.open").forEach(function (dropdown) {
+        dropdown.classList.remove("open");
+        dropdown.querySelector(".dropdown-toggle").setAttribute("aria-expanded", "false");
+      });
+    });
+  </script>
 </body>
 </html>
