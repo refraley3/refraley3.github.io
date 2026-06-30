@@ -24,3 +24,21 @@ _Vespa crabro_
 **Bicolored Striped Sweat Bee**  
 _Augochlorella striata_  
 ](/gallery/animals/insects/bees/bicolored-striped-sweat-bee){: . tile role="listitem"}
+
+
+<div class="tile" role="listitem">
+  <a class="image-card" href="/gallery/animals/insects/bees/#oak-apple-wasp-gall-e22a6100">
+    <img src="/gallery/animals/insects/bees/assets/oak-apple-wasp/E22A6100.jpg" class="cover" alt="Empty oak apple wasp gall with a small exit hole left of center" id="oak-apple-wasp-gall-e22a6100">
+  </a>
+  <p class="caption">
+    <strong>Oak Apple Wasp Gall</strong><br>
+    <em>Amphibolips quercusinanis</em><br>
+    Camera: Canon EOS 5D Mark IV<br>
+    Lens: EF100mm f/2.8L Macro IS USM<br>
+    Settings: ISO 800 &bull; Aperture f/13.0 &bull; Shutter 4 s<br>
+    E22A6100 &bull; Size: 6720 x 4480
+  </p>
+  <p>
+    The small hole left of center is the exit of an adult wasp. Oak apple galls are induced by cynipid gall wasps and develop as spherical growths on oak leaves, turning a tiny insect interaction into a visible structure.
+  </p>
+</div>
