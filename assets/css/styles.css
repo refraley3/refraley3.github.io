@@ -374,8 +374,8 @@ main h2 {
   margin-bottom: 2em;
 }
 
-.caption p {
-  text-align: center;
+.description {
+  text-align: left;
 }
 
 /* =========================
