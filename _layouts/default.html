@@ -65,21 +65,33 @@
         const isOpen = dropdown.classList.contains("open");
 
         document.querySelectorAll(".dropdown.open").forEach(function (openDropdown) {
-          openDropdown.classList.remove("open");
-          openDropdown.querySelector(".dropdown-toggle").setAttribute("aria-expanded", "false");
+          const sameDropdown = openDropdown === dropdown;
+          const isAncestor = openDropdown.contains(dropdown);
+          const isChild = dropdown.contains(openDropdown);
+
+          if (!sameDropdown && !isAncestor && !isChild) {
+            openDropdown.classList.remove("open");
+
+            const toggle = openDropdown.querySelector(":scope > .dropdown-toggle");
+            if (toggle) {
+              toggle.setAttribute("aria-expanded", "false");
+            }
+          }
         });
 
-        if (!isOpen) {
-          dropdown.classList.add("open");
-          button.setAttribute("aria-expanded", "true");
-        }
+        dropdown.classList.toggle("open", !isOpen);
+        button.setAttribute("aria-expanded", String(!isOpen));
       });
     });
 
     document.addEventListener("click", function () {
       document.querySelectorAll(".dropdown.open").forEach(function (dropdown) {
         dropdown.classList.remove("open");
-        dropdown.querySelector(".dropdown-toggle").setAttribute("aria-expanded", "false");
+
+        const toggle = dropdown.querySelector(":scope > .dropdown-toggle");
+        if (toggle) {
+          toggle.setAttribute("aria-expanded", "false");
+        }
       });
     });
   </script>

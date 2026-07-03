@@ -75,6 +75,7 @@ main h2 {
    3. NAVIGATION
    ========================= */
 
+/*
 .navbar {
   overflow: visible;
   background-color: #111;
@@ -89,6 +90,12 @@ main h2 {
   flex: 0 0 auto;
   font-weight: bold;
   color: #ffffff !important;
+}
+
+.nav-logo {
+  display: block;
+  width: 42px;
+  height: auto;
 }
 
 .nav-menu {
@@ -138,6 +145,14 @@ main h2 {
   padding: 0;
 }
 
+.level-2 {
+  z-index: 20;
+}
+
+.level-3 {
+  z-index: 30;
+}
+
 .dropdown-content li {
   width: 100%;
 }
@@ -149,6 +164,97 @@ main h2 {
 
 .dropdown.open .dropdown-content {
   display: block;
+}
+
+*/
+.navbar {
+  background-color: #111;
+  overflow: visible;
+  display: flex;
+  align-items: center;
+  padding: 0 90px;
+  border-bottom: 1px solid #777;
+}
+
+.navbar-brand {
+  flex: 0 0 auto;
+  margin-right: 40px;
+}
+
+.nav-logo {
+  display: block;
+  width: 42px;
+  height: auto;
+}
+
+.nav-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  gap: 28px;
+}
+
+.nav-menu,
+.dropdown-content {
+  list-style: none;
+}
+
+.nav-menu > li {
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.nav-menu a,
+.dropdown-toggle {
+  display: block;
+  width: 100%;
+  color: white;
+  background: none;
+  border: none;
+  text-align: left;
+  padding: 14px 12px;
+  text-decoration: none;
+  font: inherit;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.nav-menu > li > a,
+.nav-menu > li > .dropdown-toggle {
+  text-align: center;
+}
+
+.nav-menu a:hover,
+.dropdown-toggle:hover {
+  background-color: #575757;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #444;
+  min-width: 190px;
+  z-index: 10;
+  top: 100%;
+  left: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.dropdown.open > .dropdown-content {
+  display: block;
+}
+
+.nested-dropdown {
+  position: relative;
+}
+
+.nested-content {
+  top: 0;
+  left: 100%;
+  background-color: #4a4a4a;
 }
 
 /* =========================
