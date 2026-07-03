@@ -77,9 +77,16 @@ main h2 {
 
 .navbar {
   overflow: visible;
+  background-color: #111;
+  overflow: visible;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding: 0 90px;
 }
 
 .navbar-brand {
+  flex: 0 0 auto;
   font-weight: bold;
   color: #ffffff !important;
 }
@@ -89,11 +96,11 @@ main h2 {
   margin: 0;
   padding: 0;
   display: flex;
-  align-items: center;
+  align-items: left;
   gap: 4px;
 }
 
-.nav-menu > li {
+.nav-menu li {
   position: left;
   flex: 0 0 auto;
 }
@@ -105,8 +112,8 @@ main h2 {
   color: whitesmoke;
   background: none;
   border: none;
-  text-align: center;
-  padding: 10px 52px;
+  text-align: left;
+  padding: 5px 13px;
   text-decoration: none;
   font: inherit;
   cursor: pointer;
