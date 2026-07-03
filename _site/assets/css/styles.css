@@ -172,13 +172,18 @@ main h2 {
   overflow: visible;
   display: flex;
   align-items: center;
-  padding: 0 90px;
+  padding: 0 24px;
   border-bottom: 1px solid #777;
+}
+
+.navbar > a:first-child {
+  flex: 0 0 auto;
+  margin-right: 16px;       /* reduce logo-to-menu gap */
 }
 
 .navbar-brand {
   flex: 0 0 auto;
-  margin-right: 40px;
+  margin-right: 16px;
 }
 
 .nav-logo {
@@ -193,7 +198,7 @@ main h2 {
   padding: 0;
   display: flex;
   align-items: center;
-  gap: 28px;
+  gap: 12px;
 }
 
 .nav-menu,
@@ -214,7 +219,7 @@ main h2 {
   background: none;
   border: none;
   text-align: left;
-  padding: 14px 12px;
+  padding: 7px 6px;
   text-decoration: none;
   font: inherit;
   cursor: pointer;
@@ -238,7 +243,8 @@ main h2 {
   min-width: 190px;
   z-index: 10;
   top: 100%;
-  left: 0;
+  left: auto;
+  right: 0;
   margin: 0;
   padding: 0;
 }
@@ -253,7 +259,8 @@ main h2 {
 
 .nested-content {
   top: 0;
-  left: 100%;
+  left: auto;
+  right: 100%;
   background-color: #4a4a4a;
 }
 
