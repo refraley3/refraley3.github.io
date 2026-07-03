@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Insect Field Notes
 description: Field notes and identification details for insects based on observations in Minnesota.
