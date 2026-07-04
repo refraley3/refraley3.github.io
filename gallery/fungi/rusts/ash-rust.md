@@ -19,9 +19,8 @@ For identification details and comparison with other similar species, see the [*
 
 ---
 
-![Ash Rust on Young Ash Leaf](/gallery/fungi/assets/ash-rust-fungus/E21A1588.jpg)
+![Ash Rust on Young Ash Leaf](/gallery/fungi/rusts/assets/ash-rust-fungus/E21A1588.jpg)
 {: .cover role="img" aria-label="Ash Rust on Young Ash Leaf" id="ash-rust-leaf-01"}
-
 **Ash Rust on Young Ash Leaf**  
 _Clusters of bright orange rust erupt across the underside of a curled ash leaf._  
 Camera: Canon EOS 5D Mk IV  
@@ -38,7 +37,7 @@ A striking fungal infection that adorns ash leaves and young twigs with vivid or
 
 Aecia are bright orange cups that release large numbers of spores that can spread to an alternate host plant. Each cup often develops a delicate, frilled rim where the outer wall has split open, leaving the leaf surface dotted with what look like miniature orange crowns.
 
-![Ash Rust Aecia on Leaf Surface](/gallery/fungi/assets/ash-rust-fungus/E21A1600.jpg)
+![Ash Rust Aecia on Leaf Surface](/gallery/fungi/rusts/assets/ash-rust-fungus/E21A1600.jpg)
 {: .gallery-image role="img" aria-label="Ash Rust Aecia on Leaf Surface"}  
 **Ash Rust Aecia on Leaf Surface**  
 _Close-up view of the spore cups formed by Ash Rust._  
@@ -50,7 +49,7 @@ E21A1600 • Size: 1209×806
 
 On thicker plant tissue such as leaf stems, Ash Rust aecia often appear as small rounded pustules rather than open cups. As they mature, the outer wall may split to release spores, but the opening is usually smaller than those formed on the leaf blade.
 
-![Ash Rust Aecia on Leaf Stem](/gallery/fungi//assets/ash-rust-fungus/E21A1602.jpg)
+![Ash Rust Aecia on Leaf Stem](/gallery/fungi/rusts/assets/ash-rust-fungus/E21A1602.jpg)
 {: .gallery-image role="img" aria-label="Ash Rust Aecia on Leaf Stem"}  
 **Ash Rust Aecia on Leaf Stem**  
 _Aecia developing along the petiole of a young ash leaf._  
