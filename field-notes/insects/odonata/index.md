@@ -1,6 +1,8 @@
-﻿---
+---
 layout: default
 title: Odonata (Dragonflies & Damselflies)
+description: Field notes and identification details for dragonflies and damselflies.
+tags: [insect, zygoptera, Anisoptera, nymph]
 ---
 
 Odonata is an ancient order of predatory insects that includes both dragonflies and damselflies.  
