@@ -122,6 +122,8 @@ Skimmers are often recognized by their open-winged perch posture, colorful bodie
 
 * [**Halloween Pennant**](/gallery/animals/insects/dragonflies/halloween-pennant/) — [*Celithemis eponina*](/field-notes/insects/odonata/anisoptera/libellulidae/celithemis-eponina/)
 
+* [**Eastern Pondhawk**](/gallery/animals/insects/dragonflies/eastern-pondhawk/) - [*Erythemis simpliciollis*](/field-notes/insects/odonata/anisoptera/libellulidae/erythemis-simplicicollis/)
+
 ---
 
 *Family overview intended for field study and photographic reference; close inspection and, when necessary, examination of appendages, genitalia, or larval characters may be required for confident identification.*
