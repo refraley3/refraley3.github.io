@@ -13,13 +13,13 @@ For identification details and comparison with similar species, see the [*Turdus
 
 ---
 ### Perched in Spring
-![Perched in Spring](/gallery/animals/birds/assets/perching/american-robin/IMG_0007.jpg){: .cover role="img" aria-label="Perched in Spring"}
+![Perched in Spring](/gallery/animals/birds/assets/perching/american-robin/D50A1905.jpg){: .cover role="img" aria-label="Perched in Spring"}
 **Perched in Spring**  
 _A moment of stillness amid the early spring growth._  
-Camera: Canon EOS 5D Mk IV  
-Lens: EF100-400mm f/4.5-5.6L IS USM +1.4x  
-Settings: ISO 100 • Aperture f/8.0 • Shutter 1/320 s  
-E21A1913 • Size: 3517x2345
+Camera: Canon EOS 50D  
+Lens: EF100mm f/2.8 Macro USM
+Settings: ISO 100 • Aperture f/8.0 • Shutter 1/60 s  
+D50A1905 • Size: 2000 x 1333
 {:.caption}
 
 ---
