@@ -20,7 +20,7 @@ Perched near the top of the pine, the Blue Jay holds a clear, open position agai
 Camera: Canon EOS 5D Mark IV  
 Lens: EF100-400mm f/4.5-5.6L IS II USM  
 Settings: ISO 100 • Aperture f/5.6 • Shutter 1/320 s  
-E21A4708 • Size: 1194x796  
+E21A4708 • Size: 1194 x 796  
 {: .caption}
 
 ---
@@ -41,7 +41,7 @@ _A poised instant before the first wingbeat._
 Camera: Canon EOS 5D Mark IV  
 Lens: EF100-400mm f/4.5-5.6L IS II USM  
 Settings: ISO 800 • Aperture f/6.3 • Shutter 1/600 s  
-E21A4776 • Size: 2861x1907  
+E21A4776 • Size: 2861 x 1907  
 {:.caption}
 
 The launch frame works as a transition between stillness and motion. The bird remains tied to the perch for one last instant, making the direction of the next sequence feel clear and intentional.
@@ -56,7 +56,7 @@ _Lifting clear of the perch._
 Camera: Canon EOS 5D Mark IV  
 Lens: EF100-400mm f/4.5-5.6L IS II USM  
 Settings: ISO 800 • Aperture f/6.3 • Shutter 1/600 s  
-E21A4777 • Size: 2451x1634  
+E21A4777 • Size: 2451 x 1634  
 {:.caption}
 
 </div>
@@ -69,7 +69,7 @@ _Blue and gray briefly held between beats._
 Camera: Canon EOS 5D Mark IV  
 Lens: EF100-400mm f/4.5-5.6L IS II USM  
 Settings: ISO 320 • Aperture f/6.3 • Shutter 1/600 s  
-E21A4792 • Size: 4506x3004  
+E21A4792 • Size: 4506 x 3004  
 {:.caption}
 
 </div>
@@ -90,7 +90,7 @@ _A direct line across bright air._
 Camera: Canon EOS 5D Mark IV  
 Lens: EF100-400mm f/4.5-5.6L IS II USM  
 Settings: ISO 320 • Aperture f/6.3 • Shutter 1/600 s  
-E21A4791 • Size: 4506x3004  
+E21A4791 • Size: 4506 x 3004  
 {:.caption}
 
 Against the pale sky, the Blue Jay appears leaner than it does on a perch. The photograph emphasizes the species as an active woodland bird moving decisively between cover and exposed vantage points.
@@ -113,7 +113,7 @@ _Two birds holding neighboring high points._
 Camera: Canon EOS 5D Mark IV  
 Lens: EF100-400mm f/4.5-5.6L IS II USM  
 Settings: ISO 100 • Aperture f/5.6 • Shutter 1/320 s  
-E21A4699 • Size: 3587x2391 
+E21A4699 • Size: 3587 x 2391 
 {:.caption}
 
 A brief return to the pine top turns the sequence from simple movement into interaction. The spacing between the two birds gives the scene a quiet tension without reading as overtly aggressive.
@@ -128,7 +128,7 @@ _Wings raised as the second bird watches._
 Camera: Canon EOS 5D Mark IV  
 Lens: EF100-400mm f/4.5-5.6L IS II USM  
 Settings: ISO 100 • Aperture f/5.6 • Shutter 1/320 s  
-E21A4700 • Size: 3587x2391  
+E21A4700 • Size: 3587 x 2391  
 {:.caption}
 
 </div>
