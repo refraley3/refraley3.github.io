@@ -62,7 +62,7 @@ Content in this section may include:
 
 This material is intentionally separated from the Gallery.
 
-The Gallery presents these plants as photographic subjects; these field notes explore them as bilogical organisms.
+The Gallery presents these plants as photographic subjects; these field notes explore them as biological organisms.
 
 Both perspectives inform one another.
 

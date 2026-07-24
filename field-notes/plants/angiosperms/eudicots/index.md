@@ -14,6 +14,17 @@ eudicot_groups:
     image_x: right
     image_y: center
 
+  - title: Celastrales
+    url: /field-notes/plants/angiosperms/eudicots/celastrales/
+    image: /gallery/plants/vines/assets/american-bittersweet/E21A7377.jpg
+    alt: Celastrales
+    kicker: Bittersweets, Staff Vines, and Allies
+    text: Field notes and family guides for Celastrales, emphasizing woody growth, fruit structure, habitat, and seasonal identification.
+    width: 200px
+    height: 200px
+    image_x: center
+    image_y: center
+
   - title: Fabales
     url: /field-notes/plants/angiosperms/eudicots/fabales/
     image: /gallery/plants/wildflowers/assets/sundial-lupine/E22A3676.jpg
