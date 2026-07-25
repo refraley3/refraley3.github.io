@@ -26,11 +26,6 @@ For identification notes and comparative study, see the Lichen Field Notes.
 [*Xanthomendoza fulva*](/field-notes/lichen/xanthomendoza-fulva/)  
 {: .caption}
 
-[![British Soldier Lichen](/gallery/fungi/lichens/assets/british-soldier/D79A3304.jpg){: .cover role="img" aria-label="British Soldier Lichen"}](/gallery/fungi/lichens/british-soldier/){: .tile role="listitem"}
-**[British Soldier Lichen](/gallery/fungi/lichens/british-soldier/)**  
-[_Cladonia cristatella_](/field-notes/lichen/cladonia-cristatella/)  
-{: .caption}
-
 [![Candleflame (Candelaria) Lichen](/gallery/fungi/lichens/assets/candleflame/E21A8057C.jpg){: .cover role="img" aria-label="Candleflame (Candelaria) Lichen"}](/gallery/fungi/lichens/candleflame/){: .tile role="listitem"}
 **[Candleflame (Candelaria) Lichen](/gallery/fungi/lichens/candleflame/)**  
 [_Candelaria concolor_](/field-notes/lichen/candelaria-concolor/)  
@@ -61,7 +56,7 @@ For identification notes and comparative study, see the Lichen Field Notes.
 [_Physcia aipolia_](/field-notes/lichen/physcia-aipolia/)  
 {: .caption}
 
-[![Hooded Sunburst](/gallery/fungi/lichens/assets/hooded-sunburst/E21A8141.jpg){: .cover role="img" aria-label="Hooded Sunburst"}](/gallery/fungi/lichens/hooded-sunburst/){: .tile role="listitem" style="height: 200px"}
+[![Hooded Sunburst](/gallery/fungi/lichens/assets/hooded-sunburst/E21A8057.jpg){: .cover role="img" aria-label="Hooded Sunburst"}](/gallery/fungi/lichens/hooded-sunburst/){: .tile role="listitem" style="height: 200px"}
 **[Hooded Sunburst](/gallery/fungi/lichens/hooded-sunburst/)**  
 [*Xanthomendoza fallax*](/field-notes/lichen/xanthomendoza-fallax/)  
 {: .caption}
