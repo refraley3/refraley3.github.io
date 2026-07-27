@@ -85,6 +85,37 @@ This species is most safely identified from a combination of the spider and its 
 
 ---
 
+## Male *Argiope aurantia*
+
+### Size
+Approximately **5–9 mm** in body length, much smaller than the female.
+
+### Color & Markings
+Pale yellow-brown with faint dark bands and much less contrast than the female.
+
+### Behavior
+Usually remains near a female's web, often beneath adjacent leaves or along supporting vegetation. The male waits cautiously at the edge of the female's territory, approaching only when conditions are favorable.
+
+### Habitat
+Tall meadows, prairie edges, gardens, roadsides, and other herbaceous vegetation that support mature female webs.
+
+### Seasonality (Minnesota)
+Most visible from **mid-July through September**, as females mature and establish large orb webs.
+
+### Identification
+- Body much smaller and more slender than the female.
+- Long, delicate legs with subdued banding.
+- Pale yellow-brown coloration lacking the female's bold black-and-yellow pattern.
+- Usually found near, but not at the center of, a female's web.
+
+### Similar Species
+Male *Argiope trifasciata* (Banded Garden Spider) is similarly small but tends to occur in grassier habitats and is associated with females having distinctly banded abdomens rather than the bold patchwork pattern of *A. aurantia*.
+
+### Photography Notes
+The male is easily overlooked. Wider compositions that include nearby leaves or portions of the female's web help document its relationship to the larger female and provide a useful sense of scale.
+
+---
+
 ## Similar Species
 
 Use this section to distinguish *Argiope aurantia* from likely lookalikes.
