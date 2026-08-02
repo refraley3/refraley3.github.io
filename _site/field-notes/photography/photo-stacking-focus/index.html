@@ -1,0 +1,508 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48 64x64" type="image/x-icon">
+  <title>Photo Stacking in Photoshop | Ray Fraley Photography</title>
+  <meta name="description" content="A practical workflow for combining multiple photographs with different focal lengths or focus distances into a single composite image.">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="/assets/css/styles.css" rel="stylesheet" />
+  <link rel="stylesheet" href="/assets/css/site.css">
+</head>
+<body>
+  <header class="border-bottom">
+    <nav class="container d-flex gap-3 py-3 align-items-center navbar">
+      <a class="fw-bold text-decoration-none" href="/">
+        <img src="/assets/logo/R_Fraley_Logo_Wht.png" 
+          alt="R. Fraley" 
+          style="height:62px; vertical-align:middle; margin-right:4px;">
+        </a>
+      
+
+  <ul class="nav-menu">
+    <li><a href="/gallery/">Gallery</a></li>
+
+    <li class="dropdown">
+      <button class="dropdown-toggle" type="button" aria-expanded="false">
+        Categories
+      </button>
+
+      <ul class="dropdown-content">
+        <li class="dropdown nested-dropdown">
+          <button class="dropdown-toggle" type="button" aria-expanded="false">
+            Animals
+          </button>
+
+          <ul class="dropdown-content nested-content">
+            <li><a href="/gallery/animals/">Animals</a></li>
+            <li><a href="/gallery/animals/arachnids/">Arachnids</a></li>
+            <li><a href="/gallery/animals/birds/">Birds</a></li>
+            <li><a href="/gallery/animals/insects/">Insects</a></li>
+            <li><a href="/gallery/animals/mammals/">Mammals</a></li>
+          </ul>
+        </li>
+
+        <li class="dropdown nested-dropdown">
+          <button class="dropdown-toggle" type="button" aria-expanded="false">
+            Fungi
+          </button>
+
+          <ul class="dropdown-content nested-content">
+            <li><a href="/gallery/fungi/">Fungi</a></li>
+            <li><a href="/gallery/fungi/crusts/red-tree-brain-fungus/">Crusts</a></li>
+            <li><a href="/gallery/fungi/lichens/">Lichens</a></li>
+            <li><a href="/gallery/fungi/mushrooms/">Mushrooms</a></li>
+            <li><a href="/gallery/fungi/puffballs/pear-shaped-puffball/">Puffballs</a></li>
+            <li><a href="/gallery/fungi/rusts/ash-rust/">Rusts</a></li>
+          </ul>
+        </li>
+        <li class="dropdown nested-dropdown">
+          <button class="dropdown-toggle" type="button" aria-expanded="false">
+            Landscapes
+          </button>
+
+          <ul class="dropdown-content nested-content">
+            <li><a href="/gallery/landscapes/">Landscapes</a></li>
+            <li><a href="/gallery/landscapes/aurora/">Northern Lights</a></li>
+            <li><a href="/gallery/landscapes/kennebec-river/">Kennebec River</a></li>
+            <li><a href="/gallery/landscapes/portland-harbor-lights/">Portland Harbor Lights</a></li>
+            <li><a href="/gallery/landscapes/ritter-farm-park/">Ritter Farm Park</a></li>
+          </ul>
+        </li>
+        <li class="dropdown nested-dropdown">
+          <button class="dropdown-toggle" type="button" aria-expanded="false">
+            Macros
+          </button>
+
+          <ul class="dropdown-content nested-content">
+            <li><a href="/gallery/macros/">Macros</a></li>
+          </ul>
+        </li>
+        <li class="dropdown nested-dropdown">
+          <button class="dropdown-toggle" type="button" aria-expanded="false">
+            Plants
+          </button>
+
+          <ul class="dropdown-content nested-content">
+            <li><a href="/gallery/plants/">Plants</a></li>
+            <li><a href="/gallery/plants/ferns/">Ferns</a></li>
+            <li><a href="/gallery/plants/mosses/">Mosses</a></li>
+            <li><a href="/gallery/plants/vines/">Vines</a></li>
+            <li><a href="/gallery/plants/trees/">Trees</a></li>
+            <li><a href="/gallery/plants/wildflowers/">Wildflowers</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+
+    <li class="dropdown">
+      <button class="dropdown-toggle" type="button" aria-expanded="false">
+        Field Notes
+      </button>
+
+      <ul class="dropdown-content">
+        <li><a href="/field-notes/">Field Notes</a></li>
+        <li><a href="/field-notes/arachnids/">Arachnids</a></li>
+        <li><a href="/field-notes/birds/">Birds</a></li>
+        <li><a href="/field-notes/fungi/">Fungi</a></li>
+        <li><a href="/field-notes/insects/">Insects</a></li>
+        <li><a href="/field-notes/lichens/">Lichens</a></li>
+        <li><a href="/field-notes/mammals/">Mammals</a></li>
+        <li><a href="/field-notes/plants/">Plants</a></li>
+      </ul>
+    </li>
+
+  </ul>
+  
+    </nav>
+  </header>
+
+  <main class="container py-4">
+      <h1>Photo Stacking in Photoshop</h1>
+      <div class="d-flex justify-content-center mt-2">
+        
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <ol>
+    <li><a href="/">Home</a></li>
+
+    
+    
+      
+      
+
+      
+        
+        
+        
+        <li><a href="http://localhost:4000//"></a></li>
+      
+    
+      
+      
+
+      
+        
+        
+        
+        <li><a href="http://localhost:4000//field-notes/">Field notes</a></li>
+      
+    
+      
+      
+
+      
+        
+        
+        
+        <li><a href="http://localhost:4000//field-notes/photography/">Photography</a></li>
+      
+    
+      
+      
+
+      
+        
+          <li aria-current="page"><span>Photo Stacking in Photoshop</span></li>
+        
+      
+    
+  </ol>
+</nav>
+
+      </div>
+      <p>Combining multiple photographs can produce a result that is not possible with a single exposure. Whether extending depth of field through focus stacking or blending images taken at different focal lengths, Photoshop provides the tools to align and merge the photographs while preserving the sharpest and most useful portions of each frame.</p>
+
+<p>The workflow below emphasizes non-destructive editing so adjustments can be revisited later.</p>
+
+<hr />
+
+<h2 id="before-you-begin">Before You Begin</h2>
+
+<p>For the best results:</p>
+
+<ul>
+  <li>Photograph from a sturdy tripod.</li>
+  <li>Disable image stabilization when mounted on a tripod.</li>
+  <li>Use Manual Exposure so brightness remains constant.</li>
+  <li>Use Manual White Balance.</li>
+  <li>Avoid moving the camera between exposures.</li>
+  <li>If changing focal lengths, keep the subject centered whenever possible.</li>
+  <li>Photograph in RAW format whenever practical.</li>
+</ul>
+
+<hr />
+
+<h2 id="1-prepare-the-images">1. Prepare the Images</h2>
+
+<p>Process each RAW file using identical settings in Adobe Camera Raw or Lightroom.</p>
+
+<p>Synchronize:</p>
+
+<ul>
+  <li>White Balance</li>
+  <li>Exposure</li>
+  <li>Contrast</li>
+  <li>Highlights and Shadows</li>
+  <li>Lens Corrections</li>
+  <li>Noise Reduction</li>
+  <li>Sharpening</li>
+</ul>
+
+<p>Open all images as layers in Photoshop.</p>
+
+<p><strong>File → Scripts → Load Files into Stack</strong></p>
+
+<p>Check:</p>
+
+<ul>
+  <li><strong>Attempt to Automatically Align Source Images</strong></li>
+</ul>
+
+<hr />
+
+<h2 id="2-align-the-layers">2. Align the Layers</h2>
+
+<p>Even with a tripod, slight movement usually occurs.</p>
+
+<p>Select every image layer.</p>
+
+<p><strong>Edit → Auto-Align Layers</strong></p>
+
+<p>Choose:</p>
+
+<ul>
+  <li><strong>Auto</strong></li>
+</ul>
+
+<p>Photoshop will compensate for slight movement, scale changes, and perspective differences.</p>
+
+<hr />
+
+<h2 id="3-arrange-the-layers">3. Arrange the Layers</h2>
+
+<p>A useful organization is:</p>
+
+<ul>
+  <li>Widest focal length on the bottom</li>
+  <li>Progressively longer focal lengths above</li>
+</ul>
+
+<p>Rename the layers to identify the focal length or purpose.</p>
+
+<p>Example:</p>
+
+<ul>
+  <li>100 mm</li>
+  <li>200 mm</li>
+  <li>400 mm</li>
+</ul>
+
+<hr />
+
+<h2 id="4-add-layer-masks">4. Add Layer Masks</h2>
+
+<p>Beginning with the top layer:</p>
+
+<ul>
+  <li>Select the layer.</li>
+  <li>Click <strong>Add Layer Mask</strong>.</li>
+</ul>
+
+<p>Initially the mask should be white, revealing the entire layer.</p>
+
+<hr />
+
+<h2 id="5-reveal-only-the-best-portions">5. Reveal Only the Best Portions</h2>
+
+<p>Select the layer mask.</p>
+
+<p>Using a soft brush:</p>
+
+<ul>
+  <li>Black conceals</li>
+  <li>White reveals</li>
+</ul>
+
+<p>Paint only the areas that benefit from the longer focal length or sharper focus.</p>
+
+<p>Typical uses include:</p>
+
+<ul>
+  <li>Sharper eyes on wildlife</li>
+  <li>Better feather detail</li>
+  <li>Cleaner flower petals</li>
+  <li>Additional reach on the primary subject</li>
+  <li>Improved background from another exposure</li>
+</ul>
+
+<p>Use a low brush opacity (20–40%) when making gradual transitions.</p>
+
+<hr />
+
+<h2 id="6-refine-the-blend">6. Refine the Blend</h2>
+
+<p>Zoom to 100%.</p>
+
+<p>Look for:</p>
+
+<ul>
+  <li>Halos</li>
+  <li>Double edges</li>
+  <li>Misalignment</li>
+  <li>Brightness changes</li>
+  <li>Color shifts</li>
+</ul>
+
+<p>Switch between black and white while painting on the mask until the transition appears natural.</p>
+
+<hr />
+
+<h2 id="7-match-color-and-tone">7. Match Color and Tone</h2>
+
+<p>If one layer differs slightly:</p>
+
+<p>Create a clipped Adjustment Layer.</p>
+
+<p>Common adjustments:</p>
+
+<ul>
+  <li>Curves</li>
+  <li>Levels</li>
+  <li>Color Balance</li>
+  <li>Hue/Saturation</li>
+</ul>
+
+<p>Adjust only the selected layer without affecting the entire composite.</p>
+
+<hr />
+
+<h2 id="8-crop-the-image">8. Crop the Image</h2>
+
+<p>Auto-Alignment often leaves transparent edges.</p>
+
+<p>Use the Crop Tool to remove empty areas.</p>
+
+<hr />
+
+<h2 id="9-final-cleanup">9. Final Cleanup</h2>
+
+<p>Inspect the image at:</p>
+
+<ul>
+  <li>100%</li>
+  <li>200%</li>
+</ul>
+
+<p>Correct any remaining distractions using:</p>
+
+<ul>
+  <li>Clone Stamp</li>
+  <li>Healing Brush</li>
+  <li>Remove Tool</li>
+</ul>
+
+<hr />
+
+<h2 id="10-save-the-working-file">10. Save the Working File</h2>
+
+<p>Save the layered version first.</p>
+
+<p><strong>File → Save As</strong></p>
+
+<ul>
+  <li>Photoshop (*.PSD)</li>
+</ul>
+
+<p>Then export a finished copy.</p>
+
+<p><strong>File → Export → Export As</strong></p>
+
+<p>or</p>
+
+<p><strong>File → Save a Copy</strong></p>
+
+<ul>
+  <li>JPEG</li>
+  <li>TIFF</li>
+</ul>
+
+<hr />
+
+<h2 id="notes-on-different-focal-lengths">Notes on Different Focal Lengths</h2>
+
+<p>Blending different focal lengths differs from traditional focus stacking.</p>
+
+<p>Changing focal length alters:</p>
+
+<ul>
+  <li>Magnification</li>
+  <li>Perspective (slightly)</li>
+  <li>Subject size</li>
+  <li>Depth of field</li>
+</ul>
+
+<p>Photoshop’s <strong>Auto-Align Layers</strong> usually compensates for modest differences, but very large focal length changes may require manual resizing or slight transformations.</p>
+
+<p>The technique works best when:</p>
+
+<ul>
+  <li>The camera remains stationary.</li>
+  <li>The focal length changes are moderate.</li>
+  <li>The primary subject occupies approximately the same location in each frame.</li>
+</ul>
+
+<p>Rather than attempting to merge entire images, blend only the portions that benefit from each focal length.</p>
+
+<hr />
+
+<h2 id="common-applications">Common Applications</h2>
+
+<ul>
+  <li>Wildlife portraits with additional feather or fur detail.</li>
+  <li>Flower photography combining different focus distances.</li>
+  <li>Macro photography with increased depth of field.</li>
+  <li>Combining a wider environmental view with a closer portrait of the subject.</li>
+  <li>Replacing a distracting background with one from another exposure.</li>
+  <li>Recovering detail from a sequence of nearly identical photographs.</li>
+</ul>
+
+<hr />
+
+<h2 id="tips">Tips</h2>
+
+<ul>
+  <li>Keep every layer until editing is complete.</li>
+  <li>Name layers with focal length or focus distance.</li>
+  <li>Use layer masks instead of erasing pixels.</li>
+  <li>Frequently toggle layer visibility to verify the blend.</li>
+  <li>Save incremental PSD versions during complex composites.</li>
+  <li>Work slowly around fine details such as hair, feathers, and insect antennae.</li>
+</ul>
+
+    
+  </main>
+
+  <footer class="border-top py-4 text-center">
+    <div class="container small mb-3">
+      © 2026 Ray Fraley. All photographs and text by the author.*
+    </div>
+
+    <div class="container small mb-2">
+      For inquiries or photo permissions, please contact:
+      <a href="mailto:refraley3&#64;gmail&#46;com" class="text-light">
+        refraley3&#64;gmail&#46;com
+      </a>
+    </div>
+
+    <div class="container small">
+      <a class="fw-bold text-decoration-none" href="/">
+        <img src="/assets/logo/R_Fraley_Logo_Wht.png" 
+          alt="R. Fraley" 
+          style="height:100px; vertical-align:middle;">
+      </a>
+    </div>
+  </footer>
+  <script>
+    document.querySelectorAll(".dropdown-toggle").forEach(function (button) {
+      button.addEventListener("click", function (event) {
+        event.stopPropagation();
+
+        const dropdown = button.closest(".dropdown");
+        const isOpen = dropdown.classList.contains("open");
+
+        document.querySelectorAll(".dropdown.open").forEach(function (openDropdown) {
+          const sameDropdown = openDropdown === dropdown;
+          const isAncestor = openDropdown.contains(dropdown);
+          const isChild = dropdown.contains(openDropdown);
+
+          if (!sameDropdown && !isAncestor && !isChild) {
+            openDropdown.classList.remove("open");
+
+            const toggle = openDropdown.querySelector(":scope > .dropdown-toggle");
+            if (toggle) {
+              toggle.setAttribute("aria-expanded", "false");
+            }
+          }
+        });
+
+        dropdown.classList.toggle("open", !isOpen);
+        button.setAttribute("aria-expanded", String(!isOpen));
+      });
+    });
+
+    document.addEventListener("click", function () {
+      document.querySelectorAll(".dropdown.open").forEach(function (dropdown) {
+        dropdown.classList.remove("open");
+
+        const toggle = dropdown.querySelector(":scope > .dropdown-toggle");
+        if (toggle) {
+          toggle.setAttribute("aria-expanded", "false");
+        }
+      });
+    });
+  </script>
+</body>
+</html>

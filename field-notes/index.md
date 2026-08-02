@@ -5,7 +5,7 @@ title: Field Notes
 animal_groups:
   - title: Arachnids
     url: /field-notes/arachnids/
-    image: /gallery/animals/arachnids/assets/garden-spider/E21A4882.jpg
+    image: /gallery/animals/arachnids/assets/black-and-yellow-garden-spider/E21A4882.jpg
     alt: Arachnids
     kicker: Spiders, scorpions, and more
     text: Field notes and family guides for arachnids, emphasizing form, behavior, and seasonal context.
@@ -253,3 +253,10 @@ comparative_notes:
 {::nomarkdown}
 {% include tile-grid.html tiles=page.comparative_notes %}
 {:/nomarkdown}
+
+---
+
+## Photography Notes
+
+### [Printing with PhotoShop](/field-notes/photography/printing-photoshop/)
+Instructions for developing a print using PhotoShop
