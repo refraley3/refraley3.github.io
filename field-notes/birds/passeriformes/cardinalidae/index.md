@@ -95,6 +95,9 @@ Distinction is often based on **bill structure, habitat, and song**, rather than
 ### [Cardinalis cardinalis (Northern Cardinal)](/field-notes/birds/passeriformes/cardinalidae/cardinalis-cardinalis/)  
 A familiar year-round species recognized by the male’s bright red plumage and the female’s warm brown tones with red highlights. Common in woodland edges and suburban environments, and frequently detected by its clear, whistling song.
 
+### [Passerina cyanea (Indigo Bunting)](/field-notes/birds/passeriformes/cardinalidae/passerina-cyanea/)  
+A small, vibrant songbird with brilliant blue plumage in males and streaked brown in females. Found in Minnesota during the breeding season, often in open woodland and brushy areas, singing from exposed perches.
+
 ### [Pheucticus ludovicianus (Rose-breasted Grosbeak)](/field-notes/birds/passeriformes/cardinalidae/pheucticus-ludovicianus/)  
 A striking woodland songbird with a heavy pale bill and vivid rose-red breast patch in males. Found in Minnesota during the breeding season and migration, often high in leafy canopy and detected by its rich, robin-like song.
 
