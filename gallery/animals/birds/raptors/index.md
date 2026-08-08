@@ -12,8 +12,8 @@ Raptors command the air with precision and power.
 
 ## Hawk
 
-[![Broad-winged Hawk on a Bare Branch](/gallery/animals/birds/assets/raptors/broad-winged-hawk/E22A1122A.jpg){: .cover role="img" aria-label="Broad-winged Hawk on a Bare Branch"}
-**Broad-winged Hawk on a Bare Branch**](/gallery/animals/birds/raptors/broad-winged-hawk/){: .tile role="listitem"}
+[![High Perch Portrait](/gallery/animals/birds/assets/raptors/broad-winged-hawk/E22A8004.jpg){: .cover role="img" aria-label="High Perch Portrait"}
+**Broad-winged Hawk &mdash; High Perch Portrait**](/gallery/animals/birds/raptors/broad-winged-hawk/){: .tile role="listitem"}
 
 ## Kites
 
