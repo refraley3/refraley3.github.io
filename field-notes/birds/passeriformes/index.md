@@ -77,6 +77,9 @@ New World sparrows &mdash; ground-oriented birds of grasslands, brush, and woodl
 ### [Troglodytidae](/field-notes/birds/passeriformes/troglodytidae/)  
 Wrens &mdash; small, energetic birds with loud voices, often found in dense vegetation and known for their upright posture and tail flicking.
 
+### [Tyrannidae](/field-notes/birds/passeriformes/tyrannidae/)
+Tyrant flycatchers &mdash; small to medium-sized birds with broad-based bills, often found in open country and woodland edges.
+
 ### [Turdidae](/field-notes/birds/passeriformes/turdidae/)  
 Thrushes &mdash; upright, often ground-feeding birds with spotted plumage and rich, musical songs.
 
