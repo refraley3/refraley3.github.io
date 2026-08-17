@@ -30,7 +30,7 @@ This species plays a key role in pollinating native wildflowers and agricultural
 
 ![Brown-belted Bumble Bee on flower](/gallery/animals/insects/bees/assets/brown-belted-bumble-bee/D79A0292.jpg)
 
-*Image ID: D79A0292* - Brown-belted Bumble bee on flower • Size: 2235x3353
+*Image ID: D79A0292* - Brown-belted Bumble bee on flower • Size: 2235 x 3353
 {:.caption}
 
 *Camera: Canon EOS 5D Mk IV • Lens:* EF100mm f/2.8L Macro IS USM
@@ -41,7 +41,7 @@ This species plays a key role in pollinating native wildflowers and agricultural
 
 ![Brown-belted Bumble Bee side view](/gallery/animals/insects/bees/assets/brown-belted-bumble-bee/D79A5241.jpg)
 
-*Image ID: D79A5241* - Brown-belted Bumble Bee side view • Size: 2757x4135
+*Image ID: D79A5241* - Brown-belted Bumble Bee side view • Size: 2757 x 4135
 {:.caption}
 
 *Camera: Canon EOS 5D Mk IV • Lens:* EF100mm f/2.8L Macro IS USM
@@ -52,7 +52,7 @@ This species plays a key role in pollinating native wildflowers and agricultural
 
 ![Brown-belted Bumble Bee face](/gallery/animals/insects/bees/assets/brown-belted-bumble-bee/D79A5262.jpg)
 
-*Image ID: D79A5262* - Face of a Brown-belted Bumble Bee • Size: 1988x1325
+*Image ID: D79A5262* - Face of a Brown-belted Bumble Bee • Size: 1988 x 1325
 {:.caption}
 
 *Camera: Canon EOS 5D Mk IV • Lens:* EF100mm f/2.8L Macro IS USM
