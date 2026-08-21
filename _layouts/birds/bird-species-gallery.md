@@ -10,7 +10,7 @@ description: A brief descriptive sentence about Common Name in Minnesota.
 Common Name are introduced here with a short natural-history paragraph—describing appearance, posture, habitat, season, or behavior in an observational, narrative tone rather than encyclopedic detail.
 
 For identification details and comparison with similar species, see  
-the [*Scientific name*](/field-notes/birds/ORDER-NAME/FAMILY-NAME/SCIENTIFIC-NAME/) in the **Field Notes** section.
+the [*Scientific name*](/field-notes/birds/ORDER-NAME/FAMILY-NAME/SCIENTIFIC-NAME/) in the **Field Notes** section. For photographic observations and visual context, see [**Common Name**](/gallery/animals/birds/GROUP/COMMON-NAME-SLUG/)Perspective</a> in the <strong>Gallery</strong> section.
 
 ---
 

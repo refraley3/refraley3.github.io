@@ -12,9 +12,9 @@ keywords: "Song Sparrow, Melospiza melodia, Minnesota birds, sparrow identificat
 ### Family: [Passerellidae](/field-notes/birds/passeriformes/passerellidae/)
 {: .taxonomy-heading .taxonomy-last}
 
-[**Song Sparrow**](/gallery/animals/birds/sparrows/song-sparrow/) (*Melospiza melodia*) is a widespread and highly variable sparrow, common across Minnesota in fields, wetlands, and brushy edges. It is often first detected by its clear, repeated song, delivered from low perches or exposed stems.
+[**Song Sparrow**](/gallery/animals/birds/perching/song-sparrow/) (*Melospiza melodia*) is a widespread and highly variable sparrow, common across Minnesota in fields, wetlands, and brushy edges. It is often first detected by its clear, repeated song, delivered from low perches or exposed stems.
 
-For representative images and visual context, see the page: [**Song Sparrow**](/gallery/animals/birds/sparrows/song-sparrow/) in the **Gallery** section.
+For representative images and visual context, see the page: [**Song Sparrow**](/gallery/animals/birds/perching/song-sparrow/) in the **Gallery** section.
 
 ---
 
