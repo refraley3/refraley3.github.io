@@ -14,7 +14,7 @@ keywords: "American Goldfinch, Spinus tristis, finch identification, Minnesota b
 
 [**American Goldfinch**](/gallery/animals/birds/perching/american-goldfinch/) (*Spinus tristis*) is a small, active finch of open fields and gardens, most noticeable in late summer when males reach peak brightness. Breeding males are vivid yellow with a black cap, while females and nonbreeding birds show softer olive tones that blend into surrounding vegetation.
 
-For representative images and visual context, see the page: [**American Goldfinch**](/gallery/animals/birds/perching/american-goldfinch/) in the **Gallery** section.
+For photographic observations and visual context, see [**Photographer’s Perspective**](/field-notes/birds/passeriformes/fringillidae/american-goldfinch-ps/) and the [**American Goldfinch**](/gallery/animals/birds/perching/american-goldfinch/) in the **Gallery** section.
 
 ---
 
@@ -59,6 +59,8 @@ Notes may include:
 - **Flight pattern:** bouncing, undulating flight with intermittent wingbeats  
 
 The combination of bright coloration (in season) and distinctive flight pattern makes the species easy to recognize even at a distance.
+
+[**Among the Thistles**](/gallery/animals/birds/assets/perching/american-goldfinch/E22A8377.jpg){: .cover role="img" aria-label="Among the Thistles"}
 
 ---
 

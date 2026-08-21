@@ -14,7 +14,7 @@ keywords: "Cedar Waxwing, Bombycilla cedrorum, Minnesota birds, bird identificat
 
 [**Cedar Waxwing**](/gallery/animals/birds/perching/cedar-waxwing/) (*Bombycilla cedrorum*) is a sleek, crested songbird with silky brown-gray plumage, a black facial mask, and a bright yellow tail tip. In Minnesota, it is often found in small flocks around woodland edges, orchards, parks, and fruiting trees, where its quiet calls and smooth, upright posture help distinguish it from busier songbirds.
 
-For representative images and visual context, see the page: [**Cedar Waxwing**](/gallery/animals/birds/perching/cedar-waxwing/) in the **Gallery** section.
+For photographic observations and visual context, see [**Photographer’s Perspective**](/field-notes/birds/passeriformes/bombycilla-cedrorum/ps/) and the [**Cedar Waxwing**](/gallery/animals/birds/perching/cedar-waxwing/) in the **Gallery** section.
 
 ---
 
