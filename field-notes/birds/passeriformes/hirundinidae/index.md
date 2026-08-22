@@ -96,6 +96,9 @@ Distinction is often based on **structure, flight style, and behavior**, rather 
 ### [*Tachycineta bicolor* (Tree Swallow)](/field-notes/birds/passeriformes/hirundinidae/tachycineta-bicolor/)  
 A glossy blue-green and white swallow of wetlands, fields, and open edges, often seen sweeping low over water or pausing briefly on wires, rails, and nest boxes.
 
+### [*Hirundo rustica* (Barn Swallow)](/field-notes/birds/passeriformes/hirundinidae/hirundo-rustica/)  
+A familiar swallow with a deeply forked tail, glossy blue upperparts, and warm underparts, often nesting on human structures and feeding over open fields and water.
+
 Additional Minnesota members of this family that may be added here include Barn Swallow, Cliff Swallow, Bank Swallow, Northern Rough-winged Swallow, and Purple Martin.
 
 ---

@@ -27,7 +27,8 @@ _A sentinel of the marsh, holding his ground as winter lingers._
 Camera: Canon EOS 5D Mark IV  
 Lens: EF100-400mm f/4-5.6L IS USM  
 Settings: ISO 4000 • Aperture f/6.3 • Shutter 1/320 s  
-E22A0287 • Size: 2700 x 1800
+E22A0287 • Size: 2700 x 1800  
+{: .caption}
 
 The following frames record small changes in posture and balance while the setting remains nearly unchanged. The continuity of snow, perch, and background makes them read as a short behavioral sequence rather than unrelated portraits.
 
@@ -40,7 +41,8 @@ _Stillness between calls, the marsh held in suspension._
 Camera: Canon EOS 5D Mark IV  
 Lens: EF100-400mm f/4-5.6L IS USM  
 Settings: ISO 4000 • Aperture f/6.3 • Shutter 1/320 s  
-E22A0288 • Size: 4198 x 2799
+E22A0288 • Size: 4198 x 2799  
+{: .caption}
 
 </div>
 <div class="tile" role="listitem">
@@ -52,6 +54,7 @@ Camera: Canon EOS 5D Mark IV
 Lens: EF100-400mm f/4-5.6L IS USM  
 Settings: ISO 4000 • Aperture f/6.3 • Shutter 1/320 s  
 E22A0290 • Size: 4198 x 2799
+{: .caption}
 
 </div>
 </div>
@@ -66,6 +69,7 @@ Camera: Canon EOS 5D Mark IV
 Lens: EF100-400mm f/4-5.6L IS USM  
 Settings: ISO 4000 • Aperture f/6.3 • Shutter 1/320 s  
 E22A0289 • Size: 4198 x 2799
+{: .caption}
 
 </div>
 <div class="tile" role="listitem">
@@ -125,6 +129,8 @@ E22A0434 • Size: 3400 x 2267
 
 In a brief pause between calls, **E22A0444** changes the character of the sequence. The head lowers and the outward display gives way to direct attention. Instead of projecting across the territory, the bird appears aware of the observer within it.
 
+<div class="tile" role="listitem">
+
 ![Direct Gaze](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0444-1.jpg){: .cover role="img" aria-label="Male Red-winged Blackbird lowering his head in a direct gaze"}  
 **Direct Gaze**  
 _A brief pause—aware of your presence within his territory._  
@@ -132,12 +138,16 @@ Camera: Canon EOS 5D Mark IV
 Lens: EF100-400mm f/4-5.6L IS USM  
 Settings: ISO 800 • Aperture f/5.6 • Shutter 1/1000 s  
 E22A0444 • Size: 3400 x 2267
+{: .caption}
 
+</div>
 ---
 
 ## Plumage at Close Range
 
 At close range, the male's black plumage is no longer a single dark surface. Individual feather layers, subtle sheen, the folded wing, and the structure of the epaulet become visible.
+
+<div class="tile" role="listitem">
 
 ![Shoulder and Wing Detail](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0535-1.jpg){: .cover role="img" aria-label="Close view of male Red-winged Blackbird shoulder and wing plumage"}  
 **Shoulder and Wing Detail**  
@@ -145,9 +155,13 @@ _Layered feathers and the folded epaulet reveal the structure beneath the displa
 Camera: Canon EOS 5D Mark IV  
 Lens: EF100-400mm f/4-5.6L IS USM  
 Settings: ISO 800 • Aperture f/6.3 • Shutter 1/1000 s  
-E22A0535 • Size: 3337 x 2225
+E22A0535 • Size: 3337 x 2225  
+
+</div>
 
 **E22A0531** returns from structure to behavior. It is not as strong a display photograph as E22A0784, but the close working distance gives the call a different immediacy.
+
+<div class="tile" role="listitem">
 
 ![Calling at Close Range](/gallery/animals/birds/assets/perching/red-winged-blackbird/E22A0531.jpg){: .cover role="img" aria-label="Male Red-winged Blackbird calling at close range"}  
 **Calling at Close Range**  
@@ -163,6 +177,8 @@ E22A0531 • Size: 3168 x 2112
 
 The female photographs change both the palette and the visual language of the page. Where the male is defined by glossy black plumage and conspicuous shoulder color, the female's streaked brown pattern echoes grasses, seed heads, and cattails.
 
+<div class="tile" role="listitem">
+
 ![Among Seed Heads](/gallery/animals/birds/assets/perching/red-winged-blackbird/E21A2028.jpg){: .cover role="img" aria-label="Female Red-winged Blackbird among ripened grasses and seed heads"}  
 **Among Seed Heads**  
 _Streaked and subdued, she disappears into the texture of the field._  
@@ -170,6 +186,8 @@ Camera: Canon EOS 5D Mark IV
 Lens: EF70-200mm f/2.8L IS II USM 2x  
 Settings: ISO 250 • Aperture f/8.0 • Shutter 1/160 s  
 E21A2028 • Size: 1391 x 927
+
+</div>
 
 The newer cattail photographs add behavior to that quieter presentation. **E22A2212** records the female calling, while **E22A2210** turns toward the camera. That direct gaze creates an understated counterpart to the male's **Direct Gaze**.
 
