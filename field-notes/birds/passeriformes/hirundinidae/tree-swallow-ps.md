@@ -244,5 +244,6 @@ That slower approach shaped the photographs as much as the light did. The sequen
 The result is less a ranked collection of individual photographs than a progression:
 
 **light and color → feather texture → pair presence → movement → nest-box behavior**
+{: .caption}
 
 That progression is also why the photographs do not need to appear in order of rating. A gallery can tell a stronger story when each image contributes something different.
