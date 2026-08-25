@@ -1,7 +1,36 @@
 ---
-layout: photo
+layout: gallery-slideshow
 title: Common Name
 description: A brief descriptive sentence about Common Name in Minnesota.
+slides:
+  # 1 - SLIDE DESCRIPTION
+  - src: /gallery/SUBFOLDER/assets/GROUP/SPECIES/IMAGE1.jpg
+    alt: Primary Image Title
+    caption: Primary Image Title
+    link: /gallery/SUBFOLDER/assets/GROUP/SPECIES/IMAGE1-LINK
+    transition: pan-left
+
+  # 2 — FRONTAL PORTRAIT — a direct look from a quiet perch
+  - src: /gallery/SUBFOLDER/assets/GROUP/SPECIES/IMAGE2.jpg
+    alt: American Goldfinch frontal portrait
+    caption: Frontal Portrait
+    link: /gallery/SUBFOLDER/assets/GROUP/SPECIES/IMAGE2-LINK
+    transition: pan-right
+
+  # 3 — WING DETAIL — black-and-white patterning set against bright yellow plumage
+  - src: /gallery/SUBFOLDER/assets/GROUP/SPECIES/IMAGE3.jpg
+    alt: American Goldfinch showing wing detail
+    caption: Wing Detail
+    link: /gallery/SUBFOLDER/assets/GROUP/SPECIES/IMAGE3-LINK
+    transition: zoom-in
+
+  # 4 - AMONG THE THISTLES — perched among late-summer thistles
+  - src: /gallery/SUBFOLDER/assets/GROUP/SPECIES/IMAGE4.jpg
+    alt: Male American Goldfinch perched among thistles
+    caption: Among the Thistles
+    link: /gallery/SUBFOLDER/assets/GROUP/SPECIES/IMAGE4-LINK
+    transition: pan-right
+
 ---
 
 ## [*Scientific name*](/field-notes/birds/ORDER-NAME/FAMILY-NAME/SCIENTIFIC-NAME/)  
@@ -14,13 +43,9 @@ the [*Scientific name*](/field-notes/birds/ORDER-NAME/FAMILY-NAME/SCIENTIFIC-NAM
 
 ---
 
-![Primary Image Title](/gallery/animals/birds/assets/GROUP/SPECIES/IMAGE1.jpg){: .cover role="img" aria-label="Primary Image Title"}
+![Primary Image Title](/gallery/animals/birds/assets/GROUP/SPECIES/IMAGE1-1.jpg){: .cover role="img" aria-label="Primary Image Title"}
 **Primary Image Title**  
 _A short italic subtitle with mood or behavior._  
-A one- or two-sentence caption describing the scene, posture, habitat, or significance of the image.  
-Camera: Camera Model  
-Lens: Lens Model  
-Settings: ISO ___ • Aperture f/__ • Shutter 1/___ s  
 IMAGE1 • Size: ____x____  
 {: .caption}
 

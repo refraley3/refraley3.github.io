@@ -6,7 +6,7 @@ tags: [bird, Red-winged Blackbird, Agelaius phoeniceus, Icteridae, Minnesota, fi
 keywords: "Red-winged Blackbird photography, Agelaius phoeniceus, blackbird behavior, bird photography, Minnesota birds"
 ---
 
-### [*Agelaius phoeniceus*](/field-notes/birds/passeriformes/icteridae/agelaius-phoeniceus/)
+### *Agelaius phoeniceus*
 {: .taxonomy-heading .taxonomy-last}
 
 The [**Red-winged Blackbird**](/gallery/animals/birds/perching/red-winged-blackbird/) photographs collected here span several encounters and changing conditions: a brief early spring snowfall, territorial calling from low branches, close-range views of the male's epaulet and plumage, and females moving among grasses and cattails. For identification, habitat, and natural-history details, see the [*Agelaius phoeniceus*](/field-notes/birds/passeriformes/icteridae/agelaius-phoeniceus/) species page.
