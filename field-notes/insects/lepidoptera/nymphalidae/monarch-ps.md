@@ -20,7 +20,7 @@ For the finished image presentation, see the Gallery page: [Monarch](/gallery/an
 
 <div class="tile" role="listitem" style="margin: 15px;">
   <img
-    src="/gallery/animals/insects/butterflies/assets/monarch/E21A3459-crop.jpg"
+    src="/gallery/animals/insects/butterflies/assets/monarch/E21A3459.jpg"
     class="cover"
     alt="Monarch butterfly nectaring on yellow prairie flowers beneath a blue sky"
     id="monarch-ps-e21a3459-crop">
