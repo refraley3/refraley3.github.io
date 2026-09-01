@@ -1,4 +1,4 @@
-<div class="hero-slideshow">
+<div class="hero-slideshow" aria-roledescription="carousel" aria-label="Featured photographs">
   {% for slide in include.slides %}
     <div class="hero-slide{% if forloop.first %} is-active{% endif %}">
       <a href="{{ slide.link | relative_url }}" class="hero-slideshow-link" aria-label="{{ slide.alt }}">
@@ -10,4 +10,12 @@
       </a>
     </div>
   {% endfor %}
+  {% if include.slides.size > 1 %}
+    <button type="button" class="hero-slideshow-control hero-slideshow-back" aria-label="Show previous slide">
+      <span aria-hidden="true">‹</span> Back
+    </button>
+    <button type="button" class="hero-slideshow-control hero-slideshow-forward" aria-label="Show next slide">
+      Forward <span aria-hidden="true">›</span>
+    </button>
+  {% endif %}
 </div>

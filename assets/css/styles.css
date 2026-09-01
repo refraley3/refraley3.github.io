@@ -267,7 +267,8 @@ main h2 {
 /* =========================
    4. HERO / SLIDESHOW
    ========================= */
-#hero {
+
+   #hero {
   padding-left: 0;
   padding-right: 0;
   position: relative;
@@ -330,12 +331,45 @@ main h2 {
   text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
 }
 
+.hero-slideshow-control {
+  position: absolute;
+  z-index: 2;
+  top: 50%;
+  transform: translateY(-50%);
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  border-radius: 0.37rem;
+  padding: 0.55rem 0.8rem;
+  background: rgba(0, 0, 0, 0.12);
+  color: #fff;
+  font: inherit;
+  font-weight: 600;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.hero-slideshow-back {
+  left: 0.75rem;
+}
+
+.hero-slideshow-forward {
+  right: 0.75rem;
+}
+
+.hero-slideshow-control:hover {
+  background: rgba(0, 0, 0, 0.82);
+}
+
+.hero-slideshow-control:focus-visible {
+  outline: 3px solid #fff;
+  outline-offset: 3px;
+}
+
 .hero-slide.is-active .pan-left {
-  animation: pan-left 10s ease-out forwards;
+  animation: pan-left 10s forwards;
 }
 
 .hero-slide.is-active .pan-right {
-  animation: pan-right 10s ease-out forwards;
+  animation: pan-right 10s forwards;
 }
 
 .hero-slide.is-active .zoom-in {
@@ -380,6 +414,11 @@ main h2 {
     font-size: 1.2rem;
     bottom: 20%;
     padding: 0 1rem;
+  }
+
+  .hero-slideshow-control {
+    padding: 0.45rem 0.6rem;
+    font-size: 0.9rem;
   }
 }
 
