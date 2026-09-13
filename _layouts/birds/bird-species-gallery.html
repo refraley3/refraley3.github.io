@@ -1,0 +1,73 @@
+---
+layout: gallery-slideshow
+title: Common Name
+description: A brief descriptive sentence about Common Name in Minnesota.
+tags: [birds, species, gallery]
+slides:
+  - src: /gallery/animals/birds/assets/GROUP/SPECIES/IMAGE1.jpg
+    alt: Common Name in its natural habitat
+    caption: Primary Image Title
+    link: /gallery/animals/birds/GROUP/SPECIES/#image1
+    transition: pan-left
+---
+
+<section class="bird-species-page">
+
+  {% if page.scientific_name %}
+  <h2 class="taxonomy-last">
+    <a href="{{ page.field_notes_url | default: page.scientific_url | relative_url }}"><em>{{ page.scientific_name }}</em></a>
+  </h2>
+  {% endif %}
+
+  {% if page.field_notes_url or page.gallery_sequence_url %}
+  <p>
+    {% if page.field_notes_url %}
+    For identification details and comparison with similar species, see the <a href="{{ page.field_notes_url | relative_url }}"><em>{{ page.scientific_name }}</em></a> page in the <strong>Field Notes</strong> section.
+    {% endif %}
+    {% if page.gallery_sequence_url %}
+    For photographic observations and visual context, see <a href="{{ page.gallery_sequence_url | relative_url }}">Photographic Sequence</a> in the <strong>Gallery</strong> section.
+    {% endif %}
+  </p>
+  {% endif %}
+
+  <hr />
+
+  {% if page.featured_image %}
+  <a href="{{ page.featured_image.link | default: page.gallery_sequence_url | relative_url }}" class="cover-link">
+    <img src="{{ page.featured_image.src | relative_url }}"
+      {% if page.featured_image.id %}id="{{ page.featured_image.id }}"{% endif %}
+      class="cover"
+      role="img"
+      alt="{{ page.featured_image.alt }}" />
+  </a>
+  <p class="caption">
+    <strong>{{ page.featured_image.title }}</strong><br />
+    {% if page.featured_image.description %}<em>{{ page.featured_image.description }}</em><br />{% endif %}
+    {{ page.featured_image.filename }}{% if page.featured_image.size %} • Size: {{ page.featured_image.size }}{% endif %}
+  </p>
+  {% endif %}
+
+  {% if page.gallery_images %}
+  <div class="grid" role="list" style="justify-content: center; text-align: center;">
+    {% for image in page.gallery_images %}
+    <div class="tile" role="listitem">
+      <a href="{{ image.link | default: page.gallery_sequence_url | relative_url }}" class="cover-link">
+        <img src="{{ image.src | relative_url }}"
+          {% if image.id %}id="{{ image.id }}"{% endif %}
+          class="cover"
+          role="img"
+          alt="{{ image.alt }}" />
+      </a>
+      <p class="caption">
+        <strong>{{ image.title }}</strong><br />
+        {% if image.description %}<em>{{ image.description }}</em><br />{% endif %}
+        {{ image.filename }}{% if image.size %} • Size: {{ image.size }}{% endif %}
+      </p>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {{ content }}
+
+</section>

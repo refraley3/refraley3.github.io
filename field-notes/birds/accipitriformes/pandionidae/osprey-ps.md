@@ -172,7 +172,7 @@ E22A9761 • Size: 2000 × 1333
 
 <div id="osprey-e22a9651" class="tile" role="listitem">
 
-![Touching Down](/gallery/animals/birds/assets/raptors/osprey/E22A9651.jpg){: .cover role="img" aria-label="Osprey landing on a stick nest with wings raised and one foot reaching forward."}
+[![Touching Down](/gallery/animals/birds/assets/raptors/osprey/E22A9651.jpg){: .cover role="img" aria-label="Osprey landing on a stick nest with wings raised and one foot reaching forward."}](/gallery/animals/birds/raptors/osprey/#osprey-e22a9651){: .tile role="listitem"}
 **Touching Down**  
 *With wings still raised and one foot reaching forward, the Osprey settles onto the nest.*
 
@@ -185,7 +185,7 @@ E22A9651 • Size: 1800 × 1200
 
 <div id="osprey-e22a9867" class="tile" role="listitem">
 
-![Domain Survey](/gallery/animals/birds/assets/raptors/osprey/E22A9867-1.jpg){: .cover role="img" aria-label="Osprey standing on the upper edge of a large stick nest beneath a clear blue sky"}
+[![Domain Survey](/gallery/animals/birds/assets/raptors/osprey/E22A9867-1.jpg){: .cover role="img" aria-label="Osprey standing on the upper edge of a large stick nest beneath a clear blue sky"}](/gallery/animals/birds/raptors/osprey/#osprey-e22a9867){: .tile role="listitem"}
 **Domain Survey**  
 *Standing high on the nest, the Osprey surveys the surrounding area.*
 
@@ -202,7 +202,7 @@ E22A9867 • Size: 1300 × 867
 
 <div id="osprey-e22a9971" class="tile" role="listitem">
 
-![Attention](/gallery/animals/birds/assets/raptors/osprey/E22A9971.jpg){: .cover role="img" aria-label="Side profile of an Osprey standing on its stick nest with bright yellow eye and dark eye stripe visible"}
+[![Attention](/gallery/animals/birds/assets/raptors/osprey/E22A9971.jpg){: .cover role="img" aria-label="Side profile of an Osprey standing on its stick nest with bright yellow eye and dark eye stripe visible"}](/gallery/animals/birds/raptors/osprey/#osprey-e22a9971){: .tile role="listitem"}
 **Attention**  
 *The Osprey shifts from a broad survey to a more focused, alert posture.*
 
@@ -215,7 +215,7 @@ E22A9971 • Size: 1500 × 1000
 
 <div id="osprey-e22a9972" class="tile" role="listitem">
 
-![Warning](/gallery/animals/birds/assets/raptors/osprey/E22A9972.jpg){: .cover role="img" aria-label="Osprey standing on a stick nest facing the camera with its bill open"}
+[![Warning](/gallery/animals/birds/assets/raptors/osprey/E22A9972.jpg){: .cover role="img" aria-label="Osprey standing on a stick nest facing the camera with its bill open"}](/gallery/animals/birds/raptors/osprey/#osprey-e22a9972){: .tile role="listitem"}
 **Warning**  
 *With body angled forward and bill open, the Osprey delivers a clear warning across its domain.*
 

@@ -17,8 +17,8 @@ Raptors command the air with precision and power.
 
 ## Osprey
 
-[![Calling from the Nest](/gallery/animals/birds/assets/raptors/osprey/E22A9972.jpg){: .cover role="img" aria-label="Osprey standing on a stick nest facing the camera with its bill open."}
-**Calling from the Nest**](/gallery/animals/birds/raptors/osprey/){: .tile role="listitem"}
+[![Return Gaze](/gallery/animals/birds/assets/raptors/osprey/E22A9977.jpg){: .cover role="img" aria-label="Osprey standing on its stick nest with its head turned directly toward the camera."}
+**Return Gaze**](/gallery/animals/birds/raptors/osprey/){: .tile role="listitem"}
 
 ## Kites
 
