@@ -196,6 +196,17 @@ comparative_notes:
     image_x: center
     image_y: center
 
+photography_notes:
+  - title: Photography Field Notes
+    url: /field-notes/photography/
+    image: /field-notes/assets/photography-field-notes.jpg
+    alt: Photography Field Notes
+    kicker: Photography field notes
+    text: Field notes on photography techniques, equipment, and observations.
+    width: 600px
+    height: 400px
+    image_x: center
+    image_y: center
 ---
 
 {::nomarkdown}
@@ -258,5 +269,6 @@ comparative_notes:
 
 ## Photography Notes
 
-### [Printing with PhotoShop](/field-notes/photography/printing-photoshop/)
-Instructions for developing a print using PhotoShop
+{::nomarkdown}
+{% include tile-grid.html tiles=page.photography_notes %}
+{:/nomarkdown}

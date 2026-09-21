@@ -13,6 +13,11 @@ title: Wading Birds
 [*Ardea alba*](/field-notes/birds/pelecaniformes/ardeidae/ardea-alba/)  
 {: .tile role="listitem"}
 
+[![Great Blue Heron](/gallery/animals/birds/assets/wading/great-blue-heron/E22B0550-2.jpg){: .cover role="img" aria-label="Great Blue Heron"}](/gallery/animals/birds/wading/great-blue-heron/)
+**[Great Blue Heron](/gallery/animals/birds/wading/great-blue-heron/)**  
+[*Ardea herodias*](/field-notes/birds/pelecaniformes/ardeidae/ardea-herodias/)  
+{: .tile role="listitem"}
+
 <!-- Add additional wading bird tiles as needed -->
 
 </div>
