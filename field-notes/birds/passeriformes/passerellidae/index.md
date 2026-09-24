@@ -19,9 +19,36 @@ In the field, they are frequently identified by **shape, movement, habitat, and 
 
 These notes emphasize **field recognition, behavior, and comparison** across species, rather than a complete taxonomic treatment.
 
-<p style="text-align:center">
-	<img src="/assets/images/under-construction_wht.png" class="cover" alt="Under Construction" role="img" aria-label="Under Construction" />
-</p>
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div id="spizella-pusilla-e22a1035" class="tile" role="listitem">
+
+![Singing into Open Sky](/gallery/animals/birds/assets/perching/field-sparrow/E22A1035.jpg){: .cover role="img" aria-label="Singing into Open Sky"}
+**Spizella pusilla**  
+_(Field Sparrow)_  
+{: .caption}
+
+</div>
+
+<div id="melospiza-melodia-e22a7361" class="tile" role="listitem">
+
+![Moment of Stillnes](/gallery/animals/birds/assets/perching/song-sparrow/E22A7361.jpg){: .cover}
+**Melospiza melodia**  
+_(Song Sparrow)_
+{: .caption}
+
+</div>
+
+<div id="zonotrichia-albicollis-e22b0613" class="tile" role="listitem">
+
+![Curiosity Under Cover](/gallery/animals/birds/assets/perching/white-throated-sparrow/E22B0613.jpg){: .cover role="img" aria-label="A sheltered perch offers room to hide—and a window to watch."}
+**Zonotrichia albicollis**  
+_(White-throated Sparrow)_
+{: .caption}
+
+</div>
+
+</div>
 
 ---
 

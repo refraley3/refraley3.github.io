@@ -35,6 +35,51 @@ The Bald Eagle is one of the most recognizable birds in North America, defined a
 
 The flight of a Bald Eagle is powerful and deliberate, with slow wingbeats that create a steady rhythm. When banking or soaring, the broad wings reveal the layered arrangement of feathers that provide lift and control. The head remains level, scanning the environment below, while the tail fans out to assist with maneuvering. The layered sequence captures the grace and strength of the eagle in motion, a fitting emblem for Maine’s wild rivers.  
 
+![On Broad Wings](/gallery/animals/birds/assets/raptors/bald-eagle/E22B0586-1.jpg)
+{: .cover role="img" aria-label="Bald Eagle in flight with broad wings raised against a subdued blue sky"}
+
+**On Broad Wings**  
+_Horizontal body and a white tail against a subdued sky._  
+Camera: Canon EOS 5D Mark IV  
+Lens: EF100-400mm f/4.5-5.6L IS USM  
+ISO: 400 • Aperture: f/13.0 • Shutter: 1/500 s  
+E22B0586 • Size: 2100 x 1400  
+{: .caption}
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div id="bald-eagle-e22b0587" class="tile" role="listitem">
+
+![Wing Lift](/gallery/animals/birds/assets/raptors/bald-eagle/E22B0587.jpg)
+{: .cover role="img" aria-label="Bald Eagle in flight with wings raised above its body"}
+
+**Wing Lift**  
+_Broad primaries rise above a level flight path._  
+Camera: Canon EOS 5D Mark IV  
+Lens: EF100-400mm f/4.5-5.6L IS USM  
+ISO: 400 • Aperture: f/13.0 • Shutter: 1/500 s  
+E22B0587 • Size: 2100 x 1400  
+{: .caption}
+
+</div>
+
+<div id="bald-eagle-e22b0588" class="tile" role="listitem">
+
+![Full Extension](/gallery/animals/birds/assets/raptors/bald-eagle/E22B0588.jpg)
+{: .cover role="img" aria-label="Bald Eagle in flight with one broad wing fully raised and primary feathers separated"}
+
+**Full Extension**  
+_Separated primaries define the outer edge of the raised wing._  
+Camera: Canon EOS 5D Mark IV  
+Lens: EF100-400mm f/4.5-5.6L IS USM  
+ISO: 400 • Aperture: f/13.0 • Shutter: 1/500 s  
+E22B0588 • Size: 2100 x 1400  
+{: .caption}
+
+</div>
+
+</div>
+
 ![Bald Eagle over Kennebec River](/gallery/animals/birds/assets/raptors/bald-eagle/D79A3617-3623.jpg){: .cover role="img" aria-label="Bald Eagle over Kennebec River"}  
 **Bald Eagle over Kennebec River**  
 _Composite of a bald eagle banking over the river._  
