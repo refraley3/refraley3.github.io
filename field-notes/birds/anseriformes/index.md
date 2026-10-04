@@ -1,99 +1,99 @@
 ---
 layout: default
-title: Anatidae
-description: Field notes and identification details for birds in the family Anatidae.
-tags: [birds, Anatidae, waterfowl, duck, goose, swan, field-notes]
+title: Anseriformes
+description: "Field notes and visual documentation for birds in the order Anseriformes."
+tags: ["Anseriformes", "birds", "waterfowl"]
+keywords: "Anseriformes, birds, waterfowl"
 ---
 
-## Anatidae
-
-### Order: [Anseriformes](/field-notes/birds/anseriformes/)
-{: .taxonomy-heading}
-
-### Family: Anatidae
-{: .taxonomy-heading .taxonomy-last}
-
-**Anatidae** is the family of **waterfowl**, including ducks, geese, and swans. These birds are strongly associated with water and are recognized by their streamlined bodies, webbed feet, and adaptations for swimming, dabbling, or diving. Members of this family range from small dabbling ducks to large, powerful swans, and they occupy wetlands, lakes, rivers, and coastal environments across North America.
+**Anseriformes** is an order of birds that includes ducks, geese, and swans. These birds are commonly known as waterfowl and are characterized by their webbed feet and adapted beaks for feeding in aquatic environments.
 
 ---
 
-## Structure and Form
+### Orientation
 
-Birds in this family are typically **medium to large**, with compact, buoyant bodies and relatively long necks.
+This section provides an overview of the order Anseriformes, including key characteristics, habitat preferences, and notable species within the group. It serves as a guide for understanding the diversity and ecological roles of waterfowl in various environments.
 
-- **Bill:** broad and flattened in most species, adapted for filtering, grazing, or grasping aquatic vegetation; narrower and more pointed in some diving species  
-- **Wings:** long and strong, suited for sustained flight and migration  
-- **Tail:** generally short  
-- **Legs and feet:** webbed feet set slightly rearward on the body, optimized for swimming  
-- **Plumage:** often waterproof; males in many species show bold seasonal coloration, while females tend to be mottled brown for camouflage  
+## General Characteristics
 
-Overall, the family shows a consistent combination of **aquatic adaptation, buoyant posture, and efficient swimming form**, even though body size and proportions vary widely.
+Anseriformes are known for their distinctive features, including webbed feet for swimming, broad bills adapted for filtering food from water, and a variety of plumage patterns that aid in camouflage and mating displays. They are primarily aquatic birds, often found in wetlands, lakes, and rivers, where they feed on a mix of plant material and small aquatic animals.
+
+{::nomarkdown}
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" role="listitem">
+    <a href="/field-notes/birds/anseriformes/anatidae/wood-duck-ps/">
+        <img src="/gallery/animals/birds/assets/waterfowl/wood-duck/E22B0873.jpg" height="267px" width="400px"/>
+    </a>
+    <p style="text-align:center">
+        <strong><a href="/field-notes/birds/anseriformes/anatidae/aix-sponsa/">Aix sponsa</a></strong><br />
+        <em><a href="/gallery/animals/birds/waterfowl/wood-duck/">Wood Duck</a></em><br />
+    </p>
+</div>
+
+<div class="tile" role="listitem">
+    <a href="/field-notes/birds/anseriformes/anatidae/sandhill-crane-ps">
+        <img src="/gallery/animals/birds/assets/waterfowl/sandhill-crane/E21A2039.jpg" width="400px" height="267px"/>
+    </a>
+    <p style="text-align:center">
+        <strong><a href="/field-notes/birds/anseriformes/anatidae/sandhill-crane/">Antigone canadensis</a></strong><br />
+        <em><a href="/gallery/animals/birds/waterfowl/sandhill-crane/">Sandhill Crane</a></em><br />
+    </p>
+</div>
+
+<div class="tile" role="listitem">
+    <a href="/field-notes/birds/anseriformes/anatidae/trumpeter-swan-ps/">
+        <img src="/gallery/animals/birds/assets/waterfowl/trumpeter-swan/E22A0352.jpg" width="400px" height="267px"/>
+    </a>
+    <p style="text-align:center">
+        <strong><a href="/field-notes/birds/anseriformes/anatidae/trumpeter-swan/">Cygnus buccinator</a></strong><br />
+        <em><a href="/gallery/animals/birds/waterfowl/trumpeter-swan/">Trumpeter Swan</a></em><br />
+    </p>
+</div>
+</div>
+{:/nomarkdown}
+
+## Field Recognition
+
+When identifying Anseriformes in the field, look for the following key features:
+- Webbed feet for efficient swimming.
+- Broad bills adapted for filtering food from water.
+- Distinctive plumage patterns that vary among species but often include a mix of colors and markings for camouflage and mating displays.
+- Preference for aquatic habitats such as wetlands, lakes, and rivers.
+
+These characteristics help distinguish Anseriformes from other bird orders and provide clues to their ecological roles and behaviors in natural environments.
+
+## Families
+
+The order Anseriformes is divided into several families, each with distinct characteristics and ecological roles. Some of the notable families include:
+
+### [Anatidae](/field-notes/birds/anseriformes/anatidae/)
+This family includes ducks, geese, and swans, characterized by their webbed feet and broad bills adapted for aquatic feeding.
+
+### Anhimidae
+Known as screamers, these birds are found in South America and have long legs and distinctive vocalizations.
+
+### Anseranatidae
+This family includes the magpie goose, a unique species with a mix of duck-like and goose-like features.
+
+### Tadornidae
+This family includes shelducks, which are medium-sized waterfowl with distinctive plumage and a preference for coastal and inland water habitats.
+
+### Dendrocygninae
+This subfamily includes whistling ducks, which are characterized by their long legs, slender bodies, and distinctive whistling calls. They are often found in wetlands and marshes.
+
+### Oxyurinae
+This subfamily includes diving ducks, which are known for their streamlined bodies, short bills, and ability to dive underwater to feed on aquatic plants and small animals. They are commonly found in freshwater habitats such as lakes and ponds.
+
+### Merginae
+This subfamily includes mergansers, which are characterized by their long, slender bills with serrated edges for catching fish. They are often found in rivers and lakes, where they dive to feed on aquatic prey.
+
+### Anatinae
+This subfamily includes a variety of ducks, such as mallards and teals, which are known for their diverse plumage patterns and adaptability to different aquatic habitats. They are commonly found in wetlands, lakes, and rivers, where they feed on a mix of plant material and small aquatic animals.
 
 ---
 
-## Habitat and Range
+## Notes
 
-Species in Anatidae occupy a wide range of **freshwater and coastal habitats**, with strong ties to water at all life stages.
+## References
 
-Typical settings include:
-
-- marshes and wetlands with emergent vegetation  
-- lakes, ponds, and slow-moving rivers  
-- flooded fields and wet meadows  
-- coastal bays and estuaries (especially during migration and winter)  
-
-Notes:
-
-- Many species are **highly migratory**, moving between northern breeding grounds and southern wintering areas  
-- Strong seasonal presence in Minnesota, especially during **spring and fall migration**  
-- Often associated with **open water, shoreline edges, and shallow feeding areas**  
-
----
-
-## Identification
-
-**Key features for field diagnosis:**
-
-- **Shape:** rounded, buoyant body with relatively long neck  
-- **Bill:** flattened and often broad; shape varies by feeding strategy  
-- **Plumage:** strong contrast between sexes in many ducks; more uniform in geese and swans  
-- **Wing pattern:** may show bold patches (speculum) or contrasting flight feathers  
-- **Tail pattern:** usually subtle, but sometimes useful at close range  
-- **Voice:** includes quacks, whistles, honks, and bugling calls  
-- **Behavior:** swimming, dabbling, diving, grazing, or flocking on open water  
-
-This family is distinguished from other bird groups by its **combination of webbed feet, aquatic behavior, and body shape**. Within the family, identifying species often depends on **bill shape, plumage pattern, size, and behavior**.
-
----
-
-## Movement and Flight
-
-Members of Anatidae show characteristic movement patterns closely tied to water.
-
-- **Flight:** strong and direct, with steady wingbeats; many species travel in flocks and form V-shaped or irregular lines during migration  
-- **Swimming:** efficient and buoyant, often with minimal visible effort  
-- **Dabbling:** tipping forward to feed in shallow water  
-- **Diving:** some species submerge completely to forage underwater  
-- **Takeoff:** may be explosive (ducks) or require a running start across the water (swans and some geese)  
-
-Flight silhouettes are often distinctive, with **outstretched necks and rapid wingbeats** in ducks and more measured, powerful strokes in larger species.
-
----
-
-## Behavior and Ecology
-
-Members of this family typically show:
-
-- **Aquatic feeding behavior**, including filtering, grazing, or diving  
-- **Strong seasonal movements**, especially long-distance migration  
-- **Pair bonding**, often seasonal or multi-year depending on species  
-- **Ground or water-edge nesting**, frequently concealed in vegetation  
-- **Flocking behavior**, especially outside the breeding season  
-
-Diet commonly includes **aquatic plants, seeds, grasses, and invertebrates**, with some species taking small fish or other animal matter.
-
-Ecologically, these birds play important roles as:
-
-- **herbivores shaping wetland vegetation**
-- **prey for larger predators**
-- **indicators of wetland health and water quality**

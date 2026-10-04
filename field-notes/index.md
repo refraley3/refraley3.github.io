@@ -2,85 +2,6 @@
 layout: default
 title: Field Notes
 
-animal_groups:
-  - title: Arachnids
-    url: /field-notes/arachnids/
-    image: /gallery/animals/arachnids/assets/black-and-yellow-garden-spider/E21A4882.jpg
-    alt: Arachnids
-    kicker: Spiders, scorpions, and more
-    text: Field notes and family guides for arachnids, emphasizing form, behavior, and seasonal context.
-    width: 200px
-    height: 200px
-    image_x: left
-    image_y: center
-
-  - title: Birds
-    url: /field-notes/birds/
-    image: /gallery/animals/birds/assets/perching/american-goldfinch/E21A3395.jpg
-    alt: Birds
-    kicker: Structure, behavior, and season
-    text: Field notes and family guides for birds, emphasizing movement, habitat, and seasonal context.
-    width: 200px
-    height: 200px
-    image_x: right
-    image_y: center
-
-  - title: Insects
-    url: /field-notes/insects/
-    image: /gallery/animals/insects/dragonflies/assets/autumn-meadowhawk/D79A0209.jpg
-    alt: Insects
-    kicker: Insects of all kinds
-    text: Field notes and family guides for insects, emphasizing form, behavior, and seasonal context.
-    width: 200px
-    height: 200px
-    image_x: right
-    image_y: center
-
-  - title: Mammals
-    url: /field-notes/mammals/
-    image: /gallery/animals/mammals/assets/deer/white-tailed-deer/E22A2154.jpg
-    alt: Mammals
-    kicker: Mammals of all kinds
-    text: Field notes and family guides for mammals, emphasizing form, behavior, and seasonal context.
-    width: 200px
-    height: 200px
-    image_x: left
-    image_y: center
-    
-  - title: Odonata
-    url: /field-notes/insects/odonata/
-    image: /gallery/animals/insects/damselflies/assets/familiar-bluet/E21A1516.jpg
-    alt: Odonata
-    kicker: Dragonflies and damselflies
-    text: Field notes and family guides for odonates.
-    width: 200px
-    height: 200px
-    image_x: right
-    image_y: center
-
-fungi_and_lichens:
-  - title: Fungi
-    url: /field-notes/fungi/
-    image: /gallery/fungi/mushrooms/assets/turkeytail/E21A6273.jpg
-    alt: Fungi
-    kicker: Macrofungi and rusts
-    text: Observational field notes on fungi, emphasizing form, substrate, and seasonal appearance.
-    width: 200px
-    height: 200px
-    image_x: right
-    image_y: center
-
-  - title: Lichens
-    url: /field-notes/lichen/
-    image: /gallery/fungi/lichens/assets/golden-eye/E22A0184_85_88.jpg
-    alt: Lichens
-    kicker: Structure and comparison
-    text: Field notes and identification details for lichens observed during field photography.
-    width: 200px
-    height: 200px
-    image_x: right
-    image_y: center
-
 plant_groups:
   - title: Plants
     url: /field-notes/plants/
@@ -210,39 +131,45 @@ photography_notes:
 ---
 
 {::nomarkdown}
-<section class="field-notes-hero animalia-hero">
+<section class="field-notes-hero">
   <div class="hero-image">
-    <h2>Animalia: A Reference and Orientation Chart</h2>
-    <br />
     <p>
-      The animal kingdom, <strong>Animalia</strong>, includes an extraordinary range of living forms, from familiar birds and mammals to insects, spiders, mollusks, worms, and other invertebrates. This chart provides a broad reference and orientation point for the animal section of the Field Notes, showing how major animal groups relate to one another at a high level. It is not intended as a complete  scientific classification, but as a practical guide for placing photographed species into context. As new animal subjects are added, this framework can help connect individual observations to the larger branches of animal life.
+      This section compiles notes for the field. Topics include photography, detail animal descriptions, lichen descriptions...
+    </p>
+    <p>
+      Comparison of species...
+    </p>
+    <p>
+      Checklists...
     </p>
     <img
-      src="/field-notes/assets/animalia-model.jpg"
-      alt="Animalia taxonomy reference chart showing major branches of the animal kingdom"
+      src="/assets/images/under-construction_wht.png"
+      alt="Under Construction"
+      class="cover"
+      style="max-width: 80%; height: auto;"
+    >
+    <!--
+    <img
+      src="/assets/images/under-construction_blk.png"
+      alt="Under Construction"
       class="cover"
       style="max-width: 100%; height: auto; filter: invert(1);"
     >
+    -->
   </div>
 </section>
 {:/nomarkdown}
 
-## Animal Groups
+## Photography Notes
 
 {::nomarkdown}
-{% include tile-grid.html tiles=page.animal_groups %}
-{:/nomarkdown}
-
-## Fungi and Lichens
-
-{::nomarkdown}
-{% include tile-grid.html tiles=page.fungi_and_lichens %}
+{% include tile-grid.html tiles=page.photography_notes %}
 {:/nomarkdown}
 
 ## Plant groups
 
 {::nomarkdown}
-{% include tile-grid.html tiles=page.plant_groups %}
+{% include tile-grid.html tiles=page.plants %}
 {:/nomarkdown}
 
 ## Checklists & ID Guides
@@ -266,9 +193,3 @@ photography_notes:
 {:/nomarkdown}
 
 ---
-
-## Photography Notes
-
-{::nomarkdown}
-{% include tile-grid.html tiles=page.photography_notes %}
-{:/nomarkdown}

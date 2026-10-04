@@ -8,5 +8,20 @@ keywords: "Canon EF 100-400mm lens review, wildlife photography lens, nature pho
 
 ## Features
 
+### Image Stabilizer
+
+Image stabilizer MODE 1 corrects vibrations in all directions. It is mainly effective for shooting still subjects.
+
+MODE 2 Image stabilizer corrects vertical camera shake during following shots in a horizontal directions, and corrects horizontal camera shake during following shots in a vertical direction.
+*1 shot* registers the image stabilizer.
+*2 shot* corrects vertical camera shake.
+*3 shot* corrects horizontal camera shake in a vertical direction
+
+### Extension Tubes
+
+### Extenders
+
+### Close-up Lens
+
 ## Performance
 

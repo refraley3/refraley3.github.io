@@ -2,7 +2,7 @@
 layout: default
 title: Printing Photographs with Adobe Photoshop
 description: A color-managed Photoshop workflow for preparing photographic prints, including soft proofing, print-brightness adjustments, output sharpening, and printer settings.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 A practical workflow for preparing photographic prints in Adobe Photoshop, developed while testing print adjustments for **Morning Stillness** and **Storm Light**.
 {:.caption}

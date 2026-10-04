@@ -7,6 +7,7 @@ title: Bird Families
 - [**Bald Eagle**](/gallery/animals/birds/raptors/bald-eagle/) [_(Haliaeetus leucocephalus)_](/field-notes/birds/accipitriformes/accipitridae/haliaeetus-leucocephalus/)
 - [**Broad-winged Hawk**](/gallery/animals/birds/raptors/broad-winged-hawk/) [_(Buteo platypterus)_](/field-notes/birds/accipitriformes/accipitridae/buteo-platypterus/)
 - Cooper's Hawk _(Accipiter cooperii)_
+- [**Osprey**](/gallery/animals/birds/raptors/osprey/) [_(Pandion haliaetus)_](/field-notes/birds/accipitriformes/accipitridae/pandion-haliaetus/)
 - Red-tailed Hawk _(Buteo jamaicensis)_
 - Sharp-shinned Hawk _(Accipiter striatus)_
 
@@ -16,13 +17,13 @@ title: Bird Families
 - Blue-winged Teal _(Spatula discors)_
 - Canada Goose _(Branta canadensis)_
 - Mallard _(Anas platyrhynchos)_
-- Wood Duck _(Aix sponsa)_
+- [**Wood Duck**](/gallery/animals/birds/waterfowl/wood-duck/) [_(Aix sponsa)_](/field-notes/birds/anseriformes/anatidae/aix-sponsa/)
 - [**Trumpeter Swan**](/gallery/animals/birds/waterfowl/trumpeter-swan/) [_(Cygnus buccinator)_](/field-notes/birds/anseriformes/anatidae/cygnus-buccinator/)
 
 ---
 
 ### [ARDEIDAE](/field-notes/birds/pelecaniformes/ardeidae/)
-- Great Blue Heron _(Ardea herodias)_
+- [**Great Blue Heron**](/gallery/animals/birds/wading/great-blue-heron/) [_(Ardea herodias)_](/field-notes/birds/pelecaniformes/ardeidae/ardea-herodias/)
 - Green Heron _(Butorides virescens)_
 
 ---

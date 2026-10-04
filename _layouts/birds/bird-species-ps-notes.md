@@ -5,6 +5,8 @@ description: "Photographic observations and visual context for Common Name encou
 tags: [bird, Common Name, Scientific name, Family Name, Minnesota, field-notes, perspective]
 keywords: "Common Name photography, Scientific name, bird behavior, bird photography, Minnesota birds"
 permalink: /field-notes/birds/ORDER-NAME/FAMILY-NAME/COMMON-NAME-PS/
+field_notes_url: /field-notes/birds/ORDER-NAME/FAMILY-NAME/SCIENTIFIC-NAME/
+gallery_sequence_url: /gallery/animals/birds/GROUP/COMMON-NAME-SLUG/
 ---
 
 ### [*Scientific name*](/field-notes/birds/ORDER-NAME/FAMILY-NAME/SCIENTIFIC-NAME/){: .taxonomy-heading .taxonomy-last .caption}

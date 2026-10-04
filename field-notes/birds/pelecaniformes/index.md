@@ -5,8 +5,6 @@ description: Field notes and identification overview for birds in the order Pele
 tags: [birds, Pelecaniformes, pelicans, herons, egrets, ibises, field-notes]
 ---
 
-## Pelecaniformes (Pelicans, Herons, Egrets, Ibises, and Allies)
-
 **Pelecaniformes** includes several familiar wetland birds, including pelicans, herons, egrets, night-herons, bitterns, and ibises. These birds are strongly associated with water, though their size, posture, feeding style, and flight behavior vary widely between families.
 
 For this field-notes section, the most relevant birds are the long-legged wading species: herons and egrets standing along marshes, ponds, lakeshores, and wooded wetland edges. Their identification often depends on structure, posture, bill shape, leg color, and seasonal breeding features.

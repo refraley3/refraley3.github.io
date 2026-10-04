@@ -1,0 +1,112 @@
+---
+layout: gallery-slideshow
+title: Sandhill Crane
+description: Two Sandhill Cranes moving through tall July meadow grass.
+tags: [birds, sandhill crane, gallery]
+permalink: /gallery/animals/birds/waterfowl/sandhill-crane/
+scientific_name: Antigone canadensis
+field_notes_url: /field-notes/birds/gruiformes/gruidae/antigone-canadensis/
+gallery_sequence_url: /field-notes/birds/gruiformes/gruidae/sandhill-crane-ps/
+slides:
+  - src: /gallery/animals/birds/assets/waterfowl/sandhill-crane/E21A2045.jpg
+    alt: Two Sandhill Cranes moving through tall July meadow grass
+    caption: Tall Through the Grass
+    link: /gallery/animals/birds/waterfowl/sandhill-crane/#sandhill-crane-e21a2045
+    transition: pan-left
+featured_image:
+  src: /gallery/animals/birds/assets/waterfowl/sandhill-crane/E21A2045.jpg
+  id: sandhill-crane-e21a2045
+  alt: Two Sandhill Cranes moving through tall meadow grass, one upright and one with its head lowered
+  title: Tall Through the Grass
+  description: A pair of Sandhill Cranes tower above July meadow grass on their way toward water.
+  filename: E21A2045
+  size: 1500 x 1000
+  link: /field-notes/birds/gruiformes/gruidae/sandhill-crane-ps/#sandhill-crane-e21a2045
+---
+
+<section class="bird-species-page">
+
+  <!--
+  <h2 class="taxonomy-last">
+    <a href="/field-notes/birds/gruiformes/gruidae/antigone-canadensis/">Antigone canadensis</a>
+  </h2>
+  -->
+  {% if page.scientific_name %}
+  <h2 class="taxonomy-last">
+    <a href="{{ page.field_notes_url | default: page.scientific_url | relative_url }}"><em>{{ page.scientific_name }}</em></a>
+  </h2>
+  {% endif %}
+  <!--
+  <p>
+    For identification details and comparison with similar species, see the <a href="{{ page.field_notes_url | relative_url }}"><em>{{ page.scientific_name }}</em></a> page in the <strong>Field Notes</strong> section.
+  </p>
+  <p>
+    For photographic observations and visual context, see the <a href="{{ page.gallery_sequence_url | relative_url }}">Photographic Sequence</a> in the <strong>Field Notes</strong> section.
+  </p>
+  -->
+
+
+  <!--- INTRODUCTION AUTO-GENERATED -->
+  <p>
+    {% if page.field_notes_url %}
+    For identification details and comparison with similar species, see the <a href="{{ page.field_notes_url | relative_url }}"><em>{{ page.scientific_name }}</em></a> page in the <strong>Field Notes</strong> section.
+    {% endif %}
+  </p>
+  <p>
+    {% if page.gallery_sequence_url %}
+    For photographic observations and visual context, see <a href="{{ page.gallery_sequence_url | relative_url }}">Photographic Sequence</a> in the <strong>Field Notes</strong> section.
+    {% endif %}
+  </p>
+
+  <hr />
+  <!--
+  <img src="/gallery/animals/birds/assets/waterfowl/sandhill-crane/E21A2045.jpg"
+    class="cover"
+    role="img"
+    alt="Sandhill Crane" />
+  <p class="caption">
+    <strong>Tall Through the Grass</strong><br />
+    <em>A pair of Sandhill Cranes tower above July meadow grass on their way toward water.</em>
+    E21A2045 • Size: 1500 x 1000
+  </p>
+  -->
+
+  <!-- FEATURED IMAGE AUTO-GENERATED -->
+  {% if page.featured_image %}
+  <a href="{{ page.featured_image.link | default: page.gallery_sequence_url | relative_url }}" class="cover-link">
+    <img src="{{ page.featured_image.src | relative_url }}"
+      {% if page.featured_image.id %}id="{{ page.featured_image.id }}"{% endif %}
+      class="cover"
+      role="img"
+      alt="{{ page.featured_image.alt }}" />
+  </a>
+  <p class="caption">
+    <strong>{{ page.featured_image.title }}</strong><br />
+    {% if page.featured_image.description %}<em>{{ page.featured_image.description }}</em><br />{% endif %}
+    {{ page.featured_image.filename }}{% if page.featured_image.size %} • Size: {{ page.featured_image.size }}{% endif %}
+  </p>
+  {% endif %}
+
+  <!-- GALLERY IMAGES AUTO-GENERATED -->
+  {% if page.gallery_images %}
+  <div class="grid" role="list" style="justify-content: center; text-align: center;">
+    {% for image in page.gallery_images %}
+    <div class="tile" role="listitem">
+      <a href="{{ image.link | default: page.gallery_sequence_url | relative_url }}" class="cover-link">
+        <img src="{{ image.src | relative_url }}"
+          {% if image.id %}id="{{ image.id }}"{% endif %}
+          class="cover"
+          role="img"
+          alt="{{ image.alt }}" />
+      </a>
+      <p class="caption">
+        <strong>{{ image.title }}</strong><br />
+        {% if image.description %}<em>{{ image.description }}</em><br />{% endif %}
+        {{ image.filename }}{% if image.size %} • Size: {{ image.size }}{% endif %}
+      </p>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+</section>

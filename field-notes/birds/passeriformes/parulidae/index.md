@@ -97,6 +97,12 @@ Distinction is often based on **bill shape, movement, habitat position, and voic
 ### [*Geothlypis trichas* (Common Yellowthroat)](/field-notes/birds/passeriformes/parulidae/geothlypis-trichas/)  
 A small warbler of marshes, wet meadows, and dense brush in Minnesota. Adult males are recognized by a bold black mask and bright yellow throat, while females are plainer olive-brown with yellow concentrated below.
 
+### [*Setophaga citrina* (Hooded Warbler)](/field-notes/birds/passeriformes/parulidae/setophaga-citrina/)  
+A small warbler of deciduous forests in Minnesota. Males are identified by a distinctive black hood and white eye ring, while females are more subdued in coloration with olive-green upperparts and yellow underparts.
+
+### [*Setophaga coronata* (Yellow-rumped Warbler)](/field-notes/birds/passeriformes/parulidae/setophaga-coronata/)  
+A small warbler of deciduous forests in Minnesota. Males are identified by a bright yellow plumage with olive-green wings, while females are more subdued in coloration with olive-green upperparts and yellow underparts.
+
 <!-- Add additional species below using the same format -->
 
 ---

@@ -5,8 +5,6 @@ description: Field notes and identification overview for birds in the order Acci
 tags: [birds, Accipitriformes, raptors, hawks, eagles, field-notes]
 ---
 
-## Accipitriformes (Hawks, Eagles, and Allies)
-
 **Accipitriformes**—birds of prey defined by power and precision—represent a group of raptors adapted for hunting, scavenging, and soaring across a wide range of landscapes. This order includes **hawks, eagles, and related species**, all sharing a common predatory structure and ecological role.
 
 Despite variation in size and habitat, members of this order are unified by **hooked bills for tearing flesh**, **strong grasping talons**, and **broad wings adapted for soaring or maneuvering flight**.

@@ -5,8 +5,6 @@ description: Field notes and identification overview for birds in the order Cath
 tags: [birds, Cathartiformes, New World vultures, vultures, field-notes]
 ---
 
-## Cathartiformes (New World Vultures)
-
 **Cathartiformes**—the New World vultures—represents a small but distinctive order of scavenging birds. In Minnesota, this order is represented primarily by the **Turkey Vulture**, a large soaring bird often seen circling over open country, roadsides, fields, river valleys, and woodland edges.
 
 Despite their association with raptors, New World vultures are best recognized by their specialized scavenging ecology, long-winged soaring flight, bare heads, and strong ability to locate carrion across broad landscapes.

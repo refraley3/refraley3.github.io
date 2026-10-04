@@ -33,6 +33,10 @@ The photographs below document that encounter from the initial flight over the l
 
 ## Over the Lake
 
+![Searching](/gallery/animals/birds/assets/raptors/osprey/E22B0540.jpg){: .cover role="img"}
+**Searching**
+{: .caption}
+
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 
 <div id="osprey-e22a9609" class="tile" role="listitem">
