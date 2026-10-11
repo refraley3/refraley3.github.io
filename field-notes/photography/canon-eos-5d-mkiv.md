@@ -11,8 +11,8 @@ Digital Single-lens reflex camera (DSLR)
 ## Features
 
 Full frame CMOS sensor
-* 30.4 effective megapixels
 * DIGIC 6+
+* 30.4 effective megapixels
 
 Speed range ISO 100 - ISO 32000
 
@@ -27,11 +27,11 @@ Dual Pixel RAW shooting
 
 Dual Pixel CMOS AF
 
-Liquid Crystal Display (LCD) size 3.2 inch
+Liquid Crystal Display (LCD) size 3.2 inch with 1.62 million dots
 
 Live View shooting
 
-Movie shooting in 4K
+Movie shooting in 4K. File type MOV, MP4
 
 High Frame Rate movie shooting (119.9p/100.0p)
 
@@ -54,7 +54,7 @@ Mode Dial
 * C2 - Custom Shooting Mode #2
 * C3 - Custom Shooting Mode #3
 
-Custom shooring modes can register
+Custom shooting modes can register
 * shooting modes
 * AF Operation
 * Menu settings

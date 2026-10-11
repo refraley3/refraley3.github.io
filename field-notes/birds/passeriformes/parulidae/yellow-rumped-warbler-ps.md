@@ -226,3 +226,72 @@ The photographs now form a progression:
 Several of the individual frames stand on their own. **E22B1030** is the strongest close portrait, **E22B0979** the cleanest minimalist composition, and **E22B1014** one of the clearest identification views. The Field Notes page benefits from keeping the less polished frames as well, because the sequence shows how the bird moved through the tree and how behavior revealed details that a single portrait could not.
 
 ---
+
+## Return of the EOS 7D
+
+<div class="tile" role="listitem">
+
+![D19D0030](/gallery/animals/birds/assets/perching/yellow-rumped-warbler/D19D0030.jpg){: .cover role="img" aria-label="Yellow-rumped Warbler perched on a lichen-covered branch with yellow flank patch visible"}  
+Camera: Canon EOS 7D  
+Lens: EF100-400mm f/4.5-5.6L IS USM  
+ISO: 1000 • Aperture: f/8.0 • Shutter 1/640 s  
+D19D0030 • Size: 2000 x 1333  
+</div>
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" role="listitem">
+![D19D0051](/gallery/animals/birds/assets/perching/yellow-rumped-warbler/D19D0051.jpg){: .cover role="img" aria-label="Yellow-rumped Warbler perched on a lichen-covered branch with yellow flank patch visible"}  
+Camera: Canon EOS 7D  
+Lens: EF100-400mm f/4.5-5.6L IS USM  
+ISO: 1000 • Aperture: f/8.0 • Shutter 1/640 s  
+D19D0051 • Size: 2000 x 1333  
+</div>
+
+<div class="tile" role="listitem">
+
+![D19D0052](/gallery/animals/birds/assets/perching/yellow-rumped-warbler/D19D0052.jpg){: .cover role="img" aria-label="Yellow-rumped Warbler perched on a lichen-covered branch with yellow flank patch visible"}  
+Camera: Canon EOS 7D  
+Lens: EF100-400mm f/4.5-5.6L IS USM  
+ISO: 1000 • Aperture: f/8.0 • Shutter 1/640 s  
+D19D0052 • Size: 2000 x 1333  
+</div>
+
+</div>
+
+<div class="tile" role="listitem">
+
+![D19D0042](/gallery/animals/birds/assets/perching/yellow-rumped-warbler/D19D0042.jpg){: .cover role="img" aria-label="Yellow-rumped Warbler perched on a lichen-covered branch with yellow flank patch visible"}  
+Camera: Canon EOS 7D  
+Lens: EF100-400mm f/4.5-5.6L IS USM  
+ISO: 1000 • Aperture: f/8.0 • Shutter 1/640 s  
+D19D0042 • Size: 2000 x 1333  
+</div>
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" role="listitem">
+![D19D0055](/gallery/animals/birds/assets/perching/yellow-rumped-warbler/D19D0055.jpg){: .cover role="img" aria-label="Yellow-rumped Warbler perched on a lichen-covered branch with yellow flank patch visible"}  
+Camera: Canon EOS 7D  
+Lens: EF100-400mm f/4.5-5.6L IS USM  
+ISO: 1000 • Aperture: f/8.0 • Shutter 1/640 s  
+D19D0055 • Size: 2000 x 1333  
+</div>
+
+<div class="tile" role="listitem">
+![D19D0056](/gallery/animals/birds/assets/perching/yellow-rumped-warbler/D19D0056.jpg){: .cover role="img" aria-label="Yellow-rumped Warbler perched on a lichen-covered branch with yellow flank patch visible"}  
+Camera: Canon EOS 7D  
+Lens: EF100-400mm f/4.5-5.6L IS USM  
+ISO: 1000 • Aperture: f/8.0 • Shutter 1/640 s  
+D19D0056 • Size: 2000 x 1333  
+</div>
+
+</div>
+
+<div class="tile" role="listitem">
+![D19D0057](/gallery/animals/birds/assets/perching/yellow-rumped-warbler/D19D0057.jpg){: .cover role="img" aria-label="Yellow-rumped Warbler perched on a lichen-covered branch with yellow flank patch visible"}  
+Camera: Canon EOS 7D  
+Lens: EF100-400mm f/4.5-5.6L IS USM  
+ISO: 1000 • Aperture: f/8.0 • Shutter 1/640 s  
+D19D0057 • Size: 2000 x 1333  
+</div>
