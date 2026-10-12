@@ -212,4 +212,69 @@ That progression is also why the photographs do not need to appear in order of r
 
 ## Photographic Sequence
 
+### The One That Got Away — Almost
+
+A Cedar Waxwing working through the top of a juniper reached for one of its small, berry-like seed cones. What began as an ordinary feeding moment became a four-frame sequence: grasping the berry, losing it, following its fall, and making a quick recovery. The photographs are less about a perfect portrait than about the movement that happened between frames.
+
+**E22B1238** is the pivotal image. The tiny berry is visible below the open bill, explaining the bird's sudden change in posture in the frames that follow. The final photograph opens the scene into flight, with the wings spread and feet hanging beneath the body.
+
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" role="listitem">
+
+![Grasping a Juniper Berry](/gallery/animals/birds/assets/perching/cedar-waxwing/E22B1235.jpg){: .cover role="img" aria-label="Cedar Waxwing grasping a juniper berry near the top of the tree"}  
+**Grasping a Juniper Berry**  
+_The waxwing stretches from the juniper while grasping a berry._  
+Camera: Canon EOS 5D Mark IV  
+Lens: EF100-400mm f/4.5-5.6L IS USM  
+Settings: ISO 1600 • Aperture f/10.0 • Shutter 1/2500 s  
+E22B1235 • Size: 2000 x 1333
+
+</div>
+
+<div class="tile" role="listitem">
+
+![Oops!](/gallery/animals/birds/assets/perching/cedar-waxwing/E22B1238.jpg){: .cover role="img" aria-label="Cedar Waxwing with bill open as a small juniper berry slips free"}  
+**Oops!**  
+_The berry slips free, suspended just below the open bill._  
+Camera: Canon EOS 5D Mark IV  
+Lens: EF100-400mm f/4.5-5.6L IS USM  
+Settings: ISO 1600 • Aperture f/10.0 • Shutter 1/2500 s  
+E22B1238 • Size: 2000 x 1333
+
+</div>
+
+</div>
+
+<div class="grid" role="list" style="justify-content: center; text-align: center;">
+
+<div class="tile" role="listitem">
+
+![Uh-oh.](/gallery/animals/birds/assets/perching/cedar-waxwing/E22B1241.jpg){: .cover role="img" aria-label="Cedar Waxwing bending sharply downward from a juniper top after dropping a berry"}  
+**Uh-oh.**  
+_Head lowered, the waxwing follows the falling berry._  
+Camera: Canon EOS 5D Mark IV  
+Lens: EF100-400mm f/4.5-5.6L IS USM  
+Settings: ISO 1600 • Aperture f/10.0 • Shutter 1/2500 s  
+E22B1241 • Size: 2000 x 1333
+
+</div>
+
+<div class="tile" role="listitem">
+
+![Got it!](/gallery/animals/birds/assets/perching/cedar-waxwing/E22B1243.jpg){: .cover role="img" aria-label="Cedar Waxwing in flight beside a juniper with wings open and feet extended"}  
+**Got it!**  
+_Wings spread and feet free of the perch during the quick recovery._  
+Camera: Canon EOS 5D Mark IV  
+Lens: EF100-400mm f/4.5-5.6L IS USM  
+Settings: ISO 1600 • Aperture f/10.0 • Shutter 1/1250 s  
+E22B1243 • Size: 2000 x 1333
+
+</div>
+
+</div>
+
+The berry is barely more than a speck, yet it connects the entire sequence. The middle frames make the mishap visible; the last captures the sudden motion that followed. Unlike the spring-bud exchange between two waxwings, this encounter records the agility of a single bird while feeding. It belongs in **Perspective**, where the sequence matters more than the individual image ratings.
+
 ---
