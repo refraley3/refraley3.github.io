@@ -17,6 +17,17 @@ equipment_reviews:
     image_x: center
     image_y: center
 
+  - title: Canon EOS 7D Test
+    url: /field-notes/photography/canon-eos-7d-test/
+    image: /assets/images/under-construction_wht.png
+    alt: Canon EOS 7D Test
+    kicker: Testing the Canon EOS 7D camera
+    text: Field notes on testing the Canon EOS 7D camera, including its performance in various shooting conditions and its suitability for wildlife and nature photography.
+    width: 200px
+    height: 100px
+    image_x: center
+    image_y: center
+
   - title: Canon EOS 5D Mark IV
     url: /field-notes/photography/canon-eos-5d-mkiv/
     image: /assets/images/under-construction_wht.png
@@ -28,8 +39,19 @@ equipment_reviews:
     image_x: center
     image_y: center
 
+  - title: Canon EOS 5D Mark IV Test
+    url: /field-notes/photography/canon-eos-5d-mkiv-test/
+    image: /assets/images/under-construction_wht.png
+    alt: Canon EOS 5D Mark IV Test
+    kicker: Testing the Canon EOS 5D Mark IV camera
+    text: Field notes on testing the Canon EOS 5D Mark IV camera, including its performance in various shooting conditions and its suitability for wildlife and nature photography.
+    width: 200px
+    height: 100px
+    image_x: center
+    image_y: center
+
   - title: Canon EF 100-400mm f/4.5-5.6L IS II USM Lens
-    url: /field-notes/photography/canon-ef100-400/
+    url: /field-notes/photography/canon-ef100-400mm-f-4-5-5-6l-is-ii-usm-lens/
     image: /assets/images/under-construction_wht.png
     alt: Canon EF 100-400mm f/4.5-5.6L IS II USM Lens
     kicker: Canon EF 100-400mm lens

@@ -93,6 +93,12 @@ The higher the ISO speed, the farther the flash range.
 
 #### Setting Time
 
+#### Setting the File Name
+
+File Numbering
+
+Reference: Canon EOS 7D User Manual, pp 80 - 81
+
 ### 4.0 Photographic Effects
 
 #### Metering Mode
@@ -106,6 +112,10 @@ The higher the ISO speed, the farther the flash range.
 #### Remote Control
 
 ### 5.0 Flash Photography
+
+Range of Flash, p112
+
+Reference: Canon EOS 7D User Manual, pp 111 - 130
 
 ### 6.0 Live View Shooting
 
