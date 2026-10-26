@@ -106,6 +106,11 @@ For identification notes and comparative study, see the Lichen Field Notes.
 [*Polycauliona polycarpa*](/field-notes/lichen/polycauliona-polycarpa/)
 {: .caption}
 
+[![Common Pixie-cup Lichen](/gallery/fungi/lichens/assets/common-pixie-cup/E22B1802-12.jpg){: .cover role="img" aria-label="Common Pixiecup Lichen"}](/gallery/fungi/lichens/common-pixie-cup/){: .tile role="listitem"}
+**[Common Pixie-cup Lichen](/gallery/fungi/lichens/common-pixie-cup/)**  
+[*Cladonia pyxidata*](/field-notes/lichen/cladonia-pyxidata/)
+{: .caption}
+
 </div>
 
 ---

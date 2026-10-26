@@ -1,5 +1,5 @@
 ---
-layout: photo
+layout: gallery-slideshow
 title: Bleeding Bonnet Mushrooms
 description: Visit to these Bleeding Bonnets on three consecutive days to observe progress of the Pin Mold infection.
 ---
@@ -19,11 +19,12 @@ Even here, life gives way to life — a fungus consumed by another, framed in st
 ![Bleeding Bonnet — Day 1, Early Infection](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5255.jpg){: .cover role="img" aria-label="Bleeding Bonnet — Day 1, Early Infection"}  
 **Bleeding Bonnet — Day 1, Early Infection**  
 _Fine hyphae appear around the intact caps, marking the onset of mold colonization._  
-The Bleeding Bonnet caps show early colonization. Fine hyphae are visible around the caps, but the structure of the mushrooms remains intact. • Size: 6720x4480  
+The Bleeding Bonnet caps show early colonization. Fine hyphae are visible around the caps, but the structure of the mushrooms remains intact.  
 
 Camera: Canon EOS 5D Mk IV  
 Lens: EF100mm f/2.8L Macro IS USM  
 Settings: ISO 8000 • Aperture f/13.0 • Shutter 1/50 s  
+E21A5255 • Size: 6720x4480
 {:.caption}
 
 ### Overview
@@ -47,11 +48,12 @@ This process doesn’t immediately destroy the Bleeding Bonnet fruiting bodies b
 ![Bleeding Bonnet — Day 2, Extensive Mold Growth](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5422.jpg){: .cover role="img" aria-label="Bleeding Bonnet — Day 2, Extensive Mold Growth"}  
 **Bleeding Bonnet — Day 2, Extensive Mold Growth**  
 _Long translucent hyphae radiate outward, giving the caps an ethereal halo._  
-By the second day, the *Spinellus* mold has spread extensively. The translucent filaments catch the light, making this stage the most photogenic — a delicate balance of life and decay. • Size: 5015x3343  
+By the second day, the *Spinellus* mold has spread extensively. The translucent filaments catch the light, making this stage the most photogenic — a delicate balance of life and decay. 
 
 Camera: Canon EOS 5D Mk IV  
 Lens: EF100mm f/2.8L Macro IS USM  
 Settings: ISO 200 • Aperture f/22.0 • Shutter 4.0 s  
+E21A5422 • Size: 5015x3343
 {:.caption}
 
 ---
@@ -61,21 +63,23 @@ Settings: ISO 200 • Aperture f/22.0 • Shutter 4.0 s
 ![Bleeding Bonnet — Day 3, Collapse](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5429.jpg){: .cover role="img" aria-label="Bleeding Bonnet — Day 3, Collapse"}  
 **Bleeding Bonnet — Day 3, Collapse**  
 _The hyphae thicken and the caps begin to shrink as nutrients are consumed._  
-The mushrooms begin to collapse as nutrients are exhausted. The hyphae are dense, and the caps start to shrivel, marking the end of the visible infection cycle. • Size: 5015x3343  
+The mushrooms begin to collapse as nutrients are exhausted. The hyphae are dense, and the caps start to shrivel, marking the end of the visible infection cycle.  
 
 Camera: Canon EOS 5D Mk IV  
 Lens: EF100mm f/2.8L Macro IS USM  
 Settings: ISO 200 • Aperture f/18.0 • Shutter 15.0 s  
+E21A5429 • Size: 5015x3343
 {:.caption}
 
 ![Bleeding Bonnet — Late Stage Infection](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5430.jpg){: .cover role="img" aria-label="Bleeding Bonnet late-stage infection"}  
 **Bleeding Bonnet — Hyphal Bridge**  
 _Late stage fusion and spore-bearing filament growth._  
-In advanced infection, the parasitic mold *Spinellus fusiger* sends out dense hyphae that weave between neighboring bonnets, creating the appearance of fused caps. Moisture clings to the softening tissue as the mold’s spore-bearing filaments spread across both mushrooms, anchored against a background of golden **Hypnum** moss. • Size: 1485x2227  
+In advanced infection, the parasitic mold *Spinellus fusiger* sends out dense hyphae that weave between neighboring bonnets, creating the appearance of fused caps. Moisture clings to the softening tissue as the mold’s spore-bearing filaments spread across both mushrooms, anchored against a background of golden **Hypnum** moss.  
 
 Camera: Canon EOS 5D Mk IV  
 Lens: EF100mm f/2.8L Macro IS USM  
 Settings: ISO 100 • Aperture f/18.0 • Shutter 25.0 s  
+E21A5430 • Size: 1485x2227  
 {:.caption}
 
 ---

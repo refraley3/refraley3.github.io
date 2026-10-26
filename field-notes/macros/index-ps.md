@@ -305,11 +305,13 @@ Fringed Candleflame Lichen (*Candelaria fibrosa*) forms a bright yellow-green pa
 
 </div>
 
+---
+
 <div class="grid" role="list" style="justify-content: center; text-align: center;">
 
 <div class="tile" role="listitem">
 
-[![Mushroom on Decaying Wood](/gallery/macros/assets/lichen/E07D0142.jpg){: .cover role="img" aria-label="A small rust-colored mushroom growing on decaying wood" id="mushroom-e07d0142"}](/gallery/macros/)
+[![Mushroom on Decaying Wood](/gallery/macros/assets/mushrooms/E07D0142.jpg){: .cover role="img" aria-label="A small rust-colored mushroom growing on decaying wood" id="mushroom-e07d0142"}](/gallery/macros/)
 
 **Mushroom on Decaying Wood**  
 _A small rust-colored mushroom emerging from a mossy, decaying log._  
@@ -323,7 +325,7 @@ E07D0142 • Size: 5000 x 3333
 
 <div class="tile" role="listitem">
 
-[![Mushroom on a Weathered Log](/gallery/macros/assets/lichen/E22B1351.jpg){: .cover role="img" aria-label="A small orange-brown mushroom with a broad cap growing from a weathered log" id="mushroom-e22b1351"}](/gallery/macros/)
+[![Mushroom on a Weathered Log](/gallery/macros/assets/mushrooms/E22B1351.jpg){: .cover role="img" aria-label="A small orange-brown mushroom with a broad cap growing from a weathered log" id="mushroom-e22b1351"}](/gallery/macros/)
 
 **Mushroom on a Weathered Log**  
 _A second view of the same mushroom, photographed with a different camera on a damp log._  
