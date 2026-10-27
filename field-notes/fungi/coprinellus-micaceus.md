@@ -1,3 +1,4 @@
+
 ---
 layout: photo
 title: Coprinellus micaceus

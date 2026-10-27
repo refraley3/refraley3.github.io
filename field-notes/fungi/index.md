@@ -23,6 +23,10 @@ Both perspectives inform one another.
 
 ---
 
+### [Agaricomycetes](agaricomycetes/)
+
+---
+
 ### Observations
 
 Current fungi documented in the field notes:

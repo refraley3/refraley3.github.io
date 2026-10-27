@@ -3,6 +3,18 @@ layout: photo
 title: Mushrooms
 ---
 
+[![Scarlet Among the Green](/gallery/fungi/mushrooms/assets/scarlet-waxy-cap/E22B1874.jpg){: .cover role="img" aria-label="Scarlet Waxy Cap"}
+**Scarlet Among the Green**  
+_*Hygrocybe coccinea*_  
+Brilliant red waxcaps gather among moss and low vegetation, bringing a sudden splash of color to the autumn ground.  
+](/gallery/fungi/mushrooms/scarlet-waxy-cap/){: .tile role="listitem"}
+
+[![Pinespike](/gallery/fungi/mushrooms/assets/pine-spike/E22B1787-97.jpg){: .cover role="img" aria-label="Pinespike"}
+**Pinespike**  
+_*Lactarius piperatus*_  
+A distinctive mushroom found under pine trees.  
+](/gallery/fungi/mushrooms/pine-spike/){: .tile role="listitem"}
+
 <div class="grid" role="list">
 
 [![Argill Milkcap](/gallery/fungi/mushrooms/assets/argill-milkcap/E21A6290.jpg){: .cover role="img" aria-label="Argill Milkcap"}
@@ -19,13 +31,14 @@ Symbiotic with pine trees, especially Douglas-Fir.
 
 </div>
 
-<div class="grid" role="list">
+[![Mucous Cort](/gallery/fungi/mushrooms/assets/mucous-cort/E21A6930.jpg){: .cover role="img" aria-label="Mucous Cort"}  
+**Mucous Cort**  
+_*Cortinarius mucosus*_  
+Dry-capped and brittle, found beneath Red Pines.  
+This species thrives in the acidic litter where few others fruit.  
+](/gallery/fungi/mushrooms/mucous-cort/){: .tile role="listitem"}
 
-[![Oyster](/gallery/fungi/mushrooms/assets/oyster/E21A0294.jpg){: .cover role="img" aria-label="Oyster" style="height: 500px;"}
-**Oyster**  
-_*Pleurotus ostreatus*_  
-Oyster mushrooms unfolding through mist and decay.  
-](/gallery/fungi/mushrooms/oyster/){: .tile role="listitem"}
+<div class="grid" role="list">
 
 [![Bleeding Bonnet](/gallery/fungi/mushrooms/assets/bleeding-bonnet/E21A5422.jpg){: .cover role="img" aria-label="Bleeding Bonnet"}
 **Bleeding Bonnet**  
@@ -43,22 +56,20 @@ _Likely the deadly Funeral Bell._
 Small, caramel-brown gilled mushrooms on mossy wood.  
 ](/gallery/fungi/mushrooms/funeral-bell/){: .tile role="listitem"}
 
-[![Mica Cap Cluster](/gallery/fungi/mushrooms/assets/mica-cap/E22A3732.jpg){: .cover role="img" aria-label="Mica Cap Cluster"}
-**Mica Cap Cluster**  
-_Coprinellus micaceus_  
-A small group rises from mossy soil and leaf litter, their slender stems supporting fragile, pleated caps.
-](/gallery/fungi/mushrooms/mica-cap/){: .tile tole="listitem"}
+[![Funeral Bell Cluster](/gallery/fungi/mushrooms/assets/funeral-bell/E22B1346.jpg){: .cover role="img" aria-label="Funeral Bell Cluster"}
+**Funeral Bell Cluster**  
+_Funeral Bell mushrooms growing from the side of a decaying log._  
+](/gallery/fungi/mushrooms/funeral-bell/){: .tile role="listitem"}
 
 </div>
 
-<div class="grid" role="list">
+[![Oyster](/gallery/fungi/mushrooms/assets/oyster/E21A0294.jpg){: .cover role="img" aria-label="Oyster" style="height: 500px;"}
+**Oyster**  
+_*Pleurotus ostreatus*_  
+Oyster mushrooms unfolding through mist and decay.  
+](/gallery/fungi/mushrooms/oyster/){: .tile role="listitem"}
 
-[![Mucous Cort](/gallery/fungi/mushrooms/assets/mucous-cort/E21A6930.jpg){: .cover role="img" aria-label="Mucous Cort"}  
-**Mucous Cort**  
-_*Cortinarius mucosus*  
-Dry-capped and brittle, found beneath Red Pines.  
-This species thrives in the acidic litter where few others fruit.  
-](/gallery/fungi/mushrooms/mucous-cort/){: .tile role="listitem"}
+<div class="grid" role="list">
 
 [![Floury Amanita](/gallery/fungi/mushrooms/assets/floury-amanita/E21A6395.jpg){: .cover role="img" aria-label="Floury Amanita"}  
 **Floury Amanita**  
@@ -66,6 +77,11 @@ _Some *Amanita* species are dangerously toxic._
 Pale cap with white free gills near birch edge.  
 ](/gallery/fungi/mushrooms/floury-amanita/){: .tile role="listitem"}
 
+[![Mica Cap Cluster](/gallery/fungi/mushrooms/assets/mica-cap/E22A3732.jpg){: .cover role="img" aria-label="Mica Cap Cluster"}
+**Mica Cap Cluster**  
+_Coprinellus micaceus_  
+A small group rises from mossy soil and leaf litter, their slender stems supporting fragile, pleated caps.
+](/gallery/fungi/mushrooms/mica-cap/){: .tile tole="listitem"}
 
 </div>
 

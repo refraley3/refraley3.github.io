@@ -9,7 +9,7 @@ description: A gray-spored, slimy mushroom found beneath a Douglas-fir in Minnes
 
 ## (*Gomphidius* subroseus group)
 
-![A mushroom found tucked in grass.](/gallery/fungi/mushrooms/assets/slimespike/E21A6290.jpg)
+![A mushroom found tucked in grass.](/gallery/fungi/mushrooms/assets/slimespike/E21A6312.jpg)
 
 **Habitat:** Under Douglas-fir (transplanted landscape grove, Lakeville, MN)  
 **Cap:** Smooth and strongly **slimy** when fresh, clay-pink to tan, darkening with age  

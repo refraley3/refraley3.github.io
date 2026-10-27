@@ -9,35 +9,37 @@ keywords: "Common Pixie-cup photography, Cladonia pyxidata, cup lichen, macro ph
 ### [*Cladonia pyxidata*](/field-notes/lichen/cladonia-pyxidata/)
 {: .taxonomy-heading .taxonomy-last}
 
-The [**Common Pixie-cup**](/gallery/fungi/lichens/common-pixie-cup/) photographs collected here show connected parts of the same colony. The revised **E22B1802-12** brings a group of pale cups forward as the principal subject; **E22B1813-26** places the lichens within a wider setting of leaves, mosses, and fine stems. The background of E22B1813-26 contains the area shown close-up in E22B1802-12.
+The [**Common Pixie-cup**](/gallery/fungi/lichens/common-pixie-cup/) photographs collected here show connected parts of the same colony. 
 
-The working identification is **probable *Cladonia pyxidata***. For identification evidence, alternatives, habitat, and natural-history references, see the [*Cladonia pyxidata*](/field-notes/lichen/cladonia-pyxidata/) species page.
+For identification evidence, alternatives, habitat, and natural-history references, see the [*Cladonia pyxidata*](/field-notes/lichen/cladonia-pyxidata/) species page.
 
 ---
 
 ## A Closer View
 
-**E22B1802-12**, in its revised version, is the hero image for the Gallery. The larger central cups establish the composition, while smaller cups and leaning stalks give the group an irregular rhythm. Pale gray-green surfaces separate the principal subjects from the softer greens and browns behind them.
+![A Small Gathering](/gallery/fungi/lichens/assets/common-pixie-cup/E22B1802-12.jpg){: .cover role="img" aria-label="Common Pixie-cup lichen white frosted green cup-bearing stalks with softer greens and browns in the background" id="common-pixie-cup-e22b1802-12"}  
+**A Small Gathering**  
+_Common Pixie-cups bring intricate form to an easily overlooked patch of ground._  
+Camera: Canon EOS 5D Mark IV  
+Lens: EF100mm f/2.8L Macro IS USM  
+Settings: ISO 200 • Aperture f/13 • Shutter 0.4 s  
+E22B1802-12 • Size: 2868 x 2000  
+{:.caption}
+
+Smaller cups and leaning stalks give the group an irregular rhythm. Pale gray-green surfaces separate the principal subjects from the softer greens and browns behind them.
 
 The close view makes the rough stalk surfaces and uneven cup rims especially apparent. Small scale-like structures, mosses, and fragments of plant litter remain visible around the bases. Softer foreground cups and the receding vegetation give the scene depth without removing the principal group from its surroundings.
 
-<div class="grid" role="list" style="justify-content: center; text-align: center;" markdown="1">
+---
 
-<div class="tile" role="listitem" markdown="1">
-
-![Pale gray-green pixie-cup lichens with granular stalk surfaces and uneven cup rims](/gallery/fungi/lichens/assets/common-pixie-cup/E22B1802-12.jpg){: .cover role="img" aria-label="Close-up of Common Pixie-cup lichens, provisionally identified as Cladonia pyxidata" id="common-pixie-cup-e22b1802-12"}  
-**Common Pixie-cup — A Closer View**  
-_The image emphasizes the pale cups and their rough surfaces within a layered miniature landscape._  
+![Cups on a Scale](/gallery/fungi/lichens/assets/common-pixie-cup/E22B1827.jpg){: .cover role="img" aria-label="A scale drawn close behind a couple of pixie-cup lichens" id="common-pixie-cup-e22b1827"}  
+**Cups on a Scale**  
+_A scale drawn close behind a pair of pixie-cup lichens._  
 Camera: Canon EOS 5D Mark IV  
 Lens: EF100mm f/2.8L Macro IS USM  
-Settings: ISO 200 • Aperture f/13 • Shutter 1/2 s  
-E22B1802-12 • Size: 2868 x 2000  
-[View in the Gallery](/gallery/fungi/lichens/common-pixie-cup/#common-pixie-cup-e22b1802-12)
+Settings: ISO 200 • Aperture f/32 • Shutter 2 s  
+E22B1827 • Size: 4900 x 3267  
 {:.caption}
-
-</div>
-
-</div>
 
 ---
 
@@ -51,14 +53,13 @@ The connection between the images is spatial: **the area featured in E22B1802-12
 
 <div class="tile" role="listitem" markdown="1">
 
-![Pixie-cup lichens growing among broad leaves, mosses, and crossing stems, with the close-up area behind them](/gallery/fungi/lichens/assets/common-pixie-cup/E22B1813-26.jpg){: .cover role="img" aria-label="Wider view of the same Common Pixie-cup colony, with the hero-image area in the background" id="common-pixie-cup-e22b1813-26"}  
-**Common Pixie-cup — The Wider Colony**  
-_Leaves and fine stems frame the foreground cups; the background contains the area featured in E22B1802-12._  
+![At Cup Height](/gallery/fungi/lichens/assets/common-pixie-cup/E22B1813-26.jpg){: .cover role="img" aria-label="Wider view of the same Common Pixie-cup colony, with the hero-image area in the background" id="common-pixie-cup-e22b1813-26"}  
+**At Cup Height**  
+_Seen from their own level, open cups and slender stalks in a miniature landscape._  
 Camera: Canon EOS 5D Mark IV  
 Lens: EF100mm f/2.8L Macro IS USM  
 Settings: ISO 200 • Aperture f/13 • Shutter 1/2 s  
 E22B1813-26 • Size: 4400 x 2934  
-[View in the Gallery](/gallery/fungi/lichens/common-pixie-cup/#common-pixie-cup-e22b1813-26)
 {:.caption}
 
 </div>
