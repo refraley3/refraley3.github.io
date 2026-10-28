@@ -8,3 +8,5 @@ tags: [fungi, Agaricomycetes, mushrooms, field-notes]
 ### Waxcaps
 
 ### [Hygrocybe coccinea](/field-notes/fungi/agaricomycetes/agaricales/hygrophoraceae/hygrocybe/hygrocybe-coccinea/) [(Scarlet Waxy Cap)](/gallery/fungi/mushrooms/scarlet-waxy-cap/)
+
+### [Hygrocybe miniata](/field-notes/fungi/agaricomycetes/agaricales/hygrophoraceae/hygrocybe/hygrocybe-miniata.md) [(Vermilian waxcap)](/gallery/fungi/mushrooms/vermilion-waxcap.html)

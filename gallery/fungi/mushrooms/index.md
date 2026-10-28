@@ -9,6 +9,12 @@ _*Hygrocybe coccinea*_
 Brilliant red waxcaps gather among moss and low vegetation, bringing a sudden splash of color to the autumn ground.  
 ](/gallery/fungi/mushrooms/scarlet-waxy-cap/){: .tile role="listitem"}
 
+[![Beneath the Vermilion Canopy](/gallery/fungi/mushrooms/assets/vermilion-waxcap/E22B1547.jpg){: .cover role="img" aria-label="Vermilion waxcap"}
+**Beneath the Vermilion Canopy**  
+_*Hygrocybe miniata*_  
+Golden-orange gills emerge beneath a delicate waxcap, offering a glimpse into the structure normally hidden from above.
+](/gallery/fungi/mushrooms/vermilion-waxcap/){: .tile rile="listitem"}
+
 [![Pinespike](/gallery/fungi/mushrooms/assets/pine-spike/E22B1787-97.jpg){: .cover role="img" aria-label="Pinespike"}
 **Pinespike**  
 _*Lactarius piperatus*_  
